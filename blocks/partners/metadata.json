@@ -1,0 +1,21 @@
+{
+  "variantName": "partners",
+  "baseBlock": "carousel",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Global Partners logo marquee; grid variant shows every logo as a white box",
+    "layout": "Heading column plus continuous logo marquee; grid is 3-up white boxes on grey"
+  },
+  "contentPattern": {
+    "structure": "heading row (h2), then one row per logo: linked logo image (or picture + link in two cells)"
+  },
+  "options": [
+    {
+      "class": "grid",
+      "label": "Grid"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Partner logos on the homepage (marquee) and Global Partners page (grid).",
+  "reuseGuidance": "Reuse partners for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

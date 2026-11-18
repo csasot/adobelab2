@@ -1,0 +1,579 @@
+{
+  "analysis-urls-checklist": {
+    "captured": "2026-11-18T16:25:56.536Z",
+    "totalPages": 71,
+    "statusBreakdown": {
+      "analyzed": 71
+    },
+    "pages": {
+      "https://omyapersonalcare.us/about/": {
+        "url": "https://omyapersonalcare.us/about/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_about--47630a01",
+        "title": "Personal Care Formulary | Natural Cosmetics Ingredients | Omya",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/about/global-partners/": {
+        "url": "https://omyapersonalcare.us/about/global-partners/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_about_global-partners--dd2c2328",
+        "title": "Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/about/our-difference/": {
+        "url": "https://omyapersonalcare.us/about/our-difference/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_about_our-difference--409c49b3",
+        "title": "Natural Cosmetics Ingredients | Organic Raw Materials | Omya",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/about/our-team/": {
+        "url": "https://omyapersonalcare.us/about/our-team/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_about_our-team--3252f7c2",
+        "title": "Our Team | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/aak-partnership/": {
+        "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_aak-partnership--6ed018d3",
+        "title": "AAK Partnership - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/": {
+        "url": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_announcing-our-latest-product-launches--2deb1aeb",
+        "title": "Announcing Our Latest Product Launches! - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/": {
+        "url": "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_asp-products_pay-your-invoice--9251cd57",
+        "title": "Pay Your Invoice - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/": {
+        "url": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_eco-friendly-high-performance-sun-care-solutions--36dc5227",
+        "title": "Eco-Friendly & High-Performance Sun Care Solutions - Omya",
+        "componentBlockCount": 5,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/": {
+        "url": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_february-is-national-childrens-dental-health-month--1c12202f",
+        "title": "February is National Children's Dental Health Month - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/": {
+        "url": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_fluoride-hydroxyapatite-and-the-fight-against-tooth-decay--db33cb0e",
+        "title": "Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/": {
+        "url": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_how-2025-reshaped-oral-health--f6bb5cba",
+        "title": "How 2025 Reshaped Oral Health - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/": {
+        "url": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_introducing-our-newest-supply-partner-quimivita--c0ca6553",
+        "title": "Introducing our newest supply partner, Quimivita - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/": {
+        "url": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_national-toothache-day-february-9th--86682820",
+        "title": "National Toothache Day - February 9th - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/nutrition-x-oral-health/": {
+        "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_nutrition-x-oral-health--d143fc26",
+        "title": "Trend Spotlight: Nutrition x Oral Health - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/": {
+        "url": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_omya-announces-new-partnership-with-actv-biotechnology--39de2cd0",
+        "title": "Omya announces a new partnership with ACTV Biotechnology",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/": {
+        "url": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_omya-partners-with-lipoid-kosmetik--55159466",
+        "title": "Omya Partners with Lipoid Kosmetik",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/": {
+        "url": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_pacific-blends-and-omya-specialty-materials-partnership--cde831fc",
+        "title": "Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/skinification-of-oral-care/": {
+        "url": "https://omyapersonalcare.us/blog/skinification-of-oral-care/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_skinification-of-oral-care--a65e750e",
+        "title": "Skinification of Oral Care - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/the-healthy-bite/": {
+        "url": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_the-healthy-bite--1a18ed6f",
+        "title": "The Healthy Bite - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/": {
+        "url": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_trend-spotlight-oil-pulling--be1a4502",
+        "title": "Trend Spotlight: Oil Pulling - Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/": {
+        "url": "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_water-conscious-oral-care-solutions--389f168a",
+        "title": "Water Conscious Oral Care Solutions - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/": {
+        "url": "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_blog_welcoming-monica-advani-to-the-omya-team--b2bb75cd",
+        "title": "Welcoming Monica Advani to the Omya Team - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/careers/": {
+        "url": "https://omyapersonalcare.us/careers/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_careers--3b66c2bd",
+        "title": "Careers | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/contact/": {
+        "url": "https://omyapersonalcare.us/contact/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_contact--25335c8a",
+        "title": "Contact Us | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/contact/rep-locator/": {
+        "url": "https://omyapersonalcare.us/contact/rep-locator/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_contact_rep-locator--5b7a4231",
+        "title": "Rep Locator | Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/customer-resources/": {
+        "url": "https://omyapersonalcare.us/customer-resources/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_customer-resources--05b70247",
+        "title": "Omya Personal Care Customer Resources",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/customer-resources/credit-application/": {
+        "url": "https://omyapersonalcare.us/customer-resources/credit-application/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_customer-resources_credit-application--b853bff6",
+        "title": "Credit Application | Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/customer-resources/onboarding/": {
+        "url": "https://omyapersonalcare.us/customer-resources/onboarding/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_customer-resources_onboarding--15bcc04f",
+        "title": "Onboarding | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/": {
+        "url": "https://omyapersonalcare.us/events/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events--1e2d7875",
+        "title": "Events Archive - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/2019-sunscreen-symposium/": {
+        "url": "https://omyapersonalcare.us/events/2019-sunscreen-symposium/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_2019-sunscreen-symposium--503f3135",
+        "title": "2019 Sunscreen Symposium - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/3590/": {
+        "url": "https://omyapersonalcare.us/events/3590/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_3590--72aab57f",
+        "title": "California Suppliers’ Day Booth #335 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/": {
+        "url": "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_catch-jason-nesta-speaking-at-swscc-sept-educational-month--f197bd94",
+        "title": "Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/cosmoprof-north-america/": {
+        "url": "https://omyapersonalcare.us/events/cosmoprof-north-america/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_cosmoprof-north-america--ad904a3d",
+        "title": "Cosmoprof North America - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/evercare-seminar-la/": {
+        "url": "https://omyapersonalcare.us/events/evercare-seminar-la/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_evercare-seminar-la--05af506d",
+        "title": "Evercare Seminar LA - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/": {
+        "url": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity--32ad7528",
+        "title": "ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/": {
+        "url": "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma--d8e0e1a0",
+        "title": "IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/in-cosmetics-global/": {
+        "url": "https://omyapersonalcare.us/events/in-cosmetics-global/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_in-cosmetics-global--ce4055af",
+        "title": "In-Cosmetics Global - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/in-cosmetics-global-2022/": {
+        "url": "https://omyapersonalcare.us/events/in-cosmetics-global-2022/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_in-cosmetics-global-2022--eb9754f6",
+        "title": "In-Cosmetics Global 2022 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/": {
+        "url": "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_in-cosmetics-global-attended-by-kinetik-and-suppliers--df5365b9",
+        "title": "In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/indie-beauty-expo-la/": {
+        "url": "https://omyapersonalcare.us/events/indie-beauty-expo-la/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_indie-beauty-expo-la--5b67095a",
+        "title": "Indie Beauty Expo LA - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/indie-beauty-expo-ny/": {
+        "url": "https://omyapersonalcare.us/events/indie-beauty-expo-ny/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_indie-beauty-expo-ny--f50328d0",
+        "title": "Indie Beauty Expo NY - August 2020 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/": {
+        "url": "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium--f23c7864",
+        "title": "Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/": {
+        "url": "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_join-us-at-a-kinetik-technology-seminar--39918642",
+        "title": "Join us at a Kinetik Technology Seminar! - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/": {
+        "url": "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_kinetik-attends-ca-suppliers-day-2019--1ef1ce1a",
+        "title": "Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/": {
+        "url": "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_kinetik-is-attending-the-mazur-group-beauty-biz-roundtable--271a1d4f",
+        "title": "Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/": {
+        "url": "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium--4d68474a",
+        "title": "Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/makeup-los-angeles/": {
+        "url": "https://omyapersonalcare.us/events/makeup-los-angeles/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_makeup-los-angeles--55c5ff5e",
+        "title": "MakeUp Los Angeles - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/midwest-scc-teamworks/": {
+        "url": "https://omyapersonalcare.us/events/midwest-scc-teamworks/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_midwest-scc-teamworks--1c88278f",
+        "title": "Midwest SCC TeamWorks - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/naturally-kiawah-symposium/": {
+        "url": "https://omyapersonalcare.us/events/naturally-kiawah-symposium/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_naturally-kiawah-symposium--70a22475",
+        "title": "Naturally Kiawah Symposium - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/ny-suppliers-day-2023/": {
+        "url": "https://omyapersonalcare.us/events/ny-suppliers-day-2023/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_ny-suppliers-day-2023--92232f59",
+        "title": "NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/": {
+        "url": "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_nyscc-suppliers-day-2021--b888bb99",
+        "title": "NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/": {
+        "url": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance--4d486def",
+        "title": "Society of Cosmetic Chemists: Ingredion Inc.'s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/": {
+        "url": "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_suppliers-day-2019-visit-the-kinetik-booth--e414b513",
+        "title": "Suppliers' Day 2019: Visit the Kinetik Booth! - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/events/swscc-suppliers-day/": {
+        "url": "https://omyapersonalcare.us/events/swscc-suppliers-day/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_events_swscc-suppliers-day--f707cdbc",
+        "title": "SWSCC Suppliers’ Day - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/formulary-request/": {
+        "url": "https://omyapersonalcare.us/formulary-request/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_formulary-request--5769d46a",
+        "title": "Cosmetics Formulary and Personal Care Product Recipe Source | Omya",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/get-a-sample/": {
+        "url": "https://omyapersonalcare.us/get-a-sample/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_get-a-sample--551f214a",
+        "title": "Request a Sample | Omya Personal Care",
+        "componentBlockCount": 2,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/": {
+        "url": "https://omyapersonalcare.us/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us--6eff190c",
+        "title": "Innovative Raw Materials For The Personal Care Industry | Omya",
+        "componentBlockCount": 6,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/insights/": {
+        "url": "https://omyapersonalcare.us/insights/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_insights--a1453bc0",
+        "title": "Natural Cosmetics News, Insights and Resources | Omya",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/insights/blog/": {
+        "url": "https://omyapersonalcare.us/insights/blog/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_insights_blog--aa28acef",
+        "title": "Latest Natural Trends and Ingredient News | Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/insights/events/": {
+        "url": "https://omyapersonalcare.us/insights/events/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_insights_events--82c60790",
+        "title": "Upcoming Events | Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/news/": {
+        "url": "https://omyapersonalcare.us/news/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_news--0bb84cb4",
+        "title": "News Archive - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/news/news-item-1/": {
+        "url": "https://omyapersonalcare.us/news/news-item-1/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_news_news-item-1--b0cd3472",
+        "title": "News Item 1 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/news/news-item-2/": {
+        "url": "https://omyapersonalcare.us/news/news-item-2/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_news_news-item-2--04639c70",
+        "title": "News Item 2 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/news/news-item-3/": {
+        "url": "https://omyapersonalcare.us/news/news-item-3/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_news_news-item-3--51bb20db",
+        "title": "News Item 3 - Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/our-approach/": {
+        "url": "https://omyapersonalcare.us/our-approach/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_our-approach--0f6f9416",
+        "title": "Natural, Organic, Sustainable Cosmetics Ingredients & Materials | Omya",
+        "componentBlockCount": 5,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/our-formulations/": {
+        "url": "https://omyapersonalcare.us/our-formulations/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_our-formulations--6e57d116",
+        "title": "Our Formulations | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/pay-thank-you/": {
+        "url": "https://omyapersonalcare.us/pay-thank-you/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_pay-thank-you--66644bd9",
+        "title": "Thank You for Payment | Omya Personal Care",
+        "componentBlockCount": 2,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/privacy-policy/": {
+        "url": "https://omyapersonalcare.us/privacy-policy/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_privacy-policy--a61eaaf7",
+        "title": "Privacy Policy | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/request-info/": {
+        "url": "https://omyapersonalcare.us/request-info/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_request-info--f42f5181",
+        "title": "Request Information | Omya Personal Care",
+        "componentBlockCount": 4,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/terms-of-use/": {
+        "url": "https://omyapersonalcare.us/terms-of-use/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_terms-of-use--4d91c63d",
+        "title": "Terms of Use | Omya Personal Care",
+        "componentBlockCount": 3,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      },
+      "https://omyapersonalcare.us/thank-you/": {
+        "url": "https://omyapersonalcare.us/thank-you/",
+        "status": "analyzed",
+        "slug": "omyapersonalcare_us_thank-you--cdf04244",
+        "title": "Omya Personal Care Thank You",
+        "componentBlockCount": 1,
+        "analyzedAt": "2026-11-18T16:25:56.536Z"
+      }
+    }
+  }
+}

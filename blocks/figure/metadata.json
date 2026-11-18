@@ -1,0 +1,45 @@
+{
+  "variantName": "figure",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Article image set apart from the text flow, with optional caption and optional wrapping text",
+    "layout": "Centred, floated or aligned article image with caption"
+  },
+  "contentPattern": {
+    "structure": "one row: cell 1 = picture + optional caption paragraph(s); optional cell 2 = text that wraps beside a left/right figure. Also supports width-<n> and pad-bottom-<n> option classes"
+  },
+  "options": [
+    {
+      "class": "left",
+      "label": "Float left"
+    },
+    {
+      "class": "right",
+      "label": "Float right"
+    },
+    {
+      "class": "start",
+      "label": "Align start"
+    },
+    {
+      "class": "end",
+      "label": "Align end"
+    },
+    {
+      "class": "half",
+      "label": "Half width"
+    },
+    {
+      "class": "thumbnail",
+      "label": "Thumbnail frame"
+    },
+    {
+      "class": "line-after",
+      "label": "Line after"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Images inside blog, event and news article bodies.",
+  "reuseGuidance": "Reuse figure for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

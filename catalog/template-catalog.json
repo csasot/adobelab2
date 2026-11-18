@@ -1,0 +1,171 @@
+{
+  "templates": [
+    {
+      "name": "section-page",
+      "description": "Section page: title band, photo rows and/or photo call-to-action band, bottom Insights/Contact band(s)",
+      "urls": [
+        "https://omyapersonalcare.us/about/",
+        "https://omyapersonalcare.us/about/our-difference/",
+        "https://omyapersonalcare.us/insights/",
+        "https://omyapersonalcare.us/our-approach/"
+      ]
+    },
+    {
+      "name": "global-partners",
+      "description": "Global Partners page with partner logo grid",
+      "urls": [
+        "https://omyapersonalcare.us/about/global-partners/"
+      ]
+    },
+    {
+      "name": "our-team",
+      "description": "Team page with staff grid and contact dialogs",
+      "urls": [
+        "https://omyapersonalcare.us/about/our-team/"
+      ]
+    },
+    {
+      "name": "blog-post",
+      "description": "Blog post article: page title band, date line, article body (optional figures, tables, videos), bottom Insights/Contact bands",
+      "urls": [
+        "https://omyapersonalcare.us/blog/aak-partnership/",
+        "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+        "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+        "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+        "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+        "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+        "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+        "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+        "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+        "https://omyapersonalcare.us/blog/skinification-of-oral-care/",
+        "https://omyapersonalcare.us/blog/the-healthy-bite/",
+        "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+        "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/",
+        "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/"
+      ]
+    },
+    {
+      "name": "payment-form",
+      "description": "Invoice payment form page",
+      "urls": [
+        "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/"
+      ]
+    },
+    {
+      "name": "form-page",
+      "description": "Form page: title band, one form, bottom Insights/Contact band(s)",
+      "urls": [
+        "https://omyapersonalcare.us/careers/",
+        "https://omyapersonalcare.us/customer-resources/onboarding/",
+        "https://omyapersonalcare.us/formulary-request/",
+        "https://omyapersonalcare.us/request-info/"
+      ]
+    },
+    {
+      "name": "contact",
+      "description": "Contact page with form and office addresses",
+      "urls": [
+        "https://omyapersonalcare.us/contact/"
+      ]
+    },
+    {
+      "name": "rep-locator",
+      "description": "Sales rep locator with interactive US map",
+      "urls": [
+        "https://omyapersonalcare.us/contact/rep-locator/"
+      ]
+    },
+    {
+      "name": "content-page",
+      "description": "Simple content page: title band, text content (optional tables), bottom Insights/Contact bands",
+      "urls": [
+        "https://omyapersonalcare.us/customer-resources/",
+        "https://omyapersonalcare.us/customer-resources/credit-application/",
+        "https://omyapersonalcare.us/get-a-sample/",
+        "https://omyapersonalcare.us/pay-thank-you/",
+        "https://omyapersonalcare.us/privacy-policy/",
+        "https://omyapersonalcare.us/terms-of-use/"
+      ]
+    },
+    {
+      "name": "listing",
+      "description": "Listing page: title band, post tiles with pager, video band",
+      "urls": [
+        "https://omyapersonalcare.us/events/",
+        "https://omyapersonalcare.us/insights/blog/",
+        "https://omyapersonalcare.us/news/"
+      ]
+    },
+    {
+      "name": "event",
+      "description": "Event detail article: page title band, event date line, article body, bottom Insights/Contact bands",
+      "urls": [
+        "https://omyapersonalcare.us/events/2019-sunscreen-symposium/",
+        "https://omyapersonalcare.us/events/3590/",
+        "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/",
+        "https://omyapersonalcare.us/events/cosmoprof-north-america/",
+        "https://omyapersonalcare.us/events/evercare-seminar-la/",
+        "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+        "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+        "https://omyapersonalcare.us/events/in-cosmetics-global/",
+        "https://omyapersonalcare.us/events/in-cosmetics-global-2022/",
+        "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+        "https://omyapersonalcare.us/events/indie-beauty-expo-la/",
+        "https://omyapersonalcare.us/events/indie-beauty-expo-ny/",
+        "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/",
+        "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/",
+        "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/",
+        "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+        "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+        "https://omyapersonalcare.us/events/makeup-los-angeles/",
+        "https://omyapersonalcare.us/events/midwest-scc-teamworks/",
+        "https://omyapersonalcare.us/events/naturally-kiawah-symposium/",
+        "https://omyapersonalcare.us/events/ny-suppliers-day-2023/",
+        "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/",
+        "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+        "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/",
+        "https://omyapersonalcare.us/events/swscc-suppliers-day/"
+      ]
+    },
+    {
+      "name": "homepage",
+      "description": "Site homepage",
+      "urls": [
+        "https://omyapersonalcare.us/"
+      ]
+    },
+    {
+      "name": "events-listing",
+      "description": "Upcoming events listing",
+      "urls": [
+        "https://omyapersonalcare.us/insights/events/"
+      ]
+    },
+    {
+      "name": "news-item",
+      "description": "News item article: page title band, date line, article body, bottom Insights/Contact bands",
+      "urls": [
+        "https://omyapersonalcare.us/news/news-item-1/",
+        "https://omyapersonalcare.us/news/news-item-2/",
+        "https://omyapersonalcare.us/news/news-item-3/"
+      ]
+    },
+    {
+      "name": "formulations",
+      "description": "Formulation downloads grid page",
+      "urls": [
+        "https://omyapersonalcare.us/our-formulations/"
+      ]
+    },
+    {
+      "name": "thank-you",
+      "description": "Form submission thank-you page",
+      "urls": [
+        "https://omyapersonalcare.us/thank-you/"
+      ]
+    }
+  ]
+}

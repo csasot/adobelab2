@@ -1,0 +1,16 @@
+{
+  "variantName": "cta-band",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Full-bleed photo call-to-action band with a text column on the left",
+    "layout": "Full-bleed photo band, 100px padding, left text column, primary button"
+  },
+  "contentPattern": {
+    "structure": "one row (cells in any order): picture (optional), h2 with <em> for the blue word, lede paragraph(s), bold CTA link"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Inspiration / formulation call-to-action band on about and contact pages.",
+  "reuseGuidance": "Reuse cta-band for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

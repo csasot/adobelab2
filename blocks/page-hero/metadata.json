@@ -1,0 +1,21 @@
+{
+  "variantName": "page-hero",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Inner-page title band with optional page photo, scrim, h1 title and breadcrumbs",
+    "layout": "Photo or scrim band under the overlaid header, centred title and breadcrumbs"
+  },
+  "contentPattern": {
+    "structure": "one row (cells in any order): optional picture, h1 page title, breadcrumbs paragraph (ancestor links, current page as text)"
+  },
+  "options": [
+    {
+      "class": "tall",
+      "label": "Tall"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Title band on every inner page; use tall on article/post photo headers.",
+  "reuseGuidance": "Reuse page-hero for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

@@ -1,0 +1,25 @@
+{
+  "variantName": "table",
+  "baseBlock": "table",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Bordered data table with header row inside a text column",
+    "layout": "Bordered, centred cells, scrolls sideways below 768px; definitions is a term/definition grid"
+  },
+  "contentPattern": {
+    "structure": "one row per table row, one cell per column; the first row is the header row"
+  },
+  "options": [
+    {
+      "class": "row-headers",
+      "label": "Row headers"
+    },
+    {
+      "class": "definitions",
+      "label": "Definitions"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Privacy policy tables and definitions.",
+  "reuseGuidance": "Reuse table for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

@@ -1,0 +1,16 @@
+{
+  "variantName": "striped-table",
+  "baseBlock": "table",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Striped data table in an article body, no header row",
+    "layout": "Top-aligned left text, 1px row rules, tinted odd rows"
+  },
+  "contentPattern": {
+    "structure": "one row per table row, one cell per column (no header row)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Data tables inside article content.",
+  "reuseGuidance": "Reuse striped-table for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

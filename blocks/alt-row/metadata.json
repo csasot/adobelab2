@@ -1,0 +1,16 @@
+{
+  "variantName": "alt-row",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Stack of full-bleed photo rows with a dark side gradient and a white text column",
+    "layout": "Full-bleed 550px photo rows, dark gradient on the text side, alternating text left/right"
+  },
+  "contentPattern": {
+    "structure": "one row per photo row: photo cell | text cell (h2 with <em> for the blue word, paragraphs, bold CTA link); cell order sets the text side"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Alternating full-bleed photo and text rows on about pages.",
+  "reuseGuidance": "Reuse alt-row for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

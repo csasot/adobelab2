@@ -1,0 +1,16 @@
+{
+  "variantName": "process",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "The Omya Process: blue band with numbered white circles joined by a rule",
+    "layout": "Blue band, numbered circles connected by a 4px line, white skewed button"
+  },
+  "contentPattern": {
+    "structure": "heading row (h2), step rows (number | bold label + description), CTA row (bold link)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Process steps on the homepage.",
+  "reuseGuidance": "Reuse process for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

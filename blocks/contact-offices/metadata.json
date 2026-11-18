@@ -1,0 +1,16 @@
+{
+  "variantName": "contact-offices",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Blue offices band with white address cards and an office-hours note",
+    "layout": "Blue band, centred white address cards, note below"
+  },
+  "contentPattern": {
+    "structure": "one row per office (one paragraph, lines split by <br>: bold office name, company, street, city, tel link, mailto link), then a last note row with office hours and Rep Locator link"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Office addresses on the contact page.",
+  "reuseGuidance": "Reuse contact-offices for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}
