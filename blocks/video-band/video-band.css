@@ -1,0 +1,99 @@
+/* video-band — insights-blog.css · ib-video-band (mobile-first): blue band, 16:9 player beside a
+   black skewed CTA from 980px, stacked below */
+.video-band {
+  position: relative;
+  display: flow-root;
+  width: 100%;
+  color: #fff;
+  background: var(--c-blue);
+}
+
+.video-band .video-band-wrap {
+  display: flow-root;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.video-band .video-band-col {
+  position: relative;
+  display: flow-root;
+  min-height: 1px;
+  padding: 40px 15px;
+}
+
+.video-band .video-band-row {
+  display: flow-root;
+}
+
+.video-band .video-band-cell {
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.video-band .video-band-embed {
+  position: relative;
+  display: block;
+  height: 0;
+  margin-bottom: 15px;
+  padding: 0 0 56.25%;
+  overflow: hidden;
+}
+
+.video-band .video-band-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-band p.button-wrapper {
+  margin: 0;
+  text-align: center;
+  background: var(--c-ink);
+}
+
+.video-band p.button-wrapper:hover {
+  background: var(--c-blue-hover);
+}
+
+.video-band a.button:any-link {
+  height: auto;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .video-band .video-band-cell {
+    float: left;
+    width: 100%;
+  }
+}
+
+@media (width >= 777px) {
+  .video-band .video-band-embed {
+    margin-bottom: 30px;
+  }
+
+  .video-band a.button:any-link {
+    height: 40px;
+    font-size: inherit;
+  }
+}
+
+@media (width >= 980px) {
+  .video-band .video-band-row {
+    display: flex;
+    align-items: center;
+  }
+
+  .video-band .video-band-cell {
+    float: none;
+  }
+}
+
+@media (width >= 992px) {
+  .video-band .video-band-embed {
+    margin-bottom: 0;
+  }
+}

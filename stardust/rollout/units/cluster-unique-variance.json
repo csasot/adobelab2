@@ -1,0 +1,372 @@
+{
+  "archetype": "https://omyapersonalcare.us/contact/rep-locator/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "h1": "header h1",
+    "crumbs": "p.breadcrumbs",
+    "lede": "#interior-content .page-content p",
+    "band": "#interior-content .page-content",
+    "h2": "#insights-section h2"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "h1": {
+        "sel": "header h1",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 58
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 48px/57.6px 700",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Rep Locator"
+      },
+      "crumbs": {
+        "sel": "p.breadcrumbs",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 23
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Home / Contact / Rep Locator"
+      },
+      "lede": {
+        "sel": "#interior-content .page-content p",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 228,
+            "h": 91
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Click a state to find your representative. Once selected, sa"
+      },
+      "band": {
+        "sel": "#interior-content .page-content",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 934
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 24px/28.8px 700 rgb(255, 255, 255)",
+          "image": {
+            "w": 1024,
+            "h": 746
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "#hotspot-4093 .hotspots-image-container, #hotspot-4093 .leaf"
+      },
+      "h2": {
+        "sel": "#insights-section h2",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 427,
+            "h": 43
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 36px/43.2px 500",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Insights"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://omyapersonalcare.us/pay-thank-you/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "lede",
+          "msg": "\"#interior-content .page-content p\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 934 → 160}; heading h2 arial 24px/28.8px 700 rgb(255, 255, 255) → null; image [object Object] → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Pay Thank You"
+          },
+          "crumbs": {
+            "sel": "p.breadcrumbs",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Home / Pay Thank You"
+          },
+          "lede": {
+            "sel": "#interior-content .page-content p",
+            "count": 0
+          },
+          "band": {
+            "sel": "#interior-content .page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 160
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "h2": {
+            "sel": "#insights-section h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 427,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 500",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Insights"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/thank-you/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "lede",
+          "msg": "rect{w 228 → 843, h 91 → 23}; color rgb(255, 255, 255) → rgb(34, 31, 32)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 934 → 193}; backgroundLayers [] → [url(…)]; backgroundColor rgb(255, 255, 255) → rgba(255, 255, 255, 0.8); heading h2 arial 24px/28.8px 700 rgb(255, 255, 255) → null; image [object Object] → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "h2",
+          "msg": "\"#insights-section h2\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Thank You"
+          },
+          "crumbs": {
+            "sel": "p.breadcrumbs",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Home / Thank You"
+          },
+          "lede": {
+            "sel": "#interior-content .page-content p",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Thanks for reaching out, your information was submitted succ"
+          },
+          "band": {
+            "sel": "#interior-content .page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 193
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Thanks for reaching out, your information was submitted succ"
+          },
+          "h2": {
+            "sel": "#insights-section h2",
+            "count": 0
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 2,
+    "varying": 2,
+    "probesVarying": [
+      "lede",
+      "band",
+      "h2"
+    ]
+  }
+}

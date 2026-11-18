@@ -1,0 +1,231 @@
+{
+  "slug": "insights-blog",
+  "type": "listing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "post-list",
+    "video-band"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "ib-list__inner"
+  ],
+  "canonShas": {
+    "header": "b02f87db324a",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Latest Natural Trends and Ingredient News | Omya Personal Care",
+    "description": "Learn what's next in natural trends and organic personal care product industry, including global news, marketing trends, and ingredient spotlights.",
+    "canonical": "https://omyapersonalcare.us/insights/blog/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Latest Natural Trends and Ingredient News | Omya Personal Care",
+    "description": "Learn what's next in natural trends and organic personal care product industry, including global news, marketing trends, and ingredient spotlights.",
+    "url": "https://omyapersonalcare.us/insights/blog/"
+  },
+  "migratedAt": "2026-11-17T17:01:35Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "e6e48b2128f8",
+  "sourceProposedSha": "e736a2f329dc",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 18,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/blog/page/2/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/blog/page/2/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-products/sun-care/cosmospheres/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/terms-of-use/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/privacy-policy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "insights/blog/index.html",
+  "outputPathDefault": null,
+  "sidecar": "insights/blog/_meta.json",
+  "driverVersion": "1"
+}

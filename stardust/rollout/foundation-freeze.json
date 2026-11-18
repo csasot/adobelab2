@@ -1,0 +1,31 @@
+{
+  "frozenAt": "2026-11-17T21:42:31.627Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "fbfd5a82f2369d1e83517abf3c8b6c9ef6e25ca81bac7e840aaba70dceb09760",
+    "blocks/footer/footer.js": "be20a7e34f48f6b14ca150b1c17028e6a8254a651c578a315015a4f8ca22fb02",
+    "blocks/header/header.css": "e328f0ac143810a8e2d5ef74960f8967081e2ca3e6e5994b91c27df2a61fe18c",
+    "blocks/header/header.js": "8e28b29f9db8d268db67cb8905b407ceee75888b00bf9dfa878ad27563eb85d3",
+    "fonts/fa-solid-900.woff2": "5c7df99df232586111917083a85aa31b82ee29e48ca2990e13fae0c0663a923f",
+    "fonts/wprmenu.woff": "03590347ff5da9c0934ecec0f3670ee4d8e1cab3e7258757010d9edac2b5b051",
+    "head.html": "6094deec86ce8a5c9df34d9f579c57fbbb2bb3a34fa24aebcb33c1a332894c9b",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "a91ed1784ba7b2f8b44ffef97c1218139d7ae5f1951e54466b5b33bcd3a00de0",
+    "scripts/consented.js": "8a6e80585bf898985ae3fa0012dc370a19f4e366ca6922d92b80b319bcf281aa",
+    "scripts/forms.js": "bc4607dc325253ea49b961f0b7b5a55c02f436143ef3b93cae18fe4f6211335c",
+    "scripts/martech.js": "470665585ae2f6ac5bbd3858f69670c86dcaad7ef8119dcdeb2dc736077b1a3a",
+    "scripts/scripts.js": "8639c04d88d77ce69f8f8ca0e461271bcd5845d876fde2227be38cdcad39ef8e",
+    "scripts/site-config.js": "dafc4f7552b7665b1a8def3a64aa6de4063cd5eb1f7a101370962805f7489a6e",
+    "styles/fonts.css": "3aa03fba2b3e91871f5157f2923acbcd77ba8ef82d2b08c8367f998e9c6574e6",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "5f21d5851dc937445d47c94b063661e1225c241a253740a43ffdff07888fa73e"
+  }
+}

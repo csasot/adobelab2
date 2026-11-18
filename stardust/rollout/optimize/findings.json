@@ -1,0 +1,3367 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/optimize",
+    "writtenAt": "2026-11-17T22:31:34.349Z",
+    "stardustVersion": "0.0.0"
+  },
+  "runs": [
+    {
+      "id": "run-1",
+      "at": "2026-11-17T22:27:36.833Z",
+      "scopePages": [
+        "about",
+        "about-global-partners",
+        "about-our-difference",
+        "about-our-team",
+        "blog-aak-partnership",
+        "blog-announcing-our-latest-product-launches",
+        "blog-asp-products-pay-your-invoice",
+        "blog-eco-friendly-high-performance-sun-care-solutions",
+        "blog-february-is-national-childrens-dental-health-month",
+        "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "blog-how-2025-reshaped-oral-health",
+        "blog-introducing-our-newest-supply-partner-quimivita",
+        "blog-national-toothache-day-february-9th",
+        "blog-nutrition-x-oral-health",
+        "blog-omya-announces-new-partnership-with-actv-biotechnology",
+        "blog-omya-partners-with-lipoid-kosmetik",
+        "blog-pacific-blends-and-omya-specialty-materials-partnership",
+        "blog-skinification-of-oral-care",
+        "blog-the-healthy-bite",
+        "blog-trend-spotlight-oil-pulling",
+        "blog-water-conscious-oral-care-solutions",
+        "blog-welcoming-monica-advani-to-the-omya-team",
+        "careers",
+        "contact",
+        "contact-rep-locator",
+        "customer-resources",
+        "customer-resources-credit-application",
+        "customer-resources-onboarding",
+        "events",
+        "events-2019-sunscreen-symposium",
+        "events-3590",
+        "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+        "events-cosmoprof-north-america",
+        "events-evercare-seminar-la",
+        "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+        "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+        "events-in-cosmetics-global",
+        "events-in-cosmetics-global-2022",
+        "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+        "events-indie-beauty-expo-la",
+        "events-indie-beauty-expo-ny",
+        "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+        "events-join-us-at-a-kinetik-technology-seminar",
+        "events-kinetik-attends-ca-suppliers-day-2019",
+        "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+        "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+        "events-makeup-los-angeles",
+        "events-midwest-scc-teamworks",
+        "events-naturally-kiawah-symposium",
+        "events-ny-suppliers-day-2023",
+        "events-nyscc-suppliers-day-2021",
+        "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+        "events-suppliers-day-2019-visit-the-kinetik-booth",
+        "events-swscc-suppliers-day",
+        "formulary-request",
+        "get-a-sample",
+        "index",
+        "insights",
+        "insights-blog",
+        "insights-events",
+        "news",
+        "news-news-item-1",
+        "news-news-item-2",
+        "news-news-item-3",
+        "our-approach",
+        "our-formulations",
+        "pay-thank-you",
+        "privacy-policy",
+        "request-info",
+        "terms-of-use",
+        "thank-you"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "https://main--12a63657--aemcoder.aem.live"
+    },
+    {
+      "id": "run-2",
+      "at": "2026-11-17T22:31:34.349Z",
+      "scopePages": [
+        "about",
+        "about-global-partners",
+        "about-our-difference",
+        "about-our-team",
+        "blog-aak-partnership",
+        "blog-announcing-our-latest-product-launches",
+        "blog-asp-products-pay-your-invoice",
+        "blog-eco-friendly-high-performance-sun-care-solutions",
+        "blog-february-is-national-childrens-dental-health-month",
+        "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "blog-how-2025-reshaped-oral-health",
+        "blog-introducing-our-newest-supply-partner-quimivita",
+        "blog-national-toothache-day-february-9th",
+        "blog-nutrition-x-oral-health",
+        "blog-omya-announces-new-partnership-with-actv-biotechnology",
+        "blog-omya-partners-with-lipoid-kosmetik",
+        "blog-pacific-blends-and-omya-specialty-materials-partnership",
+        "blog-skinification-of-oral-care",
+        "blog-the-healthy-bite",
+        "blog-trend-spotlight-oil-pulling",
+        "blog-water-conscious-oral-care-solutions",
+        "blog-welcoming-monica-advani-to-the-omya-team",
+        "careers",
+        "contact",
+        "contact-rep-locator",
+        "customer-resources",
+        "customer-resources-credit-application",
+        "customer-resources-onboarding",
+        "events",
+        "events-2019-sunscreen-symposium",
+        "events-3590",
+        "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+        "events-cosmoprof-north-america",
+        "events-evercare-seminar-la",
+        "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+        "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+        "events-in-cosmetics-global",
+        "events-in-cosmetics-global-2022",
+        "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+        "events-indie-beauty-expo-la",
+        "events-indie-beauty-expo-ny",
+        "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+        "events-join-us-at-a-kinetik-technology-seminar",
+        "events-kinetik-attends-ca-suppliers-day-2019",
+        "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+        "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+        "events-makeup-los-angeles",
+        "events-midwest-scc-teamworks",
+        "events-naturally-kiawah-symposium",
+        "events-ny-suppliers-day-2023",
+        "events-nyscc-suppliers-day-2021",
+        "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+        "events-suppliers-day-2019-visit-the-kinetik-booth",
+        "events-swscc-suppliers-day",
+        "formulary-request",
+        "get-a-sample",
+        "index",
+        "insights",
+        "insights-blog",
+        "insights-events",
+        "news",
+        "news-news-item-1",
+        "news-news-item-2",
+        "news-news-item-3",
+        "our-approach",
+        "our-formulations",
+        "pay-thank-you",
+        "privacy-policy",
+        "request-info",
+        "terms-of-use",
+        "thank-you"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "https://main--12a63657--aemcoder.aem.live"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f-00cdbd6708",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global-2022"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-01f8f4a8ca",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-indie-beauty-expo-la"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-0379d03833",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-040df784f5",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-cosmoprof-north-america"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-096c74addf",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-suppliers-day-2019-visit-the-kinetik-booth"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-0b68f1c82b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-176bf6fd0f",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-17e6bfe9f9",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-evercare-seminar-la"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1a9e326b41",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1ed28cb09c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-1fc3b47e75",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "pay-thank-you"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-22f85824b9",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "pay-thank-you"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-2345f29d9b",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-3590"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-24729186f4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-281a56736a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "our-formulations"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-2f856ab7c1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "about-global-partners"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-2fdc660afc",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-asp-products-pay-your-invoice"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-32774e60f2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-omya-partners-with-lipoid-kosmetik"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-34aae5c086",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "careers"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-3649a43a23",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-omya-announces-new-partnership-with-actv-biotechnology"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-382d3a95ec",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-february-is-national-childrens-dental-health-month"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-38d35974e4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-trend-spotlight-oil-pulling"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-3b6b5e1969",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news-news-item-1"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-3d20a6d9cb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "formulary-request"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-40d23a414d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-3590"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-42d0b2b3d4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-makeup-los-angeles"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-44772f1f28",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "get-a-sample"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-491cee0618",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-evercare-seminar-la"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4adcbe0c1f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-welcoming-monica-advani-to-the-omya-team"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-4bcf7e7672",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "thank-you"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4eeadd4c0f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "terms-of-use"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-5292600740",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news-news-item-3"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-5456a59197",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "privacy-policy"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-54be5a397f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "index"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-54c76f75db",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-54f8f701c2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "insights-blog"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-5c4b26ca35",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-nutrition-x-oral-health"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6319a3b519",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "insights"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6617a140cd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "request-info"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-6b5a26d83f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "about"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-714007d884",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-how-2025-reshaped-oral-health"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-72283b7e60",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-swscc-suppliers-day"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-7e992e5169",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-naturally-kiawah-symposium"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-8032268cc2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-naturally-kiawah-symposium"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8558d88639",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-join-us-at-a-kinetik-technology-seminar"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8642407d33",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news-news-item-2"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-8ca3e15b6b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global-2022"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-9afb4b22c0",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-water-conscious-oral-care-solutions"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-9b5694b14d",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-2019-sunscreen-symposium"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9c48863fa1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-9cde9301b7",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-9d555717bd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-a334551459",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-national-toothache-day-february-9th"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-a3adb0f6ab",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-nyscc-suppliers-day-2021"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-a3bc97952f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-2019-sunscreen-symposium"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-ab18358830",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "customer-resources"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b1052546db",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b18196c986",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "our-approach"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b1df966111",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "get-a-sample"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b3cd35c229",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-indie-beauty-expo-ny"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b6ad22919d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "about-our-team"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b7075f3d36",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b84eb4186a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-eco-friendly-high-performance-sun-care-solutions"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-b895bfa7fa",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-skinification-of-oral-care"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-bbbe14eb28",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "thank-you"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-bda001c531",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "insights-events"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-bfdd1b6add",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-makeup-los-angeles"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c175068462",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global-attended-by-kinetik-and-suppliers"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-c2801d49ba",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "customer-resources-credit-application"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-c3f5f55f67",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "contact-rep-locator"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-cd1c2dd2dc",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "contact"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-d0505755ea",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-announcing-our-latest-product-launches"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-d35bc6ebc8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-aak-partnership"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-dd1cd8f082",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-asp-products-pay-your-invoice"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-dfbf4b865f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "customer-resources-onboarding"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-e4ef906bd3",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-indie-beauty-expo-la"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-e8ec5209ea",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-e98bb22eae",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-ny-suppliers-day-2023"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-eaac6129ba",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-cosmoprof-north-america"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-ee2eae6554",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-introducing-our-newest-supply-partner-quimivita"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f0cacc92a6",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-the-healthy-bite"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f6956f628c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-kinetik-attends-ca-suppliers-day-2019"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-f9a71f1968",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-pacific-blends-and-omya-specialty-materials-partnership"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-fa7c1964b9",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "about-our-difference"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-fae85d4d91",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "meta-description",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-midwest-scc-teamworks"
+        ]
+      },
+      "evidence": "source parity: no <meta name=\"description\"> — the source page has no meta description either",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-fcc36a140f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-fe198dbfd2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-midwest-scc-teamworks"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "fixed",
+      "firstSeenRun": "run-1",
+      "resolvedBy": {
+        "phase": "deploy",
+        "at": "2026-11-17T22:31:34.349Z",
+        "note": "no longer detected on delivered page"
+      }
+    },
+    {
+      "id": "f-10bb7c7cec",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-pacific-blends-and-omya-specialty-materials-partnership"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Pacific Blends and Omya Specialty Materi\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-24fbf68104",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-in-cosmetics-global-attended-by-kinetik-and-suppliers"
+        ]
+      },
+      "evidence": "source parity: <title> is 75 chars (\"In-cosmetics Global: Attended by Kinetik\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4a1b2d5b1b",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity"
+        ]
+      },
+      "evidence": "source parity: <title> is 98 chars (\"ICMAD: Kinetik will Award a Young Design\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4b09b613f2",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium"
+        ]
+      },
+      "evidence": "source parity: <title> is 135 chars (\"Kinetik joins Twin Cities Chapter Societ\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5cd8c41550",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma"
+        ]
+      },
+      "evidence": "source parity: <title> is 84 chars (\"IDEA 2019: Featuring an Exhibit by Kinet\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-640a0e6bc2",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+        ]
+      },
+      "evidence": "source parity: <title> is 80 chars (\"Fluoride, Hydroxyapatite, and the Fight \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-8a2af6d3de",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "blog-february-is-national-childrens-dental-health-month"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"February is National Children's Dental H\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9d7344e7b0",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "design-pass",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "news-news-item-1",
+          "news-news-item-2",
+          "news-news-item-3"
+        ]
+      },
+      "evidence": "3 pages share a meta description",
+      "recommendedMove": "Write per-page descriptions upstream.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-bc3688a377",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"Kinetik is Attending the Mazur Group Bea\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c3093b812e",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium"
+        ]
+      },
+      "evidence": "source parity: <title> is 87 chars (\"Join Omya at the first annual The Health\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d0dab8b812",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month"
+        ]
+      },
+      "evidence": "source parity: <title> is 81 chars (\"Catch Jason Nesta Speaking at SWSCC, Sep\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d2fd1d5777",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance"
+        ]
+      },
+      "evidence": "source parity: <title> is 157 chars (\"Society of Cosmetic Chemists: Ingredion \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f4f3020cdf",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "our-approach"
+        ]
+      },
+      "evidence": "<title> is 75 chars (\"Natural, Organic, Sustainable Cosmetics \")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    }
+  ]
+}

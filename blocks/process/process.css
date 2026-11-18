@@ -1,0 +1,120 @@
+/* process — canon index.css · process (page-section + wrap + inner, mobile-first) */
+.process {
+  margin-top: 10px;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  background: var(--c-blue);
+}
+
+.process .process-inner {
+  display: flow-root;
+  position: relative;
+  min-height: 1px;
+  margin: 0 auto;
+  padding: 80px 15px;
+}
+
+.process .process-title :is(h2, h3) {
+  margin: 20px 0 15px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.process .process-steps {
+  display: flow-root;
+}
+
+.process .process-step {
+  position: relative;
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding: 0 15px 20px;
+}
+
+.process .process-num p {
+  position: relative;
+  z-index: 1;
+  width: 100px;
+  height: 100px;
+  margin: 25px auto;
+  padding: 15px;
+  border-radius: 100%;
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--c-blue);
+  text-align: center;
+  background: #fff;
+}
+
+.process .process-num p::before,
+.process .process-num p::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  z-index: -1;
+  width: 150%;
+  border-bottom: 4px solid #fff;
+  transform: translateY(-50%);
+}
+
+.process .process-num p::before {
+  left: 100%;
+}
+
+.process .process-num p::after {
+  right: 100%;
+}
+
+.process .process-step:first-of-type .process-num p::after,
+.process .process-step:last-of-type .process-num p::before {
+  content: none;
+}
+
+.process .process-text {
+  display: flow-root;
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.process p.button-wrapper {
+  background: #fff;
+}
+
+.process p.button-wrapper:hover {
+  background: var(--c-blue-hover);
+}
+
+.process a.button:any-link {
+  color: var(--c-blue);
+}
+
+.process p.button-wrapper:hover a.button:any-link {
+  color: #fff;
+}
+
+@media (width >= 768px) {
+  .process .process-inner {
+    width: var(--wrap-w);
+  }
+
+  .process .process-step {
+    width: calc(100% / 3);
+  }
+}
+
+@media (width >= 992px) {
+  .process .process-num p::before,
+  .process .process-num p::after {
+    width: 200%;
+  }
+}
+
+@media (width >= 1200px) {
+  .process .process-text {
+    width: calc(100% * 5 / 6);
+    margin-left: calc(100% / 12);
+  }
+}

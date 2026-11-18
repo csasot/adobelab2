@@ -1,0 +1,117 @@
+{
+  "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "edaf997e7f2a",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Society of Cosmetic Chemists: Ingredion Inc.'s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Society of Cosmetic Chemists: Ingredion Inc.'s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care",
+    "description": "",
+    "mainEntityOfPage": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "5abe547a5d6b",
+  "sourceProposedSha": "85c021f62c80",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-no-photo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/index.html",
+  "outputPathDefault": null,
+  "sidecar": "events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/_meta.json",
+  "driverVersion": "1"
+}

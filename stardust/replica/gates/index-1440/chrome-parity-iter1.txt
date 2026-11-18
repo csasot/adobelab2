@@ -1,0 +1,9 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://omyapersonalcare.us/
+  build: http://localhost:8791/index-proposed.html
+
+■ header: ✓ parity — 12 paired of 12/12 texts, 1/1 icons
+
+■ footer: ✓ parity — 21 paired of 21/21 texts, 2/2 icons
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

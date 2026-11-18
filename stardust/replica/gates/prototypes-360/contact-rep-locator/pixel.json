@@ -1,0 +1,56 @@
+{
+  "a": "stardust/replica/gates/prototypes-360/contact-rep-locator/origin.png",
+  "b": "stardust/replica/gates/prototypes-360/contact-rep-locator/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 2644,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 23564,
+  "pct": 2.48,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-360/contact-rep-locator/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 1.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 11.9
+    },
+    {
+      "y0": 2500,
+      "y1": 2644,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/contact-rep-locator-proposed.html"
+  }
+}

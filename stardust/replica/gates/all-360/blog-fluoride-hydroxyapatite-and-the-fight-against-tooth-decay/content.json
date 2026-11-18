@@ -1,0 +1,5876 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:20:43.300Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+  "at": "2026-11-17T21:20:19.962Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8325,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 216,
+    "level": 1,
+    "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 15,
+    "y": 504,
+    "w": 330,
+    "h": 69,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 64,
+    "y": 506,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 120,
+    "y": 506,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 188,
+    "y": 506,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 48,
+    "y": 728,
+    "w": 126,
+    "h": 17,
+    "text": "February 6, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 30,
+    "y": 768,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "national toothache day"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 851,
+    "w": 300,
+    "h": 251,
+    "text": "February is National Children’s Dental Health Month and on the ninth day of Febr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 1112,
+    "w": 300,
+    "h": 274,
+    "text": "Fluoride has been one of the most instrumental tools for improving oral health o"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 30,
+    "y": 1406,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "fluoride history"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 1455,
+    "w": 300,
+    "h": 343,
+    "text": "The protective benefits of fluoride were discovered as a result of the negative "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 1807,
+    "w": 300,
+    "h": 320,
+    "text": "A study published in 1942, including over 7000 adolescent children from more tha"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 30,
+    "y": 2147,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "why is fluoride under scrutiny?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 2229,
+    "w": 300,
+    "h": 274,
+    "text": "Fluoride has been in the headlines recently, but the truth is that public water "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 2513,
+    "w": 300,
+    "h": 297,
+    "text": "Modern studies on the benefits of public water fluoridation have demonstrated a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 2820,
+    "w": 300,
+    "h": 434,
+    "text": "Media and political sensationalism around this scrutiny has had a halo effect on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 30,
+    "y": 3274,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "hydroxyapatite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 3323,
+    "w": 300,
+    "h": 320,
+    "text": "Fluoride is not the only ingredient clinically proven to reduce, prevent, or rep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 3653,
+    "w": 300,
+    "h": 343,
+    "text": "The adoption of hydroxyapatite outside of Japan has been very slow. This is due,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > div#attachment_64740 > img.size-full.wp-image-64740",
+    "x": 30,
+    "y": 4032,
+    "w": 646,
+    "h": 488,
+    "text": "graph of new oral hygiene products",
+    "file": "Graph-of-new-oral-hygiene-products"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#attachment_64740 > p#caption-attachment-64740 > em",
+    "x": 30,
+    "y": 4537,
+    "w": 641,
+    "h": 63,
+    "text": "Figure 1: Graph of new oral hygiene products cataloged in Mintel NPD between Jan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 4626,
+    "w": 300,
+    "h": 617,
+    "text": "Fluoride-free toothpastes have been widely available for decades and are feature"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 30,
+    "y": 5262,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 30,
+    "y": 5311,
+    "w": 300,
+    "h": 320,
+    "text": "Public water fluoridation may be under serious scrutiny, but most dentists and r"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 30,
+    "y": 5587,
+    "w": 257,
+    "h": 40,
+    "text": "click here to learn more about omyadent® 100 for remineralization",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h3",
+    "x": 30,
+    "y": 5646,
+    "w": 300,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 5690,
+    "w": 279,
+    "h": 146,
+    "text": "National Childrens Dental Health Month | American Dental Association. www.ada.or"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5760,
+    "w": 302,
+    "h": 63,
+    "text": "https://www.ada.org/resources/community-initiatives/national-childrens-dental-he",
+    "href": "/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 5836,
+    "w": 279,
+    "h": 169,
+    "text": "National Institute of Dental and Craniofacial Research. . Nih.gov. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5952,
+    "w": 284,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/research/data-statistics/dental-caries/adults",
+    "href": "/research/data-statistics/dental-caries/adults"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6005,
+    "w": 279,
+    "h": 169,
+    "text": "National Institute of Dental and Craniofacial Research. The Story of Fluoridatio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6121,
+    "w": 252,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation",
+    "href": "/health-info/fluoride/the-story-of-fluoridation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6173,
+    "w": 279,
+    "h": 146,
+    "text": "‌CDC. Timeline for Community Water Fluoridation. Community Water Fluoridation. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6244,
+    "w": 289,
+    "h": 63,
+    "text": "https://www.cdc.gov/fluoridation/timeline-for-community-water-fluoridation/index",
+    "href": "/fluoridation/timeline-for-community-water-fluoridation/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6319,
+    "w": 279,
+    "h": 192,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6481,
+    "w": 356,
+    "h": 17,
+    "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+    "href": "/10.1002/14651858.CD010856.pub3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6511,
+    "w": 279,
+    "h": 192,
+    "text": "Choi AL, Sun G, Zhang Y, Grandjean P. Developmental fluoride neurotoxicity: a sy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6703,
+    "w": 279,
+    "h": 146,
+    "text": "Dear Dental Professional. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6728,
+    "w": 287,
+    "h": 108,
+    "text": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources",
+    "href": "/-/media/project/ada-organization/ada/ada-org/files/resources/public-programs/give-kids-a-smile/ada-gkasts-eng_dental_professionals.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6849,
+    "w": 279,
+    "h": 146,
+    "text": "gov. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6897,
+    "w": 231,
+    "h": 63,
+    "text": "https://www.ecfr.gov/current/title-21/chapter-i/subchapter-d/part-355/subpart-b/",
+    "href": "/current/title-21/chapter-I/subchapter-D/part-355/subpart-B/section-355.20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 6995,
+    "w": 279,
+    "h": 100,
+    "text": "Semiconductor Research Leads to Revolution in Dental Care | NASA Spinoff. spinof"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 7066,
+    "w": 650,
+    "h": 17,
+    "text": "https://spinoff.nasa.gov/semiconductor_research_leads_to_a_revolution_in_dental_",
+    "href": "/Semiconductor_Research_Leads_to_a_Revolution_in_Dental_Care"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 7095,
+    "w": 279,
+    "h": 100,
+    "text": "‌ MILESTONES. SANGI CO.,LTD. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 7120,
+    "w": 203,
+    "h": 40,
+    "text": "https://www.sangi-co.com/en/history/index.html",
+    "href": "/en/history/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 51,
+    "y": 7196,
+    "w": 279,
+    "h": 55,
+    "text": "Nesta, J. (2025, July). New Products Database search. Mintel."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 7401,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 7837,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 7887,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 8036,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 8036,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 8115,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 8134,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 8224,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 8225,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 8225,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 8225,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 8242,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 8259,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 8259,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 1,
+    "textNodes": 103,
+    "controls": 33,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": null,
+     "path": "div.entry-summary > ol > li > a",
+     "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+     "cutMin": 47,
+     "cutMax": 341
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "div.entry-summary > div#attachment_64740 > p#caption-attachment-64740 > em",
+     "text": "figure 1: graph of new oral hygiene products cataloged in mi",
+     "cutMin": 311,
+     "cutMax": 311
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+  "at": "2026-11-17T21:20:43.182Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8111,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 604,
+    "text": "",
+    "file": "media_16677ba28534d62bcfeb2e132c19c2d04d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 216,
+    "level": 1,
+    "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 504,
+    "w": 330,
+    "h": 69,
+    "text": "/ / / Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 64,
+    "y": 506,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 120,
+    "y": 506,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 188,
+    "y": 506,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 48,
+    "y": 728,
+    "w": 126,
+    "h": 17,
+    "text": "February 6, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#national-toothache-day",
+    "x": 30,
+    "y": 769,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "national toothache day"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 851,
+    "w": 300,
+    "h": 251,
+    "text": "February is National Children’s Dental Health Month and on the ninth day of Febr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1112,
+    "w": 300,
+    "h": 274,
+    "text": "Fluoride has been one of the most instrumental tools for improving oral health o"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#fluoride-history",
+    "x": 30,
+    "y": 1406,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "fluoride history"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1455,
+    "w": 300,
+    "h": 343,
+    "text": "The protective benefits of fluoride were discovered as a result of the negative "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1807,
+    "w": 300,
+    "h": 320,
+    "text": "A study published in 1942, including over 7000 adolescent children from more tha"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#why-is-fluoride-under-scrutiny",
+    "x": 30,
+    "y": 2147,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "why is fluoride under scrutiny?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 2229,
+    "w": 300,
+    "h": 274,
+    "text": "Fluoride has been in the headlines recently, but the truth is that public water "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 2513,
+    "w": 300,
+    "h": 297,
+    "text": "Modern studies on the benefits of public water fluoridation have demonstrated a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 2820,
+    "w": 300,
+    "h": 434,
+    "text": "Media and political sensationalism around this scrutiny has had a halo effect on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#hydroxyapatite",
+    "x": 30,
+    "y": 3274,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "hydroxyapatite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3323,
+    "w": 300,
+    "h": 343,
+    "text": "Fluoride is not the only ingredient clinically proven to reduce, prevent, or rep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3676,
+    "w": 300,
+    "h": 343,
+    "text": "The adoption of hydroxyapatite outside of Japan has been very slow. This is due,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.figure-media > picture > img",
+    "x": 30,
+    "y": 4033,
+    "w": 300,
+    "h": 226,
+    "text": "graph of new oral hygiene products",
+    "file": "media_112a1cf6912affcd957fc412146ca15f28"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > p.figure-caption > em",
+    "x": 30,
+    "y": 4262,
+    "w": 299,
+    "h": 131,
+    "text": "Figure 1: Graph of new oral hygiene products cataloged in Mintel NPD between Jan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 4412,
+    "w": 300,
+    "h": 617,
+    "text": "Fluoride-free toothpastes have been widely available for decades and are feature"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#conclusion",
+    "x": 30,
+    "y": 5049,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 5097,
+    "w": 300,
+    "h": 320,
+    "text": "Public water fluoridation may be under serious scrutiny, but most dentists and r"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 30,
+    "y": 5373,
+    "w": 257,
+    "h": 40,
+    "text": "click here to learn more about omyadent® 100 for remineralization",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#references",
+    "x": 30,
+    "y": 5432,
+    "w": 300,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5476,
+    "w": 279,
+    "h": 146,
+    "text": "National Childrens Dental Health Month | American Dental Association. www.ada.or"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5546,
+    "w": 302,
+    "h": 63,
+    "text": "https://www.ada.org/resources/community-initiatives/national-childrens-dental-he",
+    "href": "/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5622,
+    "w": 279,
+    "h": 169,
+    "text": "National Institute of Dental and Craniofacial Research. . Nih.gov. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5738,
+    "w": 284,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/research/data-statistics/dental-caries/adults",
+    "href": "/research/data-statistics/dental-caries/adults"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5791,
+    "w": 279,
+    "h": 169,
+    "text": "National Institute of Dental and Craniofacial Research. The Story of Fluoridatio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5907,
+    "w": 252,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation",
+    "href": "/health-info/fluoride/the-story-of-fluoridation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5960,
+    "w": 279,
+    "h": 146,
+    "text": "‌CDC. Timeline for Community Water Fluoridation. Community Water Fluoridation. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6030,
+    "w": 289,
+    "h": 63,
+    "text": "https://www.cdc.gov/fluoridation/timeline-for-community-water-fluoridation/index",
+    "href": "/fluoridation/timeline-for-community-water-fluoridation/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6106,
+    "w": 279,
+    "h": 192,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6268,
+    "w": 356,
+    "h": 17,
+    "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+    "href": "/10.1002/14651858.CD010856.pub3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6298,
+    "w": 279,
+    "h": 192,
+    "text": "Choi AL, Sun G, Zhang Y, Grandjean P. Developmental fluoride neurotoxicity: a sy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6489,
+    "w": 279,
+    "h": 146,
+    "text": "Dear Dental Professional. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6514,
+    "w": 287,
+    "h": 108,
+    "text": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources",
+    "href": "/-/media/project/ada-organization/ada/ada-org/files/resources/public-programs/give-kids-a-smile/ada-gkasts-eng_dental_professionals.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6635,
+    "w": 279,
+    "h": 146,
+    "text": "gov. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6683,
+    "w": 231,
+    "h": 63,
+    "text": "https://www.ecfr.gov/current/title-21/chapter-i/subchapter-d/part-355/subpart-b/",
+    "href": "/current/title-21/chapter-I/subchapter-D/part-355/subpart-B/section-355.20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6781,
+    "w": 279,
+    "h": 100,
+    "text": "Semiconductor Research Leads to Revolution in Dental Care | NASA Spinoff. spinof"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6852,
+    "w": 650,
+    "h": 17,
+    "text": "https://spinoff.nasa.gov/semiconductor_research_leads_to_a_revolution_in_dental_",
+    "href": "/Semiconductor_Research_Leads_to_a_Revolution_in_Dental_Care"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6882,
+    "w": 279,
+    "h": 100,
+    "text": "‌ MILESTONES. SANGI CO.,LTD. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 6907,
+    "w": 203,
+    "h": 40,
+    "text": "https://www.sangi-co.com/en/history/index.html",
+    "href": "/en/history/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 6982,
+    "w": 279,
+    "h": 55,
+    "text": "Nesta, J. (2025, July). New Products Database search. Mintel."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 7187,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 7623,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 7688,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 7822,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 7822,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 7901,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 7920,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 8010,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 8011,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 8011,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 8011,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 8028,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 8045,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 8045,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 15,
+    "textNodes": 102,
+    "controls": 37,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": null,
+     "path": "div.default-content-wrapper > ol > li > a",
+     "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+     "cutMin": 47,
+     "cutMax": 341
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 47,
+     "path": "div.default-content-wrapper > ol > li > a",
+     "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+     "clipper": null,
+     "rect": {
+      "l": 51,
+      "t": 6268,
+      "r": 407,
+      "b": 6285,
+      "w": 356,
+      "h": 17
+     },
+     "clip": null,
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 341,
+     "path": "div.default-content-wrapper > ol > li > a",
+     "text": "https://spinoff.nasa.gov/semiconductor_research_leads_to_a_r",
+     "clipper": null,
+     "rect": {
+      "l": 51,
+      "t": 6852,
+      "r": 701,
+      "b": 6869,
+      "w": 650,
+      "h": 17
+     },
+     "clip": null,
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "national toothache day",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "fluoride history",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "why is fluoride under scrutiny?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "hydroxyapatite",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "references",
+   "variable": false,
+   "origin": {
+    "link": 9,
+    "button": 0,
+    "text": 11,
+    "image": 0
+   },
+   "eds": {
+    "link": 9,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 11,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"fluoride, hydroxyapatite, and the fight against tooth decay\" (y 273) has no origin heading",
+   "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "blog"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 6,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 6,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 104,
+    "y": 274,
+    "w": 152,
+    "h": 41
+   },
+   {
+    "x": 45,
+    "y": 317,
+    "w": 270,
+    "h": 41
+   },
+   {
+    "x": 67,
+    "y": 360,
+    "w": 226,
+    "h": 41
+   },
+   {
+    "x": 60,
+    "y": 404,
+    "w": 239,
+    "h": 41
+   },
+   {
+    "x": 127,
+    "y": 447,
+    "w": 106,
+    "h": 41
+   },
+   {
+    "x": 64,
+    "y": 506,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 107,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 120,
+    "y": 506,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 188,
+    "y": 506,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 220,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 506,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 25,
+    "y": 529,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 157,
+    "y": 552,
+    "w": 45,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 728,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 769,
+    "w": 258,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 803,
+    "w": 51,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 853,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 875,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 898,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 921,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 944,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 967,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 990,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1013,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1035,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1058,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1081,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 281,
+    "y": 1081,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1114,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1137,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1160,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1182,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1205,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1228,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 98,
+    "y": 1228,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 104,
+    "y": 1228,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1251,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1274,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1297,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1320,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1342,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1365,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 321,
+    "y": 1365,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1407,
+    "w": 215,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1457,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1479,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1502,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1525,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1548,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 1548,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 1548,
+    "w": 206,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1571,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1594,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 289,
+    "y": 1593,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 295,
+    "y": 1594,
+    "w": 28,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1617,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1639,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1662,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1685,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1708,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1731,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1754,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1776,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1809,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1832,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1855,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1878,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1901,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1924,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1946,
+    "w": 241,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1969,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1992,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2015,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2038,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2061,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2083,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2106,
+    "w": 153,
+    "h": 17
+   },
+   {
+    "x": 183,
+    "y": 2106,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2148,
+    "w": 294,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2182,
+    "w": 129,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2231,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2254,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2277,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2300,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2323,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2346,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2368,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2391,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2414,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2437,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2460,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2483,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2515,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2538,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2561,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2584,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 81,
+    "y": 2583,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 87,
+    "y": 2584,
+    "w": 181,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2607,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2630,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2652,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2675,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2698,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2721,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2744,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2767,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2790,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 81,
+    "y": 2789,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2822,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2845,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2868,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2891,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2914,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2937,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2959,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2982,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3005,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3028,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3051,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3074,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3097,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3119,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 304,
+    "y": 3119,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3142,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3165,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3188,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3211,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3234,
+    "w": 128,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 3233,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3275,
+    "w": 202,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3325,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3348,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3371,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3394,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3416,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3439,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3462,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3485,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3508,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3531,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3553,
+    "w": 209,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3576,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3599,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3622,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 311,
+    "y": 3622,
+    "w": 10,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3632,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3655,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3678,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3701,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3723,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3746,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3769,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3792,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3815,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3838,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3860,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3883,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3906,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3929,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3952,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3975,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4537,
+    "w": 641,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4560,
+    "w": 613,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4583,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 327,
+    "y": 4582,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 4628,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4650,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4673,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4696,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4719,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4742,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4765,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4787,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4810,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4833,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4856,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4879,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4902,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4925,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4947,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4970,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4993,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5016,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5039,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5062,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5084,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5107,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5130,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5153,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 257,
+    "y": 5152,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 5176,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5199,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5221,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5263,
+    "w": 152,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 5313,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5336,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5359,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5381,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5404,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5427,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5450,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5473,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5496,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5519,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5541,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5564,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5587,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5610,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 287,
+    "y": 5610,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5646,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 5692,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5714,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5737,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5760,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5783,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5806,
+    "w": 93,
+    "h": 17
+   },
+   {
+    "x": 144,
+    "y": 5806,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5838,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5860,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 217,
+    "y": 5860,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5883,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5906,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5929,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 208,
+    "y": 5929,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5952,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5975,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 256,
+    "y": 5975,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6007,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6029,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6052,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6075,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6098,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6121,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6144,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 303,
+    "y": 6144,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6175,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6198,
+    "w": 220,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6221,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6244,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6267,
+    "w": 151,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6290,
+    "w": 156,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 6290,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6321,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6344,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6367,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6390,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6413,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6436,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6459,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6481,
+    "w": 356,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6513,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6536,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6559,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6582,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6605,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6627,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6650,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6673,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6705,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6728,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6751,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6774,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6796,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6819,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 312,
+    "y": 6819,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6851,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6874,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 128,
+    "y": 6874,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6897,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6920,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6942,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6965,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6997,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7020,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7043,
+    "w": 178,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7066,
+    "w": 650,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7097,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7120,
+    "w": 130,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7143,
+    "w": 203,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7166,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7198,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7221,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 7402,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 7848,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 7902,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7913,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7924,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7935,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 8225,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 8225,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 8225,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 8225,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 8225,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 8242,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 8242,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 8242,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 8259,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 8259,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 8259,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 104,
+    "y": 274,
+    "w": 152,
+    "h": 41
+   },
+   {
+    "x": 45,
+    "y": 317,
+    "w": 270,
+    "h": 41
+   },
+   {
+    "x": 67,
+    "y": 360,
+    "w": 226,
+    "h": 41
+   },
+   {
+    "x": 60,
+    "y": 404,
+    "w": 239,
+    "h": 41
+   },
+   {
+    "x": 127,
+    "y": 447,
+    "w": 106,
+    "h": 41
+   },
+   {
+    "x": 64,
+    "y": 506,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 107,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 120,
+    "y": 506,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 188,
+    "y": 506,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 220,
+    "y": 506,
+    "w": 76,
+    "h": 17
+   },
+   {
+    "x": 25,
+    "y": 529,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 157,
+    "y": 552,
+    "w": 45,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 728,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 770,
+    "w": 258,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 803,
+    "w": 51,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 853,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 876,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 898,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 921,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 944,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 967,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 990,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1013,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1035,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1058,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1081,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 281,
+    "y": 1080,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1114,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1137,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1160,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1183,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1205,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1228,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 98,
+    "y": 1227,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 104,
+    "y": 1228,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1251,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1274,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1297,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1320,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1342,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1365,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 321,
+    "y": 1364,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1407,
+    "w": 215,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1457,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1480,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1502,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1525,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1548,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 1548,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 1548,
+    "w": 206,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1571,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1594,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 289,
+    "y": 1592,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 295,
+    "y": 1594,
+    "w": 28,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1617,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1639,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1662,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1685,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1708,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1731,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1754,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1777,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1809,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1832,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1855,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1878,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1901,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1924,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1946,
+    "w": 241,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1969,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1992,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2015,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2038,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2061,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2083,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2106,
+    "w": 153,
+    "h": 17
+   },
+   {
+    "x": 183,
+    "y": 2105,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2148,
+    "w": 294,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2182,
+    "w": 129,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2231,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2254,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2277,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2300,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2323,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2346,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2368,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2391,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2414,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2437,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2460,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2483,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2515,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2538,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2561,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2584,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 81,
+    "y": 2582,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 87,
+    "y": 2584,
+    "w": 181,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2607,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2630,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2653,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2675,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2698,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2721,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2744,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2767,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2790,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 81,
+    "y": 2788,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2822,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2845,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2868,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2891,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2914,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2937,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2960,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2982,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3005,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3028,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3051,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3074,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3097,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3119,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 304,
+    "y": 3118,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3142,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3165,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3188,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3211,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3234,
+    "w": 128,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 3232,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3275,
+    "w": 202,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3325,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3348,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3371,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3394,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3416,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3439,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3462,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3485,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3508,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3531,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3554,
+    "w": 209,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3576,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3599,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3622,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 311,
+    "y": 3620,
+    "w": 10,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3643,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3678,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3701,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3723,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3746,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3769,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3792,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3815,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3838,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3860,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3883,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3906,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3929,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3952,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3975,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3998,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4262,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4285,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4307,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4330,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4353,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4376,
+    "w": 161,
+    "h": 17
+   },
+   {
+    "x": 191,
+    "y": 4374,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 4414,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4437,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4460,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4482,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4505,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4528,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4551,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4574,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4597,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4619,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4642,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4665,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4688,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4711,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4734,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4757,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4779,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4802,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4825,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4848,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4871,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4894,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4916,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4939,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 257,
+    "y": 4938,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 4962,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4985,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5008,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5050,
+    "w": 152,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 5099,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5122,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5145,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5168,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5191,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5213,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5236,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5259,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5282,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5305,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5328,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5351,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5373,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5396,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 287,
+    "y": 5396,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5432,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 5478,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5501,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5524,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5546,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5569,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5592,
+    "w": 93,
+    "h": 17
+   },
+   {
+    "x": 144,
+    "y": 5592,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5624,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5647,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 217,
+    "y": 5647,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5670,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5692,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5715,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 208,
+    "y": 5715,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5738,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5761,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 256,
+    "y": 5761,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5793,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5816,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5838,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5861,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5884,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5907,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5930,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 303,
+    "y": 5930,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5962,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5985,
+    "w": 220,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6007,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6030,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6053,
+    "w": 151,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6076,
+    "w": 156,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 6076,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6108,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6131,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6153,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6176,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6199,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6222,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6245,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6268,
+    "w": 356,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6300,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6322,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6345,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6368,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6391,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6414,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6437,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6459,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6491,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6514,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6537,
+    "w": 155,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6560,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6583,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6605,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 312,
+    "y": 6605,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6637,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6660,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 128,
+    "y": 6660,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6683,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6706,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6729,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6752,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6783,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6806,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6829,
+    "w": 178,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6852,
+    "w": 650,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6884,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6907,
+    "w": 130,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6929,
+    "w": 203,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6952,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 6984,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 7007,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 7188,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 7634,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 7688,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7699,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7710,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 7721,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 8011,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 8011,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 8011,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 8011,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 8011,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 8028,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 8028,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 8028,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 8045,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 8045,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 8045,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

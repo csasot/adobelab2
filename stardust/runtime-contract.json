@@ -1,0 +1,17 @@
+{
+  "runtime": "vanilla-eds",
+  "probedFrom": ["scripts/scripts.js", "scripts/aem.js"],
+  "probedAt": "2026-11-17",
+  "blockWrapperClass": "block",
+  "blockWrapper": "div.<name>-wrapper around div.<name>.block[data-block-name]; section gains .<name>-container",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "buttonRule": "p a[href] alone in its <p>, wrapped in <strong> (primary) / <em> (secondary) / both (accent); links containing <img> and URL-display links are skipped",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "sectionMetadata": "server-side (no client decorateSectionMetadata in aem.js)",
+  "wrapTextNodes": true,
+  "emptySectionCollapse": true,
+  "chrome": "header/footer blocks in loadLazy; /nav and /footer via loadFragment (.plain.html)",
+  "fontsLoader": "loadFonts(): styles/fonts.css eager on >=900px or fonts-loaded session flag, always in loadLazy",
+  "martech": "scripts/martech.js loadConsent() in loadEager; consent-check.js in loadDelayed; every part disabled"
+}

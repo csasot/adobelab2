@@ -1,0 +1,85 @@
+/* figure — source theme: img.aligncenter / alignleft / alignright, .wp-caption (style.css 1210ff),
+   mobile `.entry-summary img { display: block; float: none; width: 100%; margin: 15px 0 }` */
+.figure {
+  margin: 15px 0;
+}
+
+.figure .figure-media {
+  margin: 0;
+}
+
+/* float + wrapped text: the block ends below both and keeps the text's last margin (the source's
+   bootstrap .clearfix after the text — margins still collapse in at the top) */
+.figure.has-text {
+  margin: 0;
+}
+
+.figure.has-text::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.figure img {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding-bottom: var(--figure-pb, 0);
+}
+
+/* bootstrap .img-thumbnail */
+.figure.thumbnail img {
+  padding: 4px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* the source's inline 50% width + 20px padding beats its mobile full-width rule */
+.figure.half img {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+@media (width >= 768px) {
+  .figure {
+    margin: 12px auto;
+  }
+
+  .figure img {
+    width: var(--figure-w, auto);
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .figure.left:not(.has-text),
+  .figure.has-text.left .figure-media-cell {
+    float: left;
+    margin: 12px 24px 12px 0;
+  }
+
+  .figure.right:not(.has-text),
+  .figure.has-text.right .figure-media-cell {
+    float: right;
+    margin: 12px 0 12px 24px;
+  }
+
+
+  .figure.start img {
+    margin: 0;
+  }
+
+  .figure.end img {
+    margin: 0 0 0 auto;
+  }
+
+}
+
+/* variant `line-after`: the source's <br> right after the image opens the next paragraph with an
+   empty line (the document pipeline drops a leading <br>, so the figure carries it) */
+.figure-wrapper:has(> .figure.line-after) + .default-content-wrapper > p:first-child::before {
+  content: "";
+  display: block;
+  height: 1lh;
+}

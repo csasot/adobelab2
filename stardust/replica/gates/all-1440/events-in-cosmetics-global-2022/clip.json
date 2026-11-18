@@ -1,0 +1,36 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022",
+ "at": "2026-11-17T21:06:43.174Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 0,
+  "offPage": 0,
+  "textNodes": 44,
+  "controls": 34,
+  "total": 0
+ },
+ "groups": [],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 0,
+   "offPage": 0,
+   "textNodes": 45,
+   "controls": 34,
+   "total": 0
+  }
+ }
+}

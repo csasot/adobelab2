@@ -143,11 +143,37 @@ function decorateButtons(main) {
 }
 
 /**
+ * Locks each delivered image to the aspect ratio of its original upload (the pipeline's
+ * width/height attributes): the 750/2000px renditions round their height, which shifts
+ * every following section by fractions of a pixel against the source. Applied once the image
+ * has loaded (its block CSS is in by then) and only where the ratio maps onto the content box
+ * (content-box sizing, or no border/padding).
+ * @param {Element} main The container element
+ */
+function lockImageRatios(main) {
+  main.querySelectorAll('picture img[width][height]').forEach((img) => {
+    const w = Number(img.getAttribute('width'));
+    const h = Number(img.getAttribute('height'));
+    if (!(w > 0 && h > 0)) return;
+    const lock = () => {
+      const cs = getComputedStyle(img);
+      const box = ['Top', 'Right', 'Bottom', 'Left']
+        .reduce((sum, k) => sum + parseFloat(cs[`border${k}Width`]) + parseFloat(cs[`padding${k}`]), 0);
+      if (cs.boxSizing === 'border-box' && box > 0) return;
+      img.style.aspectRatio = `${w} / ${h}`;
+    };
+    if (img.complete) requestAnimationFrame(lock);
+    else img.addEventListener('load', lock, { once: true });
+  });
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
 // eslint-disable-next-line import/prefer-default-export
 export function decorateMain(main) {
+  lockImageRatios(main);
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
@@ -160,6 +186,7 @@ export function decorateMain(main) {
  * @param {Element} doc The container element
  */
 async function loadEager(doc) {
+  import('./martech.js').then((m) => m.loadConsent());
   document.documentElement.lang = 'en';
   decorateTemplateAndTheme();
   const main = doc.querySelector('main');

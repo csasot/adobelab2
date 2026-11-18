@@ -1,0 +1,32 @@
+unit-geometry @ 1440px, tol 4px — https://omyapersonalcare.us/about/ vs http://localhost:8791/about-proposed.html
+unit 1 of insights-post-tile (required) #insights-section .featured-post=.post-tile: origin 144,2997 427×270 vs served 144,2997 427×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "may 6, 2026" | 5,25 118×43 | 5,25 118×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "how 2025 reshaped oral health: fluor" | 20,181 387×69 | 20,181 387×69 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of alt-row (required) .alternating-rows=.alt-row: origin 0,760 1440×550 vs served 0,760 1440×550 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| heading "the omya difference" | 844,159 516×43 | 844,159 516×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya" | 918,160 100×41 | 918,160 100×41 | 0 | 0 | 0 | 0 | ✓ |
+| text "we truly believe in the unique power" | 844,217 516×114 | 844,217 516×114 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 841,351 285×40 | 841,351 285×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn about the omya difference" | 844,351 278×40 | 844,351 278×40 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of alt-row (required) .alternating-rows=.alt-row: origin 0,1320 1440×550 vs served 0,1320 1440×550 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| heading "our exceptional team" | 80,159 516×43 | 80,159 516×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "exceptional" | 154,160 202×41 | 154,160 202×41 | 0 | 0 | 0 | 0 | ✓ |
+| text "at omya, we believe in transparency." | 80,217 516×114 | 80,217 516×114 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 76,351 245×40 | 76,351 245×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn more about our team" | 80,351 238×40 | 80,351 238×40 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of alt-row (required) .alternating-rows=.alt-row: origin 0,1880 1440×550 vs served 0,1880 1440×550 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| heading "global partners" | 844,159 516×43 | 844,159 516×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "global" | 844,160 112×41 | 844,160 112×41 | 0 | 0 | 0 | 0 | ✓ |
+| text "as a leading provider of high-qualit" | 844,217 516×114 | 844,217 516×114 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 841,351 276×40 | 841,351 276×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn about our global partners" | 844,351 269×40 | 844,351 269×40 | 0 | 0 | 0 | 0 | ✓ |
+Units: 4 compared; elements within 17, off 0, hidden 0, missing 0 → PASS
+json → stardust/replica/gates/about-1440/units-iter3.json

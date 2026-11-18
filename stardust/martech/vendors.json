@@ -1,0 +1,40 @@
+{
+ "pages": 6,
+ "vendors": [
+  {
+   "host": "omyapersonalcare.us",
+   "pages": 6,
+   "firstParty": true,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  },
+  {
+   "host": "www.google.com",
+   "pages": 6,
+   "firstParty": false,
+   "role": null,
+   "class": null,
+   "inCsp": true
+  },
+  {
+   "host": "www.youtube.com",
+   "pages": 1,
+   "firstParty": false,
+   "role": "video: YouTube",
+   "class": "V",
+   "inCsp": true
+  }
+ ],
+ "inline": {
+  "dataLayer": 6
+ },
+ "cspHosts": [
+  "sdk.privacy-center.org",
+  "api.privacy-center.org",
+  "www.google-analytics.com",
+  "www.google.com",
+  "analytics.google.com",
+  "www.youtube.com"
+ ]
+}

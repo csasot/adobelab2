@@ -1,0 +1,3265 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T20:59:46.873Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+  "at": "2026-11-17T20:59:29.864Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3264,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/national-toothache-day-february-9th/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "national toothache day – february 9th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 496,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 552,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 621,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 8, 2023"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h2",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "february 9th is national toothache day."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 909,
+    "w": 843,
+    "h": 46,
+    "text": "It’s not a celebration of toothaches, but a gentle reminder of the importance of"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 313,
+    "y": 966,
+    "w": 843,
+    "h": 474,
+    "text": "",
+    "file": "national-toothache-day-1536x864"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h3",
+    "x": 313,
+    "y": 1456,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "what causes toothaches?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 1500,
+    "w": 843,
+    "h": 91,
+    "text": "There are many possible causes of tooth pain. Sharp pains are usually created wh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1611,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "omya’s oral care offering"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 1669,
+    "w": 843,
+    "h": 23,
+    "text": "Omya offers a variety of natural ingredient solutions to formulate preventative "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h3",
+    "x": 313,
+    "y": 1707,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyacare ® natural calcium carbonates"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 1751,
+    "w": 843,
+    "h": 46,
+    "text": "Natural (ground) calcium carbonate mildly abrasive particles for toothpaste help"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h3",
+    "x": 313,
+    "y": 1812,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyadent ® 100-og"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 1855,
+    "w": 843,
+    "h": 46,
+    "text": "A novel and natural remineralization agent consisting of hydroxyapatite and calc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h3",
+    "x": 313,
+    "y": 1916,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyadent ® 200-og"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > p",
+    "x": 313,
+    "y": 1960,
+    "w": 843,
+    "h": 46,
+    "text": "A novel and natural anti-sensitivity agent* consisting of calcium carbonate and "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4004 > div.entry-summary > h2",
+    "x": 313,
+    "y": 2026,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "formulating innovative toothpastes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a",
+    "x": 313,
+    "y": 2086,
+    "w": 806,
+    "h": 17,
+    "text": "fortify natural remineralizing toothpaste with cosmos approved omyacare ® s 95-o",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a",
+    "x": 313,
+    "y": 2119,
+    "w": 649,
+    "h": 17,
+    "text": "desensitizing toothpaste with locally sourced omyacare ® s 70-az and omyadent ® ",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > small > strong",
+    "x": 313,
+    "y": 2182,
+    "w": 78,
+    "h": 15,
+    "text": "References;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 331,
+    "y": 2210,
+    "w": 825,
+    "h": 26,
+    "text": "Tooth Pain. American Association of Endodontists."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 602,
+    "y": 2211,
+    "w": 306,
+    "h": 14,
+    "text": "https://www.aae.org/patients/dental-symptoms/tooth-pain/",
+    "href": "/patients/dental-symptoms/tooth-pain/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 331,
+    "y": 2236,
+    "w": 825,
+    "h": 26,
+    "text": "Dealing with tooth pain. Journal of the American Dental Association."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 694,
+    "y": 2237,
+    "w": 310,
+    "h": 14,
+    "text": "https://jada.ada.org/article/s0002-8177(19)30489-1/fulltext",
+    "href": "/article/S0002-8177(19)30489-1/fulltext"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 265,
+    "y": 2412,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 1060,
+    "y": 2858,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/national-toothache-day-february-9th/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 265,
+    "y": 2858,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 2988,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 3067,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 3086,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 2988,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 2988,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 3034,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 2988,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 3034,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 3057,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 3080,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 3103,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 3126,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 2988,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 3034,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 3057,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 2988,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 3034,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 3179,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 3180,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 3180,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 3180,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 3197,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 3197,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 3197,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 86,
+    "controls": 39,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/national-toothache-day-february-9th",
+  "at": "2026-11-17T20:59:46.775Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3264,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/national-toothache-day-february-9th"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 728,
+    "text": "",
+    "file": "media_1eecbe0e4b5a35eb6fdcd5c8928bd8653f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#national-toothache-day--february-9th",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "national toothache day – february 9th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / / National Toothache Day – February 9th"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 496,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 552,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 621,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 8, 2023"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#february-9th-is-national-toothache-day",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "february 9th is national toothache day."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 909,
+    "w": 843,
+    "h": 46,
+    "text": "It’s not a celebration of toothaches, but a gentle reminder of the importance of"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 313,
+    "y": 967,
+    "w": 843,
+    "h": 474,
+    "text": "",
+    "file": "media_11fac21e11ee97aa7bd99127ef7bf6e48d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#what-causes-toothaches",
+    "x": 313,
+    "y": 1456,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "what causes toothaches?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1500,
+    "w": 843,
+    "h": 91,
+    "text": "There are many possible causes of tooth pain. Sharp pains are usually created wh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#omyas-oral-care-offering",
+    "x": 313,
+    "y": 1611,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "omya’s oral care offering"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1669,
+    "w": 843,
+    "h": 23,
+    "text": "Omya offers a variety of natural ingredient solutions to formulate preventative "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#omyacare-natural-calcium-carbonates",
+    "x": 313,
+    "y": 1707,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyacare ® natural calcium carbonates"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1751,
+    "w": 843,
+    "h": 46,
+    "text": "Natural (ground) calcium carbonate mildly abrasive particles for toothpaste help"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#omyadent-100-og",
+    "x": 313,
+    "y": 1812,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyadent ® 100-og"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1855,
+    "w": 843,
+    "h": 46,
+    "text": "A novel and natural remineralization agent consisting of hydroxyapatite and calc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#omyadent-200-og",
+    "x": 313,
+    "y": 1916,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "omyadent ® 200-og"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1960,
+    "w": 843,
+    "h": 46,
+    "text": "A novel and natural anti-sensitivity agent* consisting of calcium carbonate and "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#formulating-innovative-toothpastes",
+    "x": 313,
+    "y": 2026,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "formulating innovative toothpastes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2086,
+    "w": 806,
+    "h": 17,
+    "text": "fortify natural remineralizing toothpaste with cosmos approved omyacare ® s 95-o",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2119,
+    "w": 649,
+    "h": 17,
+    "text": "desensitizing toothpaste with locally sourced omyacare ® s 70-az and omyadent ® ",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 313,
+    "y": 2182,
+    "w": 78,
+    "h": 15,
+    "text": "References;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 2210,
+    "w": 822,
+    "h": 26,
+    "text": "Tooth Pain. American Association of Endodontists."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 605,
+    "y": 2211,
+    "w": 306,
+    "h": 14,
+    "text": "https://www.aae.org/patients/dental-symptoms/tooth-pain/",
+    "href": "/patients/dental-symptoms/tooth-pain/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 2236,
+    "w": 822,
+    "h": 26,
+    "text": "Dealing with tooth pain. Journal of the American Dental Association."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 697,
+    "y": 2237,
+    "w": 310,
+    "h": 14,
+    "text": "https://jada.ada.org/article/s0002-8177(19)30489-1/fulltext",
+    "href": "/article/S0002-8177(19)30489-1/fulltext"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 265,
+    "y": 2412,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 1060,
+    "y": 2858,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/national-toothache-day-february-9th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 265,
+    "y": 2858,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 2988,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 3067,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 3086,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 2988,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 2988,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 3034,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 2988,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3034,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3057,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3080,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3103,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3126,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 2988,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 3034,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 3057,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 2988,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 3034,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 3179,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 3180,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 3180,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 3180,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 3197,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 3197,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 3197,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/national-toothache-day-february-9th"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 39,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "february 9th is national toothache day.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "what causes toothaches?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "omya’s oral care offering",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "omyacare ® natural calcium carbonates",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "omyadent ® 100-og",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "omyadent ® 200-og",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "formulating innovative toothpastes",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"national toothache day – february 9th\" (y 342) has no origin heading",
+   "text": "national toothache day – february 9th"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 319,
+    "y": 344,
+    "w": 802,
+    "h": 53
+   },
+   {
+    "x": 684,
+    "y": 402,
+    "w": 72,
+    "h": 53
+   },
+   {
+    "x": 496,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 539,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 552,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 621,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 653,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 666,
+    "y": 474,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 683,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 752,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 493,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1456,
+    "w": 296,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1502,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1524,
+    "w": 816,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1547,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1570,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 578,
+    "y": 1570,
+    "w": 19,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1612,
+    "w": 451,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1671,
+    "w": 708,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1707,
+    "w": 116,
+    "h": 27
+   },
+   {
+    "x": 429,
+    "y": 1707,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 442,
+    "y": 1707,
+    "w": 328,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1753,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1776,
+    "w": 712,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1812,
+    "w": 117,
+    "h": 27
+   },
+   {
+    "x": 431,
+    "y": 1812,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 443,
+    "y": 1812,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1857,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 1062,
+    "y": 1857,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1070,
+    "y": 1857,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1880,
+    "w": 679,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1916,
+    "w": 117,
+    "h": 27
+   },
+   {
+    "x": 431,
+    "y": 1916,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 443,
+    "y": 1916,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1962,
+    "w": 743,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 1961,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1064,
+    "y": 1962,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1985,
+    "w": 548,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2027,
+    "w": 617,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2086,
+    "w": 551,
+    "h": 17
+   },
+   {
+    "x": 864,
+    "y": 2085,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 873,
+    "y": 2086,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 1050,
+    "y": 2085,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1058,
+    "y": 2086,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2119,
+    "w": 399,
+    "h": 17
+   },
+   {
+    "x": 712,
+    "y": 2118,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 721,
+    "y": 2119,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 893,
+    "y": 2118,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 901,
+    "y": 2119,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2182,
+    "w": 78,
+    "h": 15
+   },
+   {
+    "x": 331,
+    "y": 2211,
+    "w": 270,
+    "h": 14
+   },
+   {
+    "x": 602,
+    "y": 2211,
+    "w": 306,
+    "h": 14
+   },
+   {
+    "x": 331,
+    "y": 2237,
+    "w": 363,
+    "h": 14
+   },
+   {
+    "x": 694,
+    "y": 2237,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 265,
+    "y": 2413,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 2869,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2858,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 2869,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 2997,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2997,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3033,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2997,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 3033,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3056,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3079,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3102,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3125,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2997,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 3033,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3056,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2997,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 3033,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 3180,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 3180,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 3180,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 3180,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 3180,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 3197,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 3197,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 3197,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 3197,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 3197,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 3197,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 319,
+    "y": 344,
+    "w": 802,
+    "h": 53
+   },
+   {
+    "x": 684,
+    "y": 402,
+    "w": 72,
+    "h": 53
+   },
+   {
+    "x": 496,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 539,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 552,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 621,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 653,
+    "y": 474,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 683,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 752,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 493,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1456,
+    "w": 296,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1502,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1525,
+    "w": 816,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1547,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1570,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 578,
+    "y": 1569,
+    "w": 19,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1612,
+    "w": 451,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1671,
+    "w": 708,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1707,
+    "w": 116,
+    "h": 27
+   },
+   {
+    "x": 429,
+    "y": 1706,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 442,
+    "y": 1707,
+    "w": 328,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1753,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1776,
+    "w": 712,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1812,
+    "w": 117,
+    "h": 27
+   },
+   {
+    "x": 431,
+    "y": 1810,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 443,
+    "y": 1812,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1857,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 1062,
+    "y": 1856,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1070,
+    "y": 1857,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1880,
+    "w": 679,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1916,
+    "w": 117,
+    "h": 27
+   },
+   {
+    "x": 431,
+    "y": 1915,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 443,
+    "y": 1916,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 313,
+    "y": 1962,
+    "w": 743,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 1960,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1064,
+    "y": 1962,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1985,
+    "w": 548,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2027,
+    "w": 617,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2086,
+    "w": 551,
+    "h": 17
+   },
+   {
+    "x": 864,
+    "y": 2084,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 873,
+    "y": 2086,
+    "w": 177,
+    "h": 17
+   },
+   {
+    "x": 1050,
+    "y": 2084,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 1058,
+    "y": 2086,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2119,
+    "w": 399,
+    "h": 17
+   },
+   {
+    "x": 712,
+    "y": 2117,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 721,
+    "y": 2119,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 893,
+    "y": 2117,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 901,
+    "y": 2119,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2182,
+    "w": 78,
+    "h": 15
+   },
+   {
+    "x": 334,
+    "y": 2211,
+    "w": 270,
+    "h": 14
+   },
+   {
+    "x": 605,
+    "y": 2211,
+    "w": 306,
+    "h": 14
+   },
+   {
+    "x": 334,
+    "y": 2237,
+    "w": 363,
+    "h": 14
+   },
+   {
+    "x": 697,
+    "y": 2237,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 265,
+    "y": 2413,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 2869,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2858,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 2869,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 2997,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2997,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3033,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2997,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 3033,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3056,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3079,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3102,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3125,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2997,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 3033,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3056,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2997,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 3033,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 3180,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 3180,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 3180,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 3180,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 3180,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 3197,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 3197,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 3197,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 3197,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 3197,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 3197,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

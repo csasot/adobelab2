@@ -1,0 +1,102 @@
+/* contact-offices — contact.css · page-section--blue + contact-offices (mobile-first): blue
+   band, 40 + 40px rhythm, intro column (10/12 at 992, 8/12 at 1200), white address card
+   (centred half column ≥992, contents centred ≥980), office-hours note. */
+.contact-offices {
+  display: flow-root;
+  color: #fff;
+  text-align: center;
+  background: var(--c-blue);
+}
+
+.contact-offices .contact-offices-wrap {
+  display: flow-root;
+  padding: 40px 0;
+}
+
+.contact-offices .contact-offices-inner {
+  position: relative;
+  display: flow-root;
+  min-height: 1px;
+  padding: 40px 15px;
+}
+
+.contact-offices .contact-offices-row {
+  display: flow-root;
+}
+
+.contact-offices .contact-offices-col {
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.contact-offices .contact-card {
+  display: block;
+  height: 100%;
+  margin: 0 0 25px;
+  padding: 25px;
+  font-size: 18px;
+  font-style: normal;
+  line-height: var(--lh-body);
+  color: #333;
+  background: #fff;
+}
+
+.contact-offices .contact-card p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.contact-offices .contact-offices-note {
+  position: relative;
+  min-height: 1px;
+  margin-top: 30px;
+  padding: 0 15px;
+  font-size: 14px;
+}
+
+.contact-offices .contact-offices-note a:any-link {
+  color: #fff;
+}
+
+.contact-offices .contact-offices-note p {
+  margin: 0;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .contact-offices .contact-offices-wrap {
+    width: var(--wrap-w);
+  }
+}
+
+@media (width >= 980px) {
+  .contact-offices .contact-offices-row {
+    display: flex;
+  }
+
+  .contact-offices .contact-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (width >= 992px) {
+  .contact-offices .contact-offices-inner {
+    width: 83.333%;
+    margin-left: 8.333%;
+  }
+
+  .contact-offices .contact-offices-col {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+@media (width >= 1200px) {
+  .contact-offices .contact-offices-inner {
+    width: 66.667%;
+    margin-left: 16.667%;
+  }
+}

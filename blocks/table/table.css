@@ -1,0 +1,95 @@
+/* table — bootstrap 3 .table.table-bordered + child.css · .table-privacy-policy (mobile-first) */
+.table .table-responsive {
+  width: 100%;
+  min-height: 0.01%;
+  margin-bottom: 15px;
+  overflow: auto hidden;
+  border: 1px solid #ddd;
+}
+
+.table table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+  background-color: transparent;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  font-size: 14px;
+  line-height: var(--lh-body);
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+}
+
+.table thead th {
+  font-weight: 700;
+  border-bottom-width: 2px;
+}
+
+.table tbody th {
+  font-weight: 700;
+}
+
+.table :is(th, td) > p {
+  margin: 0;
+  font-size: inherit;
+}
+
+@media (width >= 768px) {
+  /* the source follows the table with an empty <p> (10px) outside .table-responsive */
+  .table .table-responsive {
+    display: flow-root;
+    margin-bottom: 10px;
+    overflow: visible;
+    border: 0;
+  }
+
+  .table table {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+  }
+
+  .table th,
+  .table td {
+    white-space: normal;
+  }
+}
+
+/* definitions: term col-xs-12 col-sm-2 (no left pad), definition col-sm-10 (no right pad) */
+.table.definitions .table-definitions {
+  display: flow-root;
+}
+
+.table.definitions .table-term,
+.table.definitions .table-definition {
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding: 0 15px 0 0;
+}
+
+.table.definitions .table-definition {
+  padding: 0;
+}
+
+.table.definitions .table-term > p {
+  margin: 0;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .table.definitions .table-term {
+    width: calc(100% / 6);
+  }
+
+  .table.definitions .table-definition {
+    width: calc(100% * 5 / 6);
+    padding-left: 15px;
+  }
+}

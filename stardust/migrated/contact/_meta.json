@@ -1,0 +1,194 @@
+{
+  "slug": "contact",
+  "type": "form",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "contact-offices",
+    "cta-band",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "page-section",
+    "cta-band"
+  ],
+  "canonShas": {
+    "header": "8ac4c015afda",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Contact Us | Omya Personal Care",
+    "description": "Have a question about product development? Looking for a specific ingredient?Tell us what you’re working on. We’ll help you find the right solution!",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Contact Us | Omya Personal Care",
+    "description": "Have a question about product development? Looking for a specific ingredient?Tell us what you’re working on. We’ll help you find the right solution!",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T17:01:35Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "6c2ed54a39f5",
+  "sourceProposedSha": "ac426d5d580e",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 10,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/formulary-request/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/terms-of-use/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/privacy-policy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-approach/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-difference/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/our-team/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/about/global-partners/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "contact/index.html",
+  "outputPathDefault": null,
+  "sidecar": "contact/_meta.json",
+  "driverVersion": "1"
+}

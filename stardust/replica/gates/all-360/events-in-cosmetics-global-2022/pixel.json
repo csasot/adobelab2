@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/all-360/events-in-cosmetics-global-2022/origin.png",
+  "b": "stardust/replica/gates/all-360/events-in-cosmetics-global-2022/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 1683,
+    "mode": "overlap"
+  },
+  "heightDelta": -1,
+  "differingPixels": 21592,
+  "pct": 3.56,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/events-in-cosmetics-global-2022/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 29,
+  "textPixels": 58802,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 11.9
+    },
+    {
+      "y0": 1500,
+      "y1": 1683,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022"
+  }
+}

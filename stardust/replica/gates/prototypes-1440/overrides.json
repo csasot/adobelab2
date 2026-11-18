@@ -1,0 +1,1 @@
+{"index": {"verdict": "PASS", "reason": "source-side dead face: the live site's own @font-face for 'frutigerbold' returns 404 on omyapersonalcare.us, so the origin renders the Arial fallback; the prototype keeps the declared family with the same Arial fallback (canon.css fonts note). Build-side fontsFailed is empty.", "waives": ["fonts"]}}

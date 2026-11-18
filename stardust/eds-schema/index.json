@@ -1,0 +1,216 @@
+{
+ "source": "http://localhost:8791/index-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "page-section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maximum Performance with"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Minimal Impact"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "As a distributor of high-quality, innovative ingredients from around the globe, we strive to exceed the development needs of our customers while remaining conscious of the impact on the environment."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Our Approach",
+     "href": "https://omyapersonalcare.us/our-approach/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "page-section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Omya Process"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Discovery"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "During our initial consultation, we take the time to learn about you and your brand to find synergies that maximize results."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Strategy"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Next, we’ll help you identify solutions and determine what ingredients and resources are needed to establish future product opportunities."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Support"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Finally, our ongoing consultative support and education will help you stay on top of trends and ahead of your competition."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Learn About Our Process",
+     "href": "https://omyapersonalcare.us/our-approach/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.process__step",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "feature-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "About Omya"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Omya is a dynamic, innovative, and customer-focused distributor of high-quality specialty and natural personal care ingredients from around the globe."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With decades of industry experience and knowledge, we offer a wide variety of consultative support and educational resources to help each of our customers seamlessly through the product development and production process."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Meet Our Team",
+     "href": "https://omyapersonalcare.us/about/our-team/"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.feature-row__media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "feature-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Omya’s Personal Care Portfolio"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Omya’s Personal Care Portfolio showcases a comprehensive range of innovative, functional ingredients for cosmetics and personal care, including emollients, emulsifiers, botanical extracts, natural preservatives, and mineral UV filters—designed to enhance product performance and support sustainable formulation trends."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Download Omya’s Personal Care Portfolio",
+     "href": "https://omyapersonalcare.us/wp-content/uploads/PersonalCare_Product-Portfolio.pdf"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "page-section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Global Partners"
+    }
+   ],
+   "imgCount": 23,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.partners__slide",
+     "count": 23,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "page-section",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Be sure to download Omya’s Oral Care Brochure to see our latest offerings.",
+     "href": "https://omyapersonalcare.us/wp-content/uploads/Oral-Care-Product-Brochure.pdf"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  }
+ ]
+}

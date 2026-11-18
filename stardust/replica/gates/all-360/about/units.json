@@ -1,0 +1,768 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-17T21:51:42.192Z",
+  "tol": 4,
+  "n": 3,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/about/",
+  "at": "2026-11-17T16:40:06.162Z",
+  "docH": 4459
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/about",
+  "at": "2026-11-17T21:51:42.077Z",
+  "docH": 4459
+ },
+ "results": [
+  {
+   "sel": "#insights-section .featured-post=.post-tile",
+   "family": null,
+   "required": true,
+   "originMatches": 1,
+   "edsMatches": 1,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.band-inner > div.band-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:may 6, 2026",
+       "role": "text",
+       "text": "may 6, 2026",
+       "edsText": "may 6, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:how 2025 reshaped oral health: fluoride ",
+       "role": "text",
+       "text": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "edsText": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91
+       },
+       "eds": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 3119,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 3119,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 3114,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 3114,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".alternating-rows=.alt-row",
+   "family": null,
+   "required": true,
+   "originMatches": 3,
+   "edsMatches": 1,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div#interior-content > div#alternating-rows > div.alternating-rows.odd"
+     },
+     "eds": {
+      "path": "div.section.alt-row-container > div.alt-row-wrapper > div.alt-row.block"
+     },
+     "rows": [
+      {
+       "key": "heading:the omya difference",
+       "role": "heading",
+       "text": "the omya difference",
+       "edsText": "the omya difference",
+       "byPosition": false,
+       "origin": {
+        "x": 15,
+        "y": 141,
+        "w": 330,
+        "h": 34
+       },
+       "eds": {
+        "x": 15,
+        "y": 141,
+        "w": 330,
+        "h": 34,
+        "sel": "h2#the-omya-difference",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "28/34/700",
+        "eds": "28/34/700"
+       }
+      },
+      {
+       "key": "text:omya",
+       "role": "text",
+       "text": "omya",
+       "edsText": "omya",
+       "byPosition": false,
+       "origin": {
+        "x": 73,
+        "y": 142,
+        "w": 78,
+        "h": 31
+       },
+       "eds": {
+        "x": 73,
+        "y": 142,
+        "w": 78,
+        "h": 31,
+        "sel": "em",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "28/34/700",
+        "eds": "28/34/700"
+       }
+      },
+      {
+       "key": "text:we truly believe in the unique power of ",
+       "role": "text",
+       "text": "we truly believe in the unique power of quality ingredients ",
+       "edsText": "we truly believe in the unique power of quality ingredients ",
+       "byPosition": false,
+       "origin": {
+        "x": 15,
+        "y": 189,
+        "w": 330,
+        "h": 160
+       },
+       "eds": {
+        "x": 15,
+        "y": 189,
+        "w": 330,
+        "h": 160,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "box:p.button.btn-orange#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 11,
+        "y": 369,
+        "w": 285,
+        "h": 40
+       },
+       "eds": {
+        "x": 11,
+        "y": 369,
+        "w": 285,
+        "h": 40,
+        "sel": "p.button-wrapper",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "link:learn about the omya difference",
+       "role": "link",
+       "text": "learn about the omya difference",
+       "edsText": "learn about the omya difference",
+       "byPosition": false,
+       "origin": {
+        "x": 15,
+        "y": 369,
+        "w": 278,
+        "h": 40
+       },
+       "eds": {
+        "x": 15,
+        "y": 369,
+        "w": 278,
+        "h": 40,
+        "sel": "a.button.primary",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/300",
+        "eds": "16/16/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "box",
+       "tag": "div",
+       "sel": "div.alt-row-item.text-right",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 360,
+       "h": 550,
+       "absY": 859,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": "rgb(64, 64, 64)",
+       "position": "relative",
+       "key": "box:div.alt-row-item.text-right#1"
+      },
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 360,
+       "h": 550,
+       "absY": 859,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 360,
+       "h": 550,
+       "absY": 859,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      },
+      {
+       "role": "box",
+       "tag": "div",
+       "sel": "div.alt-row-item.text-left",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 560,
+       "w": 360,
+       "h": 550,
+       "absY": 1419,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": "rgb(64, 64, 64)",
+       "position": "relative",
+       "key": "box:div.alt-row-item.text-left#1"
+      },
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 560,
+       "w": 360,
+       "h": 550,
+       "absY": 1419,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#2"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 560,
+       "w": 360,
+       "h": 550,
+       "absY": 1419,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#2"
+      },
+      {
+       "role": "heading",
+       "tag": "h2",
+       "sel": "h2#our-exceptional-team",
+       "text": "our exceptional team",
+       "boxed": false,
+       "x": 15,
+       "y": 678,
+       "w": 330,
+       "h": 34,
+       "absY": 1537,
+       "hidden": false,
+       "fs": 28,
+       "lh": 34,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "heading:our exceptional team"
+      },
+      {
+       "role": "text",
+       "tag": "em",
+       "sel": "em",
+       "text": "exceptional",
+       "boxed": false,
+       "x": 73,
+       "y": 679,
+       "w": 157,
+       "h": 31,
+       "absY": 1538,
+       "hidden": false,
+       "fs": 28,
+       "lh": 34,
+       "fw": "700",
+       "color": "rgb(0, 122, 193)",
+       "bg": null,
+       "position": "static",
+       "key": "text:exceptional"
+      },
+      {
+       "role": "text",
+       "tag": "p",
+       "sel": "p",
+       "text": "at omya, we believe in transparency. we’re passionate about ",
+       "boxed": false,
+       "x": 15,
+       "y": 727,
+       "w": 330,
+       "h": 206,
+       "absY": 1586,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "text:at omya, we believe in transparency. we’"
+      },
+      {
+       "role": "box",
+       "tag": "p",
+       "sel": "p.button-wrapper",
+       "text": "",
+       "boxed": true,
+       "x": 11,
+       "y": 952,
+       "w": 245,
+       "h": 40,
+       "absY": 1811,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": "rgb(0, 122, 193)",
+       "position": "static",
+       "key": "box:p.button-wrapper#2"
+      },
+      {
+       "role": "link",
+       "tag": "a",
+       "sel": "a.button.primary",
+       "text": "learn more about our team",
+       "boxed": false,
+       "x": 15,
+       "y": 952,
+       "w": 238,
+       "h": 40,
+       "absY": 1811,
+       "hidden": false,
+       "fs": 16,
+       "lh": 16,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "link:learn more about our team"
+      },
+      {
+       "role": "box",
+       "tag": "div",
+       "sel": "div.alt-row-item.text-right",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 1120,
+       "w": 360,
+       "h": 550,
+       "absY": 1979,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": "rgb(64, 64, 64)",
+       "position": "relative",
+       "key": "box:div.alt-row-item.text-right#2"
+      },
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 1120,
+       "w": 360,
+       "h": 550,
+       "absY": 1979,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#3"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 0,
+       "y": 1120,
+       "w": 360,
+       "h": 550,
+       "absY": 1979,
+       "hidden": false,
+       "fs": 14,
+       "lh": 20,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#3"
+      },
+      {
+       "role": "heading",
+       "tag": "h2",
+       "sel": "h2#global-partners",
+       "text": "global partners",
+       "boxed": false,
+       "x": 15,
+       "y": 1261,
+       "w": 330,
+       "h": 34,
+       "absY": 2120,
+       "hidden": false,
+       "fs": 28,
+       "lh": 34,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "heading:global partners"
+      },
+      {
+       "role": "text",
+       "tag": "em",
+       "sel": "em",
+       "text": "global",
+       "boxed": false,
+       "x": 15,
+       "y": 1262,
+       "w": 87,
+       "h": 31,
+       "absY": 2121,
+       "hidden": false,
+       "fs": 28,
+       "lh": 34,
+       "fw": "700",
+       "color": "rgb(0, 122, 193)",
+       "bg": null,
+       "position": "static",
+       "key": "text:global"
+      },
+      {
+       "role": "text",
+       "tag": "p",
+       "sel": "p",
+       "text": "as a leading provider of high-quality specialty ingredients ",
+       "boxed": false,
+       "x": 15,
+       "y": 1309,
+       "w": 330,
+       "h": 160,
+       "absY": 2169,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "text:as a leading provider of high-quality sp"
+      },
+      {
+       "role": "box",
+       "tag": "p",
+       "sel": "p.button-wrapper",
+       "text": "",
+       "boxed": true,
+       "x": 11,
+       "y": 1489,
+       "w": 276,
+       "h": 40,
+       "absY": 2349,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": "rgb(0, 122, 193)",
+       "position": "static",
+       "key": "box:p.button-wrapper#3"
+      },
+      {
+       "role": "link",
+       "tag": "a",
+       "sel": "a.button.primary",
+       "text": "learn about our global partners",
+       "boxed": false,
+       "x": 15,
+       "y": 1489,
+       "w": 269,
+       "h": 40,
+       "absY": 2349,
+       "hidden": false,
+       "fs": 16,
+       "lh": 16,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "link:learn about our global partners"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 859,
+       "w": 360,
+       "h": 550
+      },
+      "eds": {
+       "x": 0,
+       "y": 859,
+       "w": 360,
+       "h": 1670
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 1120
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 19,
+      "unitOff": true
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 2,
+  "within": 7,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

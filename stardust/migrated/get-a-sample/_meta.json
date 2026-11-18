@@ -1,0 +1,98 @@
+{
+  "slug": "get-a-sample",
+  "type": "form",
+  "renderBranch": "B",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "5032649f4532",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "contact",
+      "encoder": "stardust/.work/cluster-form/probes/formenc.py",
+      "note": "rendered from the /contact archetype model (cluster-form); fields authored as form-block cells"
+    }
+  ],
+  "metadata": {
+    "title": "Request a Sample | Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Request a Sample | Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:23:50Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "9c2330db82f3",
+  "sourceProposedSha": "03c93c1c83e9",
+  "fidelityTier": "thin",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero no-photo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-form/probes/formenc.py lifts every heading/paragraph/link/image of #interior-content, every form field placeholder/option/label, submit + disclaimer, the insights/contact bands and hero h1/crumbs from stardust/current/pages/get-a-sample.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "content-gap",
+      "source": "#interior-content (empty div.container-fixed)",
+      "target": "page-hero + band-pair only",
+      "reason": "the source page has no body: tier thin, never padded"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "get-a-sample/index.html",
+  "outputPathDefault": null,
+  "sidecar": "get-a-sample/_meta.json",
+  "driverVersion": "1"
+}

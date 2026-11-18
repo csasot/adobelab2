@@ -1,0 +1,265 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics",
+    "writtenAt": "2026-11-17T22:20:00Z"
+  },
+  "method": "Static-first replica; listings document-first (every card authored as a row, all items present without an index); forms rebuilt native with local-capture interim tier (no backend on DA); regulated forms UI-only with submission blocked; YouTube and tags carried as embed passthrough; martech scaffolded with every contract part disabled.",
+  "features": [
+    {
+      "id": "chrome-menu",
+      "feature": "header menus + mobile drawer",
+      "class": "M",
+      "pages": 71,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "header contract (chrome-compare exit 0 at C0); popup dialog opens from #contact-popup links",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": "header nav a",
+          "min": 10
+        },
+        {
+          "type": "click-dialog",
+          "path": "/",
+          "trigger": "a[href='#contact-popup']",
+          "minWidth": 300
+        }
+      ]
+    },
+    {
+      "id": "listing-blog",
+      "feature": "blog listing /insights/blog",
+      "class": "L",
+      "pages": 1,
+      "disposition": "index-backed",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "10 authored tiles = source page 1 (10 of 17, paged); index top-up not needed — document carries the items",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/insights/blog",
+          "selector": ".post-list .post-tile[href]",
+          "min": 10
+        }
+      ]
+    },
+    {
+      "id": "listing-events",
+      "feature": "events listing /events",
+      "class": "L",
+      "pages": 2,
+      "disposition": "index-backed",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "10 authored tiles = source page 1 (10 of 24, paged)",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/events",
+          "selector": ".post-list .post-tile[href]",
+          "min": 10
+        }
+      ]
+    },
+    {
+      "id": "listing-news",
+      "feature": "news listing /news",
+      "class": "L",
+      "pages": 1,
+      "disposition": "index-backed",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "3 authored tiles = source 3",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/news",
+          "selector": ".post-list .post-tile[href]",
+          "min": 3
+        }
+      ]
+    },
+    {
+      "id": "rep-locator-hotspots",
+      "feature": "rep locator state map, 50 regions",
+      "class": "CR",
+      "pages": 1,
+      "disposition": "client-only",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "50 clickable regions bound to authored rep rows",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/contact/rep-locator",
+          "selector": ".rep-map-area[aria-controls]",
+          "min": 50
+        }
+      ]
+    },
+    {
+      "id": "youtube-embed",
+      "feature": "YouTube player (video-band)",
+      "class": "V",
+      "pages": 4,
+      "disposition": "embed-passthrough",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "embed passthrough; the source shows the same player (Error 153 state recorded at recreate); replayed before the form flows so the 6 s first-visit Request Info popup (source behaviour, cookie firstViewRequest) has fired once, as for a returning visitor",
+      "checks": [
+        {
+          "type": "video-plays",
+          "path": "/insights/blog",
+          "iframeSelector": ".video-band iframe[src*='youtube.com/embed']",
+          "playbackHost": "youtube\\.com"
+        }
+      ]
+    },
+    {
+      "id": "form-contact",
+      "feature": "/contact page form",
+      "class": "F",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "needs-backend",
+      "status": "interim",
+      "owner": "D1 form-endpoint: connect a submission backend (FORM_ENDPOINTS in scripts/site-config.js); D2: production reCAPTCHA key for the new hosts",
+      "checks": [
+        {
+          "type": "form-flow",
+          "path": "/contact",
+          "form": "#contact-form",
+          "submit": ".form-submit",
+          "fill": {
+            "fname": "Test",
+            "lname": "Parity",
+            "company": "Stardust",
+            "email": "parity@example.com",
+            "phone": "5555550100",
+            "message": "dynamic parity check"
+          },
+          "statusSelector": "#contact-form .form-message",
+          "successIncludes": "No backend is connected"
+        }
+      ],
+      "verifiedBy": "email-confirm is the source honeypot (hidden), left empty; interim tier: empty submit refused, filled submit captured locally with the \"No backend is connected\" notice, nothing POSTed — the form-flow FAIL on \"filled posted\" is the expected interim state until D1 is decided"
+    },
+    {
+      "id": "form-contact-footer",
+      "feature": "footer contact form (band-pair)",
+      "class": "F",
+      "pages": 60,
+      "disposition": "rebuild-native",
+      "reproducibility": "needs-backend",
+      "status": "interim",
+      "owner": "D1 form-endpoint; D2 reCAPTCHA key",
+      "checks": [
+        {
+          "type": "form-flow",
+          "path": "/",
+          "form": "#contact-footer",
+          "submit": ".contact-form-submit a",
+          "fill": {
+            "thename": "Test Parity",
+            "company": "Stardust",
+            "email": "parity@example.com",
+            "message": "dynamic parity check"
+          },
+          "statusSelector": "#contact-footer .form-message",
+          "successIncludes": "No backend is connected"
+        }
+      ],
+      "verifiedBy": "interim tier: empty submit refused, filled submit captured locally with the \"No backend is connected\" notice, nothing POSTed — the form-flow FAIL on \"filled posted\" is the expected interim state until D1 is decided"
+    },
+    {
+      "id": "form-careers",
+      "feature": "/careers application (résumé upload) — regulated-pii",
+      "class": "F",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "needs-backend",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "D3: secured endpoint for résumé uploads; submission blocked until configured",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/careers",
+          "selector": ".form.blocked form .form-message",
+          "min": 1
+        }
+      ]
+    },
+    {
+      "id": "form-onboarding",
+      "feature": "/customer-resources/onboarding (EIN, DUNS, shipping account) — regulated-pii",
+      "class": "F",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "needs-backend",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "D3: secured endpoint for tax-id / account data; submission blocked until configured",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/customer-resources/onboarding",
+          "selector": ".form.blocked form .form-message",
+          "min": 1
+        }
+      ]
+    },
+    {
+      "id": "no-errors",
+      "feature": "page scripts",
+      "class": "M",
+      "pages": 71,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "checks": [
+        {
+          "type": "no-page-errors",
+          "paths": [
+            "/",
+            "/insights/blog",
+            "/contact",
+            "/contact/rep-locator",
+            "/careers",
+            "/blog/trend-spotlight-oil-pulling",
+            "/about"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuresWithoutChecks": [
+    {
+      "id": "formulations-downloads",
+      "status": "done",
+      "note": "curated authored content, no index"
+    },
+    {
+      "id": "credit-application",
+      "status": "done",
+      "note": "no web form on the source: terms text + PDF link carried as content"
+    },
+    {
+      "id": "pay-invoice-stripe",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "D4: payment capture is never replicated on a sandbox; page out of the 71-page roster"
+    },
+    {
+      "id": "query-index",
+      "status": "interim",
+      "owner": "Index top-up for listings deferred: the listings are document-first and carry every page-1 item; helix-query.yaml is retired for this project (AGENTS.md — index config lives at tools.aem.live), so /query-index.json stays 404 until the owner configures an index there."
+    },
+    {
+      "id": "host-media-omya-com",
+      "status": "pending",
+      "owner": "unknown host media.omya.com — inspect with the owner"
+    }
+  ]
+}

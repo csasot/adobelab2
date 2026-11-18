@@ -1,0 +1,127 @@
+{
+  "slug": "blog-february-is-national-childrens-dental-health-month",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "striped-table",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "58304b0d0052",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "February is National Children's Dental Health Month - Omya Personal Care",
+    "description": "The World Health Organization (WHO) estimates that over 500 million children, globally, suffer from caries (cavities) of the primary teeth.",
+    "canonical": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "February is National Children's Dental Health Month - Omya Personal Care",
+    "description": "The World Health Organization (WHO) estimates that over 500 million children, globally, suffer from caries (cavities) of the primary teeth.",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "b96a00e1a63c",
+  "sourceProposedSha": "89ffadec5277",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-tall table-striped",
+    "page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-february-is-national-childrens-dental-health-month.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel-MC23-66A.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-products/oral-care/omyadent-100-og/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/february-is-national-childrens-dental-health-month/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/february-is-national-childrens-dental-health-month/_meta.json",
+  "driverVersion": "1"
+}

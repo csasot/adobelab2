@@ -1,0 +1,103 @@
+{
+  "slug": "careers",
+  "type": "form",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "form",
+    "page-hero",
+    "intro",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "f81bca3ac2d8",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "contact",
+      "encoder": "stardust/.work/cluster-form/probes/formenc.py",
+      "note": "rendered from the /contact archetype model (cluster-form); fields authored as form-block cells"
+    }
+  ],
+  "metadata": {
+    "title": "Careers | Omya Personal Care",
+    "description": "Whether you’re a sales representative, customer service guru or formulation engineer, we’re always looking for passionate professionals to join the Omya team.",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Careers | Omya Personal Care",
+    "description": "Whether you’re a sales representative, customer service guru or formulation engineer, we’re always looking for passionate professionals to join the Omya team.",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:23:41Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "81cb203c6e32",
+  "sourceProposedSha": "05a4e496e38b",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "intro blue",
+    "form no-captcha blocked",
+    "band-pair solo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-form/probes/formenc.py lifts every heading/paragraph/link/image of #interior-content, every form field placeholder/option/label, submit + disclaimer, the insights/contact bands and hero h1/crumbs from stardust/current/pages/careers.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "behaviour",
+      "source": "contact-form-career posts a resume upload",
+      "target": "form blocked: notice, nothing captured or sent",
+      "reason": "dynamic-features row 14, D3 regulated-forms (mandatory)"
+    }
+  ],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "careers/index.html",
+  "outputPathDefault": null,
+  "sidecar": "careers/_meta.json",
+  "driverVersion": "1"
+}

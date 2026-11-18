@@ -1,0 +1,2333 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-17T15:43:53.803Z",
+    "readArtifacts": [
+      "https://omyapersonalcare.us/"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.39.4"
+  },
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 100,
+    "concurrency": 3,
+    "source": "--pages (user-supplied list, stardust/.labs/pages-arg.txt)",
+    "totalDiscovered": 100,
+    "filteredAsJunk": [],
+    "userChoice": "--pages 100 URLs (hands-off replica plan); no discovery, no cap",
+    "recaptures": {
+      "dir": "stardust/.labs/recap",
+      "waitMode": "slow",
+      "slugs": [
+        "index",
+        "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "pay-thank-you",
+        "privacy-policy",
+        "events",
+        "news",
+        "insights-blog"
+      ]
+    }
+  },
+  "consent": {
+    "method": "auto",
+    "manager": "Didomi (sdk.privacy-center.org)",
+    "selector": "#didomi-notice-agree-button"
+  },
+  "favicon": {
+    "url": "https://omyapersonalcare.us/wp-content/uploads/cropped-omya-kinetik-favicon-32x32.jpg",
+    "file": "assets/favicon.jpg"
+  },
+  "crawl": {
+    "failures": [
+      {
+        "url": "https://omyapersonalcare.us/our-products/color/",
+        "slug": "our-products-color",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:01.380Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun/",
+        "slug": "our-products-sun",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:04.103Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/oral/",
+        "slug": "our-products-oral",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:05.243Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/preservation/",
+        "slug": "our-products-preservation",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:08.841Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin/",
+        "slug": "our-products-skin",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:09.529Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/hair/",
+        "slug": "our-products-hair",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:20:12.802Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/preservation/greengard-ba-bio/",
+        "slug": "our-products-preservation-greengard-ba-bio",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:21:27.689Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/greengard-pa12/",
+        "slug": "our-products-sun-care-greengard-pa12",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:21:30.082Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/greengard-pa3/",
+        "slug": "our-products-skin-care-greengard-pa3",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:21:33.233Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/greengard-pa/",
+        "slug": "our-products-skin-care-greengard-pa",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:22:14.529Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/gle-organic-glycerin/",
+        "slug": "our-products-sun-care-gle-organic-glycerin",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:22:17.346Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/hipegel-oleo/",
+        "slug": "our-products-skin-care-hipegel-oleo",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-11-17T15:22:59.437Z",
+        "note": "source URL 301-redirects off-origin to products.omya.com, which answers 404"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/preservation/greengard-pea-bio/",
+        "slug": "our-products-preservation-greengard-pea-bio",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-green-line (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.801Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/exfobreeze/",
+        "slug": "our-products-skin-care-exfobreeze",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-quimivita (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.801Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/flexan-ii-polymer/",
+        "slug": "our-products-skin-care-flexan-ii-polymer",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/flexan-ii-polymer (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.801Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/green-clay/",
+        "slug": "our-products-skin-care-green-clay",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care-beauty-care-skin-care (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.801Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/greensens-tec-bio/",
+        "slug": "our-products-skin-care-greensens-tec-bio",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-green-line (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.801Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/skin-care/kahlpowder-2442p5-carnauba/",
+        "slug": "our-products-skin-care-kahlpowder-2442p5-carnauba",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlpowder-2442p100n-carnauba (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/ferulan-active/",
+        "slug": "our-products-sun-care-ferulan-active",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-gfn-herstellung-v-naturextrakten (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/gls-hemp-10/",
+        "slug": "our-products-sun-care-gls-hemp-10",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-green-line (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6279l-myrica/",
+        "slug": "our-products-sun-care-kahlwax-6279l-myrica",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-6279l-myrica (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6607l-mb-sunflower/",
+        "slug": "our-products-sun-care-kahlwax-6607l-mb-sunflower",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-6607l-mb-sunflower (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6642-organic-carnauba/",
+        "slug": "our-products-sun-care-kahlwax-6642-organic-carnauba",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-6642-organic-carnauba (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6692-rose/",
+        "slug": "our-products-sun-care-kahlwax-6692-rose",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/search?category=markets-personal-care&filters=manufactured-by-kahl (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.802Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6702-natural-cl-substitute/",
+        "slug": "our-products-sun-care-kahlwax-6702-natural-cl-substitute",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-6702-natural-cl-substitute (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.803Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8104-white-beeswax/",
+        "slug": "our-products-sun-care-kahlwax-8104-white-beeswax",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-8104-white-beeswax (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.803Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8105-yellow-beeswax/",
+        "slug": "our-products-sun-care-kahlwax-8105-yellow-beeswax",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-8105-yellow-beeswax (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.803Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8138-organic-beeswax/",
+        "slug": "our-products-sun-care-kahlwax-8138-organic-beeswax",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/products/kahlwax-8139-organic-beeswax (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.803Z"
+      },
+      {
+        "url": "https://omyapersonalcare.us/our-products/",
+        "slug": "our-products",
+        "errorClass": "OffOriginRedirect",
+        "message": "redirects to https://products.omya.com/ (products.omya.com — separate origin/app; captured record moved to _excluded/offorigin/)",
+        "at": "2026-11-17T15:43:53.803Z"
+      }
+    ],
+    "degraded": [],
+    "pageTimeoutMs": 90000,
+    "summary": {
+      "planned": 100,
+      "captured": 71,
+      "offOriginRedirects": 17,
+      "http404": 12
+    }
+  },
+  "captureGaps": {
+    "roots": [],
+    "detail": "uncaptured first-level targets: none (no locale root captured)"
+  },
+  "dynamicSurface": {
+    "pages": 88,
+    "pagesWithSameSiteData": 17,
+    "pagesWithSearchForm": 17,
+    "pagesHydrated": 71,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tcfd",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/ccm/collect",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/j/collect",
+        "query": [
+          "_gid",
+          "_r",
+          "_s",
+          "_slc",
+          "_u",
+          "_v",
+          "a",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "gcd",
+          "gcs",
+          "gjid",
+          "gtm",
+          "jid",
+          "sr",
+          "t",
+          "tag_exp",
+          "tcfd",
+          "tid",
+          "ul",
+          "v",
+          "vp",
+          "z"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://www.google-analytics.com/j/collect",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "_tu",
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "did",
+          "dma",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gdid",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tcfd",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/rmkt/collect/658173166/",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "analytics.google.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_fv",
+          "_gaz",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gaf",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tcfd",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://analytics.google.com/g/collect",
+        "pages": 69,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}-test/{uuid}-test.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/019343fa-626e-789b-b2ee-a6a227a667db-test/019343fa-626e-789b-b2ee-a6a227a667db-test.json",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "e000adcd9791.edge.sdk.awswaf.com",
+        "path": "/e000adcd9791/594218d069d2/inputs",
+        "query": [
+          "client"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://e000adcd9791.edge.sdk.awswaf.com/e000adcd9791/594218d069d2/inputs",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "e000adcd9791.edge.sdk.awswaf.com",
+        "path": "/e000adcd9791/594218d069d2/telemetry",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://e000adcd9791.edge.sdk.awswaf.com/e000adcd9791/594218d069d2/telemetry",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "e000adcd9791.edge.sdk.awswaf.com",
+        "path": "/e000adcd9791/594218d069d2/mp_verify",
+        "query": [
+          "region"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://e000adcd9791.edge.sdk.awswaf.com/e000adcd9791/594218d069d2/mp_verify",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "products.omya.com",
+        "path": "/dynamic_fragments/shared/inquiry_fab",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://products.omya.com/dynamic_fragments/shared/inquiry_fab",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "products.omya.com",
+        "path": "/dynamic_fragments/shared/verification_banner",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://products.omya.com/dynamic_fragments/shared/verification_banner",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "products.omya.com",
+        "path": "/dynamic_fragments/shared/header/auth",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://products.omya.com/dynamic_fragments/shared/header/auth",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}-test/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/019343fa-626e-789b-b2ee-a6a227a667db-test/01955ab2-47c4-7b7a-9132-68ae312b1965/en.json",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202501.1.0/assets/otFloatingRoundedCorner.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/otFloatingRoundedCorner.json",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202501.1.0/assets/v2/otPcCenter.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/v2/otPcCenter.json",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202501.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/otCommonStyles.css",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "products.omya.com",
+        "path": "/dynamic_fragments/product_page/powerbox_general_inquiry_button",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://products.omya.com/dynamic_fragments/product_page/powerbox_general_inquiry_button",
+        "pages": 9,
+        "examples": [
+          "our-products-skin-care-flexan-ii-polymer",
+          "our-products-sun-care-kahlwax-6607l-mb-sunflower",
+          "our-products-sun-care-kahlwax-6279l-myrica"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "products.omya.com",
+        "path": "/dynamic_fragments/shared/documents_gated_checkbox",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://products.omya.com/dynamic_fragments/shared/documents_gated_checkbox",
+        "pages": 9,
+        "examples": [
+          "our-products-skin-care-flexan-ii-polymer",
+          "our-products-sun-care-kahlwax-6607l-mb-sunflower",
+          "our-products-sun-care-kahlwax-6279l-myrica"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "geolocation.onetrust.com",
+        "path": "/cookieconsentpub/v1/geo/location",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+        "pages": 7,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "googleads.g.doubleclick.net",
+        "path": "/pagead/id",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://googleads.g.doubleclick.net/pagead/id",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.youtube.com",
+        "path": "/api/stats/qoe",
+        "query": [
+          "bh",
+          "c",
+          "cbr",
+          "cbrver",
+          "cl",
+          "cmt",
+          "cos",
+          "cplatform",
+          "cplayer",
+          "cpn",
+          "cver",
+          "docid",
+          "el",
+          "error",
+          "event",
+          "fexp",
+          "ns",
+          "qclc",
+          "seq",
+          "vis",
+          "vps"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": false,
+        "example": "https://www.youtube.com/api/stats/qoe",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "jnn-pa.googleapis.com",
+        "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "sameSite": false,
+        "example": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.youtube.com",
+        "path": "/youtubei/v1/log_event",
+        "query": [
+          "alt"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://www.youtube.com/youtubei/v1/log_event",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.youtube.com",
+        "path": "/embed/establish_zw",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": false,
+        "example": "https://www.youtube.com/embed/establish_zw",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "api.privacy-center.org",
+        "path": "/v1/events",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://api.privacy-center.org/v1/events",
+        "pages": 3,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://dpm.demdex.net/id",
+        "pages": 3,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-exfobreeze"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/measurement/conversion",
+        "query": [
+          "auid",
+          "currency_code",
+          "cv",
+          "dma",
+          "en",
+          "fmt",
+          "frm",
+          "fst",
+          "gacid",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gl",
+          "gtm",
+          "hl",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tcfd",
+          "tiba",
+          "tid",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url",
+          "value"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/measurement/conversion",
+        "pages": 1,
+        "examples": [
+          "thank-you"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "e000adcd9791.53e25080.us-west-1.token.awswaf.com",
+        "path": "/e000adcd9791/594218d069d2/01edfb00d6dc/inputs",
+        "query": [
+          "client",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://e000adcd9791.53e25080.us-west-1.token.awswaf.com/e000adcd9791/594218d069d2/01edfb00d6dc/inputs",
+        "pages": 1,
+        "examples": [
+          "our-products"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "e000adcd9791.53e25080.us-west-1.token.awswaf.com",
+        "path": "/e000adcd9791/594218d069d2/01edfb00d6dc/mp_verify",
+        "query": [
+          "region"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://e000adcd9791.53e25080.us-west-1.token.awswaf.com/e000adcd9791/594218d069d2/01edfb00d6dc/mp_verify",
+        "pages": 1,
+        "examples": [
+          "our-products"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "s.adroll.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "www.gstatic.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "sdk.privacy-center.org",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "www.google.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "d.adroll.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "www.google-analytics.com",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "host": "assets.adobedtm.com",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "host": "e000adcd9791.edge.sdk.awswaf.com",
+        "pages": 17,
+        "examples": [
+          "our-products",
+          "our-products-preservation-greengard-pea-bio",
+          "our-products-skin-care-greensens-tec-bio"
+        ]
+      },
+      {
+        "host": "www.youtube.com",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "host": "static.doubleclick.net",
+        "pages": 4,
+        "examples": [
+          "news",
+          "events",
+          "insights-blog"
+        ]
+      },
+      {
+        "host": "e000adcd9791.53e25080.us-west-1.token.awswaf.com",
+        "pages": 1,
+        "examples": [
+          "our-products"
+        ]
+      }
+    ],
+    "frameworkHints": [
+      {
+        "hint": "wordpress",
+        "pages": 71,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      }
+    ],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 88,
+        "examples": [
+          "index",
+          "privacy-policy",
+          "pay-thank-you"
+        ]
+      }
+    ],
+    "formTargets": [
+      {
+        "action": "https://products.omya.com/search",
+        "method": "get",
+        "sameOrigin": true,
+        "search": true,
+        "fieldNames": [
+          "search_term"
+        ],
+        "pages": 34,
+        "examples": [
+          "our-products",
+          "our-products",
+          "our-products-preservation-greengard-pea-bio"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 2,
+        "examples": [
+          "index",
+          "index"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/privacy-policy/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 2,
+        "examples": [
+          "privacy-policy",
+          "privacy-policy"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/pay-thank-you/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 2,
+        "examples": [
+          "pay-thank-you",
+          "pay-thank-you"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/request-info/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 2,
+        "examples": [
+          "request-info",
+          "request-info"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 2,
+        "examples": [
+          "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+          "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/customer-resources/onboarding/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "company",
+          "contact",
+          "phone",
+          "address",
+          "address2",
+          "city",
+          "state",
+          "zip",
+          "url",
+          "employer_id",
+          "duns",
+          "number_employees"
+        ],
+        "pages": 2,
+        "examples": [
+          "customer-resources-onboarding",
+          "customer-resources-onboarding"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/terms-of-use/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "terms-of-use"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/careers/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "file1"
+        ],
+        "pages": 1,
+        "examples": [
+          "careers"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/customer-resources/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "customer-resources"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/insights/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "insights"
+        ]
+      },
+      {
+        "action": "https://products.omya.com/",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [],
+        "pages": 1,
+        "examples": [
+          "our-products"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/formulary-request/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "formulary_category"
+        ],
+        "pages": 1,
+        "examples": [
+          "formulary-request"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/get-a-sample/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "get-a-sample"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/about/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "about"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/our-approach/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "our-approach"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/our-formulations/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "our-formulations"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/contact/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "fname",
+          "lname",
+          "company",
+          "email",
+          "email-confirm",
+          "phone",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "contact"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-water-conscious-oral-care-solutions"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-introducing-our-newest-supply-partner-quimivita"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-national-toothache-day-february-9th"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-welcoming-monica-advani-to-the-omya-team"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-announcing-our-latest-product-launches"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-pacific-blends-and-omya-specialty-materials-partnership"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/skinification-of-oral-care/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-skinification-of-oral-care"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/aak-partnership/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-aak-partnership"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-february-is-national-childrens-dental-health-month"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-the-healthy-bite"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-trend-spotlight-oil-pulling"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-eco-friendly-high-performance-sun-care-solutions"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-omya-announces-new-partnership-with-actv-biotechnology"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-nutrition-x-oral-health"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-omya-partners-with-lipoid-kosmetik"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-how-2025-reshaped-oral-health"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/about/our-difference/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "about-our-difference"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/contact/rep-locator/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "contact-rep-locator"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/insights/events/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "insights-events"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/about/global-partners/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "about-global-partners"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/customer-resources/credit-application/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "customer-resources-credit-application"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/about/our-team/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "about-our-team"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/news/news-item-1/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "news-news-item-1"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/news/news-item-2/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "news-news-item-2"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/news/news-item-3/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "news-news-item-3"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-in-cosmetics-global-attended-by-kinetik-and-suppliers"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-suppliers-day-2019-visit-the-kinetik-booth"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity"
+        ]
+      },
+      {
+        "action": "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "thename",
+          "company",
+          "email",
+          "email-confirm",
+          "message",
+          "g-recaptcha-response"
+        ],
+        "pages": 1,
+        "examples": [
+          "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable"
+        ]
+      }
+    ],
+    "note": "roll-up counts include the 17 off-origin captures (products.omya.com: Adobe DTM, OneTrust, AWS WAF). On-origin (71/71): Didomi consent, GTM, Google Analytics, Google Ads/DoubleClick, AdRoll, reCAPTCHA v2; 4 pages YouTube."
+  },
+  "siblingCandidates": [
+    {
+      "origin": "https://products.omya.com",
+      "confidence": "high",
+      "evidence": "\"Our Products\" nav link on 71/71 pages; all /our-products/* redirect there",
+      "decision": "excluded — replica flow: separately designed Omya Group catalogue app (AWS WAF), not the replica target; recorded as off-origin redirect target"
+    },
+    {
+      "origin": "https://www.omya.com",
+      "confidence": "medium",
+      "evidence": "footer Impressum / Data Protection links on 71/71",
+      "decision": "excluded — corporate parent site, different design"
+    }
+  ],
+  "visionCheck": [
+    {
+      "slug": "about-global-partners",
+      "verdict": "ok"
+    },
+    {
+      "slug": "about-our-difference",
+      "verdict": "ok"
+    },
+    {
+      "slug": "about-our-team",
+      "verdict": "ok"
+    },
+    {
+      "slug": "about",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-aak-partnership",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-announcing-our-latest-product-launches",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-asp-products-pay-your-invoice",
+      "verdict": "ok",
+      "notes": "thin page: date + Pay Your Invoice button"
+    },
+    {
+      "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-february-is-national-childrens-dental-health-month",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "verdict": "recaptured",
+      "notes": "newsletter popup over hero; slow recapture clean"
+    },
+    {
+      "slug": "blog-how-2025-reshaped-oral-health",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-national-toothache-day-february-9th",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-nutrition-x-oral-health",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-omya-partners-with-lipoid-kosmetik",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-skinification-of-oral-care",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-the-healthy-bite",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-trend-spotlight-oil-pulling",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-water-conscious-oral-care-solutions",
+      "verdict": "ok"
+    },
+    {
+      "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+      "verdict": "ok"
+    },
+    {
+      "slug": "careers",
+      "verdict": "ok"
+    },
+    {
+      "slug": "contact-rep-locator",
+      "verdict": "ok"
+    },
+    {
+      "slug": "contact",
+      "verdict": "ok"
+    },
+    {
+      "slug": "customer-resources-credit-application",
+      "verdict": "ok"
+    },
+    {
+      "slug": "customer-resources-onboarding",
+      "verdict": "ok"
+    },
+    {
+      "slug": "customer-resources",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-2019-sunscreen-symposium",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-3590",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-cosmoprof-north-america",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-evercare-seminar-la",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-in-cosmetics-global-2022",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-in-cosmetics-global",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-indie-beauty-expo-la",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-indie-beauty-expo-ny",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-join-us-at-a-kinetik-technology-seminar",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-makeup-los-angeles",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-midwest-scc-teamworks",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-naturally-kiawah-symposium",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-ny-suppliers-day-2023",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-nyscc-suppliers-day-2021",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events-swscc-suppliers-day",
+      "verdict": "ok"
+    },
+    {
+      "slug": "events",
+      "verdict": "suspect",
+      "notes": "Cosmospheres promo band renders an empty blue block in both captures (live-site state); H1 reads \"Blog\" on the live site"
+    },
+    {
+      "slug": "formulary-request",
+      "verdict": "ok"
+    },
+    {
+      "slug": "get-a-sample",
+      "verdict": "ok",
+      "notes": "thin page: no body content on the live site (verified in rendered DOM)"
+    },
+    {
+      "slug": "index",
+      "verdict": "recaptured",
+      "notes": "newsletter popup covered the hero on the medium capture; slow recapture shows the clean hero \"Thinking of Tomorrow\""
+    },
+    {
+      "slug": "insights-blog",
+      "verdict": "suspect",
+      "notes": "same empty Cosmospheres band (live-site state)"
+    },
+    {
+      "slug": "insights-events",
+      "verdict": "ok"
+    },
+    {
+      "slug": "insights",
+      "verdict": "ok"
+    },
+    {
+      "slug": "news-news-item-1",
+      "verdict": "ok",
+      "notes": "lorem-ipsum placeholder content on the live site"
+    },
+    {
+      "slug": "news-news-item-2",
+      "verdict": "ok",
+      "notes": "lorem-ipsum placeholder"
+    },
+    {
+      "slug": "news-news-item-3",
+      "verdict": "ok",
+      "notes": "lorem-ipsum placeholder"
+    },
+    {
+      "slug": "news",
+      "verdict": "suspect",
+      "notes": "same empty Cosmospheres band (live-site state); H1 \"Blog\""
+    },
+    {
+      "slug": "our-approach",
+      "verdict": "ok"
+    },
+    {
+      "slug": "our-formulations",
+      "verdict": "suspect",
+      "notes": "several formulation cards show no thumbnail (lazy images not loaded or missing on source)"
+    },
+    {
+      "slug": "pay-thank-you",
+      "verdict": "recaptured",
+      "notes": "newsletter popup over hero; slow recapture clean (thin page)"
+    },
+    {
+      "slug": "privacy-policy",
+      "verdict": "recaptured",
+      "notes": "newsletter popup over hero; slow recapture clean"
+    },
+    {
+      "slug": "request-info",
+      "verdict": "ok"
+    },
+    {
+      "slug": "terms-of-use",
+      "verdict": "ok"
+    },
+    {
+      "slug": "thank-you",
+      "verdict": "ok"
+    }
+  ],
+  "headerContract": {
+    "file": "stardust/chrome/header-contract.json",
+    "url": "https://omyapersonalcare.us/about/",
+    "root": "body>header",
+    "summary": {
+      "390": "0 controls — the mobile menu (wp-responsive-menu #wprmenu_bar) sits outside body>header; re-explore with its own root during replica",
+      "1440": "5 controls (1 hover menu, 4 links), 6 states, 9 links, depth 1"
+    },
+    "firstRun": "home page with default root truncated at request budget (708/600); replaced"
+  }
+}

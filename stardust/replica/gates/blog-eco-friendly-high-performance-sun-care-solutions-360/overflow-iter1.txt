@@ -1,0 +1,8 @@
+measure  http://localhost:8817/blog-eco-friendly-high-performance-sun-care-solutions-proposed.html
+  widths 360 · 1 selector(s) · 1 props · first match
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   5684
+  html
+       x     0  y      0  w   360  h  5684  vis  "Customer Resources Beyond UV Protection…"
+      display: block

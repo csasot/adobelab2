@@ -31,3 +31,65 @@
     order: unset;
   }
 }
+
+/* variant `split`: bootstrap .row > .col-md-5 (image) + .col-md-7 (stacked download buttons,
+   20px apart) — the source's 5/7 split in an article body; stacked below 992px. The image is
+   WordPress .alignleft at its own size (12px above / below), full width with 15px below 768px. */
+.columns.split > div {
+  margin: 0 -15px;
+}
+
+.columns.split > div > div {
+  box-sizing: border-box;
+  padding: 0 15px;
+}
+
+.columns.split > div > .columns-img-col img {
+  height: auto;
+  margin: 15px 0;
+}
+
+.columns.split p {
+  margin: 0;
+}
+
+.columns.split p.button-wrapper {
+  display: block;
+  width: fit-content;
+  margin-top: 20px;
+}
+
+@media (width >= 768px) {
+  .columns.split > div > .columns-img-col img {
+    width: auto;
+    max-width: 100%;
+    margin: 12px 0;
+  }
+}
+
+@media (width >= 900px) {
+  .columns.split > div {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+
+  .columns.split > div > div {
+    flex: none;
+  }
+}
+
+@media (width >= 992px) {
+  .columns.split > div {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .columns.split > div > div {
+    width: 58.3333%;
+  }
+
+  .columns.split > div > .columns-img-col {
+    width: 41.6667%;
+  }
+}

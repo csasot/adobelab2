@@ -1,20 +1,224 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* stylelint-disable no-descending-specificity -- chrome rules follow the source cascade order */
+
+/* footer — lifted from canon.css · footer module (mobile-first) */
+footer .site-footer {
+  margin-top: 10px;
+  background: var(--bg-texture) center top var(--c-mist);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+footer .site-footer-wrap {
+  display: flow-root;
+  padding: 50px 0;
 }
 
-footer .footer p {
+footer .site-footer-brand,
+footer .site-footer-nav,
+footer .site-footer-legal {
+  position: relative;
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+footer .site-footer-brand,
+footer .site-footer-nav {
+  padding-bottom: 20px;
+}
+
+footer .site-footer-legal {
+  clear: both;
+}
+
+footer .site-footer-logo {
+  display: flow-root;
+  width: 100%;
+}
+
+footer .site-footer-logo picture {
+  display: block;
+}
+
+footer .site-footer-logo img {
+  display: block;
+  float: none;
+  width: 200px;
+  max-width: 90px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+footer .site-footer-social {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+footer .site-footer-social a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 19px 0 0;
+  font-size: 21px;
+  color: var(--c-blue);
+  text-align: center;
+}
+
+footer .site-footer-social img {
+  width: 125px;
+  height: 40px;
+}
+
+footer .site-footer-social a:last-of-type {
+  margin-right: 0;
+}
+
+footer .site-footer-social a:hover {
+  color: var(--c-ink);
+  opacity: 0.6;
+}
+
+footer .footer-menu {
+  display: none;
+  justify-content: space-between;
   margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+footer .footer-menu > li {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 15px;
+  padding: 0;
+  font-family: var(--font-ui);
+  font-size: 18px;
+  text-transform: none;
+}
+
+footer .footer-menu a {
+  display: block;
+  padding: 10px 0;
+  vertical-align: middle;
+  line-height: 1;
+  color: var(--c-ink);
+  text-decoration: none;
+}
+
+footer .footer-menu a:hover {
+  color: var(--c-blue);
+}
+
+footer .footer-menu ul {
+  position: relative;
+  z-index: 1;
+  min-width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: transparent;
+}
+
+footer .footer-menu ul li {
+  display: block;
+  margin: 8px 0;
+  padding: 0;
+  font-family: var(--font-ui);
+  font-size: 15px;
+  text-transform: none;
+}
+
+footer .footer-menu ul a {
+  padding: 0;
+}
+
+footer .site-footer-legal p {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: var(--c-ink);
+  text-align: center;
+}
+
+footer .site-footer-legal a {
+  text-decoration: none;
+}
+
+footer .site-footer-legal a:hover,
+footer .site-footer-legal a:focus {
+  color: var(--c-blue);
+}
+
+@media (width >= 768px) {
+  footer .site-footer-logo {
+    float: left;
+    width: 50%;
+  }
+
+  footer .site-footer-logo img {
+    float: left;
+    width: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  footer .site-footer-social {
+    float: left;
+    width: 50%;
+    margin: 0;
+    text-align: right;
+  }
+
+  footer .footer-menu {
+    display: flex;
+  }
+
+  footer .footer-menu > li:first-of-type {
+    margin-left: 0;
+  }
+
+  footer .footer-menu > li:last-of-type {
+    margin-right: 0;
+  }
+
+  footer .site-footer-legal p {
+    text-align: right;
+  }
+}
+
+@media (width >= 1200px) {
+  footer .site-footer-brand {
+    width: 25%;
+  }
+
+  footer .site-footer-nav {
+    width: 75%;
+  }
+}
+
+@media (width >= 1201px) {
+  footer .site-footer-logo {
+    float: none;
+    width: 100%;
+  }
+
+  footer .site-footer-social {
+    float: none;
+    width: 100%;
+    margin-top: 20px;
+    text-align: left;
+  }
+
+  footer .site-footer-social a {
+    margin: 0;
+    text-align: center;
+  }
+
+  footer .footer-menu > li:first-of-type {
+    margin-left: 15px;
+  }
+
+  footer .footer-menu > li:last-of-type {
+    margin-right: 15px;
   }
 }

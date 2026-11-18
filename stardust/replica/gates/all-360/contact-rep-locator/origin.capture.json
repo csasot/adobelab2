@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://omyapersonalcare.us/contact/rep-locator/",
+  "width": 360,
+  "vh": 900,
+  "height": 2644,
+  "chunks": 3,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 9,
+    "late": 0
+  },
+  "at": "2026-11-17T21:45:26.790Z"
+}

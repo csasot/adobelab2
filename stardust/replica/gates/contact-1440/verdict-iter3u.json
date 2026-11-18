@@ -1,0 +1,33 @@
+{
+  "round": "iter3u",
+  "width": 1440,
+  "pixel": {
+    "rc": 0,
+    "diff": "stardust/replica/gates/contact-1440/diff-iter3u.png"
+  },
+  "probes": {
+    "content-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/contact-1440/content-diff-iter3u.txt"
+    },
+    "visual-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/contact-1440/visual-diff-iter3u.txt"
+    },
+    "chrome-parity": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/contact-1440/chrome-parity-iter3u.txt"
+    },
+    "clip-probe": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/contact-1440/clip-iter3u.txt"
+    },
+    "unit-geometry": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/contact-1440/units-iter3u.txt"
+    }
+  },
+  "structural": 0,
+  "nothingLost": 0,
+  "at": "2026-11-17T16:54:15.882Z"
+}

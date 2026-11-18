@@ -1,0 +1,20 @@
+{
+  "/about": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T18:11:47.977Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T18:11:47.977Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

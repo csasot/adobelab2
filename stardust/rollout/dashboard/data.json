@@ -1,0 +1,1408 @@
+{
+  "generatedAt": "2026-11-17T22:32:34.261Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://omyapersonalcare.us/",
+    "liveHost": "main--12a63657--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 71,
+    "prototyped": 71,
+    "deployed": 71,
+    "optimised": 40
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 31,
+    "optimised": 40
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "stage": "optimised",
+      "templateId": "index",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "about",
+      "path": "/about",
+      "stage": "optimised",
+      "templateId": "about",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "about-global-partners",
+      "path": "/about/global-partners",
+      "stage": "optimised",
+      "templateId": "about-global-partners",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "about-our-difference",
+      "path": "/about/our-difference",
+      "stage": "optimised",
+      "templateId": "about-our-difference",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "about-our-team",
+      "path": "/about/our-team",
+      "stage": "optimised",
+      "templateId": "about-our-team",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-aak-partnership",
+      "path": "/blog/aak-partnership",
+      "stage": "optimised",
+      "templateId": "blog-aak-partnership",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-announcing-our-latest-product-launches",
+      "path": "/blog/announcing-our-latest-product-launches",
+      "stage": "optimised",
+      "templateId": "blog-announcing-our-latest-product-launches",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-asp-products-pay-your-invoice",
+      "path": "/blog/asp-products/pay-your-invoice",
+      "stage": "deployed",
+      "templateId": "blog-asp-products-pay-your-invoice",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "path": "/blog/eco-friendly-high-performance-sun-care-solutions",
+      "stage": "optimised",
+      "templateId": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-february-is-national-childrens-dental-health-month",
+      "path": "/blog/february-is-national-childrens-dental-health-month",
+      "stage": "deployed",
+      "templateId": "blog-february-is-national-childrens-dental-health-month",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "path": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "stage": "deployed",
+      "templateId": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog-how-2025-reshaped-oral-health",
+      "path": "/blog/how-2025-reshaped-oral-health",
+      "stage": "optimised",
+      "templateId": "blog-how-2025-reshaped-oral-health",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+      "path": "/blog/introducing-our-newest-supply-partner-quimivita",
+      "stage": "optimised",
+      "templateId": "blog-introducing-our-newest-supply-partner-quimivita",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-national-toothache-day-february-9th",
+      "path": "/blog/national-toothache-day-february-9th",
+      "stage": "optimised",
+      "templateId": "blog-national-toothache-day-february-9th",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-nutrition-x-oral-health",
+      "path": "/blog/nutrition-x-oral-health",
+      "stage": "optimised",
+      "templateId": "blog-nutrition-x-oral-health",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "path": "/blog/omya-announces-new-partnership-with-actv-biotechnology",
+      "stage": "optimised",
+      "templateId": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-omya-partners-with-lipoid-kosmetik",
+      "path": "/blog/omya-partners-with-lipoid-kosmetik",
+      "stage": "optimised",
+      "templateId": "blog-omya-partners-with-lipoid-kosmetik",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "path": "/blog/pacific-blends-and-omya-specialty-materials-partnership",
+      "stage": "deployed",
+      "templateId": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog-skinification-of-oral-care",
+      "path": "/blog/skinification-of-oral-care",
+      "stage": "optimised",
+      "templateId": "blog-skinification-of-oral-care",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-the-healthy-bite",
+      "path": "/blog/the-healthy-bite",
+      "stage": "optimised",
+      "templateId": "blog-the-healthy-bite",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-trend-spotlight-oil-pulling",
+      "path": "/blog/trend-spotlight-oil-pulling",
+      "stage": "optimised",
+      "templateId": "blog-trend-spotlight-oil-pulling",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-water-conscious-oral-care-solutions",
+      "path": "/blog/water-conscious-oral-care-solutions",
+      "stage": "optimised",
+      "templateId": "blog-water-conscious-oral-care-solutions",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+      "path": "/blog/welcoming-monica-advani-to-the-omya-team",
+      "stage": "optimised",
+      "templateId": "blog-welcoming-monica-advani-to-the-omya-team",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "careers",
+      "path": "/careers",
+      "stage": "optimised",
+      "templateId": "careers",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "contact",
+      "path": "/contact",
+      "stage": "optimised",
+      "templateId": "contact",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "contact-rep-locator",
+      "path": "/contact/rep-locator",
+      "stage": "optimised",
+      "templateId": "contact-rep-locator",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "customer-resources",
+      "path": "/customer-resources",
+      "stage": "optimised",
+      "templateId": "customer-resources",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "customer-resources-credit-application",
+      "path": "/customer-resources/credit-application",
+      "stage": "optimised",
+      "templateId": "customer-resources-credit-application",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "customer-resources-onboarding",
+      "path": "/customer-resources/onboarding",
+      "stage": "optimised",
+      "templateId": "customer-resources-onboarding",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events",
+      "path": "/events",
+      "stage": "deployed",
+      "templateId": "events",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-2019-sunscreen-symposium",
+      "path": "/events/2019-sunscreen-symposium",
+      "stage": "deployed",
+      "templateId": "events-2019-sunscreen-symposium",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-3590",
+      "path": "/events/3590",
+      "stage": "deployed",
+      "templateId": "events-3590",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "path": "/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "stage": "deployed",
+      "templateId": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-cosmoprof-north-america",
+      "path": "/events/cosmoprof-north-america",
+      "stage": "deployed",
+      "templateId": "events-cosmoprof-north-america",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-evercare-seminar-la",
+      "path": "/events/evercare-seminar-la",
+      "stage": "deployed",
+      "templateId": "events-evercare-seminar-la",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "path": "/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "stage": "deployed",
+      "templateId": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "path": "/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "stage": "deployed",
+      "templateId": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-in-cosmetics-global",
+      "path": "/events/in-cosmetics-global",
+      "stage": "deployed",
+      "templateId": "events-in-cosmetics-global",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-in-cosmetics-global-2022",
+      "path": "/events/in-cosmetics-global-2022",
+      "stage": "deployed",
+      "templateId": "events-in-cosmetics-global-2022",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "path": "/events/in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "stage": "deployed",
+      "templateId": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-indie-beauty-expo-la",
+      "path": "/events/indie-beauty-expo-la",
+      "stage": "deployed",
+      "templateId": "events-indie-beauty-expo-la",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-indie-beauty-expo-ny",
+      "path": "/events/indie-beauty-expo-ny",
+      "stage": "optimised",
+      "templateId": "events-indie-beauty-expo-ny",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "path": "/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "stage": "deployed",
+      "templateId": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-join-us-at-a-kinetik-technology-seminar",
+      "path": "/events/join-us-at-a-kinetik-technology-seminar",
+      "stage": "optimised",
+      "templateId": "events-join-us-at-a-kinetik-technology-seminar",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+      "path": "/events/kinetik-attends-ca-suppliers-day-2019",
+      "stage": "optimised",
+      "templateId": "events-kinetik-attends-ca-suppliers-day-2019",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "path": "/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "stage": "deployed",
+      "templateId": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "path": "/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "stage": "deployed",
+      "templateId": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-makeup-los-angeles",
+      "path": "/events/makeup-los-angeles",
+      "stage": "deployed",
+      "templateId": "events-makeup-los-angeles",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-midwest-scc-teamworks",
+      "path": "/events/midwest-scc-teamworks",
+      "stage": "deployed",
+      "templateId": "events-midwest-scc-teamworks",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-naturally-kiawah-symposium",
+      "path": "/events/naturally-kiawah-symposium",
+      "stage": "deployed",
+      "templateId": "events-naturally-kiawah-symposium",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-ny-suppliers-day-2023",
+      "path": "/events/ny-suppliers-day-2023",
+      "stage": "optimised",
+      "templateId": "events-ny-suppliers-day-2023",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-nyscc-suppliers-day-2021",
+      "path": "/events/nyscc-suppliers-day-2021",
+      "stage": "optimised",
+      "templateId": "events-nyscc-suppliers-day-2021",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "path": "/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "stage": "deployed",
+      "templateId": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "path": "/events/suppliers-day-2019-visit-the-kinetik-booth",
+      "stage": "optimised",
+      "templateId": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "events-swscc-suppliers-day",
+      "path": "/events/swscc-suppliers-day",
+      "stage": "optimised",
+      "templateId": "events-swscc-suppliers-day",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "formulary-request",
+      "path": "/formulary-request",
+      "stage": "optimised",
+      "templateId": "formulary-request",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "get-a-sample",
+      "path": "/get-a-sample",
+      "stage": "deployed",
+      "templateId": "form",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "insights",
+      "path": "/insights",
+      "stage": "optimised",
+      "templateId": "insights",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "insights-blog",
+      "path": "/insights/blog",
+      "stage": "optimised",
+      "templateId": "insights-blog",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "insights-events",
+      "path": "/insights/events",
+      "stage": "optimised",
+      "templateId": "insights-events",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "news",
+      "path": "/news",
+      "stage": "deployed",
+      "templateId": "news",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "news-news-item-1",
+      "path": "/news/news-item-1",
+      "stage": "deployed",
+      "templateId": "news-news-item-1",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "news-news-item-2",
+      "path": "/news/news-item-2",
+      "stage": "deployed",
+      "templateId": "news-news-item-2",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "news-news-item-3",
+      "path": "/news/news-item-3",
+      "stage": "deployed",
+      "templateId": "news-news-item-3",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "our-approach",
+      "path": "/our-approach",
+      "stage": "deployed",
+      "templateId": "our-approach",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "our-formulations",
+      "path": "/our-formulations",
+      "stage": "optimised",
+      "templateId": "our-formulations",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "pay-thank-you",
+      "path": "/pay-thank-you",
+      "stage": "deployed",
+      "templateId": "unique",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "privacy-policy",
+      "path": "/privacy-policy",
+      "stage": "optimised",
+      "templateId": "privacy-policy",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "request-info",
+      "path": "/request-info",
+      "stage": "optimised",
+      "templateId": "request-info",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "terms-of-use",
+      "path": "/terms-of-use",
+      "stage": "optimised",
+      "templateId": "terms-of-use",
+      "isTemplate": true,
+      "openFindings": 0
+    },
+    {
+      "slug": "thank-you",
+      "path": "/thank-you",
+      "stage": "deployed",
+      "templateId": "thank-you",
+      "isTemplate": true,
+      "openFindings": 1
+    }
+  ],
+  "templates": [
+    {
+      "id": "about",
+      "archetype": "about",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "about-global-partners",
+      "archetype": "about-global-partners",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "about-our-difference",
+      "archetype": "about-our-difference",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "about-our-team",
+      "archetype": "about-our-team",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-aak-partnership",
+      "archetype": "blog-aak-partnership",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-announcing-our-latest-product-launches",
+      "archetype": "blog-announcing-our-latest-product-launches",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-asp-products-pay-your-invoice",
+      "archetype": "blog-asp-products-pay-your-invoice",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "archetype": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-february-is-national-childrens-dental-health-month",
+      "archetype": "blog-february-is-national-childrens-dental-health-month",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "archetype": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "blog-how-2025-reshaped-oral-health",
+      "archetype": "blog-how-2025-reshaped-oral-health",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-introducing-our-newest-supply-partner-quimivita",
+      "archetype": "blog-introducing-our-newest-supply-partner-quimivita",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-national-toothache-day-february-9th",
+      "archetype": "blog-national-toothache-day-february-9th",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-nutrition-x-oral-health",
+      "archetype": "blog-nutrition-x-oral-health",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "archetype": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-omya-partners-with-lipoid-kosmetik",
+      "archetype": "blog-omya-partners-with-lipoid-kosmetik",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "archetype": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "blog-skinification-of-oral-care",
+      "archetype": "blog-skinification-of-oral-care",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-the-healthy-bite",
+      "archetype": "blog-the-healthy-bite",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-trend-spotlight-oil-pulling",
+      "archetype": "blog-trend-spotlight-oil-pulling",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-water-conscious-oral-care-solutions",
+      "archetype": "blog-water-conscious-oral-care-solutions",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "blog-welcoming-monica-advani-to-the-omya-team",
+      "archetype": "blog-welcoming-monica-advani-to-the-omya-team",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "careers",
+      "archetype": "careers",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "contact",
+      "archetype": "contact",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "contact-rep-locator",
+      "archetype": "contact-rep-locator",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "customer-resources",
+      "archetype": "customer-resources",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "customer-resources-credit-application",
+      "archetype": "customer-resources-credit-application",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "customer-resources-onboarding",
+      "archetype": "customer-resources-onboarding",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events",
+      "archetype": "events",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-2019-sunscreen-symposium",
+      "archetype": "events-2019-sunscreen-symposium",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-3590",
+      "archetype": "events-3590",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "archetype": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-cosmoprof-north-america",
+      "archetype": "events-cosmoprof-north-america",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-evercare-seminar-la",
+      "archetype": "events-evercare-seminar-la",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "archetype": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "archetype": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global",
+      "archetype": "events-in-cosmetics-global",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global-2022",
+      "archetype": "events-in-cosmetics-global-2022",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "archetype": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-indie-beauty-expo-la",
+      "archetype": "events-indie-beauty-expo-la",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-indie-beauty-expo-ny",
+      "archetype": "events-indie-beauty-expo-ny",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "archetype": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-join-us-at-a-kinetik-technology-seminar",
+      "archetype": "events-join-us-at-a-kinetik-technology-seminar",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-kinetik-attends-ca-suppliers-day-2019",
+      "archetype": "events-kinetik-attends-ca-suppliers-day-2019",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "archetype": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "archetype": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-makeup-los-angeles",
+      "archetype": "events-makeup-los-angeles",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-midwest-scc-teamworks",
+      "archetype": "events-midwest-scc-teamworks",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-naturally-kiawah-symposium",
+      "archetype": "events-naturally-kiawah-symposium",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-ny-suppliers-day-2023",
+      "archetype": "events-ny-suppliers-day-2023",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-nyscc-suppliers-day-2021",
+      "archetype": "events-nyscc-suppliers-day-2021",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "archetype": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "archetype": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "events-swscc-suppliers-day",
+      "archetype": "events-swscc-suppliers-day",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "form",
+      "archetype": "get-a-sample",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "formulary-request",
+      "archetype": "formulary-request",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "index",
+      "archetype": "index",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "insights",
+      "archetype": "insights",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "insights-blog",
+      "archetype": "insights-blog",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "insights-events",
+      "archetype": "insights-events",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "news",
+      "archetype": "news",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "news-news-item-1",
+      "archetype": "news-news-item-1",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "news-news-item-2",
+      "archetype": "news-news-item-2",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "news-news-item-3",
+      "archetype": "news-news-item-3",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "our-approach",
+      "archetype": "our-approach",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "our-formulations",
+      "archetype": "our-formulations",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "privacy-policy",
+      "archetype": "privacy-policy",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "request-info",
+      "archetype": "request-info",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "terms-of-use",
+      "archetype": "terms-of-use",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    },
+    {
+      "id": "thank-you",
+      "archetype": "thank-you",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "unique",
+      "archetype": "pay-thank-you",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 14,
+    "converted": 0
+  },
+  "quality": {
+    "overall": 97,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 96,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": 96
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 2
+    },
+    "history": [
+      64,
+      97
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 27,
+      "design-pass": 1,
+      "platform-migration": 1
+    },
+    "byAutofix": {
+      "pending": 1
+    }
+  }
+}

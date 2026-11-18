@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022",
+  "width": 1440,
+  "vh": 900,
+  "height": 1573,
+  "chunks": 2,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 5,
+    "late": 0
+  },
+  "at": "2026-11-17T19:20:05.434Z"
+}

@@ -1,0 +1,8 @@
+{
+ "blog-eco-friendly-high-performance-sun-care-solutions": {
+  "masks": [
+   "2088:563@2088"
+  ],
+  "reason": "known source residual: the source YouTube iframes (src \"…?si=…?rel=0\") render the player error state (Error 153), ours the player (embed passthrough, dynamic-features row 19) — video-grid band masked; everything else compared"
+ }
+}

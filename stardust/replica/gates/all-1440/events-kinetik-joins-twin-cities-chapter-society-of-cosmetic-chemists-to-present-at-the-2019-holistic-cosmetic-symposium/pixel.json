@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/all-1440/events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/origin.png",
+  "b": "stardust/replica/gates/all-1440/events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 1768,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 21779,
+  "pct": 0.86,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 50,
+  "textPixels": 224798,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 3
+    },
+    {
+      "y0": 1500,
+      "y1": 1768,
+      "pct": 0.1
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium"
+  }
+}

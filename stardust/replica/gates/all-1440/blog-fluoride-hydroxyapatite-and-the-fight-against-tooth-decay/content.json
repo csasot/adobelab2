@@ -1,0 +1,4773 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T20:59:01.233Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+  "at": "2026-11-17T20:58:42.177Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4965,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 422,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 478,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 547,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 6, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "national toothache day"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 909,
+    "w": 843,
+    "h": 91,
+    "text": "February is National Children’s Dental Health Month and on the ninth day of Febr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1010,
+    "w": 843,
+    "h": 114,
+    "text": "Fluoride has been one of the most instrumental tools for improving oral health o"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1144,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "fluoride history"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1203,
+    "w": 843,
+    "h": 137,
+    "text": "The protective benefits of fluoride were discovered as a result of the negative "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1350,
+    "w": 843,
+    "h": 114,
+    "text": "A study published in 1942, including over 7000 adolescent children from more tha"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1484,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "why is fluoride under scrutiny?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1542,
+    "w": 843,
+    "h": 91,
+    "text": "Fluoride has been in the headlines recently, but the truth is that public water "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1643,
+    "w": 843,
+    "h": 114,
+    "text": "Modern studies on the benefits of public water fluoridation have demonstrated a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 1768,
+    "w": 843,
+    "h": 160,
+    "text": "Media and political sensationalism around this scrutiny has had a halo effect on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1948,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "hydroxyapatite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 2006,
+    "w": 843,
+    "h": 114,
+    "text": "Fluoride is not the only ingredient clinically proven to reduce, prevent, or rep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 2130,
+    "w": 843,
+    "h": 137,
+    "text": "The adoption of hydroxyapatite outside of Japan has been very slow. This is due,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > div#attachment_64740 > img.size-full.wp-image-64740",
+    "x": 313,
+    "y": 2289,
+    "w": 636,
+    "h": 480,
+    "text": "graph of new oral hygiene products",
+    "file": "Graph-of-new-oral-hygiene-products"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#attachment_64740 > p#caption-attachment-64740 > em",
+    "x": 313,
+    "y": 2771,
+    "w": 641,
+    "h": 63,
+    "text": "Figure 1: Graph of new oral hygiene products cataloged in Mintel NPD between Jan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 2860,
+    "w": 843,
+    "h": 228,
+    "text": "Fluoride-free toothpastes have been widely available for decades and are feature"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h2",
+    "x": 313,
+    "y": 3108,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > p",
+    "x": 313,
+    "y": 3166,
+    "w": 843,
+    "h": 114,
+    "text": "Public water fluoridation may be under serious scrutiny, but most dentists and r"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 497,
+    "y": 3260,
+    "w": 476,
+    "h": 17,
+    "text": "click here to learn more about omyadent® 100 for remineralization",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-64735 > div.entry-summary > h3",
+    "x": 313,
+    "y": 3295,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3339,
+    "w": 822,
+    "h": 55,
+    "text": "National Childrens Dental Health Month | American Dental Association. www.ada.or"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3364,
+    "w": 646,
+    "h": 17,
+    "text": "https://www.ada.org/resources/community-initiatives/national-childrens-dental-he",
+    "href": "/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3394,
+    "w": 822,
+    "h": 78,
+    "text": "National Institute of Dental and Craniofacial Research. . Nih.gov. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3419,
+    "w": 735,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/research/data-statistics/dental-caries/adults",
+    "href": "/research/data-statistics/dental-caries/adults"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3471,
+    "w": 822,
+    "h": 55,
+    "text": "National Institute of Dental and Craniofacial Research. The Story of Fluoridatio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 563,
+    "y": 3496,
+    "w": 481,
+    "h": 17,
+    "text": "https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation",
+    "href": "/health-info/fluoride/the-story-of-fluoridation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3526,
+    "w": 822,
+    "h": 55,
+    "text": "‌CDC. Timeline for Community Water Fluoridation. Community Water Fluoridation. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3551,
+    "w": 596,
+    "h": 17,
+    "text": "https://www.cdc.gov/fluoridation/timeline-for-community-water-fluoridation/index",
+    "href": "/fluoridation/timeline-for-community-water-fluoridation/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3581,
+    "w": 822,
+    "h": 78,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 538,
+    "y": 3628,
+    "w": 356,
+    "h": 17,
+    "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+    "href": "/10.1002/14651858.CD010856.pub3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3658,
+    "w": 822,
+    "h": 78,
+    "text": "Choi AL, Sun G, Zhang Y, Grandjean P. Developmental fluoride neurotoxicity: a sy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3736,
+    "w": 822,
+    "h": 55,
+    "text": "Dear Dental Professional. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3738,
+    "w": 811,
+    "h": 40,
+    "text": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources",
+    "href": "/-/media/project/ada-organization/ada/ada-org/files/resources/public-programs/give-kids-a-smile/ada-gkasts-eng_dental_professionals.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3791,
+    "w": 822,
+    "h": 55,
+    "text": "gov. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3793,
+    "w": 777,
+    "h": 40,
+    "text": "https://www.ecfr.gov/current/title-21/chapter-i/subchapter-d/part-355/subpart-b/",
+    "href": "/current/title-21/chapter-I/subchapter-D/part-355/subpart-B/section-355.20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3845,
+    "w": 822,
+    "h": 55,
+    "text": "Semiconductor Research Leads to Revolution in Dental Care | NASA Spinoff. spinof"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3870,
+    "w": 650,
+    "h": 17,
+    "text": "https://spinoff.nasa.gov/semiconductor_research_leads_to_a_revolution_in_dental_",
+    "href": "/Semiconductor_Research_Leads_to_a_Revolution_in_Dental_Care"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3900,
+    "w": 822,
+    "h": 32,
+    "text": "‌ MILESTONES. SANGI CO.,LTD. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 576,
+    "y": 3902,
+    "w": 333,
+    "h": 17,
+    "text": "https://www.sangi-co.com/en/history/index.html",
+    "href": "/en/history/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3932,
+    "w": 822,
+    "h": 32,
+    "text": "Nesta, J. (2025, July). New Products Database search. Mintel."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 265,
+    "y": 4114,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 1060,
+    "y": 4560,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 265,
+    "y": 4560,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 4690,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 4768,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 4787,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 4690,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 4690,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 4736,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 4690,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 4736,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 4759,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 4782,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 4805,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 4828,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 4690,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 4736,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 4759,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 4690,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 4736,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 4881,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 4882,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 4882,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 4882,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 4899,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 4899,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 4899,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 117,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+  "at": "2026-11-17T20:59:01.119Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4922,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 728,
+    "text": "",
+    "file": "media_16677ba28534d62bcfeb2e132c19c2d04d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / / Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 422,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 478,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 547,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 6, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#national-toothache-day",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "national toothache day"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 909,
+    "w": 843,
+    "h": 91,
+    "text": "February is National Children’s Dental Health Month and on the ninth day of Febr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1010,
+    "w": 843,
+    "h": 114,
+    "text": "Fluoride has been one of the most instrumental tools for improving oral health o"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#fluoride-history",
+    "x": 313,
+    "y": 1144,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "fluoride history"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1203,
+    "w": 843,
+    "h": 137,
+    "text": "The protective benefits of fluoride were discovered as a result of the negative "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1350,
+    "w": 843,
+    "h": 114,
+    "text": "A study published in 1942, including over 7000 adolescent children from more tha"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#why-is-fluoride-under-scrutiny",
+    "x": 313,
+    "y": 1484,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "why is fluoride under scrutiny?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1542,
+    "w": 843,
+    "h": 91,
+    "text": "Fluoride has been in the headlines recently, but the truth is that public water "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1643,
+    "w": 843,
+    "h": 114,
+    "text": "Modern studies on the benefits of public water fluoridation have demonstrated a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1768,
+    "w": 843,
+    "h": 160,
+    "text": "Media and political sensationalism around this scrutiny has had a halo effect on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#hydroxyapatite",
+    "x": 313,
+    "y": 1948,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "hydroxyapatite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2006,
+    "w": 843,
+    "h": 114,
+    "text": "Fluoride is not the only ingredient clinically proven to reduce, prevent, or rep"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2130,
+    "w": 843,
+    "h": 137,
+    "text": "The adoption of hydroxyapatite outside of Japan has been very slow. This is due,"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p.figure-media > picture > img",
+    "x": 313,
+    "y": 2279,
+    "w": 636,
+    "h": 480,
+    "text": "graph of new oral hygiene products",
+    "file": "media_112a1cf6912affcd957fc412146ca15f28"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > p.figure-caption > em",
+    "x": 313,
+    "y": 2761,
+    "w": 817,
+    "h": 40,
+    "text": "Figure 1: Graph of new oral hygiene products cataloged in Mintel NPD between Jan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2817,
+    "w": 843,
+    "h": 228,
+    "text": "Fluoride-free toothpastes have been widely available for decades and are feature"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#conclusion",
+    "x": 313,
+    "y": 3065,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 3123,
+    "w": 843,
+    "h": 114,
+    "text": "Public water fluoridation may be under serious scrutiny, but most dentists and r"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 497,
+    "y": 3217,
+    "w": 476,
+    "h": 17,
+    "text": "click here to learn more about omyadent® 100 for remineralization",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#references",
+    "x": 313,
+    "y": 3253,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3296,
+    "w": 822,
+    "h": 55,
+    "text": "National Childrens Dental Health Month | American Dental Association. www.ada.or"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3321,
+    "w": 646,
+    "h": 17,
+    "text": "https://www.ada.org/resources/community-initiatives/national-childrens-dental-he",
+    "href": "/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3351,
+    "w": 822,
+    "h": 78,
+    "text": "National Institute of Dental and Craniofacial Research. . Nih.gov. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3376,
+    "w": 735,
+    "h": 40,
+    "text": "https://www.nidcr.nih.gov/research/data-statistics/dental-caries/adults",
+    "href": "/research/data-statistics/dental-caries/adults"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3429,
+    "w": 822,
+    "h": 55,
+    "text": "National Institute of Dental and Craniofacial Research. The Story of Fluoridatio"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 563,
+    "y": 3453,
+    "w": 481,
+    "h": 17,
+    "text": "https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation",
+    "href": "/health-info/fluoride/the-story-of-fluoridation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3483,
+    "w": 822,
+    "h": 55,
+    "text": "‌CDC. Timeline for Community Water Fluoridation. Community Water Fluoridation. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3508,
+    "w": 596,
+    "h": 17,
+    "text": "https://www.cdc.gov/fluoridation/timeline-for-community-water-fluoridation/index",
+    "href": "/fluoridation/timeline-for-community-water-fluoridation/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3538,
+    "w": 822,
+    "h": 78,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 538,
+    "y": 3586,
+    "w": 356,
+    "h": 17,
+    "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+    "href": "/10.1002/14651858.CD010856.pub3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3616,
+    "w": 822,
+    "h": 78,
+    "text": "Choi AL, Sun G, Zhang Y, Grandjean P. Developmental fluoride neurotoxicity: a sy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3693,
+    "w": 822,
+    "h": 55,
+    "text": "Dear Dental Professional. ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3695,
+    "w": 811,
+    "h": 40,
+    "text": "https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources",
+    "href": "/-/media/project/ada-organization/ada/ada-org/files/resources/public-programs/give-kids-a-smile/ada-gkasts-eng_dental_professionals.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3748,
+    "w": 822,
+    "h": 55,
+    "text": "gov. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3750,
+    "w": 777,
+    "h": 40,
+    "text": "https://www.ecfr.gov/current/title-21/chapter-i/subchapter-d/part-355/subpart-b/",
+    "href": "/current/title-21/chapter-I/subchapter-D/part-355/subpart-B/section-355.20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3802,
+    "w": 822,
+    "h": 55,
+    "text": "Semiconductor Research Leads to Revolution in Dental Care | NASA Spinoff. spinof"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3827,
+    "w": 650,
+    "h": 17,
+    "text": "https://spinoff.nasa.gov/semiconductor_research_leads_to_a_revolution_in_dental_",
+    "href": "/Semiconductor_Research_Leads_to_a_Revolution_in_Dental_Care"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3857,
+    "w": 822,
+    "h": 32,
+    "text": "‌ MILESTONES. SANGI CO.,LTD. (accessed 2025-02-05)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 576,
+    "y": 3859,
+    "w": 333,
+    "h": 17,
+    "text": "https://www.sangi-co.com/en/history/index.html",
+    "href": "/en/history/index.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3889,
+    "w": 822,
+    "h": 32,
+    "text": "Nesta, J. (2025, July). New Products Database search. Mintel."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 265,
+    "y": 4071,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 1060,
+    "y": 4517,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 265,
+    "y": 4517,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 4647,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 4725,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 4744,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 4647,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 4647,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 4693,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 4647,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4693,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4716,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4739,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4762,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4785,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 4647,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 4693,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 4716,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 4647,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 4693,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 4838,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 4839,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 4839,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 4839,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 4856,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 4856,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 4856,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 116,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "national toothache day",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "fluoride history",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "why is fluoride under scrutiny?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "hydroxyapatite",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "references",
+   "variable": false,
+   "origin": {
+    "link": 9,
+    "button": 0,
+    "text": 11,
+    "image": 0
+   },
+   "eds": {
+    "link": 9,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 11,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"fluoride, hydroxyapatite, and the fight against tooth decay\" (y 342) has no origin heading",
+   "text": "fluoride, hydroxyapatite, and the fight against tooth decay"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 340,
+    "y": 344,
+    "w": 760,
+    "h": 53
+   },
+   {
+    "x": 419,
+    "y": 402,
+    "w": 603,
+    "h": 53
+   },
+   {
+    "x": 422,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 465,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 478,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 533,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 547,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 579,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 592,
+    "y": 474,
+    "w": 426,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 407,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 832,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 821,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 956,
+    "w": 833,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 979,
+    "w": 411,
+    "h": 17
+   },
+   {
+    "x": 724,
+    "y": 979,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1012,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1035,
+    "w": 567,
+    "h": 17
+   },
+   {
+    "x": 880,
+    "y": 1035,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 886,
+    "y": 1035,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1058,
+    "w": 816,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1081,
+    "w": 823,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1104,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 366,
+    "y": 1103,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1145,
+    "w": 276,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1205,
+    "w": 820,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1227,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 1227,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 680,
+    "y": 1227,
+    "w": 462,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1250,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 603,
+    "y": 1250,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 609,
+    "y": 1250,
+    "w": 495,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1273,
+    "w": 821,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1296,
+    "w": 843,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1319,
+    "w": 94,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1352,
+    "w": 813,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1374,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1397,
+    "w": 800,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1420,
+    "w": 814,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1443,
+    "w": 535,
+    "h": 17
+   },
+   {
+    "x": 849,
+    "y": 1443,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1485,
+    "w": 554,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1544,
+    "w": 755,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1567,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1590,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1613,
+    "w": 787,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1645,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1668,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 364,
+    "y": 1668,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 370,
+    "y": 1668,
+    "w": 767,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1691,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1714,
+    "w": 730,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1737,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 514,
+    "y": 1736,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1770,
+    "w": 815,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1792,
+    "w": 840,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1815,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1838,
+    "w": 838,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1861,
+    "w": 660,
+    "h": 17
+   },
+   {
+    "x": 973,
+    "y": 1861,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 980,
+    "y": 1861,
+    "w": 151,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1884,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1907,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 552,
+    "y": 1906,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1949,
+    "w": 260,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2008,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2031,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2053,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2076,
+    "w": 825,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2099,
+    "w": 619,
+    "h": 17
+   },
+   {
+    "x": 932,
+    "y": 2099,
+    "w": 22,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2132,
+    "w": 764,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2155,
+    "w": 791,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2178,
+    "w": 804,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2200,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2223,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2246,
+    "w": 132,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2771,
+    "w": 641,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2794,
+    "w": 613,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2817,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 610,
+    "y": 2816,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2862,
+    "w": 768,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2884,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2907,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2930,
+    "w": 791,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2953,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2976,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2999,
+    "w": 827,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3021,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3044,
+    "w": 65,
+    "h": 17
+   },
+   {
+    "x": 378,
+    "y": 3044,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 391,
+    "y": 3044,
+    "w": 759,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3067,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3109,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 3168,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3191,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3214,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3237,
+    "w": 765,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3260,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 497,
+    "y": 3260,
+    "w": 476,
+    "h": 17
+   },
+   {
+    "x": 973,
+    "y": 3260,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3295,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 334,
+    "y": 3341,
+    "w": 603,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3364,
+    "w": 646,
+    "h": 17
+   },
+   {
+    "x": 980,
+    "y": 3364,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3396,
+    "w": 390,
+    "h": 17
+   },
+   {
+    "x": 724,
+    "y": 3396,
+    "w": 381,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3419,
+    "w": 381,
+    "h": 17
+   },
+   {
+    "x": 715,
+    "y": 3419,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 786,
+    "y": 3419,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3442,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 539,
+    "y": 3442,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3473,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3496,
+    "w": 228,
+    "h": 17
+   },
+   {
+    "x": 563,
+    "y": 3496,
+    "w": 481,
+    "h": 17
+   },
+   {
+    "x": 1044,
+    "y": 3496,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3528,
+    "w": 575,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3551,
+    "w": 596,
+    "h": 17
+   },
+   {
+    "x": 930,
+    "y": 3551,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3583,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3606,
+    "w": 788,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3628,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 538,
+    "y": 3628,
+    "w": 356,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3660,
+    "w": 766,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3683,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3706,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3738,
+    "w": 187,
+    "h": 17
+   },
+   {
+    "x": 521,
+    "y": 3738,
+    "w": 624,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3761,
+    "w": 489,
+    "h": 17
+   },
+   {
+    "x": 823,
+    "y": 3761,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3793,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 623,
+    "y": 3793,
+    "w": 34,
+    "h": 17
+   },
+   {
+    "x": 657,
+    "y": 3793,
+    "w": 454,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3815,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 544,
+    "y": 3815,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3847,
+    "w": 670,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3870,
+    "w": 650,
+    "h": 17
+   },
+   {
+    "x": 984,
+    "y": 3870,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3902,
+    "w": 241,
+    "h": 17
+   },
+   {
+    "x": 576,
+    "y": 3902,
+    "w": 333,
+    "h": 17
+   },
+   {
+    "x": 908,
+    "y": 3902,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3934,
+    "w": 441,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4115,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 4571,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4560,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 4571,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 4699,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4699,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4735,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4699,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 4735,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4758,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4781,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4804,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4827,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4699,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 4735,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4758,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 4699,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 4735,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 4882,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 4882,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 4882,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 4882,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 4882,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 4899,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 4899,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 4899,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 4899,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 4899,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 4899,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 340,
+    "y": 344,
+    "w": 760,
+    "h": 53
+   },
+   {
+    "x": 419,
+    "y": 402,
+    "w": 603,
+    "h": 53
+   },
+   {
+    "x": 422,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 465,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 478,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 533,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 547,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 579,
+    "y": 474,
+    "w": 439,
+    "h": 17
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 407,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 832,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 821,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 957,
+    "w": 833,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 979,
+    "w": 411,
+    "h": 17
+   },
+   {
+    "x": 724,
+    "y": 978,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1012,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1035,
+    "w": 567,
+    "h": 17
+   },
+   {
+    "x": 880,
+    "y": 1033,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 886,
+    "y": 1035,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1058,
+    "w": 816,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1081,
+    "w": 823,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1104,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 366,
+    "y": 1102,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1145,
+    "w": 276,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1205,
+    "w": 820,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1227,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 1227,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 680,
+    "y": 1227,
+    "w": 462,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1250,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 603,
+    "y": 1249,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 609,
+    "y": 1250,
+    "w": 495,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1273,
+    "w": 821,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1296,
+    "w": 843,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1319,
+    "w": 94,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1352,
+    "w": 813,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1375,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1397,
+    "w": 800,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1420,
+    "w": 814,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1443,
+    "w": 535,
+    "h": 17
+   },
+   {
+    "x": 849,
+    "y": 1441,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1485,
+    "w": 554,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1544,
+    "w": 755,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1567,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1590,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1613,
+    "w": 787,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1645,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1668,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 364,
+    "y": 1667,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 370,
+    "y": 1668,
+    "w": 767,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1691,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1714,
+    "w": 730,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1737,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 514,
+    "y": 1735,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1770,
+    "w": 815,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1793,
+    "w": 840,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1815,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1838,
+    "w": 838,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1861,
+    "w": 660,
+    "h": 17
+   },
+   {
+    "x": 973,
+    "y": 1859,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 980,
+    "y": 1861,
+    "w": 151,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1884,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1907,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 552,
+    "y": 1905,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1949,
+    "w": 260,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2008,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2031,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2053,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2076,
+    "w": 825,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2099,
+    "w": 619,
+    "h": 17
+   },
+   {
+    "x": 932,
+    "y": 2098,
+    "w": 22,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2132,
+    "w": 764,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2155,
+    "w": 791,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2178,
+    "w": 804,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2201,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2223,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2246,
+    "w": 132,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2761,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2784,
+    "w": 738,
+    "h": 17
+   },
+   {
+    "x": 1051,
+    "y": 2782,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2819,
+    "w": 768,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2842,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2864,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2887,
+    "w": 791,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2910,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2933,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2956,
+    "w": 827,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2979,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3002,
+    "w": 65,
+    "h": 17
+   },
+   {
+    "x": 378,
+    "y": 3000,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 391,
+    "y": 3002,
+    "w": 759,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3024,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3066,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 3125,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3148,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3171,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3194,
+    "w": 765,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3217,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 497,
+    "y": 3217,
+    "w": 476,
+    "h": 17
+   },
+   {
+    "x": 973,
+    "y": 3217,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 3253,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 334,
+    "y": 3298,
+    "w": 603,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3321,
+    "w": 646,
+    "h": 17
+   },
+   {
+    "x": 980,
+    "y": 3321,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3353,
+    "w": 390,
+    "h": 17
+   },
+   {
+    "x": 724,
+    "y": 3353,
+    "w": 381,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3376,
+    "w": 381,
+    "h": 17
+   },
+   {
+    "x": 715,
+    "y": 3376,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 786,
+    "y": 3376,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3399,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 539,
+    "y": 3399,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3431,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3453,
+    "w": 228,
+    "h": 17
+   },
+   {
+    "x": 563,
+    "y": 3453,
+    "w": 481,
+    "h": 17
+   },
+   {
+    "x": 1044,
+    "y": 3453,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3485,
+    "w": 575,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3508,
+    "w": 596,
+    "h": 17
+   },
+   {
+    "x": 930,
+    "y": 3508,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3540,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3563,
+    "w": 788,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3586,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 538,
+    "y": 3586,
+    "w": 356,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3618,
+    "w": 766,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3640,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3663,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3695,
+    "w": 187,
+    "h": 17
+   },
+   {
+    "x": 521,
+    "y": 3695,
+    "w": 624,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3718,
+    "w": 489,
+    "h": 17
+   },
+   {
+    "x": 823,
+    "y": 3718,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3750,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 623,
+    "y": 3750,
+    "w": 34,
+    "h": 17
+   },
+   {
+    "x": 657,
+    "y": 3750,
+    "w": 454,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3773,
+    "w": 210,
+    "h": 17
+   },
+   {
+    "x": 544,
+    "y": 3773,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3804,
+    "w": 670,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3827,
+    "w": 650,
+    "h": 17
+   },
+   {
+    "x": 984,
+    "y": 3827,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3859,
+    "w": 241,
+    "h": 17
+   },
+   {
+    "x": 576,
+    "y": 3859,
+    "w": 333,
+    "h": 17
+   },
+   {
+    "x": 908,
+    "y": 3859,
+    "w": 173,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3891,
+    "w": 441,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4072,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 4528,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4517,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 4528,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 4656,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4656,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4692,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4656,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 4692,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4715,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4738,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4761,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4784,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4656,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 4692,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4715,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 4656,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 4692,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 4839,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 4839,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 4839,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 4839,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 4839,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 4856,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 4856,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 4856,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 4856,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 4856,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 4856,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

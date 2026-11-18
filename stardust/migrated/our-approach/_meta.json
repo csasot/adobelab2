@@ -1,0 +1,130 @@
+{
+  "slug": "our-approach",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "intro",
+    "alt-row",
+    "cta-band",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "alt-rows",
+    "cta-band"
+  ],
+  "canonShas": {
+    "header": "c9354f7e30f7",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "about",
+      "encoder": "stardust/.work/cluster-static/probes/encode.py",
+      "note": "state status extracted -> migrate branch A; rendered from the about archetype model (cluster-static)"
+    }
+  ],
+  "metadata": {
+    "title": "Natural, Organic, Sustainable Cosmetics Ingredients &amp; Materials | Omya",
+    "description": "Trust Omya Personal Care to source only sustainable cosmetics ingredients and raw materials to formulate your organic personal care product lines.",
+    "canonical": "https://omyapersonalcare.us/our-approach/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Natural, Organic, Sustainable Cosmetics Ingredients &amp; Materials | Omya",
+    "description": "Trust Omya Personal Care to source only sustainable cosmetics ingredients and raw materials to formulate your organic personal care product lines.",
+    "url": "https://omyapersonalcare.us/our-approach/"
+  },
+  "migratedAt": "2026-11-17T18:43:42Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "196baf6a769a",
+  "sourceProposedSha": "30bdff38d7de",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder lifts every heading/paragraph/list/link/image of #interior-content + hero h1/crumbs from stardust/current/pages/our-approach.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/formulary-request/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "our-approach/index.html",
+  "outputPathDefault": null,
+  "sidecar": "our-approach/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,226 @@
+{
+  "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1077,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1077,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "blog-header",
+      "position": "relative",
+      "height": "670.172px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": "p.breadcrumbs a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(153, 199, 228)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.25s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(153, 199, 228)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.25s"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "bottom",
+        "el": "html > body.cbp-spmenu-push > a.round-button.active",
+        "y": 400,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "bottom",
+        "el": "html > body.cbp-spmenu-push > a.round-button",
+        "y": 90,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "outline-width",
+        "el": "div.container.no-side-padding.clearfix > div.col-xs-12.col-sm-12.col-md-10 > p.breadcrumbs > span > a.home",
+        "y": 0,
+        "dur": "0.25s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "active"
+        ],
+        "el": "html > body.cbp-spmenu-push > a.round-button.active",
+        "y": 400
+      }
+    ]
+  }
+}

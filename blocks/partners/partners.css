@@ -1,0 +1,219 @@
+/* partners — canon.css · partners (mobile-first). Marquee: the track holds 3 lead clones (2 below
+   1024px: the first is hidden) + N logos + N trailing clones and slides N logos in N × 3 s. */
+.partners {
+  display: flow-root;
+  margin-top: 10px;
+  background: var(--bg-texture) center top no-repeat var(--c-mist);
+  background-blend-mode: color-burn;
+}
+
+.partners .partners-wrap {
+  display: flow-root;
+  margin: 0 auto;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.partners .partners-head,
+.partners .partners-slider {
+  position: relative;
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.partners .partners-title :is(h2, h3) {
+  display: inline-block;
+  margin: 20px 0 15px;
+  padding-right: 0;
+  font-size: 32px;
+  text-align: center;
+  border-right: none;
+}
+
+.partners .partners-title br {
+  display: none;
+}
+
+.partners .partners-list {
+  position: relative;
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.partners .partners-track {
+  --pm-show: 2;
+  --pm-lead: 2;
+  --pm-total: calc(var(--pm-n, 10) * 2 + var(--pm-lead));
+
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% * var(--pm-total) / var(--pm-show));
+  transform: translateX(calc(-100% * var(--pm-lead) / var(--pm-total)));
+  animation: partners-marquee calc(var(--pm-n, 10) * 3s) linear infinite;
+}
+
+@keyframes partners-marquee {
+  from {
+    transform: translateX(calc(-100% * var(--pm-lead) / var(--pm-total)));
+  }
+
+  to {
+    transform: translateX(calc(-100% * (var(--pm-lead) + var(--pm-n, 10)) / var(--pm-total)));
+  }
+}
+
+.partners .partners-slide {
+  flex: 0 0 calc(100% / var(--pm-total));
+  min-height: 1px;
+}
+
+.partners .partners-slide-lead:first-child {
+  display: none;
+}
+
+.partners .partners-slide p {
+  margin: 0;
+}
+
+.partners .partners-slide a {
+  display: block;
+  width: 100%;
+  padding: 0 15px;
+}
+
+.partners .partners-slide picture {
+  display: block;
+}
+
+.partners .partners-slide img {
+  display: block;
+  float: none;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  max-height: none;
+  margin: 15px auto;
+}
+
+@media (width >= 768px) {
+  .partners .partners-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: var(--wrap-w);
+  }
+
+  .partners .partners-head,
+  .partners .partners-slider {
+    float: none;
+  }
+
+  .partners .partners-head {
+    width: 25%;
+  }
+
+  .partners .partners-slider {
+    width: 75%;
+  }
+
+  .partners .partners-title :is(h2, h3) {
+    margin: 20px 0 0;
+    padding-right: 15px;
+    font-size: 36px;
+    text-align: left;
+    border-right: 2px solid var(--c-ink);
+  }
+
+  .partners .partners-title br {
+    display: inline;
+  }
+
+  .partners .partners-slide img {
+    width: auto;
+    max-width: 100%;
+    max-height: 90px;
+    margin: 0 auto;
+  }
+}
+
+@media (width >= 980px) {
+  .partners .partners-title :is(h2, h3) {
+    padding-right: 40px;
+  }
+}
+
+@media (width >= 1024px) {
+  .partners .partners-track {
+    --pm-show: 3;
+    --pm-lead: 3;
+  }
+
+  .partners .partners-slide-lead:first-child {
+    display: block;
+  }
+}
+
+@media (width >= 1226px) {
+  .partners .partners-title :is(h2, h3) {
+    padding-right: 60px;
+  }
+}
+
+/* variant `grid` — /about/global-partners (child.css · .bg-gray + .global-partner-box): grey
+   full-width band, 40px rhythm; columns 15px gutters (col-md-4 col-sm-6); white 225px boxes,
+   logo 60px tall centred 80px down, 20px apart */
+.partners.grid {
+  margin-top: 0;
+  padding: 40px 0;
+  background: #eee;
+}
+
+.partners.grid .partners-grid {
+  display: flow-root;
+}
+
+.partners.grid .partners-box {
+  float: left;
+  width: 100%;
+  padding: 0 15px;
+}
+
+.partners.grid .partners-box > :is(p, a) {
+  display: block;
+  height: 225px;
+  margin: 0 0 20px;
+  padding: 80px 30px 15px;
+  text-align: center;
+  text-decoration: none;
+  background: #fff;
+}
+
+.partners.grid .partners-box :is(picture, a) {
+  display: block;
+}
+
+.partners.grid .partners-box img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: 60px;
+  margin: 0 auto;
+}
+
+@media (width >= 768px) {
+  .partners.grid .partners-box {
+    width: 50%;
+  }
+}
+
+@media (width >= 992px) {
+  .partners.grid .partners-box {
+    width: calc(100% / 3);
+  }
+}

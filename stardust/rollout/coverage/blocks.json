@@ -1,0 +1,311 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-17T17:02:38.158Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-17T17:02:38.158Z",
+  "blocks": [
+    {
+      "id": "alt-row",
+      "label": "alt-row",
+      "kind": "module",
+      "signature": "module:alt-row",
+      "source": null,
+      "usedByTemplates": [
+        "about"
+      ],
+      "usedByPages": [
+        "about"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "alt-row",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "article",
+      "label": "article",
+      "kind": "module",
+      "signature": "module:article",
+      "source": null,
+      "usedByTemplates": [
+        "blog-aak-partnership"
+      ],
+      "usedByPages": [
+        "blog-aak-partnership"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "article",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "band-pair",
+      "label": "band-pair",
+      "kind": "module",
+      "signature": "module:band-pair",
+      "source": null,
+      "usedByTemplates": [
+        "about",
+        "blog-aak-partnership",
+        "contact",
+        "contact-rep-locator",
+        "index"
+      ],
+      "usedByPages": [
+        "about",
+        "blog-aak-partnership",
+        "contact",
+        "contact-rep-locator",
+        "index"
+      ],
+      "instanceCount": 5,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "band-pair",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "contact-offices",
+      "label": "contact-offices",
+      "kind": "module",
+      "signature": "module:contact-offices",
+      "source": null,
+      "usedByTemplates": [
+        "contact"
+      ],
+      "usedByPages": [
+        "contact"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "contact-offices",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cta-band",
+      "label": "cta-band",
+      "kind": "module",
+      "signature": "module:cta-band",
+      "source": null,
+      "usedByTemplates": [
+        "about",
+        "contact"
+      ],
+      "usedByPages": [
+        "about",
+        "contact"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "cta-band",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "feature-row",
+      "label": "feature-row",
+      "kind": "module",
+      "signature": "module:feature-row",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "feature-row",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero",
+      "label": "hero",
+      "kind": "module",
+      "signature": "module:hero",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "page-hero",
+      "label": "page-hero",
+      "kind": "module",
+      "signature": "module:page-hero",
+      "source": null,
+      "usedByTemplates": [
+        "about",
+        "blog-aak-partnership",
+        "contact",
+        "contact-rep-locator",
+        "insights-blog"
+      ],
+      "usedByPages": [
+        "about",
+        "blog-aak-partnership",
+        "contact",
+        "contact-rep-locator",
+        "insights-blog"
+      ],
+      "instanceCount": 5,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "page-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "partners",
+      "label": "partners",
+      "kind": "module",
+      "signature": "module:partners",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "partners",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "post-list",
+      "label": "post-list",
+      "kind": "module",
+      "signature": "module:post-list",
+      "source": null,
+      "usedByTemplates": [
+        "insights-blog"
+      ],
+      "usedByPages": [
+        "insights-blog"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "post-list",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "kind": "module",
+      "signature": "module:process",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "process",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "promo",
+      "label": "promo",
+      "kind": "module",
+      "signature": "module:promo",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "promo",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "rep-locator",
+      "label": "rep-locator",
+      "kind": "module",
+      "signature": "module:rep-locator",
+      "source": null,
+      "usedByTemplates": [
+        "contact-rep-locator"
+      ],
+      "usedByPages": [
+        "contact-rep-locator"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "rep-locator",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "video-band",
+      "label": "video-band",
+      "kind": "module",
+      "signature": "module:video-band",
+      "source": null,
+      "usedByTemplates": [
+        "insights-blog"
+      ],
+      "usedByPages": [
+        "insights-blog"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "pending",
+        "edsBlockName": "video-band",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

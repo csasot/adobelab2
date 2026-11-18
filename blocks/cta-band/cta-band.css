@@ -1,0 +1,78 @@
+/* cta-band — canon.css · cta-band (mobile-first): photo band, 100px rhythm, text column
+   12 (<=480) / 65% (<768) / 7 of 12 (768+) / 5 of 12 (1200+). */
+.cta-band {
+  position: relative;
+  z-index: 0;
+  margin-top: 10px;
+  padding: 100px 0;
+  overflow: hidden;
+}
+
+.cta-band .cta-band-media,
+.cta-band .cta-band-media picture {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+.cta-band .cta-band-media img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.cta-band .cta-band-wrap {
+  position: relative;
+  display: flow-root;
+  padding: 0 15px;
+}
+
+.cta-band .cta-band-content {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.cta-band .cta-band-content :is(h2, h3) {
+  font-size: 28px;
+}
+
+.cta-band .cta-band-content :is(h2, h3) em {
+  font-style: normal;
+  color: var(--c-blue);
+}
+
+.cta-band .cta-band-content p {
+  font-size: 20px;
+}
+
+.cta-band .cta-band-content p.button-wrapper {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+@media (width >= 481px) {
+  .cta-band .cta-band-content {
+    width: 65%;
+  }
+}
+
+@media (width >= 768px) {
+  .cta-band .cta-band-content {
+    width: calc(100% * 7 / 12);
+  }
+
+  .cta-band .cta-band-content :is(h2, h3) {
+    font-size: 36px;
+  }
+}
+
+@media (width >= 1200px) {
+  .cta-band .cta-band-content {
+    width: calc(100% * 5 / 12);
+  }
+}

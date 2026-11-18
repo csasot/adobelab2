@@ -1,0 +1,247 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/blog-aak-partnership-360/vdiff-iter1/
+
+build red flags (advisory): 
+  • IMAGERY GAP: source renders 20 images, build renders 3. The build renders far fewer images than the source — confirm intended (CSS backgrounds) vs missing assets.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 591,
+  "textLen": 539,
+  "images": [
+   {
+    "src": "VWETZF5UJ5DC5JRDYHX6GH?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&cookie=4EAMVJEN3BGPZFWWFRLASI%3A17%7CVWETZF5UJ5DC5JRDYHX6GH%3A17%7C6QMRPU7Q5VEFDHCS4NFO7U%3A17&adroll_s_ref=&keyw=&p0=628&adroll_version=1.0",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=25212971002.071255&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fblog%2Faak-partnership%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "AAK Partnership",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "28px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "entry-summary",
+    "width": 300,
+    "left": 30
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 591,
+  "textLen": 539,
+  "images": [
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "AAK Partnership",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "28px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "article__body",
+    "width": 300,
+    "left": 30
+   }
+  ]
+ }
+}

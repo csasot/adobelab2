@@ -1,0 +1,89 @@
+{
+  "live": "stardust/replica/motion/contact-rep-locator.json",
+  "build": "stardust/replica/motion/contact-rep-locator-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 10,
+    "parity": 4,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 2,
+    "advisory": 3
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "hover",
+      "name": "#hotspot-4093 path.hotspot-default → .rep-map__area",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover #hotspot-4093 path.hotspot-default → .rep-map__area: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "transition",
+      "name": "fill",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition fill: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "fill-opacity",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition fill-opacity: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "stroke",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition stroke: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "stroke-opacity",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition stroke-opacity: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "bottom",
+      "state": "advisory",
+      "note": "3 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition bottom: extra on build — advisory (3 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "class",
+      "name": "leaflet-tooltip-left",
+      "state": "missing",
+      "note": "trigger class added 5× on live, never on build",
+      "line": "motion class leaflet-tooltip-left: MISSING on build (trigger class added 5× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "active",
+      "state": "advisory",
+      "note": "added 2× on build, never on live — check it drives no invented behavior",
+      "line": "motion class active: extra on build — advisory (added 2× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "class",
+      "name": "rep-map__tip--left",
+      "state": "advisory",
+      "note": "added 1× on build, never on live — check it drives no invented behavior",
+      "line": "motion class rep-map__tip--left: extra on build — advisory (added 1× on build, never on live — check it drives no invented behavior)"
+    }
+  ]
+}

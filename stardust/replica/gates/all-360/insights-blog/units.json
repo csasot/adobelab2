@@ -1,0 +1,1470 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-17T21:57:30.914Z",
+  "tol": 4,
+  "n": 10,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/insights/blog/",
+  "at": "2026-11-17T16:39:50.732Z",
+  "docH": 4253
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/insights/blog",
+  "at": "2026-11-17T21:57:30.810Z",
+  "docH": 4253
+ },
+ "results": [
+  {
+   "sel": "#insights-section .featured-post=.ib-posts .post-tile, .post-list .post-list-posts .post-tile",
+   "family": null,
+   "required": true,
+   "originMatches": 10,
+   "edsMatches": 10,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:may 6, 2026",
+       "role": "text",
+       "text": "may 6, 2026",
+       "edsText": "may 6, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:how 2025 reshaped oral health: fluoride ",
+       "role": "text",
+       "text": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "edsText": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91
+       },
+       "eds": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 523,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 523,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 518,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 518,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:october 29, 2025",
+       "role": "text",
+       "text": "october 29, 2025",
+       "edsText": "october 29, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:omya partners with lipoid kosmetik to st",
+       "role": "text",
+       "text": "omya partners with lipoid kosmetik to strengthen u.s. presen",
+       "edsText": "omya partners with lipoid kosmetik to strengthen u.s. presen",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69
+       },
+       "eds": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 813,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 813,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 808,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 808,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:july 14, 2025",
+       "role": "text",
+       "text": "july 14, 2025",
+       "edsText": "july 14, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 125,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 125,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:trend spotlight: nutrition x oral health",
+       "role": "text",
+       "text": "trend spotlight: nutrition x oral health",
+       "edsText": "trend spotlight: nutrition x oral health",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46
+       },
+       "eds": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1103,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1103,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 1098,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 1098,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:march 20, 2025",
+       "role": "text",
+       "text": "march 20, 2025",
+       "edsText": "march 20, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 141,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 141,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:omya announces exclusive us distribution",
+       "role": "text",
+       "text": "omya announces exclusive us distribution partnership with ac",
+       "edsText": "omya announces exclusive us distribution partnership with ac",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69
+       },
+       "eds": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1393,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1393,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 1388,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 1388,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:march 19, 2025",
+       "role": "text",
+       "text": "march 19, 2025",
+       "edsText": "march 19, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 141,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 141,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:beyond uv protection: eco-friendly & hig",
+       "role": "text",
+       "text": "beyond uv protection: eco-friendly & high-performance sun ca",
+       "edsText": "beyond uv protection: eco-friendly & high-performance sun ca",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69
+       },
+       "eds": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1683,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1683,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 1678,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 1678,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:february 6, 2025",
+       "role": "text",
+       "text": "february 6, 2025",
+       "edsText": "february 6, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 152,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 152,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:fluoride, hydroxyapatite, and the fight ",
+       "role": "text",
+       "text": "fluoride, hydroxyapatite, and the fight against tooth decay",
+       "edsText": "fluoride, hydroxyapatite, and the fight against tooth decay",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46
+       },
+       "eds": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1973,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 1973,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 1968,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 1968,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:october 7, 2024",
+       "role": "text",
+       "text": "october 7, 2024",
+       "edsText": "october 7, 2024",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 145,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 145,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:trend spotlight: oil pulling",
+       "role": "text",
+       "text": "trend spotlight: oil pulling",
+       "edsText": "trend spotlight: oil pulling",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23
+       },
+       "eds": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2263,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2263,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 2258,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 2258,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 7,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:july 30, 2024",
+       "role": "text",
+       "text": "july 30, 2024",
+       "edsText": "july 30, 2024",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 125,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 125,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:the healthy bite",
+       "role": "text",
+       "text": "the healthy bite",
+       "edsText": "the healthy bite",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23
+       },
+       "eds": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2553,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2553,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 2548,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 2548,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 8,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:february 8, 2024",
+       "role": "text",
+       "text": "february 8, 2024",
+       "edsText": "february 8, 2024",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 152,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 152,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:february is national children’s dental h",
+       "role": "text",
+       "text": "february is national children’s dental health month",
+       "edsText": "february is national children’s dental health month",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46
+       },
+       "eds": {
+        "x": 20,
+        "y": 204,
+        "w": 260,
+        "h": 46,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2843,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2843,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 2838,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 2838,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 9,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.post-list-inner > div.post-list-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:january 15, 2024",
+       "role": "text",
+       "text": "january 15, 2024",
+       "edsText": "january 15, 2024",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:aak partnership",
+       "role": "text",
+       "text": "aak partnership",
+       "edsText": "aak partnership",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23
+       },
+       "eds": {
+        "x": 20,
+        "y": 227,
+        "w": 260,
+        "h": 23,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 3133,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 3133,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 3128,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 3128,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 10,
+  "within": 20,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

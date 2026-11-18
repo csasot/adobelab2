@@ -1,0 +1,126 @@
+{
+  "slug": "insights",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "intro",
+    "alt-row",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "alt-rows"
+  ],
+  "canonShas": {
+    "header": "10ad7c35abfc",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "about",
+      "encoder": "stardust/.work/cluster-static/probes/encode.py",
+      "note": "state status extracted -> migrate branch A; rendered from the about archetype model (cluster-static)"
+    }
+  ],
+  "metadata": {
+    "title": "Natural Cosmetics News, Insights and Resources | Omya",
+    "description": "Find case studies, brand resources, natural cosmetics news, blogs and event listings from Omya Personal Care, a leading organic cosmetics raw materials supplier.",
+    "canonical": "https://omyapersonalcare.us/insights/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Natural Cosmetics News, Insights and Resources | Omya",
+    "description": "Find case studies, brand resources, natural cosmetics news, blogs and event listings from Omya Personal Care, a leading organic cosmetics raw materials supplier.",
+    "url": "https://omyapersonalcare.us/insights/"
+  },
+  "migratedAt": "2026-11-17T18:43:42Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "13f91addcc95",
+  "sourceProposedSha": "58afdd817e76",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "band-pair solo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder lifts every heading/paragraph/list/link/image of #interior-content + hero h1/crumbs from stardust/current/pages/insights.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 6,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "insights/index.html",
+  "outputPathDefault": null,
+  "sidecar": "insights/_meta.json",
+  "driverVersion": "1"
+}

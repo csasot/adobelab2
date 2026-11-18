@@ -1,0 +1,4088 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:50:43.098Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/about/our-team/",
+  "at": "2026-11-17T21:50:24.648Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4575,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "our team"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 90,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 145,
+    "y": 347,
+    "w": 42,
+    "h": 17,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h2",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 269,
+    "level": 2,
+    "text": "omya offers naturally active and functional ingredients of the highest quality to customers through our extensive techni"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 902,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "Anjali-Martin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 1106,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "anjali martin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 1133,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales director – personal care"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 902,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "karen-cole"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 1106,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "karen cole"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 1133,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales manager – western region"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 1184,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "Lindsay-Boris-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 1388,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lindsay boris"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 1415,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "senior sales representative west"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 1184,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "5Domenic_4162-removebg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 1388,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "domenic hix"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 1415,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "key account manager"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 1453,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "Teresa-Bucio-500x630-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 1657,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "teresa bucio"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 1684,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales manager – eastern region"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 1736,
+    "w": 150,
+    "h": 188,
+    "text": "",
+    "file": "Sara_Lampard_400x500"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 1938,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "sara lampard"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 1965,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "technical director"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 1736,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "10Spring_6219-removebg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 1940,
+    "w": 150,
+    "h": 44,
+    "level": 2,
+    "text": "spring hirschfeld"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 1989,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "manager technical services"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 2027,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "kevin-yoder-scaled"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 2231,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "kevin yoder"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 2258,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "product manager"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 2027,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "2Lily_4132-removebg"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 2231,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lily hoang"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 2258,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "technical services supervisor"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 2309,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "laura-krueger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 2513,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "laura krueger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 2540,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "inside sales representative"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 2309,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "jeanna-gogue-headshot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 2513,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "jeanna gogue"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 2540,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "logistics manager"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 15,
+    "y": 2578,
+    "w": 150,
+    "h": 188,
+    "text": "",
+    "file": "Juliana_Rumbaugh_400x500"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 15,
+    "y": 2781,
+    "w": 150,
+    "h": 44,
+    "level": 2,
+    "text": "juliana rumbaugh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 15,
+    "y": 2830,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "marketing director"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 2578,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "Lindsey-Ross"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 2782,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lindsey ross"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 2809,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "account manager"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > img.img-responsive.member-photo",
+    "x": 195,
+    "y": 2848,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "Joseph-Shieh-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h2",
+    "x": 195,
+    "y": 3052,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "joseph shieh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.team-member.exec > a.team-bg > h3",
+    "x": 195,
+    "y": 3079,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "senior account manager"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#insights-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 3177,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 30,
+    "y": 3230,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > p.button.btn-black > a",
+    "x": 109,
+    "y": 3520,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 3650,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 4087,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 4137,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 4286,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 4286,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 4364,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 4383,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 4473,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 4474,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 4474,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 4474,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 4492,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 4509,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 4509,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 63,
+    "controls": 24,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/about/our-team",
+  "at": "2026-11-17T21:50:42.973Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4575,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 396,
+    "text": "",
+    "file": "media_19d6a3bfbfafacf9e4064a4edc599b27b7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#our-team",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "our team"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ / Our Team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 90,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 145,
+    "y": 347,
+    "w": 42,
+    "h": 17,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.heading-small > div.default-content-wrapper > h2#omya-offers-naturally-active-and-functional-ingredients-of-the-highest-quality-to-customers-through-our-extensive-technical-and-commercial-background",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 269,
+    "level": 2,
+    "text": "omya offers naturally active and functional ingredients of the highest quality to customers through our extensive techni"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 902,
+    "w": 150,
+    "h": 257,
+    "text": "anjali martin sales director – personal care",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 902,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_14dae0b82816ddb2c5f86000cfa2c0b907"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#anjali-martin",
+    "x": 15,
+    "y": 1106,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "anjali martin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#sales-director--personal-care",
+    "x": 15,
+    "y": 1133,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales director – personal care"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 902,
+    "w": 150,
+    "h": 257,
+    "text": "karen cole sales manager – western region",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 902,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_199fae09e6fcc82a37b6929e6a3af6f8ba"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#karen-cole",
+    "x": 195,
+    "y": 1106,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "karen cole"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#sales-manager--western-region",
+    "x": 195,
+    "y": 1133,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales manager – western region"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 1184,
+    "w": 150,
+    "h": 257,
+    "text": "lindsay boris senior sales representative west",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 1184,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_147b9e7e7869439155c91504dd0f938c17"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#lindsay-boris",
+    "x": 15,
+    "y": 1388,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lindsay boris"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#senior-sales-representative-west",
+    "x": 15,
+    "y": 1415,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "senior sales representative west"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 1184,
+    "w": 150,
+    "h": 244,
+    "text": "domenic hix key account manager",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 1184,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_12d0ae2747752761833fdb6e3745e9c4aa"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#domenic-hix",
+    "x": 195,
+    "y": 1388,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "domenic hix"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#key-account-manager",
+    "x": 195,
+    "y": 1415,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "key account manager"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 1453,
+    "w": 150,
+    "h": 257,
+    "text": "teresa bucio sales manager – eastern region",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 1453,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_1624a17c5dd6ba0669c22b4372c37db959"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#teresa-bucio",
+    "x": 195,
+    "y": 1657,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "teresa bucio"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#sales-manager--eastern-region",
+    "x": 195,
+    "y": 1684,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "sales manager – eastern region"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 1736,
+    "w": 150,
+    "h": 243,
+    "text": "sara lampard technical director",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 1736,
+    "w": 150,
+    "h": 188,
+    "text": "",
+    "file": "media_167b269fa01b04415c06feaa81fea2c8e5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#sara-lampard",
+    "x": 15,
+    "y": 1938,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "sara lampard"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#technical-director",
+    "x": 15,
+    "y": 1965,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "technical director"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 1736,
+    "w": 150,
+    "h": 266,
+    "text": "spring hirschfeld manager technical services",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 1736,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_151ea1773ff40463d4c9a585bc4e4279ff"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#spring-hirschfeld",
+    "x": 195,
+    "y": 1940,
+    "w": 150,
+    "h": 44,
+    "level": 2,
+    "text": "spring hirschfeld"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#manager-technical-services",
+    "x": 195,
+    "y": 1989,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "manager technical services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 2027,
+    "w": 150,
+    "h": 244,
+    "text": "kevin yoder product manager",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 2027,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_1644d43d5673fa61de7d5595c7f2829718"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#kevin-yoder",
+    "x": 15,
+    "y": 2231,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "kevin yoder"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#product-manager",
+    "x": 15,
+    "y": 2258,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "product manager"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 2027,
+    "w": 150,
+    "h": 257,
+    "text": "lily hoang technical services supervisor",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 2027,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_10ec9b6f549091d8dd314c6efc60f4eaa7"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#lily-hoang",
+    "x": 195,
+    "y": 2231,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lily hoang"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#technical-services-supervisor",
+    "x": 195,
+    "y": 2258,
+    "w": 150,
+    "h": 26,
+    "level": 3,
+    "text": "technical services supervisor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 2309,
+    "w": 150,
+    "h": 244,
+    "text": "laura krueger inside sales representative",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 2309,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_18d55279319b5365b8906545b684667458"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#laura-krueger",
+    "x": 15,
+    "y": 2513,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "laura krueger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#inside-sales-representative",
+    "x": 15,
+    "y": 2540,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "inside sales representative"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 2309,
+    "w": 150,
+    "h": 244,
+    "text": "jeanna gogue logistics manager",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 2309,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_16b23d18543ae30af21a62f58ca169cbc2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#jeanna-gogue",
+    "x": 195,
+    "y": 2513,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "jeanna gogue"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#logistics-manager",
+    "x": 195,
+    "y": 2540,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "logistics manager"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 15,
+    "y": 2578,
+    "w": 150,
+    "h": 265,
+    "text": "juliana rumbaugh marketing director",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 15,
+    "y": 2578,
+    "w": 150,
+    "h": 188,
+    "text": "",
+    "file": "media_1b98aca23ba22203d2aa349704db5da748"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#juliana-rumbaugh",
+    "x": 15,
+    "y": 2781,
+    "w": 150,
+    "h": 44,
+    "level": 2,
+    "text": "juliana rumbaugh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#marketing-director",
+    "x": 15,
+    "y": 2830,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "marketing director"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 2578,
+    "w": 150,
+    "h": 244,
+    "text": "lindsey ross account manager",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 2578,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_14cb9077e10b959ff7e9e928b2e5a6d1d1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#lindsey-ross",
+    "x": 195,
+    "y": 2782,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "lindsey ross"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#account-manager",
+    "x": 195,
+    "y": 2809,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "account manager"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-grid > div.team-member > a.team-bg",
+    "x": 195,
+    "y": 2848,
+    "w": 150,
+    "h": 244,
+    "text": "joseph shieh senior account manager",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.team-bg > picture.team-photo > img",
+    "x": 195,
+    "y": 2848,
+    "w": 150,
+    "h": 189,
+    "text": "",
+    "file": "media_1b5e0ded656b212398a07bef05ec337a63"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h2#joseph-shieh",
+    "x": 195,
+    "y": 3052,
+    "w": 150,
+    "h": 22,
+    "level": 2,
+    "text": "joseph shieh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.team-member > a.team-bg > h3#senior-account-manager",
+    "x": 195,
+    "y": 3079,
+    "w": 150,
+    "h": 13,
+    "level": 3,
+    "text": "senior account manager"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#insights",
+    "x": 30,
+    "y": 3177,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-posts > a.post-tile",
+    "x": 30,
+    "y": 3230,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-tile-media > picture > img",
+    "x": 35,
+    "y": 3235,
+    "w": 290,
+    "h": 260,
+    "text": "",
+    "file": "media_1158b861bd185c8bf2db0d5ee3c77a2f40"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > p.button-wrapper > a.button.primary",
+    "x": 109,
+    "y": 3520,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 3650,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 4087,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 4152,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 4286,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 4286,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 4364,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 4383,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 4473,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 4474,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 4474,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 4474,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 4492,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 4509,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 4509,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 14,
+    "textNodes": 62,
+    "controls": 42,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "omya offers naturally active and functional ingredients of the highest quality to customers through our extensive techni",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "anjali martin",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "karen cole",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "sales director – personal care",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "sales manager – western region",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 6,
+   "heading": "lindsay boris",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "domenic hix",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "senior sales representative west",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "key account manager",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 10,
+   "heading": "teresa bucio",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "sales manager – eastern region",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 12,
+   "heading": "sara lampard",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "spring hirschfeld",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "technical director",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 15,
+   "heading": "manager technical services",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 16,
+   "heading": "kevin yoder",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 17,
+   "heading": "lily hoang",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 18,
+   "heading": "product manager",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 19,
+   "heading": "technical services supervisor",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 20,
+   "heading": "laura krueger",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 21,
+   "heading": "jeanna gogue",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 22,
+   "heading": "inside sales representative",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 23,
+   "heading": "logistics manager",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 24,
+   "heading": "juliana rumbaugh",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 25,
+   "heading": "lindsey ross",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 26,
+   "heading": "account manager",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 27,
+   "heading": "marketing director",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 28,
+   "heading": "joseph shieh",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 29,
+   "heading": "senior account manager",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 30,
+   "heading": "insights",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 31,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"our team\" (y 287) has no origin heading",
+   "text": "our team"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"about\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "about"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"anjali martin sales director – personal care\" served in band \"omya offers naturally active and functional ingredients of the highest quality to customers through our extensive techni\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "anjali martin sales director – personal care"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"karen cole sales manager – western region\" served in band \"omya offers naturally active and functional ingredients of the highest quality to customers through our extensive techni\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "karen cole sales manager – western region"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lindsay boris senior sales representative west\" served in band \"sales manager – western region\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "lindsay boris senior sales representative west"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"domenic hix key account manager\" served in band \"sales manager – western region\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "domenic hix key account manager"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"teresa bucio sales manager – eastern region\" served in band \"key account manager\", no origin link or button",
+   "band": 9,
+   "n": 1,
+   "text": "teresa bucio sales manager – eastern region"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"sara lampard technical director\" served in band \"sales manager – eastern region\", no origin link or button",
+   "band": 11,
+   "n": 1,
+   "text": "sara lampard technical director"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"spring hirschfeld manager technical services\" served in band \"sales manager – eastern region\", no origin link or button",
+   "band": 11,
+   "n": 1,
+   "text": "spring hirschfeld manager technical services"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"kevin yoder product manager\" served in band \"manager technical services\", no origin link or button",
+   "band": 15,
+   "n": 1,
+   "text": "kevin yoder product manager"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lily hoang technical services supervisor\" served in band \"manager technical services\", no origin link or button",
+   "band": 15,
+   "n": 1,
+   "text": "lily hoang technical services supervisor"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"laura krueger inside sales representative\" served in band \"technical services supervisor\", no origin link or button",
+   "band": 19,
+   "n": 1,
+   "text": "laura krueger inside sales representative"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"jeanna gogue logistics manager\" served in band \"technical services supervisor\", no origin link or button",
+   "band": 19,
+   "n": 1,
+   "text": "jeanna gogue logistics manager"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"juliana rumbaugh marketing director\" served in band \"logistics manager\", no origin link or button",
+   "band": 23,
+   "n": 1,
+   "text": "juliana rumbaugh marketing director"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"lindsey ross account manager\" served in band \"logistics manager\", no origin link or button",
+   "band": 23,
+   "n": 1,
+   "text": "lindsey ross account manager"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"joseph shieh senior account manager\" served in band \"marketing director\", no origin link or button",
+   "band": 27,
+   "n": 1,
+   "text": "joseph shieh senior account manager"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 19,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 19,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 97,
+    "y": 288,
+    "w": 165,
+    "h": 41
+   },
+   {
+    "x": 90,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 133,
+    "y": 347,
+    "w": 12,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 347,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 187,
+    "y": 347,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 200,
+    "y": 347,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 36,
+    "y": 539,
+    "w": 288,
+    "h": 31
+   },
+   {
+    "x": 41,
+    "y": 573,
+    "w": 279,
+    "h": 31
+   },
+   {
+    "x": 63,
+    "y": 606,
+    "w": 235,
+    "h": 31
+   },
+   {
+    "x": 64,
+    "y": 640,
+    "w": 232,
+    "h": 31
+   },
+   {
+    "x": 26,
+    "y": 673,
+    "w": 308,
+    "h": 31
+   },
+   {
+    "x": 23,
+    "y": 707,
+    "w": 314,
+    "h": 31
+   },
+   {
+    "x": 102,
+    "y": 741,
+    "w": 156,
+    "h": 31
+   },
+   {
+    "x": 96,
+    "y": 774,
+    "w": 168,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1106,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 22,
+    "y": 1132,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 77,
+    "y": 1145,
+    "w": 26,
+    "h": 14
+   },
+   {
+    "x": 217,
+    "y": 1106,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 201,
+    "y": 1132,
+    "w": 139,
+    "h": 14
+   },
+   {
+    "x": 251,
+    "y": 1145,
+    "w": 38,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 1388,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1414,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 34,
+    "y": 1427,
+    "w": 111,
+    "h": 14
+   },
+   {
+    "x": 209,
+    "y": 1388,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 211,
+    "y": 1414,
+    "w": 117,
+    "h": 14
+   },
+   {
+    "x": 208,
+    "y": 1657,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1683,
+    "w": 135,
+    "h": 14
+   },
+   {
+    "x": 251,
+    "y": 1696,
+    "w": 38,
+    "h": 14
+   },
+   {
+    "x": 23,
+    "y": 1938,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1964,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 238,
+    "y": 1940,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 221,
+    "y": 1962,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 195,
+    "y": 1988,
+    "w": 150,
+    "h": 14
+   },
+   {
+    "x": 33,
+    "y": 2231,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 2257,
+    "w": 92,
+    "h": 14
+   },
+   {
+    "x": 219,
+    "y": 2231,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 220,
+    "y": 2257,
+    "w": 99,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 2270,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 22,
+    "y": 2513,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 15,
+    "y": 2539,
+    "w": 149,
+    "h": 14
+   },
+   {
+    "x": 201,
+    "y": 2513,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 221,
+    "y": 2539,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 56,
+    "y": 2781,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 38,
+    "y": 2803,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 41,
+    "y": 2829,
+    "w": 98,
+    "h": 14
+   },
+   {
+    "x": 205,
+    "y": 2782,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 2808,
+    "w": 94,
+    "h": 14
+   },
+   {
+    "x": 205,
+    "y": 3052,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 204,
+    "y": 3078,
+    "w": 131,
+    "h": 14
+   },
+   {
+    "x": 30,
+    "y": 3178,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 3267,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3391,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3414,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3437,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3460,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 3531,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3651,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 4098,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4152,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4163,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4174,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4185,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 4474,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 4474,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 4474,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 4474,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 4474,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4492,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 4492,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 4492,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 4509,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 4509,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 4509,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 97,
+    "y": 288,
+    "w": 165,
+    "h": 41
+   },
+   {
+    "x": 90,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 133,
+    "y": 347,
+    "w": 12,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 347,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 187,
+    "y": 347,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 539,
+    "w": 288,
+    "h": 31
+   },
+   {
+    "x": 41,
+    "y": 573,
+    "w": 279,
+    "h": 31
+   },
+   {
+    "x": 63,
+    "y": 606,
+    "w": 235,
+    "h": 31
+   },
+   {
+    "x": 64,
+    "y": 640,
+    "w": 232,
+    "h": 31
+   },
+   {
+    "x": 26,
+    "y": 673,
+    "w": 308,
+    "h": 31
+   },
+   {
+    "x": 23,
+    "y": 707,
+    "w": 314,
+    "h": 31
+   },
+   {
+    "x": 102,
+    "y": 741,
+    "w": 156,
+    "h": 31
+   },
+   {
+    "x": 96,
+    "y": 774,
+    "w": 168,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1106,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 22,
+    "y": 1132,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 77,
+    "y": 1145,
+    "w": 26,
+    "h": 14
+   },
+   {
+    "x": 217,
+    "y": 1106,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 201,
+    "y": 1132,
+    "w": 139,
+    "h": 14
+   },
+   {
+    "x": 251,
+    "y": 1145,
+    "w": 38,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 1388,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 1414,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 34,
+    "y": 1427,
+    "w": 111,
+    "h": 14
+   },
+   {
+    "x": 209,
+    "y": 1388,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 211,
+    "y": 1414,
+    "w": 117,
+    "h": 14
+   },
+   {
+    "x": 208,
+    "y": 1657,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1683,
+    "w": 135,
+    "h": 14
+   },
+   {
+    "x": 251,
+    "y": 1697,
+    "w": 38,
+    "h": 14
+   },
+   {
+    "x": 23,
+    "y": 1938,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 42,
+    "y": 1964,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 238,
+    "y": 1940,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 221,
+    "y": 1962,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 195,
+    "y": 1988,
+    "w": 150,
+    "h": 14
+   },
+   {
+    "x": 33,
+    "y": 2231,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 2257,
+    "w": 92,
+    "h": 14
+   },
+   {
+    "x": 219,
+    "y": 2231,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 220,
+    "y": 2257,
+    "w": 99,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 2270,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 22,
+    "y": 2513,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 15,
+    "y": 2539,
+    "w": 149,
+    "h": 14
+   },
+   {
+    "x": 201,
+    "y": 2513,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 221,
+    "y": 2539,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 56,
+    "y": 2781,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 38,
+    "y": 2803,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 41,
+    "y": 2829,
+    "w": 98,
+    "h": 14
+   },
+   {
+    "x": 205,
+    "y": 2782,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 2808,
+    "w": 94,
+    "h": 14
+   },
+   {
+    "x": 205,
+    "y": 3052,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 204,
+    "y": 3078,
+    "w": 131,
+    "h": 14
+   },
+   {
+    "x": 30,
+    "y": 3178,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 3267,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3391,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3414,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3437,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 3460,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 3531,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3651,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 4098,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4152,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4163,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4174,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4185,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 4474,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 4474,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 4474,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 4474,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 4474,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4492,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 4492,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 4492,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 4509,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 4509,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 4509,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

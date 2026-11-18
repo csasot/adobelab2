@@ -1,0 +1,94 @@
+/* ==========================================================================
+   index.css — home-only sections (imports nothing; load after canon.css)
+   Modules: header-home (hero photo variant of .site-header) · hero-band ·
+   process (The Omya Process) · promo (The IT List + brochure link)
+   ========================================================================== */
+
+/* == module: header-home == (95vh hero photo, min 725 / max 1400; 50vh min 450 below 768) */
+.site-header--home {
+  min-height: 725px;
+  height: 95vh;
+  max-height: 1400px;
+  background: url(assets/img/omya-kinetik-personal-care-homev2.jpg) center top no-repeat;
+  background-size: cover;
+}
+.site-header--home .aux-nav { z-index: 2; }
+@media (max-width: 767px) {
+  .site-header--home { min-height: 450px; height: 50vh; margin-bottom: -15px; background-position: center -20px; }
+}
+
+/* == module: hero-band == (translucent black strip pinned to the bottom of the hero) */
+.hero-band { position: absolute; left: 0; bottom: 0; z-index: 99; width: 100%; background: rgba(0, 0, 0, 0.7); }
+.hero-band__inner { display: flex; justify-content: center; align-items: center; padding: 30px 100px; }
+.hero-band__text, .hero-band__cta { position: relative; min-height: 1px; padding: 0 15px; }
+.hero-band__text { width: 75%; }
+.hero-band__cta { width: 25%; }
+@media (min-width: 1200px) {
+  .hero-band__text { width: 66.66666667%; }
+  .hero-band__cta { width: 33.33333333%; }
+}
+.hero-band h2 { margin-bottom: 5px; font-size: 48px; color: #fff; }
+.hero-band__title { font-family: var(--font-display); }
+.hero-band p { font-size: 18px; color: #fff; }
+.hero-band .btn--hero { float: right; }
+.btn--hero > a { height: 50px; padding: 16px 24px; }
+@media (max-width: 1225px) { .hero-band__inner { padding: 30px; } }
+@media (max-width: 979px) {
+  .hero-band h2 { font-size: 38px; }
+  .hero-band p { font-size: 16px; }
+  .btn--hero > a { height: 40px; padding: 11px 18px; }
+}
+@media (max-width: 767px) {
+  .hero-band { bottom: 20px; }
+  .hero-band__inner { display: block; padding: 15px; }
+  .hero-band__text, .hero-band__cta { float: left; width: 100%; }
+  .hero-band__inner::after { content: ""; display: table; clear: both; }
+  .hero-band h2 { font-size: 28px; }
+  .hero-band p { font-size: 14px; }
+  .hero-band .btn--hero { float: left; }
+}
+
+/* == module: process == (blue band, three numbered circles joined by a 4px white rule) */
+.process { margin-top: 10px; overflow: hidden; color: #fff; background: var(--c-blue); }
+.process__inner { display: flow-root; position: relative; min-height: 1px; padding: 40px 15px; }
+.process h2 { font-weight: 500; color: #fff; }
+.process__steps { display: flow-root; }
+.process__step { position: relative; float: left; width: 100%; min-height: 1px; padding: 0 15px 20px; }
+@media (min-width: 768px) { .process__step { width: 33.33333333%; } }
+.process__num {
+  position: relative;
+  z-index: 1;
+  width: 100px;
+  height: 100px;
+  margin: 25px auto;
+  padding: 15px;
+  border-radius: 100%;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--c-blue);
+  background: #fff;
+}
+.process__num::before, .process__num::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  z-index: -1;
+  width: 200%;
+  border-bottom: 4px solid #fff;
+  transform: translateY(-50%);
+}
+.process__num::before { left: 100%; }
+.process__num::after { right: 100%; }
+.process__step:first-of-type .process__num::after { content: none; }
+.process__step:last-of-type .process__num::before { content: none; }
+.process__text { display: flow-root; position: relative; min-height: 1px; padding: 0 15px; }
+@media (min-width: 1200px) { .process__text { width: 83.33333333%; margin-left: 8.33333333%; } }
+@media (max-width: 991px) { .process__num::before, .process__num::after { width: 150%; } }
+
+/* == module: promo == ("The IT List" image link + oral-care brochure line) */
+.promo__inner { display: flow-root; position: relative; min-height: 1px; padding: 40px 15px; }
+.promo__img { display: block; clear: both; max-width: 100%; height: auto; margin: 12px auto; }
+.promo__title { margin: 20px 0 15px; font-size: 20px; color: var(--c-blue); text-align: center; }
+@media (max-width: 1440px) { .promo__title { font-size: 18px; } }
+@media (max-width: 767px) { .promo__title { font-size: 20px; } }

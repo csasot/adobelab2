@@ -1,0 +1,98 @@
+{
+  "slug": "pay-thank-you",
+  "type": "unique",
+  "renderBranch": "B",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "cbcefd7afcf6",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "contact-rep-locator",
+      "encoder": "stardust/.work/cluster-unique/probes/uniqenc.py",
+      "note": "variance probe (stardust/rollout/units/cluster-unique-variance.json): no rep-locator composition; expressed with existing blocks (page-hero, band-pair) + intro default content via the cluster-form encoder"
+    }
+  ],
+  "metadata": {
+    "title": "Thank You for Payment | Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/pay-thank-you/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Thank You for Payment | Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/pay-thank-you/"
+  },
+  "migratedAt": "2026-11-17T19:48:09Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "b4ff5b1e9fac",
+  "sourceProposedSha": "a515a06b7252",
+  "fidelityTier": "thin",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "section intro blank"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-unique/probes/uniqenc.py lifts hero photo/h1/crumbs, every paragraph of #interior-content and the insights/contact bands from stardust/current/pages/pay-thank-you.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "content-gap",
+      "source": "empty .page-content band (no content on the source)",
+      "target": "section-metadata-only section, style intro blank (160px band)",
+      "reason": "bodyless source page; never padded"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "pay-thank-you/index.html",
+  "outputPathDefault": null,
+  "sidecar": "pay-thank-you/_meta.json",
+  "driverVersion": "1"
+}

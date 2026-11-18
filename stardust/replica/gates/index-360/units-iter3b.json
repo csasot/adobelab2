@@ -1,0 +1,989 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-17T16:24:51.453Z",
+  "tol": 4,
+  "n": 5,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/",
+  "at": "2026-11-17T16:23:01.308Z",
+  "docH": 5564
+ },
+ "eds": {
+  "url": "http://localhost:8791/index-proposed.html",
+  "at": "2026-11-17T16:24:51.326Z",
+  "docH": 5564
+ },
+ "results": [
+  {
+   "sel": "#process-section .each-step=.process__step",
+   "family": "process-step",
+   "required": true,
+   "originMatches": 3,
+   "edsMatches": 3,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:1",
+       "role": "text",
+       "text": "1",
+       "edsText": "1",
+       "byPosition": false,
+       "origin": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:discovery",
+       "role": "text",
+       "text": "discovery",
+       "edsText": "discovery",
+       "byPosition": false,
+       "origin": {
+        "x": 127,
+        "y": 152,
+        "w": 77,
+        "h": 17
+       },
+       "eds": {
+        "x": 127,
+        "y": 152,
+        "w": 77,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:during our initial consultation, we take",
+       "role": "text",
+       "text": "during our initial consultation, we take the time to learn a",
+       "edsText": "during our initial consultation, we take the time to learn a",
+       "byPosition": false,
+       "origin": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91
+       },
+       "eds": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1062,
+       "w": 330,
+       "h": 304
+      },
+      "eds": {
+       "x": 15,
+       "y": 1062,
+       "w": 330,
+       "h": 304
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:2",
+       "role": "text",
+       "text": "2",
+       "edsText": "2",
+       "byPosition": false,
+       "origin": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:strategy",
+       "role": "text",
+       "text": "strategy",
+       "edsText": "strategy",
+       "byPosition": false,
+       "origin": {
+        "x": 133,
+        "y": 152,
+        "w": 64,
+        "h": 17
+       },
+       "eds": {
+        "x": 133,
+        "y": 152,
+        "w": 64,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:next, we’ll help you identify solutions ",
+       "role": "text",
+       "text": "next, we’ll help you identify solutions and determine what i",
+       "edsText": "next, we’ll help you identify solutions and determine what i",
+       "byPosition": false,
+       "origin": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91
+       },
+       "eds": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1366,
+       "w": 330,
+       "h": 304
+      },
+      "eds": {
+       "x": 15,
+       "y": 1366,
+       "w": 330,
+       "h": 304
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:3",
+       "role": "text",
+       "text": "3",
+       "edsText": "3",
+       "byPosition": false,
+       "origin": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 115,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:support",
+       "role": "text",
+       "text": "support",
+       "edsText": "support",
+       "byPosition": false,
+       "origin": {
+        "x": 134,
+        "y": 152,
+        "w": 61,
+        "h": 17
+       },
+       "eds": {
+        "x": 134,
+        "y": 152,
+        "w": 61,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:finally, our ongoing consultative suppor",
+       "role": "text",
+       "text": "finally, our ongoing consultative support and education will",
+       "edsText": "finally, our ongoing consultative support and education will",
+       "byPosition": false,
+       "origin": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91
+       },
+       "eds": {
+        "x": 30,
+        "y": 183,
+        "w": 270,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1670,
+       "w": 330,
+       "h": 304
+      },
+      "eds": {
+       "x": 15,
+       "y": 1670,
+       "w": 330,
+       "h": 304
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".alternating-rows-triangle=.feature-row",
+   "family": "feature-row",
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div#interior-content > div.alternating-rows-triangle-wrapper > div.alternating-rows-triangle.border"
+     },
+     "eds": {
+      "path": "main#interior-content > div.feature-row-wrap > section.feature-row.feature-row--img-right"
+     },
+     "rows": [
+      {
+       "key": "image:img.main-img.img-responsive#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 22,
+        "w": 266,
+        "h": 181
+       },
+       "eds": {
+        "x": 32,
+        "y": 22,
+        "w": 266,
+        "h": 181,
+        "sel": "img.feature-row__img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "heading:about omya",
+       "role": "heading",
+       "text": "about omya",
+       "edsText": "about omya",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 213,
+        "w": 266,
+        "h": 29
+       },
+       "eds": {
+        "x": 32,
+        "y": 213,
+        "w": 266,
+        "h": 29,
+        "sel": "h2",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "24/29/700",
+        "eds": "24/29/700"
+       }
+      },
+      {
+       "key": "text:omya is a dynamic, innovative, and custo",
+       "role": "text",
+       "text": "omya is a dynamic, innovative, and customer-focused distribu",
+       "edsText": "omya is a dynamic, innovative, and customer-focused distribu",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 256,
+        "w": 266,
+        "h": 114
+       },
+       "eds": {
+        "x": 32,
+        "y": 256,
+        "w": 266,
+        "h": 114,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:with decades of industry experience and ",
+       "role": "text",
+       "text": "with decades of industry experience and knowledge, we offer ",
+       "edsText": "with decades of industry experience and knowledge, we offer ",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 381,
+        "w": 266,
+        "h": 160
+       },
+       "eds": {
+        "x": 32,
+        "y": 381,
+        "w": 266,
+        "h": 160,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "box:p.button.btn-orange#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 551,
+        "w": 153,
+        "h": 40
+       },
+       "eds": {
+        "x": 28,
+        "y": 551,
+        "w": 153,
+        "h": 40,
+        "sel": "p.btn.btn--blue",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "link:meet our team",
+       "role": "link",
+       "text": "meet our team",
+       "edsText": "meet our team",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 551,
+        "w": 146,
+        "h": 40
+       },
+       "eds": {
+        "x": 32,
+        "y": 551,
+        "w": 146,
+        "h": 40,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/300",
+        "eds": "16/16/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 2110,
+       "w": 330,
+       "h": 613
+      },
+      "eds": {
+       "x": 15,
+       "y": 2110,
+       "w": 330,
+       "h": 613
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 6,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div#interior-content > div.alternating-rows-triangle-wrapper > div.alternating-rows-triangle.border"
+     },
+     "eds": {
+      "path": "main#interior-content > div.feature-row-wrap > section.feature-row.feature-row--img-left"
+     },
+     "rows": [
+      {
+       "key": "image:img.main-img.img-responsive#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 22,
+        "w": 266,
+        "h": 218
+       },
+       "eds": {
+        "x": 32,
+        "y": 22,
+        "w": 266,
+        "h": 218,
+        "sel": "img.feature-row__img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "heading:omya’s personal care portfolio",
+       "role": "heading",
+       "text": "omya’s personal care portfolio",
+       "edsText": "omya’s personal care portfolio",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 250,
+        "w": 266,
+        "h": 58
+       },
+       "eds": {
+        "x": 32,
+        "y": 250,
+        "w": 266,
+        "h": 58,
+        "sel": "h2",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "24/29/700",
+        "eds": "24/29/700"
+       }
+      },
+      {
+       "key": "text:omya’s personal care portfolio showcases",
+       "role": "text",
+       "text": "omya’s personal care portfolio showcases a comprehensive ran",
+       "edsText": "omya’s personal care portfolio showcases a comprehensive ran",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 322,
+        "w": 266,
+        "h": 228
+       },
+       "eds": {
+        "x": 32,
+        "y": 322,
+        "w": 266,
+        "h": 228,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "box:p.button.btn-orange#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 28,
+        "y": 561,
+        "w": 273,
+        "h": 40
+       },
+       "eds": {
+        "x": 28,
+        "y": 561,
+        "w": 273,
+        "h": 40,
+        "sel": "p.btn.btn--blue",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "link:download omya’s personal care portfolio",
+       "role": "link",
+       "text": "download omya’s personal care portfolio",
+       "edsText": "download omya’s personal care portfolio",
+       "byPosition": false,
+       "origin": {
+        "x": 32,
+        "y": 561,
+        "w": 266,
+        "h": 40
+       },
+       "eds": {
+        "x": 32,
+        "y": 561,
+        "w": 266,
+        "h": 40,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/300",
+        "eds": "16/16/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 2742,
+       "w": 330,
+       "h": 623
+      },
+      "eds": {
+       "x": 15,
+       "y": 2742,
+       "w": 330,
+       "h": 623
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".footer-menu > li=.footer-menu > li",
+   "family": "footer-menu-column",
+   "required": false,
+   "originMatches": 5,
+   "edsMatches": 5,
+   "units": [],
+   "error": "no visible unit on the origin side (5 / 5 DOM matches)"
+  },
+  {
+   "sel": "#insights-section .featured-post=.post-tile",
+   "family": "insights-post-tile",
+   "required": true,
+   "originMatches": 1,
+   "edsMatches": 1,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.band__inner > div.band__posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:may 6, 2026",
+       "role": "text",
+       "text": "may 6, 2026",
+       "edsText": "may 6, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43,
+        "sel": "span.post-tile__date",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:how 2025 reshaped oral health: fluoride ",
+       "role": "text",
+       "text": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "edsText": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91
+       },
+       "eds": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91,
+        "sel": "span.post-tile__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 4220,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 4220,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 6,
+  "within": 22,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 1,
+  "requiredOff": 0
+ }
+}

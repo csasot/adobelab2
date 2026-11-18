@@ -1,0 +1,56 @@
+{
+  "a": "stardust/replica/gates/all-1440/customer-resources-onboarding/origin.png",
+  "b": "stardust/replica/gates/all-1440/customer-resources-onboarding/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2630,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 24986,
+  "pct": 0.66,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/customer-resources-onboarding/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0.95,
+  "textBoxes": 63,
+  "textPixels": 212718,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.2
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.3
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 3
+    },
+    {
+      "y0": 2500,
+      "y1": 2630,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/customer-resources/onboarding"
+  }
+}

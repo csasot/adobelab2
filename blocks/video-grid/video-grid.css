@@ -1,0 +1,46 @@
+/* video-grid — bootstrap .row (-15px gutters) > .col-sm-12.col-md-6 > .embed-responsive-16by9 */
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.video-grid .video-grid-item {
+  width: 100%;
+  padding: 0 15px;
+}
+
+.video-grid .video-grid-embed {
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.video-grid .video-grid-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-grid .video-grid-caption {
+  margin: 10px 0 20px;
+  font-weight: 700;
+  color: var(--c-blue);
+  text-align: center;
+}
+
+@media (width >= 992px) {
+  .video-grid .video-grid-item {
+    width: 50%;
+  }
+}
+
+/* the theme's stacked .embed-responsive keeps 15px below the player until the two-up grid */
+@media (width < 992px) {
+  .video-grid .video-grid-embed {
+    margin-bottom: 15px;
+  }
+}

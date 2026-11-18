@@ -1,0 +1,47 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/privacy-policy",
+ "at": "2026-11-17T22:00:46.277Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 2,
+  "offPage": 114,
+  "textNodes": 259,
+  "controls": 28,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.table-responsive",
+   "path": "tbody > tr > td > p",
+   "text": "google analytics sets this cookie to calculate visitor, sess",
+   "cutMin": 1425,
+   "cutMax": 1425
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 100,
+   "textNodes": 268,
+   "controls": 24,
+   "total": 0
+  }
+ }
+}

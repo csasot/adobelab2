@@ -1,0 +1,3333 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T20:58:25.622Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+  "at": "2026-11-17T20:58:08.270Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3499,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/february-is-national-childrens-dental-health-month/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "february is national children’s dental health month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 451,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 507,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 575,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 8, 2024"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4285 > div.entry-summary > h2",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 86,
+    "level": 2,
+    "text": "february is national children’s dental health month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4285 > div.entry-summary > p",
+    "x": 313,
+    "y": 952,
+    "w": 843,
+    "h": 114,
+    "text": "The World Health Organization (WHO) estimates that over 500 million children, gl"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 313,
+    "y": 1078,
+    "w": 843,
+    "h": 474,
+    "text": "national children's dental health month",
+    "file": "National-Childrens-Dental-Health-Month-W"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4285 > div.entry-summary > p",
+    "x": 313,
+    "y": 1565,
+    "w": 843,
+    "h": 91,
+    "text": "Dental caries, more commonly known as cavities or tooth decay, are caused by bac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-4285 > div.entry-summary > p",
+    "x": 313,
+    "y": 1666,
+    "w": 843,
+    "h": 23,
+    "text": "Children’s oral hygiene needs vary by age."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 1710,
+    "w": 75,
+    "h": 16,
+    "text": "0-6 months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 1699,
+    "w": 716,
+    "h": 57,
+    "text": "Children this young won’t have any teeth to brush. However it’s still important "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 1767,
+    "w": 82,
+    "h": 16,
+    "text": "6-12 months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 1756,
+    "w": 716,
+    "h": 77,
+    "text": "Toddlers will begin to get their first teeth around 6-8 months old. It’s importa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 1844,
+    "w": 61,
+    "h": 16,
+    "text": "1-2 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 1833,
+    "w": 716,
+    "h": 77,
+    "text": "The ADA recommends children should have their first dental appointment within 6 "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 1921,
+    "w": 61,
+    "h": 16,
+    "text": "2-6 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 1910,
+    "w": 716,
+    "h": 97,
+    "text": "Children this age should begin brushing with a pea-sized amount of toothpaste on"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 2018,
+    "w": 61,
+    "h": 16,
+    "text": "6-8 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 2007,
+    "w": 716,
+    "h": 57,
+    "text": "Most children will develop the dexterity required to effectively brush their own"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tr > td > strong",
+    "x": 322,
+    "y": 2075,
+    "w": 69,
+    "h": 16,
+    "text": "8-21 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 440,
+    "y": 2064,
+    "w": 716,
+    "h": 57,
+    "text": "Permanent teeth, including the wisdom teeth, will erupt during this time. It’s i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > strong",
+    "x": 313,
+    "y": 2144,
+    "w": 483,
+    "h": 17,
+    "text": "Click here for some children’s oral care formulation inspiration:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a.ProsemirrorEditor-link",
+    "x": 313,
+    "y": 2177,
+    "w": 143,
+    "h": 17,
+    "text": "toddler training gel",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel-MC23-66A.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a.ProsemirrorEditor-link",
+    "x": 313,
+    "y": 2199,
+    "w": 183,
+    "h": 17,
+    "text": "fortify natural toothpaste",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > strong",
+    "x": 313,
+    "y": 2232,
+    "w": 513,
+    "h": 17,
+    "text": "Learn more about Omya’s Omyadent 100 for tooth remineralization:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a.ProsemirrorEditor-link",
+    "x": 313,
+    "y": 2265,
+    "w": 105,
+    "h": 17,
+    "text": "omyadent 100",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > strong",
+    "x": 313,
+    "y": 2298,
+    "w": 668,
+    "h": 17,
+    "text": "Utilize these resources for parents to teach children the importance of good ora"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a.ProsemirrorEditor-link",
+    "x": 313,
+    "y": 2331,
+    "w": 287,
+    "h": 17,
+    "text": "cdc childrens oral health activity book",
+    "href": "/oralhealth/basics/childrens-oral-health/resources/index.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a.ProsemirrorEditor-link",
+    "x": 313,
+    "y": 2354,
+    "w": 231,
+    "h": 17,
+    "text": "ada fun activity sheets for kids",
+    "href": "/en/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > small > strong",
+    "x": 313,
+    "y": 2418,
+    "w": 78,
+    "h": 15,
+    "text": "References;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 331,
+    "y": 2446,
+    "w": 319,
+    "h": 14,
+    "text": "https://www.who.int/news-room/fact-sheets/detail/oral-health",
+    "href": "/news-room/fact-sheets/detail/oral-health"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 331,
+    "y": 2472,
+    "w": 347,
+    "h": 14,
+    "text": "https://www.health.ny.gov/prevention/dental/birth_oral_health.htm",
+    "href": "/prevention/dental/birth_oral_health.htm"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 265,
+    "y": 2647,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 1060,
+    "y": 3093,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/february-is-national-childrens-dental-health-month/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 265,
+    "y": 3093,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 3223,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 3302,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 3321,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 3223,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 3223,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 3269,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 3223,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 3269,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 3292,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 3315,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 3338,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 3361,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 3223,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 3269,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 3292,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 3223,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 3269,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 3414,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 3415,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 3415,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 3415,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 3433,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 3433,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 3433,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 77,
+    "controls": 42,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month",
+  "at": "2026-11-17T20:58:25.497Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3498,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/february-is-national-childrens-dental-health-month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 728,
+    "text": "",
+    "file": "media_12177dd35677e2a2db7f5ee963b0764098"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#february-is-national-childrens-dental-health-month",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "february is national children’s dental health month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / / February is National Children’s Dental Health Month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 451,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 507,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 575,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17,
+    "text": "February 8, 2024"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#february-is-national-childrens-dental-health-month-1",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 86,
+    "level": 2,
+    "text": "february is national children’s dental health month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 952,
+    "w": 843,
+    "h": 114,
+    "text": "The World Health Organization (WHO) estimates that over 500 million children, gl"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 313,
+    "y": 1078,
+    "w": 843,
+    "h": 474,
+    "text": "national children's dental health month",
+    "file": "media_1c5034814a16a78d970ddb0003eb7fb8ce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1565,
+    "w": 843,
+    "h": 91,
+    "text": "Dental caries, more commonly known as cavities or tooth decay, are caused by bac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1666,
+    "w": 843,
+    "h": 23,
+    "text": "Children’s oral hygiene needs vary by age."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 1710,
+    "w": 75,
+    "h": 16,
+    "text": "0-6 months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 1708,
+    "w": 701,
+    "h": 40,
+    "text": "Children this young won’t have any teeth to brush. However it’s still important "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 1767,
+    "w": 82,
+    "h": 16,
+    "text": "6-12 months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 1765,
+    "w": 701,
+    "h": 60,
+    "text": "Toddlers will begin to get their first teeth around 6-8 months old. It’s importa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 1844,
+    "w": 61,
+    "h": 16,
+    "text": "1-2 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 1842,
+    "w": 701,
+    "h": 60,
+    "text": "The ADA recommends children should have their first dental appointment within 6 "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 1921,
+    "w": 61,
+    "h": 16,
+    "text": "2-6 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 1919,
+    "w": 701,
+    "h": 80,
+    "text": "Children this age should begin brushing with a pea-sized amount of toothpaste on"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 2018,
+    "w": 61,
+    "h": 16,
+    "text": "6-8 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 2016,
+    "w": 701,
+    "h": 40,
+    "text": "Most children will develop the dexterity required to effectively brush their own"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 321,
+    "y": 2075,
+    "w": 69,
+    "h": 16,
+    "text": "8-21 years"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 448,
+    "y": 2073,
+    "w": 701,
+    "h": 40,
+    "text": "Permanent teeth, including the wisdom teeth, will erupt during this time. It’s i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 313,
+    "y": 2143,
+    "w": 483,
+    "h": 17,
+    "text": "Click here for some children’s oral care formulation inspiration:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2176,
+    "w": 143,
+    "h": 17,
+    "text": "toddler training gel",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel-MC23-66A.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2199,
+    "w": 183,
+    "h": 17,
+    "text": "fortify natural toothpaste",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 313,
+    "y": 2231,
+    "w": 513,
+    "h": 17,
+    "text": "Learn more about Omya’s Omyadent 100 for tooth remineralization:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2264,
+    "w": 105,
+    "h": 17,
+    "text": "omyadent 100",
+    "href": "/our-products/oral-care/omyadent-100-og/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 313,
+    "y": 2297,
+    "w": 668,
+    "h": 17,
+    "text": "Utilize these resources for parents to teach children the importance of good ora"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2330,
+    "w": 287,
+    "h": 17,
+    "text": "cdc childrens oral health activity book",
+    "href": "/oralhealth/basics/childrens-oral-health/resources/index.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 313,
+    "y": 2353,
+    "w": 231,
+    "h": 17,
+    "text": "ada fun activity sheets for kids",
+    "href": "/en/resources/community-initiatives/national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 313,
+    "y": 2417,
+    "w": 78,
+    "h": 15,
+    "text": "References;"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 2445,
+    "w": 319,
+    "h": 14,
+    "text": "https://www.who.int/news-room/fact-sheets/detail/oral-health",
+    "href": "/news-room/fact-sheets/detail/oral-health"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 2471,
+    "w": 347,
+    "h": 14,
+    "text": "https://www.health.ny.gov/prevention/dental/birth_oral_health.htm",
+    "href": "/prevention/dental/birth_oral_health.htm"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 265,
+    "y": 2646,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 1060,
+    "y": 3092,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/february-is-national-childrens-dental-health-month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 265,
+    "y": 3092,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 3222,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 3301,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 3320,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 3222,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 3222,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 3268,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 3222,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3268,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3291,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3314,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3337,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 3360,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 3222,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 3268,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 3291,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 3222,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 3268,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 3413,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 3414,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 3414,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 3414,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 3432,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 3432,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 3432,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/february-is-national-childrens-dental-health-month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 76,
+    "controls": 42,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "february is national children’s dental health month",
+   "variable": false,
+   "origin": {
+    "link": 8,
+    "button": 0,
+    "text": 19,
+    "image": 1
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 21,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"february is national children’s dental health month\" (y 851) has no origin heading",
+   "text": "february is national children’s dental health month"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"february is national children’s dental health month\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"february is national children’s dental health month\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"february is national children’s dental health month\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 366,
+    "y": 344,
+    "w": 708,
+    "h": 53
+   },
+   {
+    "x": 488,
+    "y": 402,
+    "w": 464,
+    "h": 53
+   },
+   {
+    "x": 451,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 493,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 507,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 562,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 575,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 621,
+    "y": 474,
+    "w": 369,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 771,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 895,
+    "w": 108,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 954,
+    "w": 835,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 977,
+    "w": 125,
+    "h": 17
+   },
+   {
+    "x": 438,
+    "y": 976,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 444,
+    "y": 977,
+    "w": 705,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1000,
+    "w": 833,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1023,
+    "w": 777,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1045,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1567,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1589,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1612,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1635,
+    "w": 429,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1668,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 615,
+    "y": 1667,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 322,
+    "y": 1710,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1710,
+    "w": 685,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1730,
+    "w": 303,
+    "h": 16
+   },
+   {
+    "x": 322,
+    "y": 1767,
+    "w": 82,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1767,
+    "w": 696,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1787,
+    "w": 688,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1807,
+    "w": 140,
+    "h": 16
+   },
+   {
+    "x": 322,
+    "y": 1844,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1844,
+    "w": 662,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1864,
+    "w": 661,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1884,
+    "w": 165,
+    "h": 16
+   },
+   {
+    "x": 322,
+    "y": 1921,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1921,
+    "w": 690,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1941,
+    "w": 691,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1961,
+    "w": 676,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1981,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 322,
+    "y": 2018,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2018,
+    "w": 680,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2038,
+    "w": 587,
+    "h": 16
+   },
+   {
+    "x": 322,
+    "y": 2075,
+    "w": 69,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2075,
+    "w": 667,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2095,
+    "w": 656,
+    "h": 16
+   },
+   {
+    "x": 313,
+    "y": 2144,
+    "w": 483,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2177,
+    "w": 143,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2199,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2232,
+    "w": 513,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2265,
+    "w": 105,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2298,
+    "w": 668,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2331,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2354,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2418,
+    "w": 78,
+    "h": 15
+   },
+   {
+    "x": 331,
+    "y": 2446,
+    "w": 319,
+    "h": 14
+   },
+   {
+    "x": 331,
+    "y": 2472,
+    "w": 347,
+    "h": 14
+   },
+   {
+    "x": 265,
+    "y": 2648,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 3104,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 3093,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 3104,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 3232,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3232,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3268,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3232,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 3268,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3291,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3314,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3337,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3360,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3232,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 3268,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3291,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 3232,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 3268,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 3415,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 3415,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 3415,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 3415,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 3415,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 3433,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 3433,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 3433,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 3433,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 3433,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 3433,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 366,
+    "y": 344,
+    "w": 708,
+    "h": 53
+   },
+   {
+    "x": 488,
+    "y": 402,
+    "w": 464,
+    "h": 53
+   },
+   {
+    "x": 451,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 493,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 507,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 562,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 575,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 607,
+    "y": 474,
+    "w": 382,
+    "h": 17
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 852,
+    "w": 771,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 895,
+    "w": 108,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 954,
+    "w": 835,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 977,
+    "w": 125,
+    "h": 17
+   },
+   {
+    "x": 438,
+    "y": 975,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 444,
+    "y": 977,
+    "w": 705,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1000,
+    "w": 833,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1023,
+    "w": 777,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1045,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1567,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1589,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1612,
+    "w": 828,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1635,
+    "w": 429,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1668,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 615,
+    "y": 1666,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 321,
+    "y": 1710,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1710,
+    "w": 685,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1730,
+    "w": 303,
+    "h": 16
+   },
+   {
+    "x": 321,
+    "y": 1767,
+    "w": 82,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1767,
+    "w": 696,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1787,
+    "w": 688,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1807,
+    "w": 140,
+    "h": 16
+   },
+   {
+    "x": 321,
+    "y": 1844,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1844,
+    "w": 662,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1864,
+    "w": 661,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1884,
+    "w": 165,
+    "h": 16
+   },
+   {
+    "x": 321,
+    "y": 1921,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1921,
+    "w": 690,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1941,
+    "w": 691,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1961,
+    "w": 676,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 1981,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 321,
+    "y": 2018,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2018,
+    "w": 680,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2038,
+    "w": 587,
+    "h": 16
+   },
+   {
+    "x": 321,
+    "y": 2075,
+    "w": 69,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2075,
+    "w": 667,
+    "h": 16
+   },
+   {
+    "x": 448,
+    "y": 2095,
+    "w": 656,
+    "h": 16
+   },
+   {
+    "x": 313,
+    "y": 2143,
+    "w": 483,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2176,
+    "w": 143,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2199,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2231,
+    "w": 513,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2264,
+    "w": 105,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2297,
+    "w": 668,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2330,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2353,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2417,
+    "w": 78,
+    "h": 15
+   },
+   {
+    "x": 334,
+    "y": 2445,
+    "w": 319,
+    "h": 14
+   },
+   {
+    "x": 334,
+    "y": 2471,
+    "w": 347,
+    "h": 14
+   },
+   {
+    "x": 265,
+    "y": 2647,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 3103,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 3092,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 3103,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 3231,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3231,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 3267,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3231,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 3267,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3290,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3313,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3336,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 3359,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3231,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 3267,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 3290,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 3231,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 3267,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 3414,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 3414,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 3414,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 3414,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 3414,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 3432,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 3432,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 3432,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 3432,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 3432,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 3432,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

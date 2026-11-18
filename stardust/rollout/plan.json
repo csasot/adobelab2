@@ -1,0 +1,188 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-17T17:02:38.227Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-17T17:02:38.227Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "about",
+    "blog-aak-partnership",
+    "contact",
+    "contact-rep-locator",
+    "index",
+    "insights-blog"
+  ],
+  "steps": [
+    {
+      "slug": "about",
+      "path": "/about",
+      "templateId": "about",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "page-hero",
+          "edsBlockName": "page-hero"
+        },
+        {
+          "id": "alt-row",
+          "edsBlockName": "alt-row"
+        },
+        {
+          "id": "cta-band",
+          "edsBlockName": "cta-band"
+        },
+        {
+          "id": "band-pair",
+          "edsBlockName": "band-pair"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "blog-aak-partnership",
+      "path": "/blog/aak-partnership",
+      "templateId": "blog-aak-partnership",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "article",
+          "edsBlockName": "article"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "page-hero",
+          "edsBlockName": "page-hero",
+          "convertedBy": "about"
+        },
+        {
+          "id": "band-pair",
+          "edsBlockName": "band-pair",
+          "convertedBy": "about"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "path": "/contact",
+      "templateId": "contact",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "contact-offices",
+          "edsBlockName": "contact-offices"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "page-hero",
+          "edsBlockName": "page-hero",
+          "convertedBy": "about"
+        },
+        {
+          "id": "cta-band",
+          "edsBlockName": "cta-band",
+          "convertedBy": "about"
+        },
+        {
+          "id": "band-pair",
+          "edsBlockName": "band-pair",
+          "convertedBy": "about"
+        }
+      ]
+    },
+    {
+      "slug": "contact-rep-locator",
+      "path": "/contact/rep-locator",
+      "templateId": "contact-rep-locator",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "rep-locator",
+          "edsBlockName": "rep-locator"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "page-hero",
+          "edsBlockName": "page-hero",
+          "convertedBy": "about"
+        },
+        {
+          "id": "band-pair",
+          "edsBlockName": "band-pair",
+          "convertedBy": "about"
+        }
+      ]
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "index",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero"
+        },
+        {
+          "id": "process",
+          "edsBlockName": "process"
+        },
+        {
+          "id": "feature-row",
+          "edsBlockName": "feature-row"
+        },
+        {
+          "id": "partners",
+          "edsBlockName": "partners"
+        },
+        {
+          "id": "promo",
+          "edsBlockName": "promo"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "band-pair",
+          "edsBlockName": "band-pair",
+          "convertedBy": "about"
+        }
+      ]
+    },
+    {
+      "slug": "insights-blog",
+      "path": "/insights/blog",
+      "templateId": "insights-blog",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "post-list",
+          "edsBlockName": "post-list"
+        },
+        {
+          "id": "video-band",
+          "edsBlockName": "video-band"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "page-hero",
+          "edsBlockName": "page-hero",
+          "convertedBy": "about"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://omyapersonalcare.us/about/",
+ "at": "2026-11-17T15:42:54.150Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": "body>header",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#logo-header>a",
+     "href": "https://omyapersonalcare.us/",
+     "expanded": null,
+     "rect": [
+      20,
+      72,
+      351,
+      58
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Customer Resources",
+     "key": "customer resources",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1148>a",
+     "href": "https://omyapersonalcare.us/customer-resources/",
+     "expanded": null,
+     "rect": [
+      92,
+      151,
+      205,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Home",
+     "key": "home",
+     "role": "link",
+     "kind": "link",
+     "sel": "#header-top>div:nth-of-type(2)>div>p>span:nth-of-type(1)>a",
+     "href": "https://omyapersonalcare.us/",
+     "expanded": null,
+     "rect": [
+      147,
+      347,
+      43,
+      17
+     ],
+     "actions": {}
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 42,
+     "height": 396,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -958,
+     "height": 396,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -658,
+     "height": 396,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 42,
+     "height": 396,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 48,
+   "maxRequests": 2000,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "body>header",
+   "controls": [
+    {
+     "name": "Request Info",
+     "key": "request info",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1143>a",
+     "href": "https://omyapersonalcare.us/request-info/",
+     "expanded": null,
+     "rect": [
+      1180,
+      7,
+      78,
+      17
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Newsletter Signup",
+     "key": "newsletter signup",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#menu-item-1838>a",
+     "expanded": null,
+     "rect": [
+      1266,
+      7,
+      102,
+      17
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [
+         "Omya Market Insights",
+         "Subscribe here to get email updates!"
+        ],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [
+         "SUBSCRIBE"
+        ],
+        "options": 0,
+        "rect": [
+         360,
+         342,
+         755,
+         177
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal"
+        }
+       ],
+       "shot": "1440-001-Newsletter-Signup-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [
+         "Omya Market Insights",
+         "Subscribe here to get email updates!"
+        ],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [
+         "SUBSCRIBE"
+        ],
+        "options": 0,
+        "rect": [
+         360,
+         342,
+         755,
+         177
+        ]
+       },
+       "expanded": null,
+       "focus": "elsewhere",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal-backdrop"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.modal"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        }
+       ],
+       "shot": "1440-002-Newsletter-Signup-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#newsletter>div>div>div>button",
+       "expanded": null,
+       "rect": [
+        1075,
+        342,
+        40,
+        40
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 5
+        },
+        "key": {
+         "opened": false,
+         "hides": 5
+        }
+       }
+      },
+      {
+       "name": "Enter your email address",
+       "key": "enter your email address",
+       "role": "input",
+       "kind": "input",
+       "sel": "#newsletter-form>div:nth-of-type(2)>div:nth-of-type(1)>input",
+       "expanded": null,
+       "rect": [
+        360,
+        473,
+        533,
+        40
+       ],
+       "actions": {},
+       "search": {
+        "probe": "request",
+        "typeahead": {
+         "links": 0,
+         "options": 0
+        },
+        "submit": null
+       }
+      },
+      {
+       "name": "SUBSCRIBE",
+       "key": "subscribe",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#newsletter-form>div:nth-of-type(2)>div:nth-of-type(2)>button",
+       "expanded": null,
+       "rect": [
+        919,
+        473,
+        158,
+        45
+       ],
+       "actions": {
+        "hover": null,
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#logo-header>a",
+     "href": "https://omyapersonalcare.us/",
+     "expanded": null,
+     "rect": [
+      72,
+      90,
+      216,
+      58
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Our Approach",
+     "key": "our approach",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1125>a",
+     "href": "https://omyapersonalcare.us/our-approach/",
+     "expanded": null,
+     "rect": [
+      446,
+      90,
+      120,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Our Products",
+     "key": "our products",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-68349>a",
+     "href": "https://products.omya.com/",
+     "expanded": null,
+     "rect": [
+      601,
+      90,
+      115,
+      38
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our Products",
+          "href": "https://products.omya.com/"
+         },
+         {
+          "text": "Our Formulations",
+          "href": "https://omyapersonalcare.us/our-formulations/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         564,
+         125,
+         200,
+         74
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        }
+       ],
+       "shot": "1440-003-Our-Products-hover.png"
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "leave": true
+     },
+     "children": []
+    },
+    {
+     "name": "About",
+     "key": "about",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1127>a",
+     "href": "https://omyapersonalcare.us/about/",
+     "expanded": null,
+     "rect": [
+      751,
+      90,
+      52,
+      38
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our Difference",
+          "href": "https://omyapersonalcare.us/about/our-difference/"
+         },
+         {
+          "text": "Our Team",
+          "href": "https://omyapersonalcare.us/about/our-team/"
+         },
+         {
+          "text": "Global Partners",
+          "href": "https://omyapersonalcare.us/about/global-partners/"
+         },
+         {
+          "text": "Careers",
+          "href": "https://omyapersonalcare.us/careers/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         682,
+         125,
+         200,
+         144
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        }
+       ],
+       "shot": "1440-004-About-hover.png"
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "leave": true
+     },
+     "children": []
+    },
+    {
+     "name": "Insights",
+     "key": "insights",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1131>a",
+     "href": "https://omyapersonalcare.us/insights/",
+     "expanded": null,
+     "rect": [
+      838,
+      90,
+      69,
+      38
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Blog",
+          "href": "https://omyapersonalcare.us/insights/blog/"
+         },
+         {
+          "text": "Events",
+          "href": "https://omyapersonalcare.us/insights/events/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         778,
+         125,
+         200,
+         74
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        }
+       ],
+       "shot": "1440-005-Insights-hover.png"
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "leave": true
+     },
+     "children": []
+    },
+    {
+     "name": "Contact",
+     "key": "contact",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1133>a",
+     "href": "https://omyapersonalcare.us/contact/",
+     "expanded": null,
+     "rect": [
+      942,
+      90,
+      67,
+      38
+     ],
+     "actions": {
+      "hover": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Rep Locator",
+          "href": "https://omyapersonalcare.us/contact/rep-locator/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         881,
+         125,
+         200,
+         39
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "color",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease",
+         "target": "a"
+        }
+       ],
+       "shot": "1440-006-Contact-hover.png"
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "leave": true
+     },
+     "children": []
+    },
+    {
+     "name": "Customer Resources",
+     "key": "customer resources",
+     "role": "link",
+     "kind": "link",
+     "sel": "#menu-item-1148>a",
+     "href": "https://omyapersonalcare.us/customer-resources/",
+     "expanded": null,
+     "rect": [
+      1152,
+      90,
+      210,
+      36
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Home",
+     "key": "home",
+     "role": "link",
+     "kind": "link",
+     "sel": "#header-top>div:nth-of-type(2)>div>p>span:nth-of-type(1)>a",
+     "href": "https://omyapersonalcare.us/",
+     "expanded": null,
+     "rect": [
+      672,
+      323,
+      43,
+      17
+     ],
+     "actions": {}
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 443,
+     "position": "relative",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 443,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 443,
+     "position": "relative",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 443,
+     "position": "relative",
+     "inView": true
+    }
+   ],
+   "states": 6,
+   "truncated": null,
+   "loads": 1,
+   "requests": 47,
+   "maxRequests": 2000,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": "request"
+}

@@ -1,0 +1,657 @@
+{
+  "_provenance": {
+    "writtenBy": "replica recreate (index archetype)",
+    "writtenAt": "2026-11-17T16:43:46.972379Z",
+    "lastWrittenBy": "stardust:replica (eco re-prototype)",
+    "lastWrittenAt": "2026-11-17T20:52:28.019Z"
+  },
+  "types": {
+    "landing": {
+      "archetype": "index",
+      "pageType": "landing",
+      "liveUrl": "https://omyapersonalcare.us/",
+      "prototype": "stardust/prototypes/index-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/index.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#interior-content",
+      "iterations": {
+        "360": 3,
+        "1440": 2
+      },
+      "iterationNotes": "360 iter3b/iter3c re-ran only because stardust/replica/units.json first declared the footer-menu family, which the source hides below 768px (selector error, instrument config) — excluded from the cap; prototype unchanged.",
+      "gates": {
+        "360": {
+          "pixel": 1.5,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "0 flags",
+          "clipped": 0,
+          "overflow": "ok (360 = viewport)",
+          "chromeParity": "exit 0",
+          "chromeCrop": {
+            "header": "0.00% (y0+492, incl. fixed mobile bar)",
+            "footer": "0.00% (y5225+339)"
+          },
+          "units": "6 compared, 0 off",
+          "evidence": "stardust/replica/gates/index-360/ (iter3c)"
+        },
+        "1440": {
+          "pixel": 0.81,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "0 flags",
+          "clipped": 0,
+          "overflow": "ok (1440 = viewport)",
+          "capProbe": "PASS at 2560 (0 of 8 rows failed)",
+          "chromeParity": "exit 0",
+          "chromeCrop": {
+            "header": "0.22% (y0+855)",
+            "footer": "0.00% (y4365+325)"
+          },
+          "units": "11 compared, 0 off",
+          "evidence": "stardust/replica/gates/index-1440/ (iter2)"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": 360,
+          "band": "y 5000–5500",
+          "pct": 10.1,
+          "region": "contact band, reCAPTCHA slot (crop y4960+260: 22.96%)",
+          "cause": "third-party widget: live renders the Google reCAPTCHA v2 checkbox iframe (304×78) in #contact-footer; its site key is bound to the source domain, so the build reserves the 78px slot empty (geometry identical)",
+          "flaggedFor": "delivery (dynamic-features D2: forms + reCAPTCHA)"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "contact band",
+          "pct": "inside the 0.81% page total",
+          "cause": "same reCAPTCHA iframe as above",
+          "flaggedFor": "delivery"
+        },
+        {
+          "breakpoint": "both",
+          "band": "partners strip (1440 y2901–3087, 360 y3380–3643)",
+          "pct": "≤3.6% band at 360",
+          "cause": "nondeterministic: continuous logo marquee position differs per capture",
+          "flaggedFor": "user (permanent)"
+        }
+      ],
+      "captureState": [
+        {
+          "what": "Global Partners marquee caught mid-scroll at a random offset on live; build starts at the first real slide",
+          "where": "partners",
+          "restoreAtDelivery": "continuous linear marquee, one logo per 3 s (~106 px/s at 1440), infinite, 3 logos visible ≥1024px / 2 below (slick autoplaySpeed 0, speed 3000, cssEase linear) — implemented in canon.css as a CSS keyframe"
+        },
+        {
+          "what": "timed newsletter popup (#contact-popup, 6 s, cookie firstViewRequest) dismissed by the instruments on live",
+          "where": "chrome",
+          "restoreAtDelivery": "open 6 s after first visit, once per browser; implemented in canon.js"
+        }
+      ],
+      "cssNotes": [
+        "canon.css .feature-row__text .btn { vertical-align: top } — live keeps the line box of a wrapped two-line skewed button at 40px (360); the same CSS+DOM rendered statically gives 46px, cause not found in any stylesheet; top alignment reproduces the measured height at both widths",
+        "universal border-box reset is the lifted source value (bootstrap 3 applies it to *, :before, :after)"
+      ],
+      "motion": {
+        "observed": [
+          "nav link hover colour #fff→#99c7e4 (.25s)",
+          "nav dropdown on li:hover (visibility/opacity .25s, top 50→35px)",
+          "skewed button hover bg #007ac1→#338ec9 (.25s); white button also text→#fff",
+          "Customer Resources CTA hover bg",
+          "footer menu link hover colour →#007ac1",
+          "insights tile hover border →#007ac1",
+          "FIND A REP fab: class active at scrollY>115, bottom -100→20px (.4s ease)",
+          "partners marquee transform 3s linear per logo",
+          "timed popup (dismissed by the live session)"
+        ],
+        "implemented": [
+          "all hovers above (canon.css)",
+          "fab .active scroll toggle (canon.js, same class name)",
+          "marquee as CSS keyframe (rendered-equivalent; slick-active/slick-current class churn not reproduced)",
+          "Customer Resources click toggles its sub-list (source scripts.js slideToggle)",
+          "mobile menu toggle + sub-list expand (wp-responsive-menu)",
+          "timed popup 6 s + cookie (canon.js)"
+        ],
+        "dead": [
+          "aux-nav link hover (no measured diff)",
+          "header scroll-morph (static on live)"
+        ],
+        "compare": "stardust/replica/motion/index-compare.json — 13 parity; MISSING = slick class churn + marquee transition events (CSS animation instead) + focus outline-width transitions",
+        "buildObservationNote": "build observed with the popup cookie preset (temporary copy, deleted): motion-observe dismisses timed modals on live only (lateWindowMs 0 on localhost), so the build popup otherwise blocks every hover probe"
+      },
+      "status": "passed"
+    },
+    "static": {
+      "archetype": "about",
+      "pageType": "static",
+      "liveUrl": "https://omyapersonalcare.us/about/",
+      "prototype": "stardust/prototypes/about-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/about.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#interior-content",
+      "pages": [
+        "about",
+        "about-our-difference",
+        "about-our-team",
+        "about-global-partners",
+        "customer-resources",
+        "insights",
+        "our-approach",
+        "privacy-policy",
+        "terms-of-use"
+      ],
+      "iterations": {
+        "360": 1,
+        "1440": 2
+      },
+      "iterationNotes": "iter3 at both widths = confirmation rounds (no prototype change; units.json families added). 360 iter2 re-confirmed after the 1440 fix.",
+      "gates": {
+        "360": {
+          "pixel": 1.34,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "4 advisory: IMAGERY GAP (tracking pixels) + 3 FLUSH-LEFT on skewed buttons at x=11 (identical on live) — justified",
+          "clipped": 0,
+          "overflow": "ok (360 = viewport)",
+          "chromeParity": "exit 0",
+          "chromeCrop": {
+            "header": "0.00% (y0+438)",
+            "footer": "0.00% (y4120+339)"
+          },
+          "units": "4 compared, 0 off",
+          "evidence": "stardust/replica/gates/about-360/ (iter3)"
+        },
+        "1440": {
+          "pixel": 0.4,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "1 advisory: IMAGERY GAP (live counts tracking pixels; photos are CSS backgrounds on both sides) — justified",
+          "clipped": 0,
+          "overflow": "ok (1440 = viewport)",
+          "capProbe": "PASS at 2560 (0 of 5 rows failed; advisory: live 4 vs build 3 top-level sections — live has an empty .container-fixed)",
+          "chromeParity": "exit 0",
+          "chromeCrop": {
+            "header": "0.00% (y0+443)",
+            "footer": "0.00% (y3449+325)"
+          },
+          "units": "4 compared, 0 off",
+          "evidence": "stardust/replica/gates/about-1440/ (iter3)"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": 360,
+          "band": "y 3500–4000",
+          "pct": 11.9,
+          "region": "contact band, reCAPTCHA slot",
+          "cause": "third-party widget: live renders the Google reCAPTCHA v2 iframe; build reserves the empty slot (same as index residual)",
+          "flaggedFor": "delivery (dynamic-features D2)"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "contact band (crop y2859+580: 2.70%)",
+          "pct": "inside the 0.40% page total",
+          "cause": "same reCAPTCHA iframe",
+          "flaggedFor": "delivery"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "nav link hover colour (.25s)",
+          "skewed button hover bg on alt-row + cta-band buttons (.25s)",
+          "FIND A REP fab .active on scroll (bottom .4s)",
+          "focus outline-width transitions"
+        ],
+        "implemented": [
+          "all hovers (canon.css)",
+          "fab .active (canon.js)",
+          "current nav item sky colour (about.css)"
+        ],
+        "dead": [
+          "breadcrumb link hover (no measured diff)",
+          "header scroll-morph (static on live)"
+        ],
+        "compare": "stardust/replica/motion/about-compare.json — 7 parity, 1 missing (focus outline-width transitions, as on index)"
+      },
+      "compensation": [
+        "about.css: aux-nav li line-height 0 (live renders in limited-quirks mode, no strut → 30px strip; canon standards-mode gives 31.3px). Applies to every inner page header; the home header hides it behind the fixed hero height."
+      ],
+      "status": "residual"
+    },
+    "article": {
+      "archetype": "blog-aak-partnership",
+      "pageType": "article",
+      "pages": "45 (18 blog posts, 24 events, 3 news)",
+      "liveUrl": "https://omyapersonalcare.us/blog/aak-partnership/",
+      "prototype": "stardust/prototypes/blog-aak-partnership-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/blog-aak-partnership.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#interior-content",
+      "iterations": {
+        "360": 1,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "pixel": 2.99,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "1 advisory, justified: IMAGERY GAP = AdRoll tracking pixels",
+          "clipped": 0,
+          "overflow": "ok (360 = viewport)",
+          "chromeParity": "within tolerance",
+          "chromeCrop": {
+            "header": "0.00% (y0+492)",
+            "contactBand": "9.54% (y1028+626, reCAPTCHA widget)",
+            "footer": "0.00% (y1664+339)"
+          },
+          "evidence": "stardust/replica/gates/blog-aak-partnership-360/ (iter1)"
+        },
+        "1440": {
+          "pixel": 0.76,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "1 advisory, justified: IMAGERY GAP 20 vs 3 = 17 AdRoll tracking pixels on live (martech, not imagery)",
+          "clipped": 0,
+          "overflow": "ok (1440 = viewport)",
+          "capProbe": "PASS at 2560 (0 of 5 rows failed; advisory: live 4 vs build 2 top-level sections)",
+          "chromeParity": "within tolerance",
+          "chromeCrop": {
+            "header": "0.00% (y0+670)",
+            "main": "0.02% (y670+405)",
+            "contactBand": "2.59% (y1075+577, reCAPTCHA widget)",
+            "footer": "0.00% (y1652+325)"
+          },
+          "evidence": "stardust/replica/gates/blog-aak-partnership-1440/ (iter3)"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": 360,
+          "band": "y 1000–1500",
+          "pct": 11.6,
+          "region": "contact band y1028+626 (9.54%)",
+          "cause": "capture-state: live renders the Google reCAPTCHA v2 checkbox (304×78); build leaves .recaptcha-slot empty (dynamic-features D2)",
+          "flaggedFor": "delivery"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "y 1500–1977",
+          "pct": 2.5,
+          "region": "contact band y1075+577 (2.59%)",
+          "cause": "capture-state: reCAPTCHA v2 widget, as above",
+          "flaggedFor": "delivery"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "FIND A REP fab .active on scroll (bottom .4s)",
+          "focus outline-width transition on breadcrumb link (probe focus)"
+        ],
+        "implemented": [
+          "fab .active (canon.js)",
+          "breadcrumb/nav hovers (canon.css)"
+        ],
+        "dead": [
+          "breadcrumb link hover (no measured diff)",
+          "header scroll-morph (static on live)"
+        ],
+        "compare": "stardust/replica/motion/blog-aak-partnership-compare.json — 2 parity, 1 missing (focus outline-width transition, as on index/about)"
+      },
+      "sharedModules": "canon.css appended: header-inner (.site-header--inner/--photo + aux-nav limited-quirks strut fix), page-hero (.page-hero > .page-hero__col > h1 + p.breadcrumbs; photo variant 10%/12% padding, else 50/40), article (.article-page > .wrap.article-page__wrap > .article-page__col > article.article.article--post|--event|--news > p.article__date + .article__body), band-solo (.band-pair--solo)",
+      "notes": "Prototype unchanged after 1440 iter3 (motion needed no implementation), so iter3 numbers are the confirmation round. Event pages: header has no blog-header class and an empty background url → use .site-header--inner without --photo (page-hero 50/40 padding); article body may hold only the date line.",
+      "status": "residual"
+    },
+    "listing": {
+      "archetype": "insights-blog",
+      "pageType": "listing",
+      "pages": [
+        "/insights/blog/",
+        "/events/",
+        "/insights/events/",
+        "/news/",
+        "/our-formulations/"
+      ],
+      "liveUrl": "https://omyapersonalcare.us/insights/blog/",
+      "prototype": "stardust/prototypes/insights-blog-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/insights-blog.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#insights-section",
+      "mainNote": "live has no #interior-content on this template; the listing band div#insights-section is the content root (prototype <main id=insights-section>). The blue #section555 video band and footer sit outside it on both sides.",
+      "iterations": {
+        "360": 1,
+        "1440": 3
+      },
+      "iterationNotes": "1440 iter1→iter2: aux strip 31.3→30px (limited-quirks line-box emulation, insights-blog.css); iter3 = confirmation after units + motion, prototype unchanged.",
+      "gates": {
+        "360": {
+          "pixel": 1.97,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "1 advisory (IMAGERY GAP, same justification)",
+          "clipped": 0,
+          "overflow": "ok (360 = viewport)",
+          "chromeParity": "exit 0",
+          "units": "10 compared, 0 off",
+          "evidence": "stardust/replica/gates/insights-blog-360/ (iter1)"
+        },
+        "1440": {
+          "pixel": 3.14,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "1 advisory (IMAGERY GAP 20 vs 3: live count is tracking pixels/logos; post images are CSS backgrounds on both sides) — justified",
+          "clipped": 0,
+          "overflow": "ok (1440 = viewport)",
+          "capProbe": "PASS at 2560 (0 of 12 rows failed)",
+          "chromeParity": "exit 0",
+          "chromeCrop": {
+            "header": "0.00% (y0+443)",
+            "footer": "0.00% (y2671+325)"
+          },
+          "units": "10 compared, 0 off",
+          "evidence": "stardust/replica/gates/insights-blog-1440/ (iter3)"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": "both",
+          "band": "#section555 video band (1440 y2157–2660: crop 18.84%; 360 y3500–4000: 16.8%)",
+          "pct": "3.14% page @1440 / ~2% @360 — all of it",
+          "region": "YouTube iframe 610×343 / 300×169",
+          "cause": "third-party embed state: on the source origin the YouTube player shows 'Video player configuration error · Error 153' (embed refused there); the build's identical embed URL plays the Cosmospheres video poster. Geometry identical (Δ0).",
+          "flaggedFor": "user (decide: keep working embed vs. source's broken state) + delivery (dynamic-features: media embed)"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "pagination link hover colour #666→#007ac1 + border (.25s)",
+          "Cosmospheres skewed button hover bg (.25s)",
+          "nav link hover colour →#99c7e4 (.25s)",
+          "post tile hover border →#007ac1 (.25s)",
+          "FIND A REP fab .active on scroll (bottom .4s)"
+        ],
+        "implemented": [
+          "all of the above (canon.css + insights-blog.css; fab via canon.js)"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)",
+          "breadcrumb link hover (no diff on live)",
+          "outline-width transition (live a:hover{outline:0} under transition:all — outline-style none, invisible)"
+        ],
+        "compare": "stardust/replica/motion/insights-blog-compare.json (11 parity, 1 missing=invisible outline-width, 0 extra)"
+      },
+      "status": "residual"
+    },
+    "form": {
+      "archetype": "contact",
+      "pageType": "form",
+      "liveUrl": "https://omyapersonalcare.us/contact/",
+      "prototype": "stardust/prototypes/contact-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/contact.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#interior-content",
+      "pages": [
+        "contact",
+        "request-info",
+        "get-a-sample",
+        "formulary-request",
+        "careers",
+        "customer-resources-onboarding",
+        "customer-resources-credit-application",
+        "blog-asp-products-pay-your-invoice"
+      ],
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "iterationNotes": "1440 iter3m/iter3u and 360 iter2/iter3 are confirmation rounds (focus-style addition after motion parity; units.json families declared) — prototype geometry unchanged since 1440 iter2.",
+      "gates": {
+        "360": {
+          "pixel": 0.14,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 7 advisory (aria-labels added on inputs; reCAPTCHA iframe title)",
+          "visualDiff": "1 advisory: IMAGERY GAP 20 vs 3 — justified (header photo, post tiles, cta band are CSS backgrounds, as on about)",
+          "clipped": 0,
+          "overflow": "ok (360 = viewport)",
+          "chromeParity": "exit 0",
+          "units": "8 compared, 0 off",
+          "evidence": "stardust/replica/gates/contact-360/ (iter3)"
+        },
+        "1440": {
+          "pixel": 0.04,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 7 advisory (aria-labels added on inputs; reCAPTCHA iframe title)",
+          "visualDiff": "1 advisory: IMAGERY GAP 20 vs 3 — justified (header photo, post tiles, cta band are CSS backgrounds, as on about)",
+          "clipped": 0,
+          "overflow": "ok (1440 = viewport)",
+          "capProbe": "PASS at 2560 (0 of 5 rows failed; section count 5 vs 3 advisory)",
+          "chromeParity": "exit 0",
+          "units": "8 compared, 0 off",
+          "evidence": "stardust/replica/gates/contact-1440/ (iter3u)"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": "both",
+          "band": "Get in Touch form, .recaptcha-slot",
+          "pct": "inside the page totals (0.04% / 0.14%)",
+          "cause": "third-party widget: live Google reCAPTCHA v2 (304×78) in #contact-form; the build reserves a same-size empty slot",
+          "flaggedFor": "delivery (dynamic-features D2: forms + reCAPTCHA)"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "skewed submit + cta button hover bg (.25s)",
+          "link hover colour in intro/address card/nav (.25s)",
+          "post-tile border-colour hover (.25s)",
+          "FIND A REP fab .active on scroll (bottom .4s)",
+          "focus outline-width transitions"
+        ],
+        "implemented": [
+          "all hovers (canon.css)",
+          "fab .active (canon.js)",
+          "current nav item sky colour (canon nav-current)",
+          "field focus border/glow from source bootstrap .form-control:focus (canon form)"
+        ],
+        "dead": [
+          "header scroll-morph (static on live)"
+        ],
+        "compare": "stardust/replica/motion/contact-compare.json — 13 parity, 1 missing (focus outline-width transitions, as on index/about), 1 advisory extra (post-tile icon colour: probe misses live border/icon change)"
+      },
+      "status": "passed"
+    },
+    "unique": {
+      "archetype": "contact-rep-locator",
+      "pageType": "unique",
+      "pages": "3 (/contact/rep-locator/ gated; /thank-you/ and /pay-thank-you/ are plain inner pages covered by canon: header-inner + page-hero + text; pay-thank-you adds the insights+contact band-pair)",
+      "liveUrl": "https://omyapersonalcare.us/contact/rep-locator/",
+      "prototype": "stardust/prototypes/contact-rep-locator-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/contact-rep-locator.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js",
+        "stardust/prototypes/contact-rep-locator.js"
+      ],
+      "main": "#interior-content",
+      "iterations": {
+        "360": 2,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "pixel": 2.48,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "none",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok"
+        },
+        "1440": {
+          "pixel": 1.07,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 0 advisory",
+          "visualDiff": "none",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS at 2560 (4/4 rows)",
+          "chromeParity": "ok"
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": 360,
+          "band": "y 2000–2200",
+          "pct": 29.8,
+          "cause": "capture-state: live renders the Google reCAPTCHA v2 checkbox (304×78) in the contact band; build .recaptcha-slot empty (dynamic-features D2)",
+          "flaggedFor": "delivery"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "y 1800–2000",
+          "pct": 7.2,
+          "cause": "capture-state: same reCAPTCHA widget in the contact band",
+          "flaggedFor": "delivery"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "state hover: fill/stroke fade to #007ac1 @0.71 (300ms)",
+          "hover tooltip with state name following the pointer (flips left/right at mid-map)",
+          "state click: path stays active + its rep card(s) replace the intro in the blue panel (fadeIn 500ms); re-click restores intro; clicks off a state do nothing (1440 + 360, no scroll)"
+        ],
+        "implemented": [
+          "hover fill transition (CSS)",
+          "sticky hover tooltip (contact-rep-locator.js)",
+          "click select/deselect + 500ms fade (contact-rep-locator.js); panel heights match live exactly at 1440/360 (initial 746/280, California 1195/1201, Texas 746/430)",
+          "keyboard Enter/Space on focused state"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)"
+        ],
+        "evidence": [
+          "stardust/replica/motion/contact-rep-locator.json",
+          "stardust/replica/motion/contact-rep-locator-build.json",
+          "stardust/replica/motion/contact-rep-locator-compare.json"
+        ],
+        "notes": "motion-observe --click cannot poke SVG paths (element.click undefined); click parity measured with an ad-hoc Playwright mouse probe (stardust/.work/rl/click-probe.mjs) on both sides. motion-compare 'leaflet-tooltip-left MISSING' is a class-name difference only (build: rep-map__tip--left)."
+      },
+      "notes": [
+        "50 regions are static: inline SVG paths (Leaflet's 1024×746 map space, viewBox scaled) + hidden rep-card panels; no client fetch.",
+        "Page-specific compensation in contact-rep-locator.css: page-hero keeps 50/40 padding despite the photo header; main section floated + .u-clear sibling mirrors the source float/clearfix box model (needed for cap-probe module pairing).",
+        "units.json: rep cards are hidden in the static state — not declared as a unit family."
+      ],
+      "status": "passed"
+    },
+    "blog-eco-friendly-high-performance-sun-care-solutions": {
+      "archetype": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "pageType": "article-standalone",
+      "pages": "1 (standalone prototype — archetype of one; left the article template)",
+      "leftTemplate": "article",
+      "reason": "RE-PROTOTYPE after 3 published-origin fix rounds (1440 11.32% Δh42, 360 23.53% Δh173): the source styles single elements inline (centred blue h3s, clearfix spacer divs, 5/7 column split) that the shared article encoding flattened",
+      "liveUrl": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+      "prototype": "stardust/prototypes/blog-eco-friendly-high-performance-sun-care-solutions-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/blog-eco-friendly-high-performance-sun-care-solutions.css"
+      ],
+      "js": [
+        "stardust/prototypes/canon.js"
+      ],
+      "main": "#interior-content",
+      "iterations": {
+        "360": 1,
+        "1440": 1
+      },
+      "gates": {
+        "360": {
+          "pixel": 7.04,
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 3 advisory",
+          "visualDiff": "1 advisory: IMAGERY GAP (AdRoll tracking pixels)",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "within tolerance",
+          "hotBand": "y2000–3000 = YouTube iframes",
+          "evidence": "stardust/replica/gates/blog-eco-friendly-high-performance-sun-care-solutions-360/ (iter1)",
+          "published": {
+            "pixel": 2.19,
+            "heightDelta": 0,
+            "clipped": 0,
+            "content": "MISSING 0 / HIDDEN 0",
+            "verdict": "PASS",
+            "rounds": 2,
+            "evidence": "stardust/replica/gates/all-360/runs/2026-11-17T20-50-48-724Z-blog-eco-friendly-high-performance-sun-care-solutions.json"
+          }
+        },
+        "1440": {
+          "pixel": 3.18,
+          "heightDelta": -1,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 / 3 advisory",
+          "visualDiff": "1 advisory: IMAGERY GAP (AdRoll tracking pixels)",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "within tolerance",
+          "hotBand": "y2000–2500 23.9% = YouTube iframes (source renders the player error state)",
+          "evidence": "stardust/replica/gates/blog-eco-friendly-high-performance-sun-care-solutions-1440/ (iter1)",
+          "published": {
+            "pixel": 0.64,
+            "heightDelta": -1,
+            "clipped": 0,
+            "content": "MISSING 0 / HIDDEN 0",
+            "verdict": "PASS",
+            "rounds": 2,
+            "evidence": "stardust/replica/gates/all-1440/runs/2026-11-17T20-52-05-996Z-blog-eco-friendly-high-performance-sun-care-solutions.json"
+          }
+        }
+      },
+      "residuals": [
+        {
+          "breakpoint": "1440+360",
+          "region": "video-grid band",
+          "cause": "known source residual: source YouTube iframes render Error 153; masked in gates/all-<w>/masks.json (yB re-pointed to the new build geometry)",
+          "flaggedFor": "none"
+        }
+      ],
+      "eds": {
+        "blocksChanged": [
+          "article (additive section styles: rule-flow, rule-gap-30, feature-headings, heading-gap-40, accent-leads, image-pairs)",
+          "columns (variant split)",
+          "video-grid (15px under stacked players <992px; sole user is this page)"
+        ],
+        "content": "content/blog/eco-friendly-high-performance-sun-care-solutions.html",
+        "ledger": "stardust/deploy/ledger-reproto-eco.json",
+        "foundation": "unchanged (foundation-freeze check pass)"
+      },
+      "note": "state.mjs has no type flag — state.json type left as article; the standalone type is recorded here",
+      "status": "passed"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "border-accent-on-rounded",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/index.css"
+        ],
+        "createdAt": "2026-11-17T16:28:14.890Z",
+        "reason": "agent (hands-off replica): 4px white line is the process-step connector pseudo-element lifted verbatim from the source site's CSS; replica forbids design changes"
+      },
+      {
+        "rule": "border-accent-on-rounded",
+        "value": "*",
+        "files": [
+          "blocks/process/process.css"
+        ],
+        "createdAt": "2026-11-17T18:02:16.091Z",
+        "reason": "agent triage: line 57 is the 4px white connector line drawn by ::before/::after between the rounded step numbers, lifted from the source site's own CSS in a same-design replica; home page gated 0.69% vs live"
+      }
+    ]
+  }
+}

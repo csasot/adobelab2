@@ -1,0 +1,7319 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:59:12.753Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/our-formulations/",
+  "at": "2026-11-17T21:58:40.535Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 15405,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 86,
+    "level": 1,
+    "text": "download our formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 90,
+    "y": 390,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > span",
+    "x": 146,
+    "y": 390,
+    "w": 124,
+    "h": 17,
+    "text": "Our Formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.padding-bottom-40 > h2",
+    "x": 15,
+    "y": 581,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "oral care formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 642,
+    "w": 300,
+    "h": 200,
+    "text": "active detox natural toothpaste",
+    "href": "/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 642,
+    "w": 300,
+    "h": 200,
+    "text": "active detox natural toothpaste",
+    "file": "Active-Detox-Natural-Toothpaste"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 854,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "active detox natural toothpaste with charcoal cosmospheres ®"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 917,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 1020,
+    "w": 300,
+    "h": 200,
+    "text": "active fresh anticavity fluoride mouthwash",
+    "href": "/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 1020,
+    "w": 300,
+    "h": 200,
+    "text": "active fresh anticavity fluoride mouthwash",
+    "file": "active-fresh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 1231,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "active fresh anticavity fluoride mouthwash"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 1294,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 1397,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 1397,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "desensitizing-toothpaste-digital-thumbna"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 1609,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "desensitizing toothpaste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 1648,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 1761,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 1761,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Fortify-Natural-Toothpaste-Thumbail"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 1973,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "fortify natural toothpaste fluoride-free"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 2036,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 2139,
+    "w": 300,
+    "h": 200,
+    "text": "healthy start toddler training tooth gel",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 2139,
+    "w": 300,
+    "h": 200,
+    "text": "healthy start toddler training tooth gel",
+    "file": "healthy-start-toddler-gel"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 2351,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "healthy start toddler training tooth gel"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 2414,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 2517,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 2517,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "scrub-stick-thumbnail-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 2729,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "scrub stick dentifrice"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 2768,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 2881,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 2881,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "sparkle-enzymatic-thumbnail-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 3093,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "sparkle enzymatic toothpowder"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 3132,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 3235,
+    "w": 300,
+    "h": 200,
+    "text": "vitality anti-aging tooth & gum serum",
+    "href": "/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 3235,
+    "w": 300,
+    "h": 200,
+    "text": "vitality anti-aging tooth & gum serum",
+    "file": "vitality-anti-aging-serum"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 3447,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "vitality anti-aging tooth & gum serum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 3510,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 3613,
+    "w": 300,
+    "h": 200,
+    "text": "wipe new tooth & gum wipe solution",
+    "href": "/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 3613,
+    "w": 300,
+    "h": 200,
+    "text": "wipe new tooth & gum wipe solution",
+    "file": "Wipe-New-Tooth-and-Gum-Wipe-Solution"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 3824,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "wipe new tooth & gum wipe solution"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 3887,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.padding-bottom-40 > h2",
+    "x": 15,
+    "y": 4021,
+    "w": 330,
+    "h": 67,
+    "level": 2,
+    "text": "hair & skin care formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 4125,
+    "w": 300,
+    "h": 200,
+    "text": "activate curl defining cream",
+    "href": "/wp-content/uploads/Activate-Curl-Defining-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 4125,
+    "w": 300,
+    "h": 200,
+    "text": "activate curl defining cream",
+    "file": "Activate-Curl-Defining-Cream"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 4337,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "activate curl defining cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 4376,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Activate-Curl-Defining-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 4479,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 4479,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "ButterScreen-SPF-30-Sunscreen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 4691,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "butterscreen spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 4730,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 4833,
+    "w": 300,
+    "h": 200,
+    "text": "chaos control styling cream",
+    "href": "/wp-content/uploads/Chaos-Control-Styling-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 4833,
+    "w": 300,
+    "h": 200,
+    "text": "chaos control styling cream",
+    "file": "Chaos-Control-Styling-Cream"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 5045,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "chaos control styling cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 5084,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Chaos-Control-Styling-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 5197,
+    "w": 300,
+    "h": 200,
+    "text": "densify scalp therapy mist",
+    "href": "/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 5197,
+    "w": 300,
+    "h": 200,
+    "text": "densify scalp therapy mist",
+    "file": "Densify-Scalp-Therapy-Mist"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 5409,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "densify scalp therapy mist"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 5448,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 5551,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 5551,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Dream-Creamy-Cleanser"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 5763,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "dreamy creamy cleanser"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 5802,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 5905,
+    "w": 300,
+    "h": 200,
+    "text": "eyegevity spf 25 eye cream",
+    "href": "/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 5905,
+    "w": 300,
+    "h": 200,
+    "text": "eyegevity spf 25 eye cream",
+    "file": "Eyegevity-SPF-25-Eye-Cream"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 6116,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "eyegevity spf 25 eye cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 6155,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 6268,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 6268,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Fix-Repeat-Hair-Repair-Treatment"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 6480,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "fix & repeat hair repair treatment"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 6543,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 6646,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 6646,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "GellyBalm-SPF-30-Sunscreen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 6858,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "gellybalm spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 6897,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 7000,
+    "w": 300,
+    "h": 200,
+    "text": "insulate thermal oil spray",
+    "href": "/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 7000,
+    "w": 300,
+    "h": 200,
+    "text": "insulate thermal oil spray",
+    "file": "Insulate-Thermal-Oil-Spray"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 7212,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "insulate thermal oil spray"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 7251,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 7364,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 7364,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Magic-MultiTasker-Facial-Toner"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 7576,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "magic multitasker facial toner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 7615,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 7718,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 7718,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "formulation-neutralize-thumb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 7930,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "neutralize natural deodorant"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 7969,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 8072,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 8072,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Perfectly-Polished-Hair-Oil"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 8284,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "perfectly polished hair oil"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 8323,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 8436,
+    "w": 300,
+    "h": 200,
+    "text": "reboot whole body deodorant cream",
+    "href": "/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 8436,
+    "w": 300,
+    "h": 200,
+    "text": "reboot whole body deodorant cream",
+    "file": "Reboot-Whole-Body-Deodorant-Cream"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 8647,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "reboot whole body deodorant cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 8710,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 8813,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 8813,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Rebound-Dry-Shampoo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 9025,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "rebound dry shampoo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 9064,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 9167,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 9167,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "formulation-recover-lip-thumb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 9379,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "recover lip treatment mask"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 9418,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 9531,
+    "w": 300,
+    "h": 200,
+    "text": "restore oral health toner",
+    "href": "/wp-content/uploads/Restore-Oral-Health-Toner.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 9531,
+    "w": 300,
+    "h": 200,
+    "text": "restore oral health toner",
+    "file": "Restore-Oral-Health-Toner"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 9743,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "restore oral health toner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 9782,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Restore-Oral-Health-Toner.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 9885,
+    "w": 300,
+    "h": 200,
+    "text": "seamlessly smooth body stick",
+    "href": "/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 9885,
+    "w": 300,
+    "h": 200,
+    "text": "seamlessly smooth body stick",
+    "file": "Seamlessly-Smooth-Body-Stick"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 10097,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "seamlessly smooth body stick"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 10136,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 10239,
+    "w": 300,
+    "h": 200,
+    "text": "solar shine spf 30 lip gloss",
+    "href": "/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 10239,
+    "w": 300,
+    "h": 200,
+    "text": "solar shine spf 30 lip gloss",
+    "file": "Solar-Shine-SPF-30-Lip-Gloss"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 10451,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "solar shine spf 30 lip gloss"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 10490,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 10603,
+    "w": 300,
+    "h": 200,
+    "text": "spicy smooth lip exfoliant",
+    "href": "/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 10603,
+    "w": 300,
+    "h": 200,
+    "text": "spicy smooth lip exfoliant",
+    "file": "Spicy-Smooth-Lip-Exfoliant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 10814,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "spicy smooth lip exfoliant"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 10853,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 10956,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 10956,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Silky-C-Concentrate"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 11168,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "silky c concentrate"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 11207,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 11310,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 11310,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "SunstiK-SPF-30-Sunscreen"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 11522,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "sunstik spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 11561,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 11674,
+    "w": 300,
+    "h": 200,
+    "text": "synergy deoserum",
+    "href": "/wp-content/uploads/Synergy-DeoSerum.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 11674,
+    "w": 300,
+    "h": 200,
+    "text": "synergy deoserum",
+    "file": "Synergy-DeoSerum"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 11886,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "synergy deoserum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 11925,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Synergy-DeoSerum.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 12028,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 12028,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Treatment-Body-Lotion-Brighten-Smooth"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 12240,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion brighten & smooth"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 12303,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 12406,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion firm and renew",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 12406,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion firm and renew",
+    "file": "Treatment-Body-Lotion-Firm-and-Renew"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 12618,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion firm and renew"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 12681,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 12794,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion toning & hydrating",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 12794,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion toning & hydrating",
+    "file": "Treatment-Body-Lotion-Toning-and-Hydrati"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 13005,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion toning & hydrating"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 13068,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 13171,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.size-full",
+    "x": 30,
+    "y": 13171,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "Color-Corrector-Thumbnail"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 13383,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "unveil spf 30 color corrector"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 13422,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p > a",
+    "x": 30,
+    "y": 13525,
+    "w": 300,
+    "h": 200,
+    "text": "vegan milky essence",
+    "href": "/wp-content/uploads/Vegan-Milky-Essence.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img.aligncenter.img-responsive",
+    "x": 30,
+    "y": 13525,
+    "w": 300,
+    "h": 200,
+    "text": "vegan milky essence",
+    "file": "Vegan-Milky-Essence"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.padding-bottom-40 > div.col-md-4.col-sm-12 > h3.text-center",
+    "x": 30,
+    "y": 13737,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "vegan milky essence"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-12 > p.text-center.button > a",
+    "x": 108,
+    "y": 13776,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Vegan-Milky-Essence.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#insights-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 14007,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 30,
+    "y": 14061,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > p.button.btn-black > a",
+    "x": 109,
+    "y": 14351,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 14481,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 14917,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 14967,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 15116,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 15116,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 15195,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 15214,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 15304,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 15305,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 15305,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 15305,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 15322,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 15339,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 15339,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 107,
+    "controls": 95,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/our-formulations",
+  "at": "2026-11-17T21:59:12.627Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 15405,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 439,
+    "text": "",
+    "file": "media_1df5ff3f5c777c76fb620ec321ae9ab345"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#download-our-formulations",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 86,
+    "level": 1,
+    "text": "download our formulations"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 388,
+    "w": 330,
+    "h": 23,
+    "text": "/ Our Formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 90,
+    "y": 390,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > h2#oral-care-formulations",
+    "x": 15,
+    "y": 581,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "oral care formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 642,
+    "w": 300,
+    "h": 200,
+    "text": "active detox natural toothpaste",
+    "href": "/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 642,
+    "w": 300,
+    "h": 200,
+    "text": "active detox natural toothpaste",
+    "file": "media_1bc9829fe60326a79f7ee63bf4f70872f5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#active-detox-natural-toothpaste-with-charcoal-cosmospheres",
+    "x": 30,
+    "y": 854,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "active detox natural toothpaste with charcoal cosmospheres ®"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 917,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 1020,
+    "w": 300,
+    "h": 200,
+    "text": "active fresh anticavity fluoride mouthwash",
+    "href": "/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 1020,
+    "w": 300,
+    "h": 200,
+    "text": "active fresh anticavity fluoride mouthwash",
+    "file": "media_157fe26626e7d51c911a4eac5dcec2fe88"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#active-fresh-anticavity-fluoride-mouthwash",
+    "x": 30,
+    "y": 1232,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "active fresh anticavity fluoride mouthwash"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 1295,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 1398,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 1398,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1baf29dfcecd4a8e2f72ccb36a1b9528e8"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#desensitizing-toothpaste",
+    "x": 30,
+    "y": 1609,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "desensitizing toothpaste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 1648,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 1761,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 1761,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1af7f546fc6593ea15c2d1ebf0f9575ac5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#fortify-natural-toothpaste-fluoride-free",
+    "x": 30,
+    "y": 1973,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "fortify natural toothpaste fluoride-free"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 2036,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 2139,
+    "w": 300,
+    "h": 200,
+    "text": "healthy start toddler training tooth gel",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 2139,
+    "w": 300,
+    "h": 200,
+    "text": "healthy start toddler training tooth gel",
+    "file": "media_1036f0e6d211656061750fbc3b877f9965"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#healthy-start-toddler-training-tooth-gel",
+    "x": 30,
+    "y": 2351,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "healthy start toddler training tooth gel"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 2414,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 2517,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 2517,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1559a216a5372b4343a925313cfd67a216"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#scrub-stick-dentifrice",
+    "x": 30,
+    "y": 2729,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "scrub stick dentifrice"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 2768,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 2881,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 2881,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1062f76364fc1effe75ec5c58012be4acd"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#sparkle-enzymatic-toothpowder",
+    "x": 30,
+    "y": 3093,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "sparkle enzymatic toothpowder"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 3132,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 3235,
+    "w": 300,
+    "h": 200,
+    "text": "vitality anti-aging tooth & gum serum",
+    "href": "/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 3235,
+    "w": 300,
+    "h": 200,
+    "text": "vitality anti-aging tooth & gum serum",
+    "file": "media_1169fb9151b21778595e7888f507ac073d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#vitality-anti-aging-tooth--gum-serum",
+    "x": 30,
+    "y": 3447,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "vitality anti-aging tooth & gum serum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 3510,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 3613,
+    "w": 300,
+    "h": 200,
+    "text": "wipe new tooth & gum wipe solution",
+    "href": "/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 3613,
+    "w": 300,
+    "h": 200,
+    "text": "wipe new tooth & gum wipe solution",
+    "file": "media_15605a2c713c99cce2460def29337b0f19"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#wipe-new-tooth--gum-wipe-solution",
+    "x": 30,
+    "y": 3824,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "wipe new tooth & gum wipe solution"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 3887,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > h2#hair--skin-care-formulations",
+    "x": 15,
+    "y": 4021,
+    "w": 330,
+    "h": 67,
+    "level": 2,
+    "text": "hair & skin care formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 4125,
+    "w": 300,
+    "h": 200,
+    "text": "activate curl defining cream",
+    "href": "/wp-content/uploads/Activate-Curl-Defining-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 4125,
+    "w": 300,
+    "h": 200,
+    "text": "activate curl defining cream",
+    "file": "media_148f4ca20128667435ecc666df7db9e6bf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#activate-curl-defining-cream",
+    "x": 30,
+    "y": 4337,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "activate curl defining cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 4376,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Activate-Curl-Defining-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 4479,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 4479,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1c33b7c303a65226dea2fd6b8ea52b12e6"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#butterscreen-spf-30-sunscreen",
+    "x": 30,
+    "y": 4691,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "butterscreen spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 4730,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 4833,
+    "w": 300,
+    "h": 200,
+    "text": "chaos control styling cream",
+    "href": "/wp-content/uploads/Chaos-Control-Styling-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 4833,
+    "w": 300,
+    "h": 200,
+    "text": "chaos control styling cream",
+    "file": "media_172ea2460c850afed880c242c57c7d101d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#chaos-control-styling-cream",
+    "x": 30,
+    "y": 5045,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "chaos control styling cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 5084,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Chaos-Control-Styling-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 5197,
+    "w": 300,
+    "h": 200,
+    "text": "densify scalp therapy mist",
+    "href": "/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 5197,
+    "w": 300,
+    "h": 200,
+    "text": "densify scalp therapy mist",
+    "file": "media_198d80d823f6fc63601d6e1c5d56471fad"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#densify-scalp-therapy-mist",
+    "x": 30,
+    "y": 5409,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "densify scalp therapy mist"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 5448,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 5551,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 5551,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1e3f79cf0598042901d3c90ea128de3262"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#dreamy-creamy-cleanser",
+    "x": 30,
+    "y": 5763,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "dreamy creamy cleanser"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 5802,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 5905,
+    "w": 300,
+    "h": 200,
+    "text": "eyegevity spf 25 eye cream",
+    "href": "/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 5905,
+    "w": 300,
+    "h": 200,
+    "text": "eyegevity spf 25 eye cream",
+    "file": "media_10bbdb7a841b005aa53b1a204d7ecd29bb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#eyegevity-spf-25-eye-cream",
+    "x": 30,
+    "y": 6117,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "eyegevity spf 25 eye cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 6156,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 6269,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 6269,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1c34ff77d7b33432690cd80f77dbfbd4e2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#fix--repeat-hair-repair-treatment",
+    "x": 30,
+    "y": 6480,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "fix & repeat hair repair treatment"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 6543,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 6646,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 6646,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1502cf1b44facf0865f2bcd01a74853d61"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#gellybalm-spf-30-sunscreen",
+    "x": 30,
+    "y": 6858,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "gellybalm spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 6897,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 7000,
+    "w": 300,
+    "h": 200,
+    "text": "insulate thermal oil spray",
+    "href": "/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 7000,
+    "w": 300,
+    "h": 200,
+    "text": "insulate thermal oil spray",
+    "file": "media_1c9d291509983984e974f521141a8f17b2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#insulate-thermal-oil-spray",
+    "x": 30,
+    "y": 7212,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "insulate thermal oil spray"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 7251,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 7364,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 7364,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1a7c1fc1b46d17479cf36049ac3c6022f0"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#magic-multitasker-facial-toner",
+    "x": 30,
+    "y": 7576,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "magic multitasker facial toner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 7615,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 7718,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 7718,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1d182ac6672d0d1d8cd393b131acc7dd4b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#neutralize-natural-deodorant",
+    "x": 30,
+    "y": 7930,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "neutralize natural deodorant"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 7969,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 8072,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 8072,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1bc76a9278058b22925a8e94dfeae1849e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#perfectly-polished-hair-oil",
+    "x": 30,
+    "y": 8284,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "perfectly polished hair oil"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 8323,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 8436,
+    "w": 300,
+    "h": 200,
+    "text": "reboot whole body deodorant cream",
+    "href": "/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 8436,
+    "w": 300,
+    "h": 200,
+    "text": "reboot whole body deodorant cream",
+    "file": "media_1058d36a69b797da127d4cfee41e630eac"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#reboot-whole-body-deodorant-cream",
+    "x": 30,
+    "y": 8647,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "reboot whole body deodorant cream"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 8710,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 8813,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 8813,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_193936c90ac2110136d38cb1a73c2d4140"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#rebound-dry-shampoo",
+    "x": 30,
+    "y": 9025,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "rebound dry shampoo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 9064,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 9167,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 9167,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_166d27757b848acb3075d6e81efda16693"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#recover-lip-treatment-mask",
+    "x": 30,
+    "y": 9379,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "recover lip treatment mask"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 9418,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 9531,
+    "w": 300,
+    "h": 200,
+    "text": "restore oral health toner",
+    "href": "/wp-content/uploads/Restore-Oral-Health-Toner.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 9531,
+    "w": 300,
+    "h": 200,
+    "text": "restore oral health toner",
+    "file": "media_151bd19dfdb13c0881681959d3ba3aacb3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#restore-oral-health-toner",
+    "x": 30,
+    "y": 9743,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "restore oral health toner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 9782,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Restore-Oral-Health-Toner.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 9885,
+    "w": 300,
+    "h": 200,
+    "text": "seamlessly smooth body stick",
+    "href": "/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 9885,
+    "w": 300,
+    "h": 200,
+    "text": "seamlessly smooth body stick",
+    "file": "media_10a326bbcf693601da6d434399a8d20ed3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#seamlessly-smooth-body-stick",
+    "x": 30,
+    "y": 10097,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "seamlessly smooth body stick"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 10136,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 10239,
+    "w": 300,
+    "h": 200,
+    "text": "solar shine spf 30 lip gloss",
+    "href": "/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 10239,
+    "w": 300,
+    "h": 200,
+    "text": "solar shine spf 30 lip gloss",
+    "file": "media_190753529fec2cd4fffd563408064e5494"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#solar-shine-spf-30-lip-gloss",
+    "x": 30,
+    "y": 10451,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "solar shine spf 30 lip gloss"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 10490,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 10603,
+    "w": 300,
+    "h": 200,
+    "text": "spicy smooth lip exfoliant",
+    "href": "/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 10603,
+    "w": 300,
+    "h": 200,
+    "text": "spicy smooth lip exfoliant",
+    "file": "media_14bb63cbaa33c38787f5869dc9db3ffb6f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#spicy-smooth-lip-exfoliant",
+    "x": 30,
+    "y": 10814,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "spicy smooth lip exfoliant"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 10853,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 10956,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 10956,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_19e3ac2bd07280ebf7acab424b55f5396c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#silky-c-concentrate",
+    "x": 30,
+    "y": 11168,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "silky c concentrate"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 11207,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 11310,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 11310,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_145a87343034d77e86c14de53e29ebc206"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#sunstik-spf-30-sunscreen",
+    "x": 30,
+    "y": 11522,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "sunstik spf 30 sunscreen"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 11561,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 11674,
+    "w": 300,
+    "h": 200,
+    "text": "synergy deoserum",
+    "href": "/wp-content/uploads/Synergy-DeoSerum.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 11674,
+    "w": 300,
+    "h": 200,
+    "text": "synergy deoserum",
+    "file": "media_16ed7faaafcb14d74cf76b1ef234ced750"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#synergy-deoserum",
+    "x": 30,
+    "y": 11886,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "synergy deoserum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 11925,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Synergy-DeoSerum.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 12028,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 12028,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_1d16adc50c13cbe218b3d87b02ca4a1f6a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#treatment-body-lotion-brighten--smooth",
+    "x": 30,
+    "y": 12240,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion brighten & smooth"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 12303,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 12406,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion firm and renew",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 12406,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion firm and renew",
+    "file": "media_188a601f26eeb4b2e8ffbef7d028803928"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#treatment-body-lotion-firm-and-renew",
+    "x": 30,
+    "y": 12618,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion firm and renew"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 12681,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 12794,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion toning & hydrating",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 12794,
+    "w": 300,
+    "h": 200,
+    "text": "treatment body lotion toning & hydrating",
+    "file": "media_17bace3ca11ccd53e5d64359316ac9c6db"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#treatment-body-lotion-toning--hydrating",
+    "x": 30,
+    "y": 13006,
+    "w": 300,
+    "h": 48,
+    "level": 3,
+    "text": "treatment body lotion toning & hydrating"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 13069,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 13172,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "href": "/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 13172,
+    "w": 300,
+    "h": 200,
+    "text": "",
+    "file": "media_11ce28afef602d2e86b0f08b93d69dc4c5"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#unveil-spf-30-color-corrector",
+    "x": 30,
+    "y": 13383,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "unveil spf 30 color corrector"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 13422,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-image > p > a",
+    "x": 30,
+    "y": 13525,
+    "w": 300,
+    "h": 200,
+    "text": "vegan milky essence",
+    "href": "/wp-content/uploads/Vegan-Milky-Essence.pdf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 30,
+    "y": 13525,
+    "w": 300,
+    "h": 200,
+    "text": "vegan milky essence",
+    "file": "media_1961651457b87e0fd26a3e1a4c62a06a74"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-card-body > h3#vegan-milky-essence",
+    "x": 30,
+    "y": 13737,
+    "w": 300,
+    "h": 24,
+    "level": 3,
+    "text": "vegan milky essence"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-card-body > p.button-wrapper > a.button.primary",
+    "x": 108,
+    "y": 13776,
+    "w": 144,
+    "h": 40,
+    "text": "download now",
+    "href": "/wp-content/uploads/Vegan-Milky-Essence.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#insights",
+    "x": 30,
+    "y": 14007,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-posts > a.post-tile",
+    "x": 30,
+    "y": 14061,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-tile-media > picture > img",
+    "x": 35,
+    "y": 14066,
+    "w": 290,
+    "h": 260,
+    "text": "",
+    "file": "media_1158b861bd185c8bf2db0d5ee3c77a2f40"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > p.button-wrapper > a.button.primary",
+    "x": 109,
+    "y": 14351,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 14481,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 14917,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 14982,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 15116,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 15116,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 15195,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 15214,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 15304,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 15305,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 15305,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 15305,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 15322,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 15339,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 15339,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 14,
+    "textNodes": 106,
+    "controls": 99,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "oral care formulations",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "active detox natural toothpaste with charcoal cosmospheres ®",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "active fresh anticavity fluoride mouthwash",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "desensitizing toothpaste",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "fortify natural toothpaste fluoride-free",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "healthy start toddler training tooth gel",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "scrub stick dentifrice",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "sparkle enzymatic toothpowder",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "vitality anti-aging tooth & gum serum",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "wipe new tooth & gum wipe solution",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "hair & skin care formulations",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "activate curl defining cream",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "butterscreen spf 30 sunscreen",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "chaos control styling cream",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 15,
+   "heading": "densify scalp therapy mist",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 16,
+   "heading": "dreamy creamy cleanser",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 17,
+   "heading": "eyegevity spf 25 eye cream",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 18,
+   "heading": "fix & repeat hair repair treatment",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 19,
+   "heading": "gellybalm spf 30 sunscreen",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 20,
+   "heading": "insulate thermal oil spray",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 21,
+   "heading": "magic multitasker facial toner",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 22,
+   "heading": "neutralize natural deodorant",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 23,
+   "heading": "perfectly polished hair oil",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 24,
+   "heading": "reboot whole body deodorant cream",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 25,
+   "heading": "rebound dry shampoo",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 26,
+   "heading": "recover lip treatment mask",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 27,
+   "heading": "restore oral health toner",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 28,
+   "heading": "seamlessly smooth body stick",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 29,
+   "heading": "solar shine spf 30 lip gloss",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 30,
+   "heading": "spicy smooth lip exfoliant",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 31,
+   "heading": "silky c concentrate",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 32,
+   "heading": "sunstik spf 30 sunscreen",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 33,
+   "heading": "synergy deoserum",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 34,
+   "heading": "treatment body lotion brighten & smooth",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 35,
+   "heading": "treatment body lotion firm and renew",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 36,
+   "heading": "treatment body lotion toning & hydrating",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 37,
+   "heading": "unveil spf 30 color corrector",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 38,
+   "heading": "vegan milky essence",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 39,
+   "heading": "insights",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 40,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"download our formulations\" (y 287) has no origin heading",
+   "text": "download our formulations"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 4,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 57,
+    "y": 288,
+    "w": 246,
+    "h": 41
+   },
+   {
+    "x": 66,
+    "y": 331,
+    "w": 228,
+    "h": 41
+   },
+   {
+    "x": 90,
+    "y": 390,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 133,
+    "y": 390,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 146,
+    "y": 390,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 582,
+    "w": 311,
+    "h": 31
+   },
+   {
+    "x": 37,
+    "y": 855,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 879,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 305,
+    "y": 878,
+    "w": 10,
+    "h": 16
+   },
+   {
+    "x": 126,
+    "y": 928,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 1232,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 129,
+    "y": 1256,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 1305,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 1610,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 1659,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 66,
+    "y": 1974,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 1998,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2047,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 2352,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 137,
+    "y": 2376,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2425,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 2730,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2779,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 37,
+    "y": 3094,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3143,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 3448,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 151,
+    "y": 3472,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3521,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 3825,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 144,
+    "y": 3849,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3898,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 70,
+    "y": 4022,
+    "w": 219,
+    "h": 31
+   },
+   {
+    "x": 91,
+    "y": 4056,
+    "w": 177,
+    "h": 31
+   },
+   {
+    "x": 51,
+    "y": 4338,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4387,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 4692,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4741,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5046,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5095,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 58,
+    "y": 5410,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5459,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 5764,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5813,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 6117,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6166,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 6481,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 135,
+    "y": 6505,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6554,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 6859,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6908,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 62,
+    "y": 7213,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7262,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 43,
+    "y": 7577,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7626,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 7931,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7980,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 8285,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 8334,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 8648,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 150,
+    "y": 8672,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 8721,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 75,
+    "y": 9026,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9075,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 52,
+    "y": 9380,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9429,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 9744,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9793,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 10098,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10147,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 10452,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10501,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 61,
+    "y": 10815,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10864,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 92,
+    "y": 11169,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11218,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 59,
+    "y": 11523,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11572,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 93,
+    "y": 11887,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11936,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 39,
+    "y": 12241,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 136,
+    "y": 12265,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 12314,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 37,
+    "y": 12619,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 12643,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 12692,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 38,
+    "y": 13006,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 137,
+    "y": 13030,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13079,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 13384,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13433,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 13738,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13787,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14008,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 14098,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14221,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14244,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14267,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14290,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 14362,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14482,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 14928,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14982,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 14993,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 15004,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 15015,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 15305,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 15305,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 15305,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 15305,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 15305,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 15322,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 15322,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 15322,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 15339,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 15339,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 15339,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 57,
+    "y": 288,
+    "w": 246,
+    "h": 41
+   },
+   {
+    "x": 66,
+    "y": 331,
+    "w": 228,
+    "h": 41
+   },
+   {
+    "x": 90,
+    "y": 390,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 133,
+    "y": 390,
+    "w": 137,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 582,
+    "w": 311,
+    "h": 31
+   },
+   {
+    "x": 37,
+    "y": 855,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 879,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 305,
+    "y": 875,
+    "w": 11,
+    "h": 17
+   },
+   {
+    "x": 126,
+    "y": 928,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 1233,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 129,
+    "y": 1257,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 1306,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 1610,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 1659,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 66,
+    "y": 1974,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 120,
+    "y": 1998,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2047,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 2352,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 137,
+    "y": 2376,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2425,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 2730,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 2779,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 37,
+    "y": 3094,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3143,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 3448,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 151,
+    "y": 3472,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3521,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 3825,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 144,
+    "y": 3849,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3898,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 70,
+    "y": 4022,
+    "w": 219,
+    "h": 31
+   },
+   {
+    "x": 91,
+    "y": 4056,
+    "w": 177,
+    "h": 31
+   },
+   {
+    "x": 51,
+    "y": 4338,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4387,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 4692,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 4741,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5046,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5095,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 58,
+    "y": 5410,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5459,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 5764,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 5813,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 6118,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6167,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 69,
+    "y": 6481,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 135,
+    "y": 6505,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6554,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 6859,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 6908,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 62,
+    "y": 7213,
+    "w": 236,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7262,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 43,
+    "y": 7577,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7626,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 7931,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 7980,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 8285,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 8334,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 8648,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 150,
+    "y": 8672,
+    "w": 60,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 8721,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 75,
+    "y": 9026,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9075,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 52,
+    "y": 9380,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9429,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 9744,
+    "w": 232,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 9793,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 10098,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10147,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 10452,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10501,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 61,
+    "y": 10815,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 10864,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 92,
+    "y": 11169,
+    "w": 177,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11218,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 59,
+    "y": 11523,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11572,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 93,
+    "y": 11887,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 11936,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 39,
+    "y": 12241,
+    "w": 282,
+    "h": 22
+   },
+   {
+    "x": 136,
+    "y": 12265,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 12314,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 37,
+    "y": 12619,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 12643,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 12692,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 38,
+    "y": 13007,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 137,
+    "y": 13031,
+    "w": 86,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13080,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 13384,
+    "w": 270,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13433,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 85,
+    "y": 13738,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 13787,
+    "w": 108,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14008,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 14098,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14221,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14244,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14267,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 14290,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 14362,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14482,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 14928,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 14982,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 14993,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 15004,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 15015,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 15305,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 15305,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 15305,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 15305,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 15305,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 15322,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 15322,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 15322,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 15339,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 15339,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 15339,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

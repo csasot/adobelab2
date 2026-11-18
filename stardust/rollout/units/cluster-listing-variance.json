@@ -1,0 +1,1033 @@
+{
+  "archetype": "https://omyapersonalcare.us/insights/blog/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "hero": "header",
+    "h1": "h1",
+    "tile": ".featured-post",
+    "tiledate": ".featured-post .date",
+    "tiletitle": ".featured-post .title",
+    "pager": ".wp-pagenavi",
+    "video": ".video-wrapper",
+    "h2": ".page-content h2",
+    "h3": ".page-content h3"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "hero": {
+        "sel": "header",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 443
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+          "image": {
+            "w": 90,
+            "h": 58
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+      },
+      "h1": {
+        "sel": "h1",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 58
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 48px/57.6px 700",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Blog"
+      },
+      "tile": {
+        "sel": ".featured-post",
+        "count": 10,
+        "first": {
+          "rect": {
+            "w": 437,
+            "h": 270
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 227.5px 0px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "May 6, 2026 How 2025 Reshaped Oral Health: Fluoride Safety D"
+      },
+      "tiledate": {
+        "sel": ".featured-post .date",
+        "count": 10,
+        "first": {
+          "rect": {
+            "w": 118,
+            "h": 43
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(1, 114, 187)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "10px 15px 10px 15px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "May 6, 2026"
+      },
+      "tiletitle": {
+        "sel": ".featured-post .title",
+        "count": 10,
+        "first": {
+          "rect": {
+            "w": 397,
+            "h": 69
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "How 2025 Reshaped Oral Health: Fluoride Safety Debates and O"
+      },
+      "pager": {
+        "sel": ".wp-pagenavi",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 910,
+            "h": 74
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "15px 0px 25px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Page 1 of 212»"
+      },
+      "video": {
+        "sel": ".video-wrapper",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1280,
+            "h": 343
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Learn About Cosmospheres"
+      },
+      "h2": {
+        "sel": ".page-content h2",
+        "count": 0
+      },
+      "h3": {
+        "sel": ".page-content h3",
+        "count": 0
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://omyapersonalcare.us/events/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "tiledate",
+          "msg": "rect{w 118 → 125}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tiletitle",
+          "msg": "rect{h 69 → 23}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "h1": {
+            "sel": "h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Blog"
+          },
+          "tile": {
+            "sel": ".featured-post",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 437,
+                "h": 270
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 227.5px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 31, 2024 SWSCC Suppliers’ Day"
+          },
+          "tiledate": {
+            "sel": ".featured-post .date",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 125,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(1, 114, 187)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "10px 15px 10px 15px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 31, 2024"
+          },
+          "tiletitle": {
+            "sel": ".featured-post .title",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 397,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "SWSCC Suppliers’ Day"
+          },
+          "pager": {
+            "sel": ".wp-pagenavi",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 910,
+                "h": 74
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "15px 0px 25px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Page 1 of 3123»"
+          },
+          "video": {
+            "sel": ".video-wrapper",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 343
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Learn About Cosmospheres"
+          },
+          "h2": {
+            "sel": ".page-content h2",
+            "count": 0
+          },
+          "h3": {
+            "sel": ".page-content h3",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/news/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "tile",
+          "msg": "10 → 3 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiledate",
+          "msg": "10 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tiledate",
+          "msg": "rect{w 118 → 154}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiletitle",
+          "msg": "10 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tiletitle",
+          "msg": "rect{h 69 → 23}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "pager",
+          "msg": "\".wp-pagenavi\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "h1": {
+            "sel": "h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Blog"
+          },
+          "tile": {
+            "sel": ".featured-post",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 437,
+                "h": 270
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 227.5px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018 News Item 3"
+          },
+          "tiledate": {
+            "sel": ".featured-post .date",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 154,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(1, 114, 187)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "10px 15px 10px 15px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018"
+          },
+          "tiletitle": {
+            "sel": ".featured-post .title",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 397,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "News Item 3"
+          },
+          "pager": {
+            "sel": ".wp-pagenavi",
+            "count": 0
+          },
+          "video": {
+            "sel": ".video-wrapper",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 343
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Learn About Cosmospheres"
+          },
+          "h2": {
+            "sel": ".page-content h2",
+            "count": 0
+          },
+          "h3": {
+            "sel": ".page-content h3",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/insights/events/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "tile",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tile",
+          "msg": "rect{w 437 → 427}; padding 0px 0px 227.5px 0px → 0px 0px 191.984px 0px"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiledate",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiletitle",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tiletitle",
+          "msg": "rect{w 397 → 387}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "pager",
+          "msg": "\".wp-pagenavi\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "video",
+          "msg": "\".video-wrapper\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "h2",
+          "msg": "\".page-content h2\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "h3",
+          "msg": "\".page-content h3\" matches 0 on the archetype, 2 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "h1": {
+            "sel": "h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Events"
+          },
+          "tile": {
+            "sel": ".featured-post",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 427,
+                "h": 270
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 191.984px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026 How 2025 Reshaped Oral Health: Fluoride Safety D"
+          },
+          "tiledate": {
+            "sel": ".featured-post .date",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 118,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(1, 114, 187)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "10px 15px 10px 15px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026"
+          },
+          "tiletitle": {
+            "sel": ".featured-post .title",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 387,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "How 2025 Reshaped Oral Health: Fluoride Safety Debates and O"
+          },
+          "pager": {
+            "sel": ".wp-pagenavi",
+            "count": 0
+          },
+          "video": {
+            "sel": ".video-wrapper",
+            "count": 0
+          },
+          "h2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Join Us At Our Upcoming Events"
+          },
+          "h3": {
+            "sel": ".page-content h3",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 34
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 28px/33.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "NYSCC Suppliers’ Day"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/our-formulations/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "tile",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tile",
+          "msg": "rect{w 437 → 427}; padding 0px 0px 227.5px 0px → 0px 0px 191.984px 0px"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiledate",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "tiletitle",
+          "msg": "10 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "tiletitle",
+          "msg": "rect{w 397 → 387}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "pager",
+          "msg": "\".wp-pagenavi\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "video",
+          "msg": "\".video-wrapper\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "h2",
+          "msg": "\".page-content h2\" matches 0 on the archetype, 2 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "h3",
+          "msg": "\".page-content h3\" matches 0 on the archetype, 36 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "h1": {
+            "sel": "h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Download Our Formulations"
+          },
+          "tile": {
+            "sel": ".featured-post",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 427,
+                "h": 270
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 191.984px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026 How 2025 Reshaped Oral Health: Fluoride Safety D"
+          },
+          "tiledate": {
+            "sel": ".featured-post .date",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 118,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(1, 114, 187)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "10px 15px 10px 15px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026"
+          },
+          "tiletitle": {
+            "sel": ".featured-post .title",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 387,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "How 2025 Reshaped Oral Health: Fluoride Safety Debates and O"
+          },
+          "pager": {
+            "sel": ".wp-pagenavi",
+            "count": 0
+          },
+          "video": {
+            "sel": ".video-wrapper",
+            "count": 0
+          },
+          "h2": {
+            "sel": ".page-content h2",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Oral Care Formulations"
+          },
+          "h3": {
+            "sel": ".page-content h3",
+            "count": 36,
+            "first": {
+              "rect": {
+                "w": 397,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 18px/21.6px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Active Detox Natural Toothpaste with Charcoal Cosmospheres®"
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 4,
+    "varying": 4,
+    "probesVarying": [
+      "tiledate",
+      "tiletitle",
+      "tile",
+      "pager",
+      "video",
+      "h2",
+      "h3"
+    ]
+  }
+}

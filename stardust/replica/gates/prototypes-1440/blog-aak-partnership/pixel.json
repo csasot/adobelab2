@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/prototypes-1440/blog-aak-partnership/origin.png",
+  "b": "stardust/replica/gates/prototypes-1440/blog-aak-partnership/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 1977,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 21588,
+  "pct": 0.76,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-1440/blog-aak-partnership/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.6
+    },
+    {
+      "y0": 1500,
+      "y1": 1977,
+      "pct": 2.5
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/blog-aak-partnership-proposed.html"
+  }
+}

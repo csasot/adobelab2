@@ -1,0 +1,217 @@
+/* team — child.css · .team-member / .team-bg / .modal.team (mobile-first). Full-width float grid
+   (container-fixed: no gutter of its own), tiles padded 15px, max-height 325 → 350 >= 768. */
+.team .team-grid {
+  display: flow-root;
+}
+
+.team .team-member {
+  position: relative;
+  float: left;
+  width: 50%;
+  max-height: 325px;
+  margin: 0 0 15px;
+  padding: 0 15px;
+  text-align: center;
+}
+
+.team .team-bg {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.team .team-photo {
+  display: block;
+  margin: 0 0 15px;
+}
+
+.team .team-photo img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.team .team-member h2 {
+  margin: 0 0 5px;
+  padding-bottom: 0;
+  font-size: 20px;
+  line-height: 1.1;
+  color: var(--c-blue);
+}
+
+.team .team-member h3 {
+  margin: 0 0 10px;
+  padding-bottom: 0;
+  font-size: 12px;
+  line-height: 1.1;
+  color: #000;
+}
+
+@media (width >= 768px) {
+  .team .team-member {
+    max-height: 350px;
+    text-align: left;
+  }
+
+  .team .team-photo img {
+    margin: 0;
+  }
+}
+
+@media (width >= 992px) {
+  .team .team-member {
+    width: 25%;
+  }
+}
+
+@media (width >= 1200px) {
+  .team .team-member {
+    width: calc(100% / 6);
+  }
+}
+
+/* contact dialog (.modal.team): 800px (768 <= 1150, fluid below 768), centred, blue top rule,
+   grey bottom rule, square blue close button */
+.team .team-modal {
+  width: calc(100% - 20px);
+  max-width: none;
+  max-height: calc(100% - 20px);
+  margin: 10px auto;
+  padding: 0;
+  overflow: auto;
+  text-align: left;
+  border: 0;
+  background: #fff;
+}
+
+.team .team-modal::backdrop {
+  background: rgb(0 0 0 / 75%);
+}
+
+.team .team-modal-body {
+  position: relative;
+  display: flow-root;
+  padding: 25px 25px 15px;
+  border-top: 5px solid var(--c-blue);
+  border-bottom: 10px solid #eee;
+}
+
+.team .team-close {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 100;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  font-size: 20px;
+  color: #fff;
+  border: 0;
+  background: var(--c-blue);
+  cursor: pointer;
+}
+
+.team .team-close::before {
+  content: "\f00d";
+  font-family: var(--font-icon);
+  font-weight: 900;
+}
+
+.team .team-modal-photo,
+.team .team-modal-info {
+  float: left;
+  width: 100%;
+  padding: 0 15px;
+}
+
+.team .team-modal-photo .team-photo {
+  margin: 0 auto 30px;
+}
+
+.team .team-modal-photo img {
+  margin: 0 auto;
+}
+
+.team .team-modal-info h2 {
+  margin: 0 0 15px;
+}
+
+.team .team-modal-info h3 {
+  margin: 0 0 25px;
+  font-size: 24px;
+  color: var(--c-blue);
+}
+
+.team .team-contact {
+  margin: 0 0 5px;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .team .team-modal {
+    width: 768px;
+    margin: auto;
+  }
+
+  .team .team-modal-body {
+    padding-bottom: 25px;
+  }
+
+  .team .team-modal-photo {
+    width: calc(100% / 3);
+  }
+
+  .team .team-modal-info {
+    width: calc(100% * 2 / 3);
+  }
+
+  .team .team-modal-photo .team-photo {
+    margin: 0;
+  }
+}
+
+@media (width >= 992px) {
+  .team .team-contacts {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .team .team-contact {
+    width: 50%;
+    padding-right: 15px;
+  }
+}
+
+@media (width >= 1151px) {
+  .team .team-modal {
+    width: 800px;
+  }
+}
+
+@media (width >= 1200px) {
+  .team .team-modal-photo {
+    width: 25%;
+  }
+
+  .team .team-modal-info {
+    width: 75%;
+  }
+}
+
+.team .team-member .team-bg:hover > h3 {
+  color: #999;
+}
+
+/* editor (layout view): the dialog content shows inline so every authored node is editable */
+.prosemirror-editor .team .team-modal {
+  position: static;
+  display: block;
+  width: auto;
+  margin: 0;
+}
+
+.prosemirror-editor .team .team-clone {
+  display: none;
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "about-global-partners",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "partners",
+    "page-hero",
+    "intro",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "partners-grid"
+  ],
+  "canonShas": {
+    "header": "329cb3eb3773",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "about",
+      "encoder": "stardust/.work/cluster-static/probes/encode.py",
+      "note": "state status extracted -> migrate branch A; rendered from the about archetype model (cluster-static)"
+    }
+  ],
+  "metadata": {
+    "title": "Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya",
+    "description": "Omya Personal Care, one of the nation&#x27;s leading cosmetics raw materials suppliers, sources only all-natural, high-quality ingredients.",
+    "canonical": "https://omyapersonalcare.us/about/global-partners/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya",
+    "description": "Omya Personal Care, one of the nation&#x27;s leading cosmetics raw materials suppliers, sources only all-natural, high-quality ingredients.",
+    "url": "https://omyapersonalcare.us/about/global-partners/"
+  },
+  "migratedAt": "2026-11-17T18:43:42Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "0a9e15c01451",
+  "sourceProposedSha": "7f1139e443c4",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "partners grid"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder lifts every heading/paragraph/list/link/image of #interior-content + hero h1/crumbs from stardust/current/pages/about-global-partners.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "about/global-partners/index.html",
+  "outputPathDefault": null,
+  "sidecar": "about/global-partners/_meta.json",
+  "driverVersion": "1"
+}

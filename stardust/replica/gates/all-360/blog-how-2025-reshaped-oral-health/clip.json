@@ -1,0 +1,47 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health",
+ "at": "2026-11-17T21:20:59.918Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 6,
+  "offPage": 14,
+  "textNodes": 194,
+  "controls": 27,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 6,
+   "clipper": null,
+   "path": "div.article-body.section > div.default-content-wrapper > ol > li",
+   "text": ". https://le.utah.gov/~2025/bills/static/hb0081.html (access",
+   "cutMin": 8,
+   "cutMax": 257
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 6,
+   "offPage": 0,
+   "textNodes": 195,
+   "controls": 23,
+   "total": 0
+  }
+ }
+}

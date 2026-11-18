@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+  "width": 1440,
+  "vh": 900,
+  "height": 2306,
+  "chunks": 3,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 8,
+    "late": 0
+  },
+  "at": "2026-11-17T20:20:05.309Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "blog-nutrition-x-oral-health",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "figure",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "f7a60f5b9b42",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Trend Spotlight: Nutrition x Oral Health - Omya Personal Care",
+    "description": "In recent years, oral care has transformed from a twice daily chore to a critical part of our holistic wellness.",
+    "canonical": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Trend Spotlight: Nutrition x Oral Health - Omya Personal Care",
+    "description": "In recent years, oral care has transformed from a twice daily chore to a critical part of our holistic wellness.",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "4ba1abbad585",
+  "sourceProposedSha": "53d58fba0fe0",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "figure-right page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-nutrition-x-oral-health.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/nutrition-x-oral-health/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/nutrition-x-oral-health/_meta.json",
+  "driverVersion": "1"
+}

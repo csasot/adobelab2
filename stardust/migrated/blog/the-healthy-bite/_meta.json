@@ -1,0 +1,114 @@
+{
+  "slug": "blog-the-healthy-bite",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "figure",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "4068b4f73f0e",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "The Healthy Bite - Omya Personal Care",
+    "description": "The Healthy Bite On June 20th, Intermountain West SCC hosted the inaugural US edition of Omya’s The Healthy Bite in Salt Lake City, Utah. The event brought together a diverse group of formulators, manufacturers, suppliers, and dental professionals. With nearly 100 people in attendance, The Healthy Bite provided a platform for attendees from various backgrounds to share knowledge, engage in meaningful discussions, and forge new […]",
+    "canonical": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "The Healthy Bite - Omya Personal Care",
+    "description": "The Healthy Bite On June 20th, Intermountain West SCC hosted the inaugural US edition of Omya’s The Healthy Bite in Salt Lake City, Utah. The event brought together a diverse group of formulators, manufacturers, suppliers, and dental professionals. With nearly 100 people in attendance, The Healthy Bite provided a platform for attendees from various backgrounds to share knowledge, engage in meaningful discussions, and forge new […]",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/the-healthy-bite/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "4b854fcea309",
+  "sourceProposedSha": "3226ba1c3a83",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "figure-right page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-the-healthy-bite.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/the-healthy-bite/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/the-healthy-bite/_meta.json",
+  "driverVersion": "1"
+}
