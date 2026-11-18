@@ -1,0 +1,2411 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:54:52.878Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/events/",
+  "at": "2026-11-17T21:54:36.701Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2996,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 248,
+    "w": 843,
+    "h": 58,
+    "level": 1,
+    "text": "blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 668,
+    "y": 323,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > span.archive.post-events-archive",
+    "x": 724,
+    "y": 323,
+    "w": 49,
+    "h": 17,
+    "text": "Events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 265,
+    "y": 523,
+    "w": 437,
+    "h": 270,
+    "text": "july 31, 2024 swscc suppliers’ day",
+    "href": "/events/swscc-suppliers-day/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 738,
+    "y": 523,
+    "w": 437,
+    "h": 270,
+    "text": "february 14, 2024 join omya at the first annual the healthy bite oral care sympo",
+    "href": "/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 265,
+    "y": 833,
+    "w": 437,
+    "h": 270,
+    "text": "march 21, 2023 ny suppliers day 2023 – visit us at booth 1101",
+    "href": "/events/ny-suppliers-day-2023/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 738,
+    "y": 833,
+    "w": 437,
+    "h": 270,
+    "text": "august 19, 2021 cosmoprof north america",
+    "href": "/events/cosmoprof-north-america/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 265,
+    "y": 1143,
+    "w": 437,
+    "h": 270,
+    "text": "august 18, 2021 catch jason nesta speaking at swscc, sept. educational month",
+    "href": "/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 738,
+    "y": 1143,
+    "w": 437,
+    "h": 270,
+    "text": "may 10, 2021 california suppliers’ day booth #335",
+    "href": "/events/3590/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 265,
+    "y": 1453,
+    "w": 437,
+    "h": 270,
+    "text": "april 15, 2020 in-cosmetics global 2022",
+    "href": "/events/in-cosmetics-global-2022/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 738,
+    "y": 1453,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 naturally kiawah symposium",
+    "href": "/events/naturally-kiawah-symposium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 265,
+    "y": 1763,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 indie beauty expo ny – august 2020",
+    "href": "/events/indie-beauty-expo-ny/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 738,
+    "y": 1763,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 nyscc suppliers’ day 2021 booth #1101",
+    "href": "/events/nyscc-suppliers-day-2021/"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.flex-lg.flex-md > div.wp-pagenavi > span.current",
+    "x": 654,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "label": "current",
+    "value": "1",
+    "via": "aria-current"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.flex-lg.flex-md > div.wp-pagenavi > a.page.larger",
+    "x": 688,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "2",
+    "href": "/events/page/2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.flex-lg.flex-md > div.wp-pagenavi > a.page.larger",
+    "x": 722,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "3",
+    "href": "/events/page/3/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.flex-lg.flex-md > div.wp-pagenavi > a.nextpostslink",
+    "x": 756,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "»",
+    "href": "/events/page/2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-sm-12.col-6 > p.button.btn-black > a",
+    "x": 923,
+    "y": 2389,
+    "w": 234,
+    "h": 40,
+    "text": "learn about cosmospheres",
+    "href": "/our-products/sun-care/cosmospheres/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 2721,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 2799,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 2818,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 2721,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 2721,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 2767,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 2721,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 2767,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 2790,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 2813,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 2836,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 2859,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 2721,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 2767,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 2790,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 2721,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 2767,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 2912,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 2913,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 2913,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 2913,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 2930,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 2930,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 2930,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 64,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/events",
+  "at": "2026-11-17T21:54:52.751Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2996,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 443,
+    "text": "",
+    "file": "media_1ff61438d604e680af08e406ca84d8e53a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#blog",
+    "x": 298,
+    "y": 248,
+    "w": 843,
+    "h": 58,
+    "level": 1,
+    "text": "blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 321,
+    "w": 843,
+    "h": 23,
+    "text": "/ Events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 668,
+    "y": 323,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 265,
+    "y": 523,
+    "w": 437,
+    "h": 270,
+    "text": "july 31, 2024 swscc suppliers’ day",
+    "href": "/events/swscc-suppliers-day"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 738,
+    "y": 523,
+    "w": 437,
+    "h": 270,
+    "text": "february 14, 2024 join omya at the first annual the healthy bite oral care sympo",
+    "href": "/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 265,
+    "y": 833,
+    "w": 437,
+    "h": 270,
+    "text": "march 21, 2023 ny suppliers day 2023 – visit us at booth 1101",
+    "href": "/events/ny-suppliers-day-2023"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 738,
+    "y": 833,
+    "w": 437,
+    "h": 270,
+    "text": "august 19, 2021 cosmoprof north america",
+    "href": "/events/cosmoprof-north-america"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 265,
+    "y": 1143,
+    "w": 437,
+    "h": 270,
+    "text": "august 18, 2021 catch jason nesta speaking at swscc, sept. educational month",
+    "href": "/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 738,
+    "y": 1143,
+    "w": 437,
+    "h": 270,
+    "text": "may 10, 2021 california suppliers’ day booth #335",
+    "href": "/events/3590"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 265,
+    "y": 1453,
+    "w": 437,
+    "h": 270,
+    "text": "april 15, 2020 in-cosmetics global 2022",
+    "href": "/events/in-cosmetics-global-2022"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 738,
+    "y": 1453,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 naturally kiawah symposium",
+    "href": "/events/naturally-kiawah-symposium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 265,
+    "y": 1763,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 indie beauty expo ny – august 2020",
+    "href": "/events/indie-beauty-expo-ny"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-inner > div.post-list-posts > a.post-tile",
+    "x": 738,
+    "y": 1763,
+    "w": 437,
+    "h": 270,
+    "text": "january 22, 2020 nyscc suppliers’ day 2021 booth #1101",
+    "href": "/events/nyscc-suppliers-day-2021"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-pager > p > span.post-list-page.current",
+    "x": 654,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "label": "current",
+    "value": "1",
+    "via": "aria-current"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-pager > p > a.post-list-page",
+    "x": 688,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "2",
+    "href": "/events/page/2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-pager > p > a.post-list-page",
+    "x": 722,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "3",
+    "href": "/events/page/3/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-list-pager > p > a.post-list-page",
+    "x": 756,
+    "y": 2070,
+    "w": 30,
+    "h": 30,
+    "text": "»",
+    "href": "/events/page/2/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.video-band-cell.video-band-cta > p.button-wrapper > a.button.primary",
+    "x": 923,
+    "y": 2389,
+    "w": 234,
+    "h": 40,
+    "text": "learn about cosmospheres",
+    "href": "/our-products/sun-care/cosmospheres/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 2721,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 2799,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 2818,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 2721,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 2721,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 2767,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 2721,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2767,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2790,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2813,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2836,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2859,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 2721,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 2767,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 2790,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 2721,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 2767,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 2912,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 2913,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 2913,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 2913,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 2930,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 2930,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 2930,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 63,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 15,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 16,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"blog\" (y 248) has no origin heading",
+   "text": "blog"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 667,
+    "y": 250,
+    "w": 107,
+    "h": 53
+   },
+   {
+    "x": 668,
+    "y": 323,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 710,
+    "y": 323,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 724,
+    "y": 323,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 285,
+    "y": 560,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 753,
+    "w": 167,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 560,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 730,
+    "w": 361,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 753,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 870,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1063,
+    "w": 339,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 870,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1063,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1180,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1350,
+    "w": 334,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1373,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1180,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1373,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1490,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1683,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1490,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1683,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1800,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1993,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1800,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1993,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 665,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 699,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 733,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 767,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 941,
+    "y": 2400,
+    "w": 198,
+    "h": 17
+   },
+   {
+    "x": 423,
+    "y": 2730,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2730,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2766,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2730,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 2766,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2789,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2812,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2835,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2858,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2730,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 2766,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2789,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2730,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 2766,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 2913,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 2913,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 2913,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 2913,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 2913,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 2930,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 2930,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 2930,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 2930,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 2930,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 2930,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 667,
+    "y": 250,
+    "w": 107,
+    "h": 53
+   },
+   {
+    "x": 668,
+    "y": 323,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 710,
+    "y": 323,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 560,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 753,
+    "w": 167,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 560,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 730,
+    "w": 361,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 753,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 870,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1063,
+    "w": 339,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 870,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1063,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1180,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1350,
+    "w": 334,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1373,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1180,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1373,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1490,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1683,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1490,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1683,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1800,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 1993,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1800,
+    "w": 124,
+    "h": 17
+   },
+   {
+    "x": 758,
+    "y": 1993,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 665,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 699,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 733,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 767,
+    "y": 2077,
+    "w": 8,
+    "h": 16
+   },
+   {
+    "x": 941,
+    "y": 2400,
+    "w": 198,
+    "h": 17
+   },
+   {
+    "x": 423,
+    "y": 2730,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2730,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2766,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2730,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 2766,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2789,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2812,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2835,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2858,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2730,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 2766,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2789,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2730,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 2766,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 2913,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 2913,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 2913,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 2913,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 2913,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 2930,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 2930,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 2930,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 2930,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 2930,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 2930,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+  "media/blog/aak-partnership/AAK-Partnership-Announcement-Website-Image-1600x860-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-article/media/AAK-Partnership-Announcement-Website-Image-1600x860-1.jpg",
+    "size": 381638,
+    "sha256": "30f531f7ab0ee977c1f31ffef63d788664742ab3c7c0f2a7a90f1cee1cb24c75",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/blog/aak-partnership/AAK-Partnership-Announcement-Website-Image-1600x860-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:14:07.287Z"
+  }
+}

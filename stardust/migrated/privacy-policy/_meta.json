@@ -1,0 +1,134 @@
+{
+  "slug": "privacy-policy",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "table",
+    "page-hero",
+    "intro",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "9d8e4fbc34ab",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "about",
+      "encoder": "stardust/.work/cluster-static/probes/encode.py",
+      "note": "state status extracted -> migrate branch A; rendered from the about archetype model (cluster-static)"
+    },
+    {
+      "kind": "authored-subheading",
+      "source": "p.font-weight-bold.text-center.margin-top-30 MARKETING/NEWSLETTER POLICY",
+      "target": "h3 in section style legal (centred 16px bold, 30px top)",
+      "supersedes": "layout deviation recorded earlier"
+    }
+  ],
+  "metadata": {
+    "title": "Privacy Policy | Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/privacy-policy/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Privacy Policy | Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/privacy-policy/"
+  },
+  "migratedAt": "2026-11-17T19:09:26Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "008d10bef759",
+  "sourceProposedSha": "48cb9db50931",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "intro legal table row-headers table definitions"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder lifts every heading/paragraph/list/link/image of #interior-content + hero h1/crumbs from stardust/current/pages/privacy-policy.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "layout",
+      "source": "p.font-weight-bold.text-center.margin-top-30 (MARKETING/NEWSLETTER POLICY)",
+      "target": "<p><strong> left-aligned, no extra 30px",
+      "reason": "per-paragraph alignment/margin classes are not authorable in DA default content"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "privacy-policy/index.html",
+  "outputPathDefault": null,
+  "sidecar": "privacy-policy/_meta.json",
+  "driverVersion": "1"
+}

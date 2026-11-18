@@ -1,0 +1,56 @@
+{
+  "a": "stardust/replica/gates/all-1440/blog-skinification-of-oral-care/origin.png",
+  "b": "stardust/replica/gates/all-1440/blog-skinification-of-oral-care/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2526,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 141945,
+  "pct": 3.9,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/blog-skinification-of-oral-care/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 3.04,
+  "textBoxes": 79,
+  "textPixels": 463006,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.5
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 1.2
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 16.8
+    },
+    {
+      "y0": 2500,
+      "y1": 2526,
+      "pct": 23.1
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care"
+  }
+}

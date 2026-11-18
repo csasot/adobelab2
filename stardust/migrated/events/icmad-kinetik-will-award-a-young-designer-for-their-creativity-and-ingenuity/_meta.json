@@ -1,0 +1,117 @@
+{
+  "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "843b49bd4a5d",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care",
+    "description": "",
+    "mainEntityOfPage": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "831ed8139fec",
+  "sourceProposedSha": "868314f9b32a",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-no-photo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/index.html",
+  "outputPathDefault": null,
+  "sidecar": "events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/_meta.json",
+  "driverVersion": "1"
+}

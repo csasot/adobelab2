@@ -1,0 +1,1 @@
+{"index": {"verdict": "PASS", "reason": "known source residual: the source declares @font-face frutigerbold whose file 404s (origin-side font-not-loaded); both sides render Arial", "waives": ["fonts"]}}

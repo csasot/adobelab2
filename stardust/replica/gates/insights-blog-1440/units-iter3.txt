@@ -1,0 +1,53 @@
+unit-geometry @ 1440px, tol 4px — https://omyapersonalcare.us/insights/blog/ vs http://localhost:8791/insights-blog-proposed.html
+unit 1 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 265,523 437×270 vs served 265,523 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "may 6, 2026" | 5,25 118×43 | 5,25 118×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "how 2025 reshaped oral health: fluor" | 20,181 397×69 | 20,181 397×69 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 738,523 437×270 vs served 738,523 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "october 29, 2025" | 5,25 154×43 | 5,25 154×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya partners with lipoid kosmetik t" | 20,204 397×46 | 20,204 397×46 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 265,833 437×270 vs served 265,833 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "july 14, 2025" | 5,25 125×43 | 5,25 125×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "trend spotlight: nutrition x oral he" | 20,227 397×23 | 20,227 397×23 | 0 | 0 | 0 | 0 | ✓ |
+unit 4 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 738,833 437×270 vs served 738,833 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "march 20, 2025" | 5,25 141×43 | 5,25 141×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya announces exclusive us distribu" | 20,204 397×46 | 20,204 397×46 | 0 | 0 | 0 | 0 | ✓ |
+unit 5 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 265,1143 437×270 vs served 265,1143 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "march 19, 2025" | 5,25 141×43 | 5,25 141×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "beyond uv protection: eco-friendly &" | 20,204 397×46 | 20,204 397×46 | 0 | 0 | 0 | 0 | ✓ |
+unit 6 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 738,1143 437×270 vs served 738,1143 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "february 6, 2025" | 5,25 152×43 | 5,25 152×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "fluoride, hydroxyapatite, and the fi" | 20,204 397×46 | 20,204 397×46 | 0 | 0 | 0 | 0 | ✓ |
+unit 7 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 265,1453 437×270 vs served 265,1453 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "october 7, 2024" | 5,25 145×43 | 5,25 145×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "trend spotlight: oil pulling" | 20,227 397×23 | 20,227 397×23 | 0 | 0 | 0 | 0 | ✓ |
+unit 8 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 738,1453 437×270 vs served 738,1453 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "july 30, 2024" | 5,25 125×43 | 5,25 125×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "the healthy bite" | 20,227 397×23 | 20,227 397×23 | 0 | 0 | 0 | 0 | ✓ |
+unit 9 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 265,1763 437×270 vs served 265,1763 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "february 8, 2024" | 5,25 152×43 | 5,25 152×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "february is national children’s dent" | 20,227 397×23 | 20,227 397×23 | 0 | 0 | 0 | 0 | ✓ |
+unit 10 of listing-post-tile (required) #insights-section .featured-post=.ib-posts .post-tile: origin 738,1763 437×270 vs served 738,1763 437×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "january 15, 2024" | 5,25 154×43 | 5,25 154×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "aak partnership" | 20,227 397×23 | 20,227 397×23 | 0 | 0 | 0 | 0 | ✓ |
+Units: 10 compared; elements within 20, off 0, hidden 0, missing 0 → PASS
+json → stardust/replica/gates/insights-blog-1440/units-iter3.json

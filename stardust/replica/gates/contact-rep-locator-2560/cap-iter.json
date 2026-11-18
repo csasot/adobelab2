@@ -1,0 +1,183 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-17T16:51:58.580Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://omyapersonalcare.us/contact/rep-locator/",
+      "http://localhost:8791/contact-rep-locator-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://omyapersonalcare.us/contact/rep-locator/",
+    "http://localhost:8791/contact-rep-locator-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding",
+        "tier": 2,
+        "share": 1,
+        "section": 0,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "content",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.col-xs-12.padding-bottom-40 > div.hotspots-container.layout-left > div.hotspots-interaction > div.hotspots-placeholder",
+        "tier": 6,
+        "share": 1,
+        "section": 0,
+        "w1": 256,
+        "maxWidth": "20%"
+      },
+      {
+        "kind": "module",
+        "px": 1024,
+        "via": "fixed",
+        "selector": "div.col-xs-12.padding-bottom-40 > div.hotspots-container.layout-left > div.hotspots-interaction > div.hotspots-image-container",
+        "tier": 6,
+        "share": 0,
+        "section": 0,
+        "w1": 1024,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#interior-content > div.page-content.col-lg-12",
+        "px": 1024,
+        "capSelector": "div.col-xs-12.padding-bottom-40 > div.hotspots-container.layout-left > div.hotspots-interaction > div.hotspots-image-container"
+      },
+      {
+        "index": 1,
+        "selector": "#interior-content > div.clearfix",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1310,
+    "contentMaxWidth": 256,
+    "contentFrom": "content",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 64
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > section.page-section > div.wrap.page-section__wrap",
+        "tier": 2,
+        "share": 1,
+        "section": 0,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "content",
+        "px": 256,
+        "via": "fixed",
+        "selector": "div.wrap.page-section__wrap > div.rep-locator > div.rep-map > div.rep-map__panel",
+        "tier": 5,
+        "share": 1,
+        "section": 0,
+        "w1": 256,
+        "maxWidth": "20%"
+      },
+      {
+        "kind": "module",
+        "px": 1024,
+        "via": "fixed",
+        "selector": "div.wrap.page-section__wrap > div.rep-locator > div.rep-map > div.rep-map__media",
+        "tier": 5,
+        "share": 0,
+        "section": 0,
+        "w1": 1024,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#interior-content > section.page-section",
+        "px": 1024,
+        "capSelector": "div.wrap.page-section__wrap > div.rep-locator > div.rep-map > div.rep-map__media"
+      },
+      {
+        "index": 1,
+        "selector": "#interior-content > div.u-clear",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1310,
+    "contentMaxWidth": 256,
+    "contentFrom": "content",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 49
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 256px = build 256px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "outer shell",
+        "detail": "live 1310px (#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding) encloses the 256px wrapper cap — informational, no content bound of its own",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "1024px = 1024px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/contact-rep-locator-2560/cap-iter.json"
+}

@@ -1,0 +1,271 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-17T16:40:22.156Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://omyapersonalcare.us/insights/blog/",
+      "http://localhost:8791/insights-blog-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://omyapersonalcare.us/insights/blog/",
+    "http://localhost:8791/insights-blog-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#insights-section",
+      "isBody": false,
+      "leaves": 23,
+      "w2": 2560
+    },
+    "origins": [],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 5,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 9,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 10,
+        "selector": "#insights-section > div.col-xs-12.col-md-10 > div.flex-lg.flex-md > div.wp-pagenavi",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 0,
+    "fluid": true,
+    "probeNote": "pinned",
+    "candidates": 54
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#insights-section",
+      "isBody": false,
+      "leaves": 23,
+      "w2": 2560
+    },
+    "origins": [],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 5,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 9,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > a.post-tile",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 10,
+        "selector": "#insights-section > div.ib-list__inner > div.ib-posts > div.ib-pagenavi",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 0,
+    "fluid": true,
+    "probeNote": "pinned",
+    "candidates": 49
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "fluid on both sides — no wrapper, no shared module cap",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 8/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 9/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 10/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 11/11",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/insights-blog-2560/cap-iter.json"
+}

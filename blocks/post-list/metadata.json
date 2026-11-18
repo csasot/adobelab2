@@ -1,0 +1,16 @@
+{
+  "variantName": "post-list",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Listing band of 2-up post tiles with round pager links",
+    "layout": "Grey band, centred column, 2-up post tiles, round page links"
+  },
+  "contentPattern": {
+    "structure": "one row per card: picture | date | title link (cells in any order; image optional), then an optional pager row"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Blog, events and news listing pages.",
+  "reuseGuidance": "Reuse post-list for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/",
+  "width": 360,
+  "vh": 900,
+  "height": 1749,
+  "chunks": 2,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 10,
+    "late": 0
+  },
+  "at": "2026-11-17T19:55:51.990Z"
+}

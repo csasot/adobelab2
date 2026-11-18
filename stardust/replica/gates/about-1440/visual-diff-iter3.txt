@@ -1,0 +1,351 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/about-1440/vdiff-iter3/
+
+build red flags (advisory): 
+  • IMAGERY GAP: source renders 20 images, build renders 3. The build renders far fewer images than the source — confirm intended (CSS backgrounds) vs missing assets.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2415,
+  "textLen": 1568,
+  "images": [
+   {
+    "src": "VWETZF5UJ5DC5JRDYHX6GH?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&cookie=6QMRPU7Q5VEFDHCS4NFO7U%3A20%7CVWETZF5UJ5DC5JRDYHX6GH%3A20%7C4EAMVJEN3BGPZFWWFRLASI%3A20&adroll_s_ref=&keyw=&p0=828&adroll_version=1.0",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=39808073672.593315&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fabout%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "About Omya",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The Omya Difference",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our Exceptional Team",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Global Partners",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Do you need inspiration for your",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "col-xs-12",
+    "width": 873,
+    "left": 283
+   },
+   {
+    "sel": "container",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "container",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "container",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "container",
+    "width": 1310,
+    "left": 65
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2415,
+  "textLen": 1568,
+  "images": [
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "About Omya",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The Omya Difference",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our Exceptional Team",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Global Partners",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Do you need inspiration for your",
+    "color": "rgb(0, 122, 193)",
+    "fontSize": "36px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "intro",
+    "width": 873,
+    "left": 283
+   },
+   {
+    "sel": "wrap",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "wrap",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "wrap",
+    "width": 1310,
+    "left": 65
+   },
+   {
+    "sel": "wrap",
+    "width": 1310,
+    "left": 65
+   }
+  ]
+ }
+}

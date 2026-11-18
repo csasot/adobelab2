@@ -1,0 +1,10861 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T22:00:46.277Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/privacy-policy/",
+  "at": "2026-11-17T22:00:16.544Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 13397,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "privacy policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 102,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > span",
+    "x": 158,
+    "y": 347,
+    "w": 100,
+    "h": 17,
+    "text": "Privacy Policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 518,
+    "w": 330,
+    "h": 23,
+    "text": "Privacy Statement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 551,
+    "w": 330,
+    "h": 183,
+    "text": "Your privacy is essential to Omya AG (“Omya”) and its affiliates. Omya employs r"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 744,
+    "w": 330,
+    "h": 137,
+    "text": "If you do not agree with this Statement, please do not proceed to visiting this "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 891,
+    "w": 330,
+    "h": 46,
+    "text": "What are the purpose and scope of this Statement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 946,
+    "w": 330,
+    "h": 206,
+    "text": "Omya is committed to safeguarding the personal data that Omya collects from indi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 1162,
+    "w": 330,
+    "h": 137,
+    "text": "The Website may contain links to other websites. Please note that Omya has no co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 1309,
+    "w": 330,
+    "h": 46,
+    "text": "What personal data does Omya collect from you and for what purpose?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 1365,
+    "w": 330,
+    "h": 274,
+    "text": "When you visit the Omya Website, the Omya web server automatically records your "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 1649,
+    "w": 330,
+    "h": 23,
+    "text": "How does Omya use your personal data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 1682,
+    "w": 330,
+    "h": 160,
+    "text": "If Omya does collect personal data, it will be processed and stored securely, fo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 1852,
+    "w": 330,
+    "h": 69,
+    "text": "If you contact Omya and Omya obtains your personal data from your email, Omya ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 1930,
+    "w": 309,
+    "h": 32,
+    "text": "To reply to your email;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 1962,
+    "w": 309,
+    "h": 55,
+    "text": "To keep you as a business contact in Omya’s database;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 2017,
+    "w": 309,
+    "h": 55,
+    "text": "To send you Newsletters or other marketing material;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 2071,
+    "w": 309,
+    "h": 78,
+    "text": "To send you promotional emails, targeted advertising, social media, event invita"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 2154,
+    "w": 330,
+    "h": 46,
+    "text": "How and where does Omya store your personal data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 2210,
+    "w": 330,
+    "h": 91,
+    "text": "Omya only keeps your personal data for as long as needed to, in order to use it "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 2311,
+    "w": 330,
+    "h": 183,
+    "text": "Your data will only be stored in all countries in which Omya operates worldwide."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 2504,
+    "w": 330,
+    "h": 23,
+    "text": "Transfer of personal data to third parties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 2536,
+    "w": 330,
+    "h": 548,
+    "text": "Your personal data can also be shared with third parties that are not part of Om"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 3095,
+    "w": 330,
+    "h": 114,
+    "text": "This notwithstanding, Omya may disclose personal data for legal reasons; for exa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 3219,
+    "w": 330,
+    "h": 23,
+    "text": "Your rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 3252,
+    "w": 330,
+    "h": 46,
+    "text": "As a data subject, you have the following rights under the DPA and/or GDPR:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3307,
+    "w": 309,
+    "h": 55,
+    "text": "The right to be informed about Omya’s collection and use of personal data;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3362,
+    "w": 309,
+    "h": 55,
+    "text": "The right of access to the personal data Omya holds about you (see section 5);"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3417,
+    "w": 309,
+    "h": 78,
+    "text": "The right to rectification if any personal data Omya holds about you is inaccura"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3494,
+    "w": 309,
+    "h": 78,
+    "text": "The right to be forgotten – i.e. the right to ask Omya to delete any personal da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3572,
+    "w": 309,
+    "h": 55,
+    "text": "The right to restrict (i.e. prevent) the processing of your personal data;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3627,
+    "w": 309,
+    "h": 78,
+    "text": "The right to data portability (obtaining a copy of your personal data to reuse w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3704,
+    "w": 309,
+    "h": 55,
+    "text": "The right to object to Omya using your personal data for particular purposes; an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > ul > li",
+    "x": 36,
+    "y": 3759,
+    "w": 309,
+    "h": 55,
+    "text": "Rights with respect to automated decision making and profiling."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 3819,
+    "w": 330,
+    "h": 206,
+    "text": "If you have any cause for complaint about Omya’s use of your personal data, plea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4034,
+    "w": 330,
+    "h": 23,
+    "text": "Data security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 4067,
+    "w": 330,
+    "h": 114,
+    "text": "Omya has implemented appropriate technical and organizational security measures "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4191,
+    "w": 330,
+    "h": 23,
+    "text": "Contact"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 4224,
+    "w": 330,
+    "h": 69,
+    "text": "If you have any questions about the Website or this Policy, please contact Omya "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4303,
+    "w": 330,
+    "h": 23,
+    "text": "Law and Jurisdiction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 4335,
+    "w": 330,
+    "h": 183,
+    "text": "This Statement shall be governed by and construed in accordance with Swiss law. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4528,
+    "w": 330,
+    "h": 23,
+    "text": "Cookie Policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 4561,
+    "w": 330,
+    "h": 297,
+    "text": "This website ( ) uses Cookies and similar technologies (as defined below) to dis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > p > a",
+    "x": 108,
+    "y": 4563,
+    "w": 112,
+    "h": 17,
+    "text": "www.omya.com",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4868,
+    "w": 330,
+    "h": 23,
+    "text": "Definitions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 4901,
+    "w": 330,
+    "h": 69,
+    "text": "In this Cookie Policy, unless the context requires otherwise, the following expr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-2 > strong",
+    "x": 15,
+    "y": 4981,
+    "w": 61,
+    "h": 16,
+    "text": "“Cookie”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-10 > p",
+    "x": 15,
+    "y": 4999,
+    "w": 330,
+    "h": 91,
+    "text": "means a small file that the Website places on your computer or device when you v"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-2 > strong",
+    "x": 15,
+    "y": 5103,
+    "w": 106,
+    "h": 16,
+    "text": "“Personal data”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-10 > p",
+    "x": 15,
+    "y": 5121,
+    "w": 330,
+    "h": 114,
+    "text": "are all data relating to an identifiable person who can be identified, directly "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-2 > strong",
+    "x": 15,
+    "y": 5247,
+    "w": 53,
+    "h": 16,
+    "text": "“we/us”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.column > div.col-xs-12.col-sm-10 > p",
+    "x": 15,
+    "y": 5265,
+    "w": 330,
+    "h": 46,
+    "text": "means Omya AG and all its affiliated companies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 4979,
+    "w": 330,
+    "h": 364,
+    "text": "About us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 5353,
+    "w": 330,
+    "h": 69,
+    "text": "The owner and operator of the Website is Omya International AG. You can reach us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 5432,
+    "w": 330,
+    "h": 23,
+    "text": "How does the Website use Cookies?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 5465,
+    "w": 330,
+    "h": 251,
+    "text": "The Website may place and access certain Cookies on your computer or device (“Fi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 5726,
+    "w": 330,
+    "h": 183,
+    "text": "By using the Website, you may also receive certain Third Party Cookies (as defin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 5919,
+    "w": 330,
+    "h": 23,
+    "text": "Which Cookies does the Website use?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 5952,
+    "w": 330,
+    "h": 46,
+    "text": "The following Cookies can be placed on your computer or device:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 16,
+    "y": 6008,
+    "w": 229,
+    "h": 37,
+    "text": "Name of the Cookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 245,
+    "y": 6008,
+    "w": 1546,
+    "h": 37,
+    "text": "Purpose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6045,
+    "w": 229,
+    "h": 38,
+    "text": "__cf_bm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6045,
+    "w": 1546,
+    "h": 38,
+    "text": "Cloudflare set the cookie to support Cloudflare Bot Management."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6083,
+    "w": 229,
+    "h": 37,
+    "text": "_ga"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6083,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Analytics sets this cookie to calculate visitor, session and campaign dat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6120,
+    "w": 229,
+    "h": 37,
+    "text": "_gid"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6120,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Analytics sets this cookie to calculate visitor, session and campaign dat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6157,
+    "w": 229,
+    "h": 37,
+    "text": "_gat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6157,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Universal Analytics sets this cookie to restrain request rate and thus li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6194,
+    "w": 229,
+    "h": 37,
+    "text": "WSS_FullScreenMode"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6194,
+    "w": 1546,
+    "h": 37,
+    "text": "This is a Microsoft SharePoint cookie used for internal use of the application t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6231,
+    "w": 229,
+    "h": 37,
+    "text": "wpml_browser_redirect_test"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6231,
+    "w": 1546,
+    "h": 37,
+    "text": "This cookie is set by WPML WordPress plugin and is used to test if cookies are e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6268,
+    "w": 229,
+    "h": 37,
+    "text": "_icl_visitor_lang_js"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6268,
+    "w": 1546,
+    "h": 37,
+    "text": "WPML sets this cookie to store the redirected language."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6305,
+    "w": 229,
+    "h": 37,
+    "text": "YSC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6305,
+    "w": 1546,
+    "h": 37,
+    "text": "Youtube sets this cookie to track the views of embedded videos on Youtube pages"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6342,
+    "w": 229,
+    "h": 37,
+    "text": "VISITOR_INFO1_LIVE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6342,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to measure bandwidth, determining whether the user gets"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6379,
+    "w": 229,
+    "h": 37,
+    "text": "_ga_*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6379,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Analytics sets this cookie to store and count page views."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6416,
+    "w": 229,
+    "h": 37,
+    "text": "_gat_gtag_UA_*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6416,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Analytics sets this cookie to store a unique user ID."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6453,
+    "w": 229,
+    "h": 37,
+    "text": "ln_or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6453,
+    "w": 1546,
+    "h": 37,
+    "text": "Linkedin sets this cookie to registers statistical data on users’ behaviour on t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6490,
+    "w": 229,
+    "h": 37,
+    "text": "li_sugr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6490,
+    "w": 1546,
+    "h": 37,
+    "text": "LinkedIn sets this cookie to collect user behaviour data to optimise the website"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6527,
+    "w": 229,
+    "h": 37,
+    "text": "bcookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6527,
+    "w": 1546,
+    "h": 37,
+    "text": "LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6564,
+    "w": 229,
+    "h": 37,
+    "text": "lidc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6564,
+    "w": 1546,
+    "h": 37,
+    "text": "LinkedIn sets the lidc cookie to facilitate data center selection."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6601,
+    "w": 229,
+    "h": 37,
+    "text": "UserMatchHistory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6601,
+    "w": 1546,
+    "h": 37,
+    "text": "LinkedIn sets this cookie for LinkedIn Ads ID syncing."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6638,
+    "w": 229,
+    "h": 37,
+    "text": "AnalyticsSyncHistory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6638,
+    "w": 1546,
+    "h": 37,
+    "text": "Linkedin set this cookie to store information about the time a sync took place w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6675,
+    "w": 229,
+    "h": 37,
+    "text": "bscookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6675,
+    "w": 1546,
+    "h": 37,
+    "text": "LinkedIn sets this cookie to store performed actions on the website."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6712,
+    "w": 229,
+    "h": 37,
+    "text": "li_gc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6712,
+    "w": 1546,
+    "h": 37,
+    "text": "Linkedin set this cookie for storing visitor’s consent regarding using cookies f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6749,
+    "w": 229,
+    "h": 37,
+    "text": "CONSENT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6749,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie via embedded YouTube videos and registers anonymous sta"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6786,
+    "w": 229,
+    "h": 37,
+    "text": "yt-remote-device-id"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6786,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to store the user’s video preferences using embedded Yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6823,
+    "w": 229,
+    "h": 37,
+    "text": "yt.innertube::requests"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6823,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to register a unique ID to store data on what videos fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6860,
+    "w": 229,
+    "h": 37,
+    "text": "yt.innertube::nextId"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6860,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to register a unique ID to store data on what videos fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6897,
+    "w": 229,
+    "h": 37,
+    "text": "yt-remote-connected-devices"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6897,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to store the user’s video preferences using embedded Yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6934,
+    "w": 229,
+    "h": 37,
+    "text": "YSC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6934,
+    "w": 1546,
+    "h": 37,
+    "text": "Youtube sets this cookie to track the views of embedded videos on Youtube pages."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 6971,
+    "w": 229,
+    "h": 37,
+    "text": "VISITOR_INFO1_LIVE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 6971,
+    "w": 1546,
+    "h": 37,
+    "text": "YouTube sets this cookie to measure bandwidth, determining whether the user gets"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7008,
+    "w": 229,
+    "h": 37,
+    "text": "BrowserId_sec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7008,
+    "w": 1546,
+    "h": 37,
+    "text": "Sale Force sets this cookie to log browser sessions and visits for internal-only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7045,
+    "w": 229,
+    "h": 37,
+    "text": "BrowserId"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7045,
+    "w": 1546,
+    "h": 37,
+    "text": "Sale Force sets this cookie to log browser sessions and visits for internal-only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7082,
+    "w": 229,
+    "h": 37,
+    "text": "CookieConsentPolicy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7082,
+    "w": 1546,
+    "h": 37,
+    "text": "Required Cookies & Required cookies are necessary for basic website functionalit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7119,
+    "w": 229,
+    "h": 37,
+    "text": "LSKey-c$Coo-kieConsentPolicy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7119,
+    "w": 1546,
+    "h": 37,
+    "text": "Required Cookies & Required cookies are necessary for basic website functionalit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7156,
+    "w": 229,
+    "h": 37,
+    "text": "X-Salesforce-CHAT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7156,
+    "w": 1546,
+    "h": 37,
+    "text": "This cookie is set by LiveAgent to allow Live Chat assistance for existing custo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7193,
+    "w": 229,
+    "h": 37,
+    "text": "_GRECAPTCHA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7193,
+    "w": 1546,
+    "h": 37,
+    "text": "Google Recaptcha service sets this cookie to identify bots to protect the websit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > th",
+    "x": 16,
+    "y": 7230,
+    "w": 229,
+    "h": 37,
+    "text": "tarteaucitron"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 245,
+    "y": 7230,
+    "w": 1546,
+    "h": 37,
+    "text": "This cookie is used for saving the cookie preference of the visitor."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 7282,
+    "w": 330,
+    "h": 297,
+    "text": "The Website uses analysis services from Google Analytics. Website analysis refer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 7589,
+    "w": 330,
+    "h": 183,
+    "text": "The Website contains plug-ins of the social networks Facebook, Twitter, LinkedIn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 7782,
+    "w": 330,
+    "h": 594,
+    "text": "When you visit the Website, the Plug-In establishes a direct connection between "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 8386,
+    "w": 330,
+    "h": 23,
+    "text": "Approval and Control"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 8419,
+    "w": 330,
+    "h": 251,
+    "text": "Before Cookies (including Plug-Ins and web analytics tools) are placed on your c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 8680,
+    "w": 330,
+    "h": 206,
+    "text": "In addition, you can activate or deactivate Cookies in your internet browser. Wi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 8896,
+    "w": 330,
+    "h": 23,
+    "text": "Changes to this Cookie Policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 8929,
+    "w": 330,
+    "h": 137,
+    "text": "We may change this Cookie Policy at any time. Such changes will become binding o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 9076,
+    "w": 330,
+    "h": 114,
+    "text": "If any provision of the current version of the Cookie Policy conflicts with any "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 9200,
+    "w": 330,
+    "h": 23,
+    "text": "Further Information"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 9233,
+    "w": 330,
+    "h": 69,
+    "text": "If you would like to learn more about our use of Cookies, please contact us at d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold.text-center",
+    "x": 15,
+    "y": 9331,
+    "w": 330,
+    "h": 23,
+    "text": "MARKETING/NEWSLETTER POLICY"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 9364,
+    "w": 330,
+    "h": 137,
+    "text": "Omya AG (“Omya”) sends you business related information such as newsletters, inv"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 9511,
+    "w": 330,
+    "h": 23,
+    "text": "1. What Personal Data do we collect?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 9544,
+    "w": 330,
+    "h": 137,
+    "text": "“Personal Data” is any information relating to you or that we as Omya (“Omya” or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 9691,
+    "w": 330,
+    "h": 23,
+    "text": "2. How do we collect your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 9724,
+    "w": 330,
+    "h": 297,
+    "text": "We collect personal data that you voluntarily provide to us, for example when (i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 10031,
+    "w": 330,
+    "h": 23,
+    "text": "3. How do we use your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 10064,
+    "w": 330,
+    "h": 206,
+    "text": "We use the Personal Data we collect for communication purposes, including: (i) t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 10279,
+    "w": 330,
+    "h": 46,
+    "text": "4. Why do we process your Personal Data and on what legal basis?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 10335,
+    "w": 330,
+    "h": 206,
+    "text": "As set out above we process your Personal Data for communication purposes. We re"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 10551,
+    "w": 330,
+    "h": 23,
+    "text": "5. Where is your Personal Data stored?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 10583,
+    "w": 330,
+    "h": 91,
+    "text": "All your Personal Data is processed and stored on servers in Switzerland, in all"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 10685,
+    "w": 330,
+    "h": 46,
+    "text": "6. How long do we keep your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 10741,
+    "w": 330,
+    "h": 206,
+    "text": "Your Personal Data will be saved for the specified purposes mentioned above for "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 10956,
+    "w": 330,
+    "h": 23,
+    "text": "7. Data Sharing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 10989,
+    "w": 330,
+    "h": 46,
+    "text": "Omya discloses your Personal Data to the other Omya group entities worldwide."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 11045,
+    "w": 330,
+    "h": 23,
+    "text": "8. Data Security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 11077,
+    "w": 330,
+    "h": 114,
+    "text": "Omya has implemented appropriate technical and organisational security measures "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 11202,
+    "w": 330,
+    "h": 23,
+    "text": "9. Your Rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 11235,
+    "w": 330,
+    "h": 503,
+    "text": "You have the right to know what Personal Data we process about you and may reque"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p.font-weight-bold",
+    "x": 15,
+    "y": 11747,
+    "w": 330,
+    "h": 23,
+    "text": "10. How to contact us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.layoutArea > div.column > p",
+    "x": 15,
+    "y": 11780,
+    "w": 330,
+    "h": 69,
+    "text": "If you have any questions about how we process your Personal Data, please feel f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#insights-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 11998,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 30,
+    "y": 12052,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > p.button.btn-black > a",
+    "x": 109,
+    "y": 12342,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 12472,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 12909,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 12959,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 13108,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 13108,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 13186,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 13205,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 13295,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 13296,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 13296,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 13296,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 13313,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 13330,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 13330,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 100,
+    "textNodes": 268,
+    "controls": 24,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.table-responsive",
+     "path": "table.table.table-bordered > tbody > tr > td",
+     "text": "google analytics sets this cookie to calculate visitor, sess",
+     "cutMin": 1438,
+     "cutMax": 1438
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/privacy-policy",
+  "at": "2026-11-17T22:00:46.175Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 13399,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 396,
+    "text": "",
+    "file": "media_117ff41761d8cefe69db20acaee043fe5c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#privacy-policy",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "privacy policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ Privacy Policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 102,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 520,
+    "w": 139,
+    "h": 17,
+    "text": "Privacy Statement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 551,
+    "w": 330,
+    "h": 183,
+    "text": "Your privacy is essential to Omya AG (“Omya”) and its affiliates. Omya employs r"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 744,
+    "w": 330,
+    "h": 137,
+    "text": "If you do not agree with this Statement, please do not proceed to visiting this "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 893,
+    "w": 300,
+    "h": 40,
+    "text": "What are the purpose and scope of this Statement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 946,
+    "w": 330,
+    "h": 206,
+    "text": "Omya is committed to safeguarding the personal data that Omya collects from indi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 1162,
+    "w": 330,
+    "h": 137,
+    "text": "The Website may contain links to other websites. Please note that Omya has no co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 1311,
+    "w": 293,
+    "h": 40,
+    "text": "What personal data does Omya collect from you and for what purpose?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 1365,
+    "w": 330,
+    "h": 274,
+    "text": "When you visit the Omya Website, the Omya web server automatically records your "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 1651,
+    "w": 314,
+    "h": 17,
+    "text": "How does Omya use your personal data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 1682,
+    "w": 330,
+    "h": 160,
+    "text": "If Omya does collect personal data, it will be processed and stored securely, fo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 1852,
+    "w": 330,
+    "h": 69,
+    "text": "If you contact Omya and Omya obtains your personal data from your email, Omya ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 1930,
+    "w": 309,
+    "h": 32,
+    "text": "To reply to your email;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 1962,
+    "w": 309,
+    "h": 55,
+    "text": "To keep you as a business contact in Omya’s database;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 2017,
+    "w": 309,
+    "h": 55,
+    "text": "To send you Newsletters or other marketing material;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 2071,
+    "w": 309,
+    "h": 78,
+    "text": "To send you promotional emails, targeted advertising, social media, event invita"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 2156,
+    "w": 291,
+    "h": 40,
+    "text": "How and where does Omya store your personal data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 2210,
+    "w": 330,
+    "h": 91,
+    "text": "Omya only keeps your personal data for as long as needed to, in order to use it "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 2311,
+    "w": 330,
+    "h": 183,
+    "text": "Your data will only be stored in all countries in which Omya operates worldwide."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 2506,
+    "w": 308,
+    "h": 17,
+    "text": "Transfer of personal data to third parties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 2537,
+    "w": 330,
+    "h": 548,
+    "text": "Your personal data can also be shared with third parties that are not part of Om"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 3095,
+    "w": 330,
+    "h": 114,
+    "text": "This notwithstanding, Omya may disclose personal data for legal reasons; for exa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 3221,
+    "w": 84,
+    "h": 17,
+    "text": "Your rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 3252,
+    "w": 330,
+    "h": 46,
+    "text": "As a data subject, you have the following rights under the DPA and/or GDPR:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3308,
+    "w": 309,
+    "h": 55,
+    "text": "The right to be informed about Omya’s collection and use of personal data;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3362,
+    "w": 309,
+    "h": 55,
+    "text": "The right of access to the personal data Omya holds about you (see section 5);"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3417,
+    "w": 309,
+    "h": 78,
+    "text": "The right to rectification if any personal data Omya holds about you is inaccura"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3494,
+    "w": 309,
+    "h": 78,
+    "text": "The right to be forgotten – i.e. the right to ask Omya to delete any personal da"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3572,
+    "w": 309,
+    "h": 55,
+    "text": "The right to restrict (i.e. prevent) the processing of your personal data;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3627,
+    "w": 309,
+    "h": 78,
+    "text": "The right to data portability (obtaining a copy of your personal data to reuse w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3704,
+    "w": 309,
+    "h": 55,
+    "text": "The right to object to Omya using your personal data for particular purposes; an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 36,
+    "y": 3759,
+    "w": 309,
+    "h": 55,
+    "text": "Rights with respect to automated decision making and profiling."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 3819,
+    "w": 330,
+    "h": 206,
+    "text": "If you have any cause for complaint about Omya’s use of your personal data, plea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 4036,
+    "w": 101,
+    "h": 17,
+    "text": "Data security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 4067,
+    "w": 330,
+    "h": 114,
+    "text": "Omya has implemented appropriate technical and organizational security measures "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 4193,
+    "w": 60,
+    "h": 17,
+    "text": "Contact"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 4224,
+    "w": 330,
+    "h": 69,
+    "text": "If you have any questions about the Website or this Policy, please contact Omya "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 4305,
+    "w": 159,
+    "h": 17,
+    "text": "Law and Jurisdiction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 4335,
+    "w": 330,
+    "h": 183,
+    "text": "This Statement shall be governed by and construed in accordance with Swiss law. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 4530,
+    "w": 105,
+    "h": 17,
+    "text": "Cookie Policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 4561,
+    "w": 330,
+    "h": 297,
+    "text": "This website ( ) uses Cookies and similar technologies (as defined below) to dis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 108,
+    "y": 4563,
+    "w": 112,
+    "h": 17,
+    "text": "www.omya.com",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 4870,
+    "w": 83,
+    "h": 17,
+    "text": "Definitions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 4901,
+    "w": 330,
+    "h": 69,
+    "text": "In this Cookie Policy, unless the context requires otherwise, the following expr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-term > p > strong",
+    "x": 15,
+    "y": 4981,
+    "w": 61,
+    "h": 16,
+    "text": "“Cookie”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-definitions > div.table-definition > p",
+    "x": 15,
+    "y": 4999,
+    "w": 330,
+    "h": 91,
+    "text": "means a small file that the Website places on your computer or device when you v"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-term > p > strong",
+    "x": 15,
+    "y": 5103,
+    "w": 106,
+    "h": 16,
+    "text": "“Personal data”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-definitions > div.table-definition > p",
+    "x": 15,
+    "y": 5121,
+    "w": 330,
+    "h": 114,
+    "text": "are all data relating to an identifiable person who can be identified, directly "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-term > p > strong",
+    "x": 15,
+    "y": 5247,
+    "w": 53,
+    "h": 16,
+    "text": "“we/us”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.table-definitions > div.table-definition > p",
+    "x": 15,
+    "y": 5265,
+    "w": 330,
+    "h": 46,
+    "text": "means Omya AG and all its affiliated companies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 5323,
+    "w": 69,
+    "h": 17,
+    "text": "About us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 5354,
+    "w": 330,
+    "h": 69,
+    "text": "The owner and operator of the Website is Omya International AG. You can reach us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 5434,
+    "w": 278,
+    "h": 17,
+    "text": "How does the Website use Cookies?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 5465,
+    "w": 330,
+    "h": 251,
+    "text": "The Website may place and access certain Cookies on your computer or device (“Fi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 5726,
+    "w": 330,
+    "h": 183,
+    "text": "By using the Website, you may also receive certain Third Party Cookies (as defin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 5921,
+    "w": 292,
+    "h": 17,
+    "text": "Which Cookies does the Website use?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 5952,
+    "w": 330,
+    "h": 46,
+    "text": "The following Cookies can be placed on your computer or device:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6017,
+    "w": 198,
+    "h": 20,
+    "text": "Name of the Cookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 240,
+    "y": 6017,
+    "w": 1529,
+    "h": 20,
+    "text": "Purpose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6055,
+    "w": 198,
+    "h": 20,
+    "text": "__cf_bm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6055,
+    "w": 1529,
+    "h": 20,
+    "text": "Cloudflare set the cookie to support Cloudflare Bot Management."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6092,
+    "w": 198,
+    "h": 20,
+    "text": "_ga"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6092,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Analytics sets this cookie to calculate visitor, session and campaign dat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6129,
+    "w": 198,
+    "h": 20,
+    "text": "_gid"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6129,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Analytics sets this cookie to calculate visitor, session and campaign dat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6166,
+    "w": 198,
+    "h": 20,
+    "text": "_gat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6166,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Universal Analytics sets this cookie to restrain request rate and thus li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6203,
+    "w": 198,
+    "h": 20,
+    "text": "WSS_FullScreenMode"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6203,
+    "w": 1529,
+    "h": 20,
+    "text": "This is a Microsoft SharePoint cookie used for internal use of the application t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6240,
+    "w": 198,
+    "h": 20,
+    "text": "wpml_browser_redirect_test"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6240,
+    "w": 1529,
+    "h": 20,
+    "text": "This cookie is set by WPML WordPress plugin and is used to test if cookies are e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6277,
+    "w": 198,
+    "h": 20,
+    "text": "_icl_visitor_lang_js"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6277,
+    "w": 1529,
+    "h": 20,
+    "text": "WPML sets this cookie to store the redirected language."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6314,
+    "w": 198,
+    "h": 20,
+    "text": "YSC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6314,
+    "w": 1529,
+    "h": 20,
+    "text": "Youtube sets this cookie to track the views of embedded videos on Youtube pages"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6351,
+    "w": 198,
+    "h": 20,
+    "text": "VISITOR_INFO1_LIVE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6351,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to measure bandwidth, determining whether the user gets"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6388,
+    "w": 198,
+    "h": 20,
+    "text": "_ga_*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6388,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Analytics sets this cookie to store and count page views."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6425,
+    "w": 198,
+    "h": 20,
+    "text": "_gat_gtag_UA_*"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6425,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Analytics sets this cookie to store a unique user ID."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6462,
+    "w": 198,
+    "h": 20,
+    "text": "ln_or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6462,
+    "w": 1529,
+    "h": 20,
+    "text": "Linkedin sets this cookie to registers statistical data on users’ behaviour on t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6499,
+    "w": 198,
+    "h": 20,
+    "text": "li_sugr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6499,
+    "w": 1529,
+    "h": 20,
+    "text": "LinkedIn sets this cookie to collect user behaviour data to optimise the website"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6536,
+    "w": 198,
+    "h": 20,
+    "text": "bcookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6536,
+    "w": 1529,
+    "h": 20,
+    "text": "LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6573,
+    "w": 198,
+    "h": 20,
+    "text": "lidc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6573,
+    "w": 1529,
+    "h": 20,
+    "text": "LinkedIn sets the lidc cookie to facilitate data center selection."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6610,
+    "w": 198,
+    "h": 20,
+    "text": "UserMatchHistory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6610,
+    "w": 1529,
+    "h": 20,
+    "text": "LinkedIn sets this cookie for LinkedIn Ads ID syncing."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6647,
+    "w": 198,
+    "h": 20,
+    "text": "AnalyticsSyncHistory"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6647,
+    "w": 1529,
+    "h": 20,
+    "text": "Linkedin set this cookie to store information about the time a sync took place w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6684,
+    "w": 198,
+    "h": 20,
+    "text": "bscookie"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6684,
+    "w": 1529,
+    "h": 20,
+    "text": "LinkedIn sets this cookie to store performed actions on the website."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6721,
+    "w": 198,
+    "h": 20,
+    "text": "li_gc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6721,
+    "w": 1529,
+    "h": 20,
+    "text": "Linkedin set this cookie for storing visitor’s consent regarding using cookies f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6758,
+    "w": 198,
+    "h": 20,
+    "text": "CONSENT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6758,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie via embedded YouTube videos and registers anonymous sta"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6795,
+    "w": 198,
+    "h": 20,
+    "text": "yt-remote-device-id"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6795,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to store the user’s video preferences using embedded Yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6832,
+    "w": 198,
+    "h": 20,
+    "text": "yt.innertube::requests"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6832,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to register a unique ID to store data on what videos fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6869,
+    "w": 198,
+    "h": 20,
+    "text": "yt.innertube::nextId"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6869,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to register a unique ID to store data on what videos fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6906,
+    "w": 198,
+    "h": 20,
+    "text": "yt-remote-connected-devices"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6906,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to store the user’s video preferences using embedded Yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6943,
+    "w": 198,
+    "h": 20,
+    "text": "YSC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6943,
+    "w": 1529,
+    "h": 20,
+    "text": "Youtube sets this cookie to track the views of embedded videos on Youtube pages."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 6980,
+    "w": 198,
+    "h": 20,
+    "text": "VISITOR_INFO1_LIVE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 6980,
+    "w": 1529,
+    "h": 20,
+    "text": "YouTube sets this cookie to measure bandwidth, determining whether the user gets"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7017,
+    "w": 198,
+    "h": 20,
+    "text": "BrowserId_sec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7017,
+    "w": 1529,
+    "h": 20,
+    "text": "Sale Force sets this cookie to log browser sessions and visits for internal-only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7054,
+    "w": 198,
+    "h": 20,
+    "text": "BrowserId"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7054,
+    "w": 1529,
+    "h": 20,
+    "text": "Sale Force sets this cookie to log browser sessions and visits for internal-only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7091,
+    "w": 198,
+    "h": 20,
+    "text": "CookieConsentPolicy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7091,
+    "w": 1529,
+    "h": 20,
+    "text": "Required Cookies & Required cookies are necessary for basic website functionalit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7128,
+    "w": 198,
+    "h": 20,
+    "text": "LSKey-c$Coo-kieConsentPolicy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7128,
+    "w": 1529,
+    "h": 20,
+    "text": "Required Cookies & Required cookies are necessary for basic website functionalit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7165,
+    "w": 198,
+    "h": 20,
+    "text": "X-Salesforce-CHAT"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7165,
+    "w": 1529,
+    "h": 20,
+    "text": "This cookie is set by LiveAgent to allow Live Chat assistance for existing custo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7202,
+    "w": 198,
+    "h": 20,
+    "text": "_GRECAPTCHA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7202,
+    "w": 1529,
+    "h": 20,
+    "text": "Google Recaptcha service sets this cookie to identify bots to protect the websit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 25,
+    "y": 7239,
+    "w": 198,
+    "h": 20,
+    "text": "tarteaucitron"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 240,
+    "y": 7239,
+    "w": 1529,
+    "h": 20,
+    "text": "This cookie is used for saving the cookie preference of the visitor."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 7284,
+    "w": 330,
+    "h": 297,
+    "text": "The Website uses analysis services from Google Analytics. Website analysis refer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 7591,
+    "w": 330,
+    "h": 183,
+    "text": "The Website contains plug-ins of the social networks Facebook, Twitter, LinkedIn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 7784,
+    "w": 330,
+    "h": 594,
+    "text": "When you visit the Website, the Plug-In establishes a direct connection between "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 8390,
+    "w": 164,
+    "h": 17,
+    "text": "Approval and Control"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 8421,
+    "w": 330,
+    "h": 251,
+    "text": "Before Cookies (including Plug-Ins and web analytics tools) are placed on your c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 8682,
+    "w": 330,
+    "h": 206,
+    "text": "In addition, you can activate or deactivate Cookies in your internet browser. Wi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 8900,
+    "w": 229,
+    "h": 17,
+    "text": "Changes to this Cookie Policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 8931,
+    "w": 330,
+    "h": 137,
+    "text": "We may change this Cookie Policy at any time. Such changes will become binding o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 9078,
+    "w": 330,
+    "h": 114,
+    "text": "If any provision of the current version of the Cookie Policy conflicts with any "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 9204,
+    "w": 148,
+    "h": 17,
+    "text": "Further Information"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 9235,
+    "w": 330,
+    "h": 69,
+    "text": "If you would like to learn more about our use of Cookies, please contact us at d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > h3#marketingnewsletter-policy",
+    "x": 15,
+    "y": 9333,
+    "w": 330,
+    "h": 23,
+    "level": 3,
+    "text": "marketing/newsletter policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 9366,
+    "w": 330,
+    "h": 137,
+    "text": "Omya AG (“Omya”) sends you business related information such as newsletters, inv"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 9515,
+    "w": 283,
+    "h": 17,
+    "text": "1. What Personal Data do we collect?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 9546,
+    "w": 330,
+    "h": 137,
+    "text": "“Personal Data” is any information relating to you or that we as Omya (“Omya” or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 9695,
+    "w": 317,
+    "h": 17,
+    "text": "2. How do we collect your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 9726,
+    "w": 330,
+    "h": 297,
+    "text": "We collect personal data that you voluntarily provide to us, for example when (i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 10035,
+    "w": 293,
+    "h": 17,
+    "text": "3. How do we use your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 10066,
+    "w": 330,
+    "h": 206,
+    "text": "We use the Personal Data we collect for communication purposes, including: (i) t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 10283,
+    "w": 317,
+    "h": 40,
+    "text": "4. Why do we process your Personal Data and on what legal basis?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 10337,
+    "w": 330,
+    "h": 206,
+    "text": "As set out above we process your Personal Data for communication purposes. We re"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 10555,
+    "w": 298,
+    "h": 17,
+    "text": "5. Where is your Personal Data stored?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 10586,
+    "w": 330,
+    "h": 91,
+    "text": "All your Personal Data is processed and stored on servers in Switzerland, in all"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 10689,
+    "w": 292,
+    "h": 40,
+    "text": "6. How long do we keep your Personal Data?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 10743,
+    "w": 330,
+    "h": 206,
+    "text": "Your Personal Data will be saved for the specified purposes mentioned above for "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 10960,
+    "w": 116,
+    "h": 17,
+    "text": "7. Data Sharing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 10991,
+    "w": 330,
+    "h": 46,
+    "text": "Omya discloses your Personal Data to the other Omya group entities worldwide."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 11049,
+    "w": 120,
+    "h": 17,
+    "text": "8. Data Security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 11080,
+    "w": 330,
+    "h": 114,
+    "text": "Omya has implemented appropriate technical and organisational security measures "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 11206,
+    "w": 107,
+    "h": 17,
+    "text": "9. Your Rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 11237,
+    "w": 330,
+    "h": 503,
+    "text": "You have the right to know what Personal Data we process about you and may reque"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 15,
+    "y": 11751,
+    "w": 164,
+    "h": 17,
+    "text": "10. How to contact us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 11782,
+    "w": 330,
+    "h": 69,
+    "text": "If you have any questions about how we process your Personal Data, please feel f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#insights",
+    "x": 30,
+    "y": 12001,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-posts > a.post-tile",
+    "x": 30,
+    "y": 12054,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-tile-media > picture > img",
+    "x": 35,
+    "y": 12059,
+    "w": 290,
+    "h": 260,
+    "text": "",
+    "file": "media_1158b861bd185c8bf2db0d5ee3c77a2f40"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > p.button-wrapper > a.button.primary",
+    "x": 109,
+    "y": 12344,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 12474,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 12911,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 12976,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 13110,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 13110,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 13188,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 13207,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 13297,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 13298,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 13298,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 13298,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 13315,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 13332,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 13332,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 114,
+    "textNodes": 259,
+    "controls": 28,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.table-responsive",
+     "path": "tbody > tr > td > p",
+     "text": "google analytics sets this cookie to calculate visitor, sess",
+     "cutMin": 1425,
+     "cutMax": 1425
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 1425,
+     "path": "tbody > tr > td > p",
+     "text": "google analytics sets this cookie to calculate visitor, sess",
+     "clipper": "div.table-responsive",
+     "rect": {
+      "l": 240,
+      "t": 6094,
+      "r": 1769,
+      "b": 6110,
+      "w": 1529,
+      "h": 16
+     },
+     "clip": {
+      "l": 16,
+      "t": 6008,
+      "r": 344,
+      "b": 7268,
+      "w": 328,
+      "h": 1260
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 1425,
+     "path": "tbody > tr > td > p",
+     "text": "google analytics sets this cookie to calculate visitor, sess",
+     "clipper": "div.table-responsive",
+     "rect": {
+      "l": 240,
+      "t": 6131,
+      "r": 1769,
+      "b": 6147,
+      "w": 1529,
+      "h": 16
+     },
+     "clip": {
+      "l": 16,
+      "t": 6008,
+      "r": 344,
+      "b": 7268,
+      "w": 328,
+      "h": 1260
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 156,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 156,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "insights",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"privacy policy\" (y 287) has no origin heading",
+   "text": "privacy policy"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h3 \"marketing/newsletter policy\" (y 9333) has no origin heading",
+   "text": "marketing/newsletter policy"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 2,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 4,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 5,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 58,
+    "y": 288,
+    "w": 244,
+    "h": 41
+   },
+   {
+    "x": 102,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 347,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 158,
+    "y": 347,
+    "w": 100,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 520,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 553,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 576,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 599,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 621,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 644,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 667,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 690,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 713,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 746,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 768,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 791,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 814,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 837,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 860,
+    "w": 96,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 893,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 915,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 948,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 971,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 994,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1017,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1040,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1063,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1085,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1108,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1131,
+    "w": 36,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1164,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1187,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1210,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1232,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1255,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1278,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1311,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1334,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1367,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1390,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1412,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1435,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1458,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1481,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1504,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1527,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1549,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1572,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1595,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1618,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1651,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1684,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1706,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1729,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1752,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1775,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1798,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1821,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1854,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1876,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1899,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1932,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1964,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1987,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2019,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2041,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2073,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2096,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2119,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2156,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2179,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2212,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2234,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2257,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2280,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2313,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2336,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2359,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2381,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2404,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2427,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2450,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2473,
+    "w": 90,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2506,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2538,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2561,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2584,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2607,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2630,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2653,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2676,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2698,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2721,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2744,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2767,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2790,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2813,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2835,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2858,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2881,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2904,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2927,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2950,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2973,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2995,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3018,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3041,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3064,
+    "w": 218,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3097,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3120,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3142,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3165,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3188,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3221,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3254,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3277,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3309,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3332,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3364,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3387,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3419,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3442,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3465,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3496,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3519,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3542,
+    "w": 165,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3574,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3597,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3629,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3651,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3674,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3706,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3729,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3761,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3784,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3821,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3843,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3866,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3889,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3912,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3935,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3958,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3980,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4003,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4036,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4069,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4092,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4115,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4137,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4160,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4193,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4226,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4249,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4272,
+    "w": 18,
+    "h": 17
+   },
+   {
+    "x": 33,
+    "y": 4272,
+    "w": 191,
+    "h": 17
+   },
+   {
+    "x": 224,
+    "y": 4272,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4305,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4337,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4360,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4383,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4406,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4429,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4452,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4474,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4497,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4530,
+    "w": 105,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4563,
+    "w": 93,
+    "h": 17
+   },
+   {
+    "x": 108,
+    "y": 4563,
+    "w": 112,
+    "h": 17
+   },
+   {
+    "x": 220,
+    "y": 4563,
+    "w": 10,
+    "h": 17
+   },
+   {
+    "x": 230,
+    "y": 4563,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 307,
+    "y": 4563,
+    "w": 5,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4586,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4609,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4632,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4654,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4677,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4700,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4723,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4746,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4769,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4791,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4814,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4837,
+    "w": 119,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4870,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4903,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4926,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4948,
+    "w": 206,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4981,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5001,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5024,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5047,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5070,
+    "w": 221,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5103,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5123,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5146,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5168,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5191,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5214,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5247,
+    "w": 53,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5267,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5290,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5323,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5355,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5378,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5401,
+    "w": 191,
+    "h": 17
+   },
+   {
+    "x": 206,
+    "y": 5401,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5434,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5467,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5490,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5513,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5535,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5558,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5581,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5604,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5627,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5650,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5672,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5695,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5728,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5751,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5774,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5797,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5819,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5842,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5865,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5888,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5921,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5954,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5977,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 65,
+    "y": 6018,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 102,
+    "y": 6056,
+    "w": 57,
+    "h": 16
+   },
+   {
+    "x": 118,
+    "y": 6093,
+    "w": 24,
+    "h": 16
+   },
+   {
+    "x": 253,
+    "y": 6093,
+    "w": 1529,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6130,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 253,
+    "y": 6130,
+    "w": 1529,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6167,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 6204,
+    "w": 148,
+    "h": 16
+   },
+   {
+    "x": 35,
+    "y": 6241,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 66,
+    "y": 6278,
+    "w": 129,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6315,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 58,
+    "y": 6352,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 112,
+    "y": 6389,
+    "w": 37,
+    "h": 16
+   },
+   {
+    "x": 77,
+    "y": 6426,
+    "w": 107,
+    "h": 16
+   },
+   {
+    "x": 113,
+    "y": 6463,
+    "w": 34,
+    "h": 16
+   },
+   {
+    "x": 107,
+    "y": 6500,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 104,
+    "y": 6537,
+    "w": 53,
+    "h": 16
+   },
+   {
+    "x": 118,
+    "y": 6574,
+    "w": 24,
+    "h": 16
+   },
+   {
+    "x": 70,
+    "y": 6611,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 58,
+    "y": 6648,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 100,
+    "y": 6685,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 114,
+    "y": 6722,
+    "w": 32,
+    "h": 16
+   },
+   {
+    "x": 96,
+    "y": 6759,
+    "w": 68,
+    "h": 16
+   },
+   {
+    "x": 66,
+    "y": 6796,
+    "w": 129,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 6833,
+    "w": 148,
+    "h": 16
+   },
+   {
+    "x": 65,
+    "y": 6870,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 33,
+    "y": 6907,
+    "w": 195,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6944,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 58,
+    "y": 6981,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 80,
+    "y": 7018,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 96,
+    "y": 7055,
+    "w": 68,
+    "h": 16
+   },
+   {
+    "x": 58,
+    "y": 7092,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7129,
+    "w": 212,
+    "h": 16
+   },
+   {
+    "x": 67,
+    "y": 7166,
+    "w": 127,
+    "h": 16
+   },
+   {
+    "x": 77,
+    "y": 7203,
+    "w": 107,
+    "h": 16
+   },
+   {
+    "x": 87,
+    "y": 7240,
+    "w": 86,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 7284,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7307,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7330,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7353,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7376,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7399,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7421,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7444,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7467,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7490,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7513,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7536,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7559,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7591,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7614,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7637,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7660,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7683,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7706,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7728,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7751,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7784,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7807,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7830,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7853,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7875,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7898,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7921,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7944,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7967,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7990,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8013,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8035,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8058,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8081,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8104,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8127,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8150,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8172,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8195,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8218,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8241,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8264,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8287,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8310,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8332,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8355,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8388,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8421,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8444,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8467,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8489,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8512,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8535,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8558,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8581,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8604,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8626,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8649,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8682,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8705,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8728,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8751,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8774,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8796,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8819,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8842,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8865,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8898,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8931,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8953,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8976,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8999,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9022,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9045,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9078,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9101,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9123,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9146,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9169,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9202,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9235,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9258,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 246,
+    "y": 9258,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9280,
+    "w": 137,
+    "h": 17
+   },
+   {
+    "x": 152,
+    "y": 9280,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 9333,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9366,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9389,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9412,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9435,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9457,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9480,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9513,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9546,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9569,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9592,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9615,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9637,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9660,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9693,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9726,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9749,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9772,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9794,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9817,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9840,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9863,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9886,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9909,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9932,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9954,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9977,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10000,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10033,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10066,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10089,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10111,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10134,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10157,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10180,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10203,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10226,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10248,
+    "w": 190,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10281,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10304,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10337,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10360,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10383,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10406,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10428,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10451,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10474,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10497,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10520,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10553,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10585,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10608,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10631,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10654,
+    "w": 190,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10687,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10710,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10743,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10765,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10788,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10811,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10834,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10857,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10880,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10902,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10925,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10958,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10991,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11014,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11047,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11079,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11102,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11125,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11148,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11171,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11204,
+    "w": 107,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11237,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11259,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11282,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11305,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11328,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11351,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11374,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11396,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11419,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11442,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11465,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11488,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11511,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11534,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11556,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11579,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11602,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11625,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11648,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11671,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11693,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11716,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11749,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11782,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11805,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11828,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 128,
+    "y": 11828,
+    "w": 191,
+    "h": 17
+   },
+   {
+    "x": 319,
+    "y": 11828,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 11999,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 12089,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12213,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12236,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12258,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12281,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 12353,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 12473,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 12920,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 12974,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 12985,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 12996,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 13007,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 13296,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 13296,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 13296,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 13296,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 13296,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 13313,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 13313,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 13313,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 13330,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 13330,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 13330,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 58,
+    "y": 288,
+    "w": 244,
+    "h": 41
+   },
+   {
+    "x": 102,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 347,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 520,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 553,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 576,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 599,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 621,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 644,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 667,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 690,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 713,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 746,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 768,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 791,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 814,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 837,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 860,
+    "w": 96,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 893,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 916,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 948,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 971,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 994,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1017,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1040,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1063,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1085,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1108,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1131,
+    "w": 36,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1164,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1187,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1210,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1233,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1255,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1278,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1311,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1334,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1367,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1390,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1412,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1435,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1458,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1481,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1504,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1527,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1549,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1572,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1595,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1618,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1651,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1684,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1707,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1729,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1752,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1775,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1798,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1821,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1854,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1876,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1899,
+    "w": 115,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1932,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1964,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 1987,
+    "w": 129,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2019,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2042,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2073,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2096,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 2119,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2156,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2179,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2212,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2234,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2257,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2280,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2313,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2336,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2359,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2381,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2404,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2427,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2450,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2473,
+    "w": 90,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2506,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2539,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2561,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2584,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2607,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2630,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2653,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2676,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2698,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2721,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2744,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2767,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2790,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2813,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2836,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2858,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2881,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2904,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2927,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2950,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2973,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 2995,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3018,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3041,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3064,
+    "w": 218,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3097,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3120,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3142,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3165,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3188,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3221,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3254,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3277,
+    "w": 251,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3310,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3332,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3364,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3387,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3419,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3442,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3465,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3496,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3519,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3542,
+    "w": 165,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3574,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3597,
+    "w": 237,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3629,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3652,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3674,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3706,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3729,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3761,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 3784,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3821,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3843,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3866,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3889,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3912,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3935,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3958,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 3980,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4003,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4036,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4069,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4092,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4115,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4138,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4160,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4193,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4226,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4249,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4272,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4305,
+    "w": 159,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4337,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4360,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4383,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4406,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4429,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4452,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4475,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4497,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4530,
+    "w": 105,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4563,
+    "w": 93,
+    "h": 17
+   },
+   {
+    "x": 108,
+    "y": 4563,
+    "w": 112,
+    "h": 17
+   },
+   {
+    "x": 220,
+    "y": 4563,
+    "w": 10,
+    "h": 17
+   },
+   {
+    "x": 230,
+    "y": 4563,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 307,
+    "y": 4563,
+    "w": 5,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4586,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4609,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4632,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4654,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4677,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4700,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4723,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4746,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4769,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4791,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4814,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4837,
+    "w": 119,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4870,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4903,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4926,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4949,
+    "w": 206,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 4981,
+    "w": 61,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5001,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5024,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5047,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5070,
+    "w": 221,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5103,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5123,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5146,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5168,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5191,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5214,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5247,
+    "w": 53,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 5267,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5290,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5323,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5356,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5378,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5401,
+    "w": 196,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5434,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5467,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5490,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5513,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5535,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5558,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5581,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5604,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5627,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5650,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5672,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5695,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5728,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5751,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5774,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5797,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5820,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5842,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5865,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5888,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5921,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5954,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 5977,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 62,
+    "y": 6019,
+    "w": 124,
+    "h": 16
+   },
+   {
+    "x": 97,
+    "y": 6057,
+    "w": 54,
+    "h": 16
+   },
+   {
+    "x": 113,
+    "y": 6094,
+    "w": 23,
+    "h": 16
+   },
+   {
+    "x": 240,
+    "y": 6094,
+    "w": 1529,
+    "h": 16
+   },
+   {
+    "x": 111,
+    "y": 6131,
+    "w": 26,
+    "h": 16
+   },
+   {
+    "x": 240,
+    "y": 6131,
+    "w": 1529,
+    "h": 16
+   },
+   {
+    "x": 111,
+    "y": 6168,
+    "w": 27,
+    "h": 16
+   },
+   {
+    "x": 53,
+    "y": 6205,
+    "w": 142,
+    "h": 16
+   },
+   {
+    "x": 37,
+    "y": 6242,
+    "w": 175,
+    "h": 16
+   },
+   {
+    "x": 65,
+    "y": 6279,
+    "w": 118,
+    "h": 16
+   },
+   {
+    "x": 110,
+    "y": 6316,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 53,
+    "y": 6353,
+    "w": 143,
+    "h": 16
+   },
+   {
+    "x": 106,
+    "y": 6390,
+    "w": 37,
+    "h": 16
+   },
+   {
+    "x": 73,
+    "y": 6427,
+    "w": 103,
+    "h": 16
+   },
+   {
+    "x": 109,
+    "y": 6464,
+    "w": 31,
+    "h": 16
+   },
+   {
+    "x": 104,
+    "y": 6501,
+    "w": 41,
+    "h": 16
+   },
+   {
+    "x": 100,
+    "y": 6538,
+    "w": 48,
+    "h": 16
+   },
+   {
+    "x": 114,
+    "y": 6575,
+    "w": 21,
+    "h": 16
+   },
+   {
+    "x": 69,
+    "y": 6612,
+    "w": 111,
+    "h": 16
+   },
+   {
+    "x": 59,
+    "y": 6649,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 97,
+    "y": 6686,
+    "w": 55,
+    "h": 16
+   },
+   {
+    "x": 110,
+    "y": 6723,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 90,
+    "y": 6760,
+    "w": 68,
+    "h": 16
+   },
+   {
+    "x": 64,
+    "y": 6797,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 57,
+    "y": 6834,
+    "w": 135,
+    "h": 16
+   },
+   {
+    "x": 65,
+    "y": 6871,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 34,
+    "y": 6908,
+    "w": 181,
+    "h": 16
+   },
+   {
+    "x": 110,
+    "y": 6945,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 53,
+    "y": 6982,
+    "w": 143,
+    "h": 16
+   },
+   {
+    "x": 78,
+    "y": 7019,
+    "w": 93,
+    "h": 16
+   },
+   {
+    "x": 93,
+    "y": 7056,
+    "w": 63,
+    "h": 16
+   },
+   {
+    "x": 58,
+    "y": 7093,
+    "w": 133,
+    "h": 16
+   },
+   {
+    "x": 25,
+    "y": 7130,
+    "w": 198,
+    "h": 16
+   },
+   {
+    "x": 63,
+    "y": 7167,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 72,
+    "y": 7204,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 85,
+    "y": 7241,
+    "w": 78,
+    "h": 16
+   },
+   {
+    "x": 15,
+    "y": 7286,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7309,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7332,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7355,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7378,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7401,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7424,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7446,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7469,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7492,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7515,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7538,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7561,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7593,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7616,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7639,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7662,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7685,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7708,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7730,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7753,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7786,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7809,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7832,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7855,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7878,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7900,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7923,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7946,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7969,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 7992,
+    "w": 327,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8015,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8037,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8060,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8083,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8106,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8129,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8152,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8175,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8197,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8220,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8243,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8266,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8289,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8312,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8334,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8357,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8390,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8423,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8446,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8469,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8491,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8514,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8537,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8560,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8583,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8606,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8629,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8651,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8684,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8707,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8730,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8753,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8776,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8798,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8821,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8844,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8867,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8900,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8933,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8956,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 8978,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9001,
+    "w": 304,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9024,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9047,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9080,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9103,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9125,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9148,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9171,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9204,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9237,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9260,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9282,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 9335,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9368,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9391,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9414,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9437,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9460,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9482,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9515,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9548,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9571,
+    "w": 311,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9594,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9617,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9639,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9662,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9695,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9728,
+    "w": 313,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9751,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9774,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9797,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9819,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9842,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9865,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9888,
+    "w": 312,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9911,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9934,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9956,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 9979,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10002,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10035,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10068,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10091,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10113,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10136,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10159,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10182,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10205,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10228,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10251,
+    "w": 190,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10283,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10306,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10339,
+    "w": 308,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10362,
+    "w": 324,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10385,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10408,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10430,
+    "w": 330,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10453,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10476,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10499,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10522,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10555,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10588,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10610,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10633,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10656,
+    "w": 190,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10689,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10712,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10745,
+    "w": 284,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10767,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10790,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10813,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10836,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10859,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10882,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10904,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10927,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10960,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 10993,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11016,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11049,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11082,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11104,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11127,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11150,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11173,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11206,
+    "w": 107,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11239,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11261,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11284,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11307,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11330,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11353,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11376,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11399,
+    "w": 326,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11421,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11444,
+    "w": 319,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11467,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11490,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11513,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11536,
+    "w": 305,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11558,
+    "w": 321,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11581,
+    "w": 317,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11604,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11627,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11650,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11673,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11695,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11718,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11751,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11784,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11807,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 11830,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 12002,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 12091,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12215,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12238,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12260,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 12283,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 12355,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 12475,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 12922,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 12976,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 12987,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 12998,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 13009,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 13298,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 13298,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 13298,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 13298,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 13298,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 13315,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 13315,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 13315,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 13332,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 13332,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 13332,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

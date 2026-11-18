@@ -1,0 +1,25 @@
+{
+  "variantName": "feature-row",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Bordered white row with a framed photo beside a text column",
+    "layout": "Bordered row, photo with white frame and drop shadow, text beside it"
+  },
+  "contentPattern": {
+    "structure": "one row, two cells: photo | text (h2, paragraphs, bold CTA link); cell order sets the photo side"
+  },
+  "options": [
+    {
+      "class": "img-left",
+      "label": "Image left"
+    },
+    {
+      "class": "img-right",
+      "label": "Image right"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Feature photo + text row on the homepage.",
+  "reuseGuidance": "Reuse feature-row for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

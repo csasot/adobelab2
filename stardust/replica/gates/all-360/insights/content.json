@@ -1,0 +1,1943 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:36:04.026Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/insights/",
+  "at": "2026-11-17T21:35:47.039Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3179,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 124,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > span",
+    "x": 180,
+    "y": 347,
+    "w": 55,
+    "h": 17,
+    "text": "Insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h2",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 134,
+    "level": 2,
+    "text": "we strive to exceed the development and marketing needs of our customers."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-sm-12 > h2 > span.orange-text",
+    "x": 191,
+    "y": 539,
+    "w": 95,
+    "h": 31,
+    "text": "exceed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p",
+    "x": 15,
+    "y": 687,
+    "w": 330,
+    "h": 206,
+    "text": "Omya is known for our unparalleled support team, technical solutions and passion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p",
+    "x": 15,
+    "y": 903,
+    "w": 330,
+    "h": 91,
+    "text": "As your trusted educational resource and consultant, we go beyond being a top na"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-6 > h2",
+    "x": 15,
+    "y": 1214,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-6 > p",
+    "x": 15,
+    "y": 1262,
+    "w": 330,
+    "h": 183,
+    "text": "Go behind-the-scenes with Omya and get the insight you need to grow your busines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-sm-6 > p.button.btn-orange > a",
+    "x": 15,
+    "y": 1465,
+    "w": 107,
+    "h": 40,
+    "text": "view blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-6 > h2",
+    "x": 15,
+    "y": 1796,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-6 > p",
+    "x": 15,
+    "y": 1845,
+    "w": 330,
+    "h": 137,
+    "text": "Looking for insight on natural innovations for your personal care products? We’l"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-sm-6 > p.button.btn-orange > a",
+    "x": 15,
+    "y": 2002,
+    "w": 124,
+    "h": 40,
+    "text": "view events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 2254,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 2691,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/insights/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 2741,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 2890,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 2890,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 2968,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 2987,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 3077,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 3078,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 3078,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 3078,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 3095,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 3113,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 3113,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 39,
+    "controls": 23,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/insights",
+  "at": "2026-11-17T21:36:03.752Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3179,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 396,
+    "text": "",
+    "file": "media_1c5c2b21de3e59c03adb680bf7d282e18d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#insights",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "insights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ Insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 124,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > h2#we-strive-to-exceed-the-development-and-marketing-needs-of-our-customers",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 134,
+    "level": 2,
+    "text": "we strive to exceed the development and marketing needs of our customers."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > h2#we-strive-to-exceed-the-development-and-marketing-needs-of-our-customers > em",
+    "x": 191,
+    "y": 539,
+    "w": 95,
+    "h": 31,
+    "text": "exceed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 687,
+    "w": 330,
+    "h": 206,
+    "text": "Omya is known for our unparalleled support team, technical solutions and passion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.texture > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 903,
+    "w": 330,
+    "h": 91,
+    "text": "As your trusted educational resource and consultant, we go beyond being a top na"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt-row-media > picture > img",
+    "x": 0,
+    "y": 1084,
+    "w": 360,
+    "h": 550,
+    "text": "",
+    "file": "media_1ff61438d604e680af08e406ca84d8e53a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wrap.alt-row-wrap > div.alt-row-text > h2#blog",
+    "x": 15,
+    "y": 1214,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wrap.alt-row-wrap > div.alt-row-text > p",
+    "x": 15,
+    "y": 1262,
+    "w": 330,
+    "h": 183,
+    "text": "Go behind-the-scenes with Omya and get the insight you need to grow your busines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt-row-text > p.button-wrapper > a.button.primary",
+    "x": 15,
+    "y": 1465,
+    "w": 107,
+    "h": 40,
+    "text": "view blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt-row-media > picture > img",
+    "x": 0,
+    "y": 1644,
+    "w": 360,
+    "h": 550,
+    "text": "",
+    "file": "media_1051f3e2bfbea8f1591738fb601957e34a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wrap.alt-row-wrap > div.alt-row-text > h2#events",
+    "x": 15,
+    "y": 1797,
+    "w": 330,
+    "h": 34,
+    "level": 2,
+    "text": "events"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.wrap.alt-row-wrap > div.alt-row-text > p",
+    "x": 15,
+    "y": 1845,
+    "w": 330,
+    "h": 137,
+    "text": "Looking for insight on natural innovations for your personal care products? We’l"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt-row-text > p.button-wrapper > a.button.primary",
+    "x": 15,
+    "y": 2002,
+    "w": 124,
+    "h": 40,
+    "text": "view events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 2254,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 2691,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/insights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 2756,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 2890,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 2890,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 2968,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 2987,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 3077,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 3078,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 3078,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 3078,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 3096,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 3113,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 3113,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 14,
+    "textNodes": 38,
+    "controls": 27,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "we strive to exceed the development and marketing needs of our customers.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "blog",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "events",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"insights\" (y 287) has no origin heading",
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 4,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 288,
+    "w": 138,
+    "h": 41
+   },
+   {
+    "x": 124,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 347,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 180,
+    "y": 347,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 25,
+    "y": 539,
+    "w": 166,
+    "h": 31
+   },
+   {
+    "x": 191,
+    "y": 539,
+    "w": 95,
+    "h": 31
+   },
+   {
+    "x": 286,
+    "y": 539,
+    "w": 50,
+    "h": 31
+   },
+   {
+    "x": 65,
+    "y": 573,
+    "w": 230,
+    "h": 31
+   },
+   {
+    "x": 25,
+    "y": 606,
+    "w": 310,
+    "h": 31
+   },
+   {
+    "x": 105,
+    "y": 640,
+    "w": 149,
+    "h": 31
+   },
+   {
+    "x": 25,
+    "y": 689,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 712,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 16,
+    "y": 735,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 21,
+    "y": 758,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 781,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 39,
+    "y": 804,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 40,
+    "y": 826,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 25,
+    "y": 849,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 159,
+    "y": 872,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 34,
+    "y": 905,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 21,
+    "y": 928,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 22,
+    "y": 951,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 973,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1215,
+    "w": 62,
+    "h": 31
+   },
+   {
+    "x": 15,
+    "y": 1264,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1287,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1310,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1333,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1356,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1378,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1401,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1424,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 33,
+    "y": 1476,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1797,
+    "w": 92,
+    "h": 31
+   },
+   {
+    "x": 15,
+    "y": 1847,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1870,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1893,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1916,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1938,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1961,
+    "w": 85,
+    "h": 17
+   },
+   {
+    "x": 33,
+    "y": 2013,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2255,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 2702,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2756,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2767,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2778,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2789,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 3078,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 3078,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 3078,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 3078,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 3078,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3095,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 3095,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 3095,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 3113,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 3113,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 3113,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 288,
+    "w": 138,
+    "h": 41
+   },
+   {
+    "x": 124,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 347,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 25,
+    "y": 539,
+    "w": 166,
+    "h": 31
+   },
+   {
+    "x": 191,
+    "y": 539,
+    "w": 95,
+    "h": 31
+   },
+   {
+    "x": 286,
+    "y": 539,
+    "w": 50,
+    "h": 31
+   },
+   {
+    "x": 65,
+    "y": 573,
+    "w": 230,
+    "h": 31
+   },
+   {
+    "x": 25,
+    "y": 606,
+    "w": 310,
+    "h": 31
+   },
+   {
+    "x": 105,
+    "y": 640,
+    "w": 149,
+    "h": 31
+   },
+   {
+    "x": 25,
+    "y": 689,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 35,
+    "y": 712,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 16,
+    "y": 735,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 21,
+    "y": 758,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 781,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 39,
+    "y": 804,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 40,
+    "y": 826,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 25,
+    "y": 849,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 159,
+    "y": 872,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 34,
+    "y": 905,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 21,
+    "y": 928,
+    "w": 318,
+    "h": 17
+   },
+   {
+    "x": 22,
+    "y": 951,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 974,
+    "w": 329,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1215,
+    "w": 62,
+    "h": 31
+   },
+   {
+    "x": 15,
+    "y": 1264,
+    "w": 322,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1287,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1310,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1333,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1356,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1379,
+    "w": 309,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1401,
+    "w": 328,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1424,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 33,
+    "y": 1476,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1798,
+    "w": 92,
+    "h": 31
+   },
+   {
+    "x": 15,
+    "y": 1847,
+    "w": 314,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1870,
+    "w": 316,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1893,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1916,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1939,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 15,
+    "y": 1961,
+    "w": 85,
+    "h": 17
+   },
+   {
+    "x": 33,
+    "y": 2013,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2255,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 2702,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2756,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2767,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2778,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 2789,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 3078,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 3078,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 3078,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 3078,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 3078,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3096,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 3096,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 3096,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 3113,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 3113,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 3113,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

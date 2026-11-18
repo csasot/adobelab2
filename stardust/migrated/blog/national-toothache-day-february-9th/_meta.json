@@ -1,0 +1,121 @@
+{
+  "slug": "blog-national-toothache-day-february-9th",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "7870e5b4da91",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "National Toothache Day - February 9th - Omya Personal Care",
+    "description": "February 9th is National Toothache Day. It’s not a celebration of toothaches, but a gentle reminder of the importance of dental hygiene. Probably an unnecessary reminder if you happen to be suffering from a toothache! What causes toothaches? There are many possible causes of tooth pain. Sharp pains are usually created when the pulp, the innermost layer of the tooth where the nerves are, is […]",
+    "canonical": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "National Toothache Day - February 9th - Omya Personal Care",
+    "description": "February 9th is National Toothache Day. It’s not a celebration of toothaches, but a gentle reminder of the importance of dental hygiene. Probably an unnecessary reminder if you happen to be suffering from a toothache! What causes toothaches? There are many possible causes of tooth pain. Sharp pains are usually created when the pulp, the innermost layer of the tooth where the nerves are, is […]",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "4ab968ca16fd",
+  "sourceProposedSha": "aa5cd345ff54",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-national-toothache-day-february-9th.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free-01145-88.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/national-toothache-day-february-9th/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/national-toothache-day-february-9th/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,301 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-17T16:49:55.645Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://omyapersonalcare.us/contact/",
+      "http://localhost:8791/contact-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://omyapersonalcare.us/contact/",
+    "http://localhost:8791/contact-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 18,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding",
+        "tier": 2,
+        "share": 0.44,
+        "section": 0,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding > div.col-xs-12.col-sm-12",
+        "tier": 3,
+        "share": 0.44,
+        "section": 0,
+        "w1": 873,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding",
+        "tier": 2,
+        "share": 0.33,
+        "section": 2,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding > div.col-xs-12.col-sm-12",
+        "tier": 3,
+        "share": 0.33,
+        "section": 2,
+        "w1": 873,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 422,
+        "via": "fixed",
+        "selector": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.flex-lg.flex-md > div.col-md-6.col-sm-12",
+        "tier": 5,
+        "share": 0.22,
+        "section": 2,
+        "w1": 422,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > div.container-fixed.formulary-cta > div.container",
+        "tier": 2,
+        "share": 0.22,
+        "section": 4,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 533,
+        "via": "fixed",
+        "selector": "#interior-content > div.container-fixed.formulary-cta > div.container > div.cta-content.col-lg-5",
+        "tier": 3,
+        "share": 0.22,
+        "section": 4,
+        "w1": 533,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#interior-content > div.page-content.col-lg-12",
+        "px": 1310,
+        "capSelector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding"
+      },
+      {
+        "index": 1,
+        "selector": "#interior-content > div.clearfix",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "#interior-content > div.page-content.col-lg-12",
+        "px": 1310,
+        "capSelector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding"
+      },
+      {
+        "index": 3,
+        "selector": "#interior-content > div.clearfix",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "#interior-content > div.container-fixed.formulary-cta",
+        "px": 1310,
+        "capSelector": "#interior-content > div.container-fixed.formulary-cta > div.container"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1310,
+    "contentFrom": "module",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 76
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 18,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > section.page-section > div.wrap.page-section__wrap",
+        "tier": 2,
+        "share": 0.44,
+        "section": 0,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > section.page-section > div.wrap.page-section__wrap > div.intro",
+        "tier": 3,
+        "share": 0.44,
+        "section": 0,
+        "w1": 873,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > section.page-section.page-section--blue > div.wrap.page-section__wrap",
+        "tier": 2,
+        "share": 0.33,
+        "section": 1,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > section.page-section.page-section--blue > div.wrap.page-section__wrap > div.intro",
+        "tier": 3,
+        "share": 0.33,
+        "section": 1,
+        "w1": 873,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 422,
+        "via": "fixed",
+        "selector": "div.wrap.page-section__wrap > div.intro > div.contact-offices__row > div.contact-offices__col",
+        "tier": 5,
+        "share": 0.22,
+        "section": 1,
+        "w1": 422,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content > section.cta-band > div.wrap.cta-band__wrap",
+        "tier": 2,
+        "share": 0.22,
+        "section": 2,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 533,
+        "via": "fixed",
+        "selector": "#interior-content > section.cta-band > div.wrap.cta-band__wrap > div.cta-band__content",
+        "tier": 3,
+        "share": 0.22,
+        "section": 2,
+        "w1": 533,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#interior-content > section.page-section",
+        "px": 1310,
+        "capSelector": "#interior-content > section.page-section > div.wrap.page-section__wrap"
+      },
+      {
+        "index": 1,
+        "selector": "#interior-content > section.page-section.page-section--blue",
+        "px": 1310,
+        "capSelector": "#interior-content > section.page-section.page-section--blue > div.wrap.page-section__wrap"
+      },
+      {
+        "index": 2,
+        "selector": "#interior-content > section.cta-band",
+        "px": 1310,
+        "capSelector": "#interior-content > section.cta-band > div.wrap.cta-band__wrap"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1310,
+    "contentFrom": "module",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 66
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1310px = build 1310px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 5 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/5",
+        "detail": "1310px = 1310px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/5",
+        "detail": "live full-bleed (#interior-content > div.clearfix) → build 1310px (#interior-content > section.page-section.page-section--blue > div.wrap.page-section__wrap)",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 3/5",
+        "detail": "1310px = 1310px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/contact-2560/cap-iter.json"
+}

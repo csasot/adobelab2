@@ -1,0 +1,81 @@
+/* ==========================================================================
+   insights-blog.css — listing archetype (/insights/blog/, /events/, /news/ …)
+   Load after canon.css. Prefix: .ib-
+   Modules: ib-header (inner-page header variant: photo + title + breadcrumbs,
+   current nav item) · ib-list (grey listing band, 2-up post tiles) ·
+   ib-pagenavi (round page links) · ib-video-band (blue video + CTA band)
+   NOTE for canon merge: ib-header / ib-hero / ib-breadcrumbs / current-nav are
+   the generic inner-page header + page banner; they were authored here (not in
+   canon.css) to avoid a concurrent write — merge into canon later.
+   ========================================================================== */
+
+/* == module: ib-header == (inner header: mountains photo, cover, centered; scrim 50%) */
+.ib-header { background-position: center center; background-repeat: no-repeat; background-size: cover; }
+.ib-hero { position: relative; z-index: 10; display: flow-root; padding: 50px 0 40px; text-align: center; }
+.ib-hero__inner { position: relative; min-height: 1px; padding: 0 15px; }
+@media (min-width: 992px) { .ib-hero__inner { width: 83.33333333%; margin-left: 8.33333333%; } }
+@media (min-width: 1200px) { .ib-hero__inner { width: 66.66666667%; margin-left: 16.66666667%; } }
+.ib-breadcrumbs { margin: 15px 0 0; color: #fff; }
+.ib-breadcrumbs a { color: var(--c-sky); text-decoration: none; }
+.ib-breadcrumbs a:hover { color: var(--c-sky); text-decoration: underline; }
+/* current section in the primary nav (source: #nav li.current-menu-ancestor a / .sub-menu li.current_page_item) */
+.ib-header .site-nav__list > li.is-current-ancestor a { color: var(--c-sky); background: none; }
+.ib-header .site-nav__sub > li.is-current,
+.ib-header .site-nav__sub > li.is-current:last-child { background: var(--c-blue); }
+.ib-header .site-nav__sub > li.is-current > a { color: #fff; background: var(--c-blue); }
+
+/* aux strip line box: the source renders in limited-quirks mode (XHTML 1.0 Transitional doctype), where a
+   line holding only inline-blocks (link + "/" separator) gets no strut — li 30px, not 31.3px. Emulate it:
+   zero the li strut, restore the children's own line heights. (canon candidate: every inner page) */
+.ib-header .aux-nav__list > li { line-height: 0; }
+.ib-header .aux-nav__list > li > a { line-height: var(--lh-body); }
+.ib-header .aux-nav__list > li::after { line-height: 20px; }
+
+/* == module: ib-list == (grey band; 8-col centered column; 48% tiles, 2 per row >=768) */
+.ib-list { display: flow-root; position: relative; margin-top: 10px; padding: 50px 15px 30px; background: var(--c-band-grey); }
+.ib-list__inner { display: flow-root; position: relative; min-height: 1px; padding: 0 15px; text-align: center; }
+@media (min-width: 992px) { .ib-list__inner { width: 83.33333333%; margin-left: 8.33333333%; } }
+@media (min-width: 1200px) { .ib-list__inner { width: 66.66666667%; margin-left: 16.66666667%; } }
+.ib-posts { display: flex; flex-wrap: wrap; justify-content: space-between; }
+.ib-posts .post-tile { width: 48%; padding-bottom: 25%; }
+@media (max-width: 767px) {
+  .ib-posts { display: block; }
+  .ib-posts .post-tile { width: 100%; }
+}
+
+/* == module: ib-pagenavi == (wp-pagenavi: 30px round links, current filled blue) */
+.ib-pagenavi { display: block; width: 100%; padding: 15px 0 25px; }
+.ib-pagenavi__pages { display: none; }
+.ib-pagenavi__item {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 2px;
+  padding: 4px;
+  border: 1px solid #bfbfbf;
+  border-radius: 50%;
+  color: #666;
+  text-decoration: none;
+}
+.ib-pagenavi__item:hover { border-color: var(--c-blue); color: var(--c-blue); }
+.ib-pagenavi__item.is-current { border-color: var(--c-blue); color: #fff; font-weight: 700; background: var(--c-blue); }
+
+/* == module: ib-video-band == (blue band: 16:9 video beside a black skewed CTA >=980) */
+.ib-video-band { display: flow-root; position: relative; width: 100%; color: #fff; background: var(--c-blue); }
+.ib-video-band__wrap { display: flow-root; padding: 40px 0; text-align: center; }
+.ib-video-band__col { display: flow-root; position: relative; min-height: 1px; padding: 40px 15px; }
+.ib-video-row { display: flow-root; }
+.ib-video-row__cell { position: relative; min-height: 1px; padding: 0 15px; }
+@media (min-width: 768px) { .ib-video-row__cell { float: left; width: 100%; } }
+@media (min-width: 980px) {
+  .ib-video-row { display: flex; align-items: center; }
+  .ib-video-row__cell { float: none; }
+}
+.ib-embed { position: relative; display: block; height: 0; padding: 0 0 56.25%; overflow: hidden; }
+.ib-embed iframe { position: absolute; top: 0; left: 0; bottom: 0; width: 100%; height: 100%; border: 0; }
+.ib-video-row__btn { margin: 0; text-align: center; }
+@media (max-width: 991px) { .ib-embed { margin-bottom: 30px; } }
+@media (max-width: 776px) {
+  .ib-embed { margin-bottom: 15px; }
+  .ib-video-row__btn > a { height: auto; font-size: 14px; }
+}

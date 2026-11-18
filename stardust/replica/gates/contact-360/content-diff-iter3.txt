@@ -1,0 +1,27 @@
+
+Content diff @ 360px (profile "generic", roots: #interior-content, header, footer)
+root "#interior-content"
+  source: 18 text nodes — 2 headings, 0 eyebrows, 5 CTAs, 11 body; 0 img
+  build: 18 text nodes — 2 headings, 0 eyebrows, 5 CTAs, 11 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 9 / build 9
+  attributes (placeholder/aria-label/title): source 8 / build 13; icons: source 0 / build 0
+root "header"
+  source: 23 text nodes — 1 headings, 0 eyebrows, 20 CTAs, 2 body; 1 img
+  build: 23 text nodes — 1 headings, 0 eyebrows, 20 CTAs, 2 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 5 / build 5
+  attributes (placeholder/aria-label/title): source 2 / build 2; icons: source 0 / build 0
+root "footer"
+  source: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  build: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  editable texts (outermost h*/p/ul/ol): source 2 / build 2
+  attributes (placeholder/aria-label/title): source 1 / build 1; icons: source 0 / build 0
+
+Findings: 7 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 7
+  🟡 MISSING TITLE [#interior-content]: source <iframe> title="reCAPTCHA" has no build <iframe> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <input> aria-label="First Name" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <input> aria-label="Last Name" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <input> aria-label="Company" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <input> aria-label="Email Address" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <input> aria-label="Telephone Number" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <textarea> aria-label="Message" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).

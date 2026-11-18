@@ -1,0 +1,88 @@
+{
+  "process-step": {
+    "origin": "#process-section .each-step",
+    "build": ".process__step, .process-step",
+    "n": 3,
+    "required": true,
+    "pages": [
+      "index"
+    ],
+    "templates": [
+      "landing"
+    ]
+  },
+  "feature-row": {
+    "origin": ".alternating-rows-triangle",
+    "build": ".feature-row",
+    "n": 2,
+    "required": true,
+    "pages": [
+      "index"
+    ],
+    "templates": [
+      "landing"
+    ]
+  },
+  "insights-post-tile": {
+    "origin": "#insights-section .featured-post",
+    "build": ".post-tile",
+    "n": 1,
+    "required": true,
+    "pages": [
+      "index",
+      "about"
+    ],
+    "templates": [
+      "landing",
+      "static"
+    ]
+  },
+  "alt-row": {
+    "origin": ".alternating-rows",
+    "build": ".alt-row",
+    "n": 3,
+    "required": true,
+    "pages": [
+      "about"
+    ],
+    "templates": [
+      "static"
+    ]
+  },
+  "listing-post-tile": {
+    "origin": "#insights-section .featured-post",
+    "build": ".ib-posts .post-tile, .post-list .post-list-posts .post-tile",
+    "n": 10,
+    "required": true,
+    "pages": [
+      "insights-blog"
+    ],
+    "templates": [
+      "listing"
+    ]
+  },
+  "form-field": {
+    "origin": "#contact-form .form-control:not(.email-confirm)",
+    "build": "#contact-form .form__field:not(.form__hp), #contact-form .form-field:not(.form-hp)",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "contact"
+    ],
+    "templates": [
+      "form"
+    ]
+  },
+  "insights-post-tile-pair": {
+    "origin": "#insights-section .featured-post.post-count-2",
+    "build": ".band--insights .post-tile--half, .band-pair.solo .band-insights .post-tile",
+    "n": 2,
+    "required": true,
+    "pages": [
+      "contact"
+    ],
+    "templates": [
+      "form"
+    ]
+  }
+}

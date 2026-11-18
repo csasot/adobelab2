@@ -1,0 +1,3007 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:19:54.963Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+  "at": "2026-11-17T21:19:34.834Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5684,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 216,
+    "level": 1,
+    "text": "beyond uv protection: eco-friendly & high-performance sun care solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 15,
+    "y": 504,
+    "w": 330,
+    "h": 69,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 55,
+    "y": 506,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 111,
+    "y": 506,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 179,
+    "y": 506,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 48,
+    "y": 728,
+    "w": 114,
+    "h": 17,
+    "text": "March 19, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > h2",
+    "x": 30,
+    "y": 768,
+    "w": 300,
+    "h": 168,
+    "level": 2,
+    "text": "beyond uv protection: eco-friendly & high-performance sun care solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > p",
+    "x": 30,
+    "y": 951,
+    "w": 300,
+    "h": 388,
+    "text": "As a daily essential for consumers, sun care users are seeking more than just UV"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > p",
+    "x": 30,
+    "y": 1350,
+    "w": 300,
+    "h": 137,
+    "text": "Omya supports these evolving needs with natural, eco-friendly, and high-performa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > p",
+    "x": 30,
+    "y": 1507,
+    "w": 300,
+    "h": 228,
+    "text": "Eco-friendly shea-derived emollient ester offers excellent wetting, dispersing, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > h3",
+    "x": 30,
+    "y": 1755,
+    "w": 300,
+    "h": 144,
+    "level": 3,
+    "text": "lipex ® sheasolve™ sensory aspects are perceived to be on par or better than competitive products"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 30,
+    "y": 1914,
+    "w": 300,
+    "h": 72,
+    "text": "lipex sheasolve competitive products",
+    "file": "LIPEX-SheaSolve-Competitive-Products-102"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.img-responsive.no-top-margin",
+    "x": 30,
+    "y": 2009,
+    "w": 300,
+    "h": 192,
+    "text": "lipex sheasolve graph",
+    "file": "LIPEX-SheaSolve-Graph"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > h3",
+    "x": 30,
+    "y": 2262,
+    "w": 300,
+    "h": 58,
+    "level": 3,
+    "text": "lipex ® sheasolve™ in action"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.row > div.col-sm-12.col-md-6 > p",
+    "x": 30,
+    "y": 2518,
+    "w": 300,
+    "h": 23,
+    "text": "Wetting Properties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.row > div.col-sm-12.col-md-6 > p",
+    "x": 30,
+    "y": 2745,
+    "w": 300,
+    "h": 23,
+    "text": "Comparative Viscosity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.row > div.col-sm-12.col-md-6 > p",
+    "x": 30,
+    "y": 2972,
+    "w": 300,
+    "h": 23,
+    "text": "Reduced Ghosting"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > p",
+    "x": 30,
+    "y": 3055,
+    "w": 300,
+    "h": 536,
+    "text": "Zinc Oxide powders, available in three different grades, combine excellent broad"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 30,
+    "y": 3230,
+    "w": 300,
+    "h": 238,
+    "text": "zano zinc oxide powders graph",
+    "file": "Zano-Zinc-Oxide-Powders-Graph"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.img-responsive.no-top-margin",
+    "x": 30,
+    "y": 3491,
+    "w": 300,
+    "h": 101,
+    "text": "zano zinc oxide powders chart",
+    "file": "Zano-Zinc-Oxide-Powders-Chart-300x101"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > p",
+    "x": 30,
+    "y": 3662,
+    "w": 300,
+    "h": 349,
+    "text": "Novel bio-based, biodegradable, film-forming polymer that offers superior water "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 30,
+    "y": 3860,
+    "w": 300,
+    "h": 151,
+    "text": "solamaze natural graph",
+    "file": "SolAmaze-Natural-Graph-300x151"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-67828 > div.entry-summary > h3",
+    "x": 30,
+    "y": 4082,
+    "w": 300,
+    "h": 58,
+    "level": 3,
+    "text": "view our unique sun care textures:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > h3 > span",
+    "x": 30,
+    "y": 4082,
+    "w": 290,
+    "h": 56,
+    "text": "View our unique sun care textures:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.row > div.col-sm-12.col-md-5 > img.alignleft.size-full",
+    "x": 30,
+    "y": 4170,
+    "w": 300,
+    "h": 255,
+    "text": "sun caretextures catalogs",
+    "file": "Sun-CareTextures-Catalogs-300x255"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-sm-12.col-md-7 > p.button.btn-orange > a",
+    "x": 30,
+    "y": 4459,
+    "w": 230,
+    "h": 40,
+    "text": "sunstik spf 30 sunscreen",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen-SH-01-81-09.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-sm-12.col-md-7 > p.button.btn-orange > a",
+    "x": 30,
+    "y": 4519,
+    "w": 248,
+    "h": 40,
+    "text": "gellybalm spf 30 sunscreen",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen-SH-02-42-05.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-sm-12.col-md-7 > p.button.btn-orange > a",
+    "x": 30,
+    "y": 4579,
+    "w": 268,
+    "h": 40,
+    "text": "butterscreen spf 30 sunscreen",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 4759,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 5196,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/eco-friendly-high-performance-sun-care-solutions/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 5246,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 5395,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 5395,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 5473,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 5492,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 5582,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 5583,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 5583,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 5583,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 5600,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 5618,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 5618,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 65,
+    "controls": 26,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions",
+  "at": "2026-11-17T21:19:54.813Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5684,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 604,
+    "text": "",
+    "file": "media_160a7c4f21eb38fb67a5952b8d11b39581"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#beyond-uv-protection-eco-friendly--high-performance-sun-care-solutions",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 216,
+    "level": 1,
+    "text": "beyond uv protection: eco-friendly & high-performance sun care solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 504,
+    "w": 330,
+    "h": 69,
+    "text": "/ / / Beyond UV Protection: Eco-Friendly & High-Performance Sun Care Solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 55,
+    "y": 506,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 111,
+    "y": 506,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 179,
+    "y": 506,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 48,
+    "y": 728,
+    "w": 114,
+    "h": 17,
+    "text": "March 19, 2025"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.accent-headings > div.default-content-wrapper > h2#beyond-uv-protection-eco-friendly--high-performance-sun-care-solutions-1",
+    "x": 30,
+    "y": 769,
+    "w": 300,
+    "h": 168,
+    "level": 2,
+    "text": "beyond uv protection: eco-friendly & high-performance sun care solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.accent-headings > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 951,
+    "w": 300,
+    "h": 388,
+    "text": "As a daily essential for consumers, sun care users are seeking more than just UV"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.accent-headings > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1350,
+    "w": 300,
+    "h": 137,
+    "text": "Omya supports these evolving needs with natural, eco-friendly, and high-performa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.accent-headings > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1507,
+    "w": 300,
+    "h": 228,
+    "text": "Eco-friendly shea-derived emollient ester offers excellent wetting, dispersing, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.accent-headings > div.default-content-wrapper > h3#lipex-sheasolve-sensory-aspects-are-perceived-to-beon-par-or-better-than-competitive-products",
+    "x": 30,
+    "y": 1755,
+    "w": 300,
+    "h": 144,
+    "level": 3,
+    "text": "lipex ® sheasolve™ sensory aspects are perceived to be on par or better than competitive products"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 30,
+    "y": 1914,
+    "w": 300,
+    "h": 72,
+    "text": "lipex sheasolve competitive products",
+    "file": "media_151f0394cec59dfefcd08465151444666e"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > picture.figure-media > img",
+    "x": 30,
+    "y": 2009,
+    "w": 300,
+    "h": 192,
+    "text": "lipex sheasolve graph",
+    "file": "media_115eca349b80a5ccfaee16670e83d068bc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.article-rule > div.default-content-wrapper > h3#lipex-sheasolve-in-action",
+    "x": 30,
+    "y": 2262,
+    "w": 300,
+    "h": 58,
+    "level": 3,
+    "text": "lipex ® sheasolve™ in action"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.video-grid-item > div > p.video-grid-caption",
+    "x": 30,
+    "y": 2519,
+    "w": 300,
+    "h": 23,
+    "text": "Wetting Properties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.video-grid-item > div > p.video-grid-caption",
+    "x": 30,
+    "y": 2745,
+    "w": 300,
+    "h": 23,
+    "text": "Comparative Viscosity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.video-grid-item > div > p.video-grid-caption",
+    "x": 30,
+    "y": 2972,
+    "w": 300,
+    "h": 23,
+    "text": "Reduced Ghosting"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.article-rule > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3056,
+    "w": 300,
+    "h": 536,
+    "text": "Zinc Oxide powders, available in three different grades, combine excellent broad"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 30,
+    "y": 3231,
+    "w": 300,
+    "h": 238,
+    "text": "zano zinc oxide powders graph",
+    "file": "media_19e0c179d88b38669197663d0939771751"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 30,
+    "y": 3491,
+    "w": 300,
+    "h": 101,
+    "text": "zano zinc oxide powders chart",
+    "file": "media_156ad02e53c3ffdee8a3b5f1ca39d0d5d5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.article-rule > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3663,
+    "w": 300,
+    "h": 349,
+    "text": "Novel bio-based, biodegradable, film-forming polymer that offers superior water "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 30,
+    "y": 3860,
+    "w": 300,
+    "h": 151,
+    "text": "solamaze natural graph",
+    "file": "media_109e0a0de9d371fe766f6d0c601ea38ce2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.article-rule > div.default-content-wrapper > h3#view-our-unique-sun-care-textures",
+    "x": 30,
+    "y": 4082,
+    "w": 300,
+    "h": 58,
+    "level": 3,
+    "text": "view our unique sun care textures:"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 30,
+    "y": 4170,
+    "w": 300,
+    "h": 255,
+    "text": "sun caretextures catalogs",
+    "file": "media_15ae5831d2c419f4e6b19ec313368ccaf8"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p.button-wrapper > a.button.primary",
+    "x": 30,
+    "y": 4460,
+    "w": 230,
+    "h": 40,
+    "text": "sunstik spf 30 sunscreen",
+    "href": "/wp-content/uploads/SunstiK-SPF-30-Sunscreen-SH-01-81-09.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p.button-wrapper > a.button.primary",
+    "x": 30,
+    "y": 4520,
+    "w": 248,
+    "h": 40,
+    "text": "gellybalm spf 30 sunscreen",
+    "href": "/wp-content/uploads/GellyBalm-SPF-30-Sunscreen-SH-02-42-05.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p.button-wrapper > a.button.primary",
+    "x": 30,
+    "y": 4580,
+    "w": 268,
+    "h": 40,
+    "text": "butterscreen spf 30 sunscreen",
+    "href": "/wp-content/uploads/ButterScreen-SH-02-14-16.pdf"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 4760,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 5196,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/eco-friendly-high-performance-sun-care-solutions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 5261,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 5395,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 5395,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 5474,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 5493,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 5583,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 5584,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 5584,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 5584,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 5601,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 5618,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 5618,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/eco-friendly-high-performance-sun-care-solutions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 14,
+    "textNodes": 64,
+    "controls": 30,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "beyond uv protection: eco-friendly & high-performance sun care solutions",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "lipex ® sheasolve™ sensory aspects are perceived to be on par or better than competitive products",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "lipex ® sheasolve™ in action",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "view our unique sun care textures:",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"beyond uv protection: eco-friendly & high-performance sun care solutions\" (y 769) has no origin heading",
+   "text": "beyond uv protection: eco-friendly & high-performance sun care solutions"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"beyond uv protection: eco-friendly & high-performance sun care solutions\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"beyond uv protection: eco-friendly & high-performance sun care solutions\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"beyond uv protection: eco-friendly & high-performance sun care solutions\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 6,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 6,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 274,
+    "w": 192,
+    "h": 41
+   },
+   {
+    "x": 41,
+    "y": 317,
+    "w": 278,
+    "h": 41
+   },
+   {
+    "x": 41,
+    "y": 360,
+    "w": 278,
+    "h": 41
+   },
+   {
+    "x": 31,
+    "y": 404,
+    "w": 298,
+    "h": 41
+   },
+   {
+    "x": 53,
+    "y": 447,
+    "w": 254,
+    "h": 41
+   },
+   {
+    "x": 55,
+    "y": 506,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 97,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 506,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 179,
+    "y": 506,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 211,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 224,
+    "y": 506,
+    "w": 81,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 529,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 552,
+    "w": 138,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 728,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 769,
+    "w": 149,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 803,
+    "w": 216,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 837,
+    "w": 216,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 870,
+    "w": 232,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 904,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 953,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 976,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 999,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 253,
+    "y": 999,
+    "w": 52,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1022,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1045,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 308,
+    "y": 1045,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1068,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 219,
+    "y": 1068,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1090,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1113,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 172,
+    "y": 1113,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1136,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1159,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1182,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1205,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1228,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1250,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1273,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1296,
+    "w": 222,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1319,
+    "w": 76,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1352,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1375,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1397,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1420,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1443,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1466,
+    "w": 89,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1509,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 76,
+    "y": 1508,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 84,
+    "y": 1509,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1532,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1555,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1577,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1600,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1623,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1646,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1669,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1692,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1714,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 1755,
+    "w": 69,
+    "h": 27
+   },
+   {
+    "x": 132,
+    "y": 1756,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 145,
+    "y": 1755,
+    "w": 152,
+    "h": 27
+   },
+   {
+    "x": 65,
+    "y": 1784,
+    "w": 231,
+    "h": 27
+   },
+   {
+    "x": 37,
+    "y": 1813,
+    "w": 183,
+    "h": 27
+   },
+   {
+    "x": 219,
+    "y": 1813,
+    "w": 104,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 1842,
+    "w": 264,
+    "h": 27
+   },
+   {
+    "x": 129,
+    "y": 1870,
+    "w": 103,
+    "h": 27
+   },
+   {
+    "x": 49,
+    "y": 2262,
+    "w": 69,
+    "h": 27
+   },
+   {
+    "x": 118,
+    "y": 2262,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 131,
+    "y": 2262,
+    "w": 180,
+    "h": 27
+   },
+   {
+    "x": 145,
+    "y": 2291,
+    "w": 71,
+    "h": 27
+   },
+   {
+    "x": 109,
+    "y": 2520,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 2747,
+    "w": 171,
+    "h": 17
+   },
+   {
+    "x": 109,
+    "y": 2974,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3057,
+    "w": 38,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 3057,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 76,
+    "y": 3057,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3080,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3103,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3126,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3149,
+    "w": 207,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3172,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3194,
+    "w": 89,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3664,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3687,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3710,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3733,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3756,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3779,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3802,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3824,
+    "w": 136,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4082,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 30,
+    "y": 4111,
+    "w": 101,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 4470,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4530,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4590,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4760,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 5207,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5261,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5272,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5283,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5294,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 5583,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 5583,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 5583,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 5583,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 5583,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5600,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 5600,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 5600,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 5618,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 5618,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 5618,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 84,
+    "y": 274,
+    "w": 192,
+    "h": 41
+   },
+   {
+    "x": 41,
+    "y": 317,
+    "w": 278,
+    "h": 41
+   },
+   {
+    "x": 41,
+    "y": 360,
+    "w": 278,
+    "h": 41
+   },
+   {
+    "x": 31,
+    "y": 404,
+    "w": 298,
+    "h": 41
+   },
+   {
+    "x": 53,
+    "y": 447,
+    "w": 254,
+    "h": 41
+   },
+   {
+    "x": 55,
+    "y": 506,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 97,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 506,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 506,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 179,
+    "y": 506,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 211,
+    "y": 506,
+    "w": 94,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 529,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 111,
+    "y": 552,
+    "w": 138,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 728,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 770,
+    "w": 149,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 803,
+    "w": 216,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 837,
+    "w": 216,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 870,
+    "w": 232,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 904,
+    "w": 198,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 953,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 976,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 999,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 253,
+    "y": 999,
+    "w": 52,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1022,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1045,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 304,
+    "y": 1045,
+    "w": 18,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1068,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 219,
+    "y": 1068,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1091,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1113,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 172,
+    "y": 1113,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1136,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1159,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1182,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1205,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1228,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1250,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1273,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1296,
+    "w": 222,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1319,
+    "w": 76,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1352,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1375,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1398,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1420,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1443,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1466,
+    "w": 89,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1509,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 76,
+    "y": 1507,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 84,
+    "y": 1509,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1532,
+    "w": 290,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1555,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1577,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1600,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1623,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1646,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1669,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1692,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1714,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 63,
+    "y": 1755,
+    "w": 69,
+    "h": 27
+   },
+   {
+    "x": 132,
+    "y": 1754,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 145,
+    "y": 1755,
+    "w": 152,
+    "h": 27
+   },
+   {
+    "x": 65,
+    "y": 1784,
+    "w": 231,
+    "h": 27
+   },
+   {
+    "x": 92,
+    "y": 1813,
+    "w": 176,
+    "h": 27
+   },
+   {
+    "x": 63,
+    "y": 1842,
+    "w": 235,
+    "h": 27
+   },
+   {
+    "x": 59,
+    "y": 1871,
+    "w": 243,
+    "h": 27
+   },
+   {
+    "x": 49,
+    "y": 2262,
+    "w": 69,
+    "h": 27
+   },
+   {
+    "x": 118,
+    "y": 2261,
+    "w": 12,
+    "h": 19
+   },
+   {
+    "x": 131,
+    "y": 2262,
+    "w": 180,
+    "h": 27
+   },
+   {
+    "x": 145,
+    "y": 2291,
+    "w": 71,
+    "h": 27
+   },
+   {
+    "x": 109,
+    "y": 2521,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 2747,
+    "w": 171,
+    "h": 17
+   },
+   {
+    "x": 109,
+    "y": 2974,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3058,
+    "w": 38,
+    "h": 17
+   },
+   {
+    "x": 68,
+    "y": 3056,
+    "w": 8,
+    "h": 12
+   },
+   {
+    "x": 76,
+    "y": 3058,
+    "w": 157,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3080,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3103,
+    "w": 248,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3126,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3149,
+    "w": 207,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3172,
+    "w": 223,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3195,
+    "w": 89,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3665,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3688,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3710,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3733,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3756,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3779,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3802,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3825,
+    "w": 136,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4082,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 30,
+    "y": 4111,
+    "w": 101,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 4471,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4531,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 4591,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4761,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 5207,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5261,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5272,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5283,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 5294,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 5584,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 5584,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 5584,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 5584,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 5584,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5601,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 5601,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 5601,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 5618,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 5618,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 5618,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

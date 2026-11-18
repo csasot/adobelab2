@@ -1,0 +1,3164 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-17T19:56:55.301Z",
+    "readArtifacts": [
+      "stardust/migrated"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-17T22:31:23.481Z",
+  "pages": [
+    {
+      "slug": "about",
+      "path": "/about",
+      "title": "Personal Care Formulary | Natural Cosmetics Ingredients | Omya",
+      "templateId": "about",
+      "source": {
+        "migratedHtml": "stardust/migrated/about/index.html",
+        "metaJson": "stardust/migrated/about/_meta.json",
+        "sourceHash": "sha256:f00c4eca1fff58e65a15392d4b27a7495f6b0d993967ea56ac48c670ee29060c",
+        "sourceUrl": "https://omyapersonalcare.us/about/"
+      },
+      "blocks": [
+        "page-hero",
+        "alt-row",
+        "cta-band",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/about",
+        "deployedAt": "2026-11-17T18:07:36.901Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.48,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "about-global-partners",
+      "path": "/about/global-partners",
+      "title": "Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya",
+      "templateId": "about-global-partners",
+      "source": {
+        "migratedHtml": "stardust/migrated/about/global-partners/index.html",
+        "metaJson": "stardust/migrated/about/global-partners/_meta.json",
+        "sourceHash": "sha256:80a82b7f18bc175bd444b8b3bcb105bf6365221f64f3734c1bc3916399145924",
+        "sourceUrl": "https://omyapersonalcare.us/about/global-partners/"
+      },
+      "blocks": [
+        "partners",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/about/global-partners",
+        "deployedAt": "2026-11-17T18:45:12.697Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.2,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "about-our-difference",
+      "path": "/about/our-difference",
+      "title": "Natural Cosmetics Ingredients | Organic Raw Materials | Omya",
+      "templateId": "about-our-difference",
+      "source": {
+        "migratedHtml": "stardust/migrated/about/our-difference/index.html",
+        "metaJson": "stardust/migrated/about/our-difference/_meta.json",
+        "sourceHash": "sha256:c2478c92e675e7941b4ad5d3fb147b79f1f0ce3db82e5505d4a98594d54dd5c3",
+        "sourceUrl": "https://omyapersonalcare.us/about/our-difference/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "cta-band",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/about/our-difference",
+        "deployedAt": "2026-11-17T18:45:12.749Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.44,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "about-our-team",
+      "path": "/about/our-team",
+      "title": "Our Team | Omya Personal Care",
+      "templateId": "about-our-team",
+      "source": {
+        "migratedHtml": "stardust/migrated/about/our-team/index.html",
+        "metaJson": "stardust/migrated/about/our-team/_meta.json",
+        "sourceHash": "sha256:b5b23bb52168723c49ce67f1a3914b8ce58f8f2ddf1934d1898781f1789d3635",
+        "sourceUrl": "https://omyapersonalcare.us/about/our-team/"
+      },
+      "blocks": [
+        "team",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/about/our-team",
+        "deployedAt": "2026-11-17T18:45:12.808Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.35,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 19,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-aak-partnership",
+      "path": "/blog/aak-partnership",
+      "title": "AAK Partnership - Omya Personal Care",
+      "templateId": "blog-aak-partnership",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/aak-partnership/index.html",
+        "metaJson": "stardust/migrated/blog/aak-partnership/_meta.json",
+        "sourceHash": "sha256:6ef5c06c2c8e95ffeaa9bc1e20c09f6c2961eab5d7c49d6052742d86d296862f",
+        "sourceUrl": "https://omyapersonalcare.us/blog/aak-partnership/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/blog/aak-partnership",
+        "deployedAt": "2026-11-17T18:16:17.322Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.24,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-announcing-our-latest-product-launches",
+      "path": "/blog/announcing-our-latest-product-launches",
+      "title": "Announcing Our Latest Product Launches! - Omya Personal Care",
+      "templateId": "blog-announcing-our-latest-product-launches",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/announcing-our-latest-product-launches/index.html",
+        "metaJson": "stardust/migrated/blog/announcing-our-latest-product-launches/_meta.json",
+        "sourceHash": "sha256:ea74dc5cc6b962a56c192a1fbeab6822ee04f128450445cfb44cb373a2c15ca1",
+        "sourceUrl": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/announcing-our-latest-product-launches",
+        "deployedAt": "2026-11-17T18:51:31.729Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.96,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-asp-products-pay-your-invoice",
+      "path": "/blog/asp-products/pay-your-invoice",
+      "title": "Pay Your Invoice - Omya Personal Care",
+      "templateId": "blog-asp-products-pay-your-invoice",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/asp-products/pay-your-invoice/index.html",
+        "metaJson": "stardust/migrated/blog/asp-products/pay-your-invoice/_meta.json",
+        "sourceHash": "sha256:895b04d34e42d6385c1acaf43dfe9112745baab445de18a087868684924850b2",
+        "sourceUrl": "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/"
+      },
+      "blocks": [
+        "form",
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/asp-products/pay-your-invoice",
+        "deployedAt": "2026-11-17T19:24:54.179Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.83,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "path": "/blog/eco-friendly-high-performance-sun-care-solutions",
+      "title": "Eco-Friendly &amp; High-Performance Sun Care Solutions - Omya",
+      "templateId": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/eco-friendly-high-performance-sun-care-solutions/index.html",
+        "metaJson": "stardust/migrated/blog/eco-friendly-high-performance-sun-care-solutions/_meta.json",
+        "sourceHash": "sha256:42b39dca0e810cb259867e3ee2d45652ea5aa6ecb8cc6579d0f63797bff9462d",
+        "sourceUrl": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "video-grid",
+        "columns",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/eco-friendly-high-performance-sun-care-solutions",
+        "deployedAt": "2026-11-17T18:51:31.820Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.19,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-february-is-national-childrens-dental-health-month",
+      "path": "/blog/february-is-national-childrens-dental-health-month",
+      "title": "February is National Children's Dental Health Month - Omya Personal Care",
+      "templateId": "blog-february-is-national-childrens-dental-health-month",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/february-is-national-childrens-dental-health-month/index.html",
+        "metaJson": "stardust/migrated/blog/february-is-national-childrens-dental-health-month/_meta.json",
+        "sourceHash": "sha256:b104ce2041df85ec5b74e5ea56df433e8f50b20e759ce03b37c26fb5c9f013d5",
+        "sourceUrl": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "striped-table",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/february-is-national-childrens-dental-health-month",
+        "deployedAt": "2026-11-17T18:51:31.903Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.63,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "path": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "title": "Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care",
+      "templateId": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/index.html",
+        "metaJson": "stardust/migrated/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/_meta.json",
+        "sourceHash": "sha256:d9e08fba4c77db8a6e4c73a095d3e852b0670db71417313604a4a8afa9da89b9",
+        "sourceUrl": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "deployedAt": "2026-11-17T18:51:31.991Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.67,
+          "heightDelta": 214,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.67% > 10%"
+          ],
+          "override": "PASS",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-how-2025-reshaped-oral-health",
+      "path": "/blog/how-2025-reshaped-oral-health",
+      "title": "How 2025 Reshaped Oral Health - Omya Personal Care",
+      "templateId": "blog-how-2025-reshaped-oral-health",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/how-2025-reshaped-oral-health/index.html",
+        "metaJson": "stardust/migrated/blog/how-2025-reshaped-oral-health/_meta.json",
+        "sourceHash": "sha256:d6f636cb621435083a8c1fe7f7fbe85bbe267ba97b2910076e792ab8cbda10ed",
+        "sourceUrl": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/how-2025-reshaped-oral-health",
+        "deployedAt": "2026-11-17T18:51:32.075Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.84,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+      "path": "/blog/introducing-our-newest-supply-partner-quimivita",
+      "title": "Introducing our newest supply partner, Quimivita - Omya Personal Care",
+      "templateId": "blog-introducing-our-newest-supply-partner-quimivita",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/introducing-our-newest-supply-partner-quimivita/index.html",
+        "metaJson": "stardust/migrated/blog/introducing-our-newest-supply-partner-quimivita/_meta.json",
+        "sourceHash": "sha256:eb689eaaeeab746239d903befcb94d023de1d89b70a753a4d7f7c6e5175c1e1e",
+        "sourceUrl": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/introducing-our-newest-supply-partner-quimivita",
+        "deployedAt": "2026-11-17T18:51:32.159Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.59,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-national-toothache-day-february-9th",
+      "path": "/blog/national-toothache-day-february-9th",
+      "title": "National Toothache Day - February 9th - Omya Personal Care",
+      "templateId": "blog-national-toothache-day-february-9th",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/national-toothache-day-february-9th/index.html",
+        "metaJson": "stardust/migrated/blog/national-toothache-day-february-9th/_meta.json",
+        "sourceHash": "sha256:bb4dde95bb059073178ea61eedd9dac9b621cd5321901011ce4c0e0d93f9cca4",
+        "sourceUrl": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/national-toothache-day-february-9th",
+        "deployedAt": "2026-11-17T18:51:32.244Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.18,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-nutrition-x-oral-health",
+      "path": "/blog/nutrition-x-oral-health",
+      "title": "Trend Spotlight: Nutrition x Oral Health - Omya Personal Care",
+      "templateId": "blog-nutrition-x-oral-health",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/nutrition-x-oral-health/index.html",
+        "metaJson": "stardust/migrated/blog/nutrition-x-oral-health/_meta.json",
+        "sourceHash": "sha256:91488ac89afa085a28ccd8f45b8ea69345b45000ccd492673136c20416abc545",
+        "sourceUrl": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/nutrition-x-oral-health",
+        "deployedAt": "2026-11-17T18:51:32.333Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.91,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "path": "/blog/omya-announces-new-partnership-with-actv-biotechnology",
+      "title": "Omya announces a new partnership with ACTV Biotechnology",
+      "templateId": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/omya-announces-new-partnership-with-actv-biotechnology/index.html",
+        "metaJson": "stardust/migrated/blog/omya-announces-new-partnership-with-actv-biotechnology/_meta.json",
+        "sourceHash": "sha256:2a20027b1c2d7fb2069da4121e1655088183be27e51e750994fd9d17454833b7",
+        "sourceUrl": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/omya-announces-new-partnership-with-actv-biotechnology",
+        "deployedAt": "2026-11-17T18:51:32.415Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.39,
+          "heightDelta": 6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-omya-partners-with-lipoid-kosmetik",
+      "path": "/blog/omya-partners-with-lipoid-kosmetik",
+      "title": "Omya Partners with Lipoid Kosmetik",
+      "templateId": "blog-omya-partners-with-lipoid-kosmetik",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/omya-partners-with-lipoid-kosmetik/index.html",
+        "metaJson": "stardust/migrated/blog/omya-partners-with-lipoid-kosmetik/_meta.json",
+        "sourceHash": "sha256:75c1143c5fef90e8a5e2abddf4ec07cae68da3a9df6a4154e8189ebb5ab4a271",
+        "sourceUrl": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/omya-partners-with-lipoid-kosmetik",
+        "deployedAt": "2026-11-17T18:51:32.503Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.33,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "path": "/blog/pacific-blends-and-omya-specialty-materials-partnership",
+      "title": "Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care",
+      "templateId": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/pacific-blends-and-omya-specialty-materials-partnership/index.html",
+        "metaJson": "stardust/migrated/blog/pacific-blends-and-omya-specialty-materials-partnership/_meta.json",
+        "sourceHash": "sha256:2ade2a3a7a18e673d21a40595d0d13304276977de4ab0a5dcab195fdea14187a",
+        "sourceUrl": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/pacific-blends-and-omya-specialty-materials-partnership",
+        "deployedAt": "2026-11-17T18:51:32.586Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.63,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-skinification-of-oral-care",
+      "path": "/blog/skinification-of-oral-care",
+      "title": "Skinification of Oral Care - Omya Personal Care",
+      "templateId": "blog-skinification-of-oral-care",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/skinification-of-oral-care/index.html",
+        "metaJson": "stardust/migrated/blog/skinification-of-oral-care/_meta.json",
+        "sourceHash": "sha256:a03c3b8ac705b2ff5fe99923183574df7f3d5f6818e6d01592c2891076b5f91d",
+        "sourceUrl": "https://omyapersonalcare.us/blog/skinification-of-oral-care/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/skinification-of-oral-care",
+        "deployedAt": "2026-11-17T18:51:32.674Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.23,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-the-healthy-bite",
+      "path": "/blog/the-healthy-bite",
+      "title": "The Healthy Bite - Omya Personal Care",
+      "templateId": "blog-the-healthy-bite",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/the-healthy-bite/index.html",
+        "metaJson": "stardust/migrated/blog/the-healthy-bite/_meta.json",
+        "sourceHash": "sha256:c82e3548a64daed81025c6b7a5fc9568b1c678abc2d4ddf611937ea86365cd6e",
+        "sourceUrl": "https://omyapersonalcare.us/blog/the-healthy-bite/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/the-healthy-bite",
+        "deployedAt": "2026-11-17T18:51:32.763Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.11,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-trend-spotlight-oil-pulling",
+      "path": "/blog/trend-spotlight-oil-pulling",
+      "title": "Trend Spotlight: Oil Pulling - Omya Personal Care",
+      "templateId": "blog-trend-spotlight-oil-pulling",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/trend-spotlight-oil-pulling/index.html",
+        "metaJson": "stardust/migrated/blog/trend-spotlight-oil-pulling/_meta.json",
+        "sourceHash": "sha256:cb1d631398ce0eba0c55ab44c5c5f376fe45d5f4b4e7f340830fb6172b90dcd7",
+        "sourceUrl": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "figure",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/trend-spotlight-oil-pulling",
+        "deployedAt": "2026-11-17T18:51:32.848Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.02,
+          "heightDelta": -5,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-water-conscious-oral-care-solutions",
+      "path": "/blog/water-conscious-oral-care-solutions",
+      "title": "Water Conscious Oral Care Solutions - Omya Personal Care",
+      "templateId": "blog-water-conscious-oral-care-solutions",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/water-conscious-oral-care-solutions/index.html",
+        "metaJson": "stardust/migrated/blog/water-conscious-oral-care-solutions/_meta.json",
+        "sourceHash": "sha256:5d28135a2ce34b0951e40706e1918b7c687cf1470edead0fb12194924f9d3e7b",
+        "sourceUrl": "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/water-conscious-oral-care-solutions",
+        "deployedAt": "2026-11-17T18:51:32.939Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.57,
+          "heightDelta": 20,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+      "path": "/blog/welcoming-monica-advani-to-the-omya-team",
+      "title": "Welcoming Monica Advani to the Omya Team - Omya Personal Care",
+      "templateId": "blog-welcoming-monica-advani-to-the-omya-team",
+      "source": {
+        "migratedHtml": "stardust/migrated/blog/welcoming-monica-advani-to-the-omya-team/index.html",
+        "metaJson": "stardust/migrated/blog/welcoming-monica-advani-to-the-omya-team/_meta.json",
+        "sourceHash": "sha256:a24a31635ed3f30a72c5763d998fa1c069899274fa368be480d270316782cfea",
+        "sourceUrl": "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/blog/welcoming-monica-advani-to-the-omya-team",
+        "deployedAt": "2026-11-17T18:51:33.035Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.48,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "careers",
+      "path": "/careers",
+      "title": "Careers | Omya Personal Care",
+      "templateId": "careers",
+      "source": {
+        "migratedHtml": "stardust/migrated/careers/index.html",
+        "metaJson": "stardust/migrated/careers/_meta.json",
+        "sourceHash": "sha256:8e538eb253d6f4ea3c8819a03ed6d653d60ad570506787c9b9b947720839f75e",
+        "sourceUrl": "https://omyapersonalcare.us/careers/"
+      },
+      "blocks": [
+        "form",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/careers",
+        "deployedAt": "2026-11-17T19:24:54.238Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.15,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "contact",
+      "path": "/contact",
+      "title": "Contact Us | Omya Personal Care",
+      "templateId": "contact",
+      "source": {
+        "migratedHtml": "stardust/migrated/contact/index.html",
+        "metaJson": "stardust/migrated/contact/_meta.json",
+        "sourceHash": "sha256:0c002e8df058350ee791311881b20c236c1167a90f8acd7008975bc4e26afac4",
+        "sourceUrl": "https://omyapersonalcare.us/contact/"
+      },
+      "blocks": [
+        "page-hero",
+        "contact-offices",
+        "cta-band",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/contact",
+        "deployedAt": "2026-11-17T18:22:06.686Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.41,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "contact-rep-locator",
+      "path": "/contact/rep-locator",
+      "title": "Rep Locator | Omya Personal Care",
+      "templateId": "contact-rep-locator",
+      "source": {
+        "migratedHtml": "stardust/migrated/contact/rep-locator/index.html",
+        "metaJson": "stardust/migrated/contact/rep-locator/_meta.json",
+        "sourceHash": "sha256:f696d5a63b2645a0da7206c1496f67b9340ef2f1c4af3ab15a77fcabc02ea588",
+        "sourceUrl": "https://omyapersonalcare.us/contact/rep-locator/"
+      },
+      "blocks": [
+        "page-hero",
+        "rep-locator",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/contact/rep-locator",
+        "deployedAt": "2026-11-17T18:25:30.440Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.72,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "customer-resources",
+      "path": "/customer-resources",
+      "title": "Omya Personal Care Customer Resources",
+      "templateId": "customer-resources",
+      "source": {
+        "migratedHtml": "stardust/migrated/customer-resources/index.html",
+        "metaJson": "stardust/migrated/customer-resources/_meta.json",
+        "sourceHash": "sha256:4fd6b21a54340bddd4e388e7c2c80fd451e8e2f49468e012cdc8e5aeaa61b576",
+        "sourceUrl": "https://omyapersonalcare.us/customer-resources/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/customer-resources",
+        "deployedAt": "2026-11-17T18:45:12.862Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.12,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "customer-resources-credit-application",
+      "path": "/customer-resources/credit-application",
+      "title": "Credit Application | Omya Personal Care",
+      "templateId": "customer-resources-credit-application",
+      "source": {
+        "migratedHtml": "stardust/migrated/customer-resources/credit-application/index.html",
+        "metaJson": "stardust/migrated/customer-resources/credit-application/_meta.json",
+        "sourceHash": "sha256:9d0d9c20a14c3b3d166cb0ff668bb11dc676098098959d0dbc6df170e53ef662",
+        "sourceUrl": "https://omyapersonalcare.us/customer-resources/credit-application/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/customer-resources/credit-application",
+        "deployedAt": "2026-11-17T19:24:54.300Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.69,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "customer-resources-onboarding",
+      "path": "/customer-resources/onboarding",
+      "title": "Onboarding | Omya Personal Care",
+      "templateId": "customer-resources-onboarding",
+      "source": {
+        "migratedHtml": "stardust/migrated/customer-resources/onboarding/index.html",
+        "metaJson": "stardust/migrated/customer-resources/onboarding/_meta.json",
+        "sourceHash": "sha256:3243ee04bebc59f801e88f95c00a09726a2d3c31dfa291888c4864d65d2d42a9",
+        "sourceUrl": "https://omyapersonalcare.us/customer-resources/onboarding/"
+      },
+      "blocks": [
+        "form",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/customer-resources/onboarding",
+        "deployedAt": "2026-11-17T19:24:54.359Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.84,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 3,
+            "hiddenButtons": 0,
+            "findings": 8,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events",
+      "path": "/events",
+      "title": "Events Archive - Omya Personal Care",
+      "templateId": "events",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/index.html",
+        "metaJson": "stardust/migrated/events/_meta.json",
+        "sourceHash": "sha256:09932c7382d8b6eb874619b6ae1de1f474e6aa4c78ba56b936c1a90647ec8954",
+        "sourceUrl": "https://omyapersonalcare.us/events/"
+      },
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events",
+        "deployedAt": "2026-11-17T19:57:48.059Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.03,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-2019-sunscreen-symposium",
+      "path": "/events/2019-sunscreen-symposium",
+      "title": "2019 Sunscreen Symposium - Omya Personal Care",
+      "templateId": "events-2019-sunscreen-symposium",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/2019-sunscreen-symposium/index.html",
+        "metaJson": "stardust/migrated/events/2019-sunscreen-symposium/_meta.json",
+        "sourceHash": "sha256:357473c0e54630970b82efdd6d72d71d41d4e71a4035e03ba4978ee25cec6296",
+        "sourceUrl": "https://omyapersonalcare.us/events/2019-sunscreen-symposium/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/2019-sunscreen-symposium",
+        "deployedAt": "2026-11-17T18:51:33.120Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.57,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-3590",
+      "path": "/events/3590",
+      "title": "California Suppliers’ Day Booth #335 - Omya Personal Care",
+      "templateId": "events-3590",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/3590/index.html",
+        "metaJson": "stardust/migrated/events/3590/_meta.json",
+        "sourceHash": "sha256:cfb7fe03bc053add1a6068b265d452d9cd3ebe8ef754a810f7ebcd8b3aaca921",
+        "sourceUrl": "https://omyapersonalcare.us/events/3590/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/3590",
+        "deployedAt": "2026-11-17T18:51:33.214Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.43,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "path": "/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "title": "Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care",
+      "templateId": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/index.html",
+        "metaJson": "stardust/migrated/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/_meta.json",
+        "sourceHash": "sha256:00cb4cd58726cf2beaa0b4ff29884526d77ba84e71d3d097cc4378731cb3ead7",
+        "sourceUrl": "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+        "deployedAt": "2026-11-17T18:51:33.306Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.23,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-cosmoprof-north-america",
+      "path": "/events/cosmoprof-north-america",
+      "title": "Cosmoprof North America - Omya Personal Care",
+      "templateId": "events-cosmoprof-north-america",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/cosmoprof-north-america/index.html",
+        "metaJson": "stardust/migrated/events/cosmoprof-north-america/_meta.json",
+        "sourceHash": "sha256:20c0d67874b91f46743d8159039978458a23e9875b067218e6dc45d8f95a948a",
+        "sourceUrl": "https://omyapersonalcare.us/events/cosmoprof-north-america/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/cosmoprof-north-america",
+        "deployedAt": "2026-11-17T18:51:33.392Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-evercare-seminar-la",
+      "path": "/events/evercare-seminar-la",
+      "title": "Evercare Seminar LA - Omya Personal Care",
+      "templateId": "events-evercare-seminar-la",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/evercare-seminar-la/index.html",
+        "metaJson": "stardust/migrated/events/evercare-seminar-la/_meta.json",
+        "sourceHash": "sha256:887a25ad29b6c55c2cbe23b33233878b32963b16ff85662ca346fa9c89e6a4d2",
+        "sourceUrl": "https://omyapersonalcare.us/events/evercare-seminar-la/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/evercare-seminar-la",
+        "deployedAt": "2026-11-17T18:51:33.483Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "path": "/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "title": "ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care",
+      "templateId": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/index.html",
+        "metaJson": "stardust/migrated/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/_meta.json",
+        "sourceHash": "sha256:97cbcfe36bb40948a102284290824ed13eeb45eb9448c45caf5f53753c15dc54",
+        "sourceUrl": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+        "deployedAt": "2026-11-17T18:51:33.571Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.23,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "path": "/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "title": "IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care",
+      "templateId": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/index.html",
+        "metaJson": "stardust/migrated/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/_meta.json",
+        "sourceHash": "sha256:3c4090e3bccd86d0973fd844718386442111bf7f798569b6437c021e9fd36e1b",
+        "sourceUrl": "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+        "deployedAt": "2026-11-17T18:51:33.664Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.41,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-in-cosmetics-global",
+      "path": "/events/in-cosmetics-global",
+      "title": "In-Cosmetics Global - Omya Personal Care",
+      "templateId": "events-in-cosmetics-global",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/in-cosmetics-global/index.html",
+        "metaJson": "stardust/migrated/events/in-cosmetics-global/_meta.json",
+        "sourceHash": "sha256:1a663741fbd644b6a4177bf36bfa172800232c11bd5f9ae5d1e44f714ade82a1",
+        "sourceUrl": "https://omyapersonalcare.us/events/in-cosmetics-global/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/in-cosmetics-global",
+        "deployedAt": "2026-11-17T18:51:33.933Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-in-cosmetics-global-2022",
+      "path": "/events/in-cosmetics-global-2022",
+      "title": "In-Cosmetics Global 2022 - Omya Personal Care",
+      "templateId": "events-in-cosmetics-global-2022",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/in-cosmetics-global-2022/index.html",
+        "metaJson": "stardust/migrated/events/in-cosmetics-global-2022/_meta.json",
+        "sourceHash": "sha256:62d449d4a813321673425ab3e6e21bbfc385e1d1072a5fb0a65d3bb99ab7112c",
+        "sourceUrl": "https://omyapersonalcare.us/events/in-cosmetics-global-2022/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/in-cosmetics-global-2022",
+        "deployedAt": "2026-11-17T18:51:33.748Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "path": "/events/in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "title": "In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care",
+      "templateId": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/index.html",
+        "metaJson": "stardust/migrated/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/_meta.json",
+        "sourceHash": "sha256:360b01a2418e01af1e271dbcd6f22484eec72528d2ca9e75d657d0bef2afdb55",
+        "sourceUrl": "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/in-cosmetics-global-attended-by-kinetik-and-suppliers",
+        "deployedAt": "2026-11-17T18:51:33.841Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.35,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-indie-beauty-expo-la",
+      "path": "/events/indie-beauty-expo-la",
+      "title": "Indie Beauty Expo LA - Omya Personal Care",
+      "templateId": "events-indie-beauty-expo-la",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/indie-beauty-expo-la/index.html",
+        "metaJson": "stardust/migrated/events/indie-beauty-expo-la/_meta.json",
+        "sourceHash": "sha256:7e9019c745c2d2358600e53da1a774a676ca1e36fd2965e4d17722fcd91eeec0",
+        "sourceUrl": "https://omyapersonalcare.us/events/indie-beauty-expo-la/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/indie-beauty-expo-la",
+        "deployedAt": "2026-11-17T18:51:34.018Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-indie-beauty-expo-ny",
+      "path": "/events/indie-beauty-expo-ny",
+      "title": "Indie Beauty Expo NY - August 2020 - Omya Personal Care",
+      "templateId": "events-indie-beauty-expo-ny",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/indie-beauty-expo-ny/index.html",
+        "metaJson": "stardust/migrated/events/indie-beauty-expo-ny/_meta.json",
+        "sourceHash": "sha256:6bc9371b7e65175a4c47a54dd27a1aea1854732f8f35890dd2692bbd400d316d",
+        "sourceUrl": "https://omyapersonalcare.us/events/indie-beauty-expo-ny/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/indie-beauty-expo-ny",
+        "deployedAt": "2026-11-17T18:51:34.107Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.52,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "path": "/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "title": "Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care",
+      "templateId": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/index.html",
+        "metaJson": "stardust/migrated/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/_meta.json",
+        "sourceHash": "sha256:e3711ec48a6529e970fca43fc848781df38406ff087df2331da328b0039c763d",
+        "sourceUrl": "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+        "deployedAt": "2026-11-17T18:51:34.197Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.35,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-join-us-at-a-kinetik-technology-seminar",
+      "path": "/events/join-us-at-a-kinetik-technology-seminar",
+      "title": "Join us at a Kinetik Technology Seminar! - Omya Personal Care",
+      "templateId": "events-join-us-at-a-kinetik-technology-seminar",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/join-us-at-a-kinetik-technology-seminar/index.html",
+        "metaJson": "stardust/migrated/events/join-us-at-a-kinetik-technology-seminar/_meta.json",
+        "sourceHash": "sha256:ee0b1126bb5af50332f94b6530e5fabf4638bce0ec67dc7d71faf2a80a1a5722",
+        "sourceUrl": "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/join-us-at-a-kinetik-technology-seminar",
+        "deployedAt": "2026-11-17T18:51:34.310Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.43,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+      "path": "/events/kinetik-attends-ca-suppliers-day-2019",
+      "title": "Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care",
+      "templateId": "events-kinetik-attends-ca-suppliers-day-2019",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/kinetik-attends-ca-suppliers-day-2019/index.html",
+        "metaJson": "stardust/migrated/events/kinetik-attends-ca-suppliers-day-2019/_meta.json",
+        "sourceHash": "sha256:cb760aaeea9f932c9b6fc52661623aac2c53690b8149a470ea47fde191357abe",
+        "sourceUrl": "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/kinetik-attends-ca-suppliers-day-2019",
+        "deployedAt": "2026-11-17T18:51:34.399Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.15,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "path": "/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "title": "Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care",
+      "templateId": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/index.html",
+        "metaJson": "stardust/migrated/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/_meta.json",
+        "sourceHash": "sha256:c8498715603a548d70765d79dfb5823bb817073137aa72c94e9ad9691565f9cf",
+        "sourceUrl": "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+        "deployedAt": "2026-11-17T18:51:34.488Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.42,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "path": "/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "title": "Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care",
+      "templateId": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/index.html",
+        "metaJson": "stardust/migrated/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/_meta.json",
+        "sourceHash": "sha256:d9a31660653d44c540c603058a54f77a7210fe36f53466398c784c2b9d6161a6",
+        "sourceUrl": "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+        "deployedAt": "2026-11-17T18:51:34.578Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.05,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-makeup-los-angeles",
+      "path": "/events/makeup-los-angeles",
+      "title": "MakeUp Los Angeles - Omya Personal Care",
+      "templateId": "events-makeup-los-angeles",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/makeup-los-angeles/index.html",
+        "metaJson": "stardust/migrated/events/makeup-los-angeles/_meta.json",
+        "sourceHash": "sha256:3bb84bc2246d6d09d9be5f12351b6871a287546d4239e69c87174456008dc20a",
+        "sourceUrl": "https://omyapersonalcare.us/events/makeup-los-angeles/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/makeup-los-angeles",
+        "deployedAt": "2026-11-17T18:51:34.670Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-midwest-scc-teamworks",
+      "path": "/events/midwest-scc-teamworks",
+      "title": "Midwest SCC TeamWorks - Omya Personal Care",
+      "templateId": "events-midwest-scc-teamworks",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/midwest-scc-teamworks/index.html",
+        "metaJson": "stardust/migrated/events/midwest-scc-teamworks/_meta.json",
+        "sourceHash": "sha256:b34e62581794d6a9bcb05039d831720eb9791b2f0f5289976477806574a08c57",
+        "sourceUrl": "https://omyapersonalcare.us/events/midwest-scc-teamworks/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/midwest-scc-teamworks",
+        "deployedAt": "2026-11-17T18:51:34.752Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-naturally-kiawah-symposium",
+      "path": "/events/naturally-kiawah-symposium",
+      "title": "Naturally Kiawah Symposium - Omya Personal Care",
+      "templateId": "events-naturally-kiawah-symposium",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/naturally-kiawah-symposium/index.html",
+        "metaJson": "stardust/migrated/events/naturally-kiawah-symposium/_meta.json",
+        "sourceHash": "sha256:dec92e648bbec5b2a3d97d013382b3b36a038cbcc242ba6320be2e1f673fdc8e",
+        "sourceUrl": "https://omyapersonalcare.us/events/naturally-kiawah-symposium/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/naturally-kiawah-symposium",
+        "deployedAt": "2026-11-17T18:51:34.844Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-ny-suppliers-day-2023",
+      "path": "/events/ny-suppliers-day-2023",
+      "title": "NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care",
+      "templateId": "events-ny-suppliers-day-2023",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/ny-suppliers-day-2023/index.html",
+        "metaJson": "stardust/migrated/events/ny-suppliers-day-2023/_meta.json",
+        "sourceHash": "sha256:ab0e8034bd7aa71b66d498985a2cbd8fae643fd88a83fc4901c39d14c227cc10",
+        "sourceUrl": "https://omyapersonalcare.us/events/ny-suppliers-day-2023/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/ny-suppliers-day-2023",
+        "deployedAt": "2026-11-17T18:51:34.932Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.43,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-nyscc-suppliers-day-2021",
+      "path": "/events/nyscc-suppliers-day-2021",
+      "title": "NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care",
+      "templateId": "events-nyscc-suppliers-day-2021",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/nyscc-suppliers-day-2021/index.html",
+        "metaJson": "stardust/migrated/events/nyscc-suppliers-day-2021/_meta.json",
+        "sourceHash": "sha256:f78f5c6e1a1de1c7e37b3f6baa9eb28404204bfcc4b8a21994f86341cc351f49",
+        "sourceUrl": "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/nyscc-suppliers-day-2021",
+        "deployedAt": "2026-11-17T18:51:35.017Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.43,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "path": "/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "title": "Society of Cosmetic Chemists: Ingredion Inc.'s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care",
+      "templateId": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/index.html",
+        "metaJson": "stardust/migrated/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/_meta.json",
+        "sourceHash": "sha256:131957a470413b27318eb2bf5c5f2334b82ee1ce36de3494d96a3f0e761aae33",
+        "sourceUrl": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+        "deployedAt": "2026-11-17T18:51:35.104Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.89,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "path": "/events/suppliers-day-2019-visit-the-kinetik-booth",
+      "title": "Suppliers' Day 2019: Visit the Kinetik Booth! - Omya Personal Care",
+      "templateId": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/suppliers-day-2019-visit-the-kinetik-booth/index.html",
+        "metaJson": "stardust/migrated/events/suppliers-day-2019-visit-the-kinetik-booth/_meta.json",
+        "sourceHash": "sha256:242740631a46518ae287cea432de1d1021802844879fc05a4d2f6855f8a1e438",
+        "sourceUrl": "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/suppliers-day-2019-visit-the-kinetik-booth",
+        "deployedAt": "2026-11-17T18:51:35.192Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.43,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "events-swscc-suppliers-day",
+      "path": "/events/swscc-suppliers-day",
+      "title": "SWSCC Suppliers’ Day - Omya Personal Care",
+      "templateId": "events-swscc-suppliers-day",
+      "source": {
+        "migratedHtml": "stardust/migrated/events/swscc-suppliers-day/index.html",
+        "metaJson": "stardust/migrated/events/swscc-suppliers-day/_meta.json",
+        "sourceHash": "sha256:a4d58f446cd6d792154c9d0a0a9889213bc434d3a25b5796a27228ce54a3d7a2",
+        "sourceUrl": "https://omyapersonalcare.us/events/swscc-suppliers-day/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/events/swscc-suppliers-day",
+        "deployedAt": "2026-11-17T18:51:35.286Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "formulary-request",
+      "path": "/formulary-request",
+      "title": "Cosmetics Formulary and Personal Care Product Recipe Source | Omya",
+      "templateId": "formulary-request",
+      "source": {
+        "migratedHtml": "stardust/migrated/formulary-request/index.html",
+        "metaJson": "stardust/migrated/formulary-request/_meta.json",
+        "sourceHash": "sha256:60930ff818e9e6852e9f1194f4dab94734b8a196d85d91af24fc2f0f38cc7acf",
+        "sourceUrl": "https://omyapersonalcare.us/formulary-request/"
+      },
+      "blocks": [
+        "form",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/formulary-request",
+        "deployedAt": "2026-11-17T19:24:54.421Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.21,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "get-a-sample",
+      "path": "/get-a-sample",
+      "title": "Request a Sample | Omya Personal Care",
+      "templateId": "form",
+      "source": {
+        "migratedHtml": "stardust/migrated/get-a-sample/index.html",
+        "metaJson": "stardust/migrated/get-a-sample/_meta.json",
+        "sourceHash": "sha256:7576d1e141e6113a39f9257193268e5292bd65326cda42d751f9467b8960fbd0",
+        "sourceUrl": "https://omyapersonalcare.us/get-a-sample/"
+      },
+      "blocks": [
+        "page-hero",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/get-a-sample",
+        "deployedAt": "2026-11-17T19:24:54.485Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.16,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Innovative Raw Materials For The Personal Care Industry | Omya",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:8f43467bebfefe490a948087d6951892c5b62a88ab76b60a0eb914166b3ef56f",
+        "sourceUrl": "https://omyapersonalcare.us/"
+      },
+      "blocks": [
+        "hero",
+        "process",
+        "feature-row",
+        "partners",
+        "promo",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/",
+        "deployedAt": "2026-11-17T18:00:03.558Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.54,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "font-not-loaded:frutigerbold"
+          ],
+          "override": "PASS",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "insights",
+      "path": "/insights",
+      "title": "Natural Cosmetics News, Insights and Resources | Omya",
+      "templateId": "insights",
+      "source": {
+        "migratedHtml": "stardust/migrated/insights/index.html",
+        "metaJson": "stardust/migrated/insights/_meta.json",
+        "sourceHash": "sha256:fb06b790b08ead489b14178af79843210d1646add58bb95e97796222511d2cd1",
+        "sourceUrl": "https://omyapersonalcare.us/insights/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "alt-row",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/insights",
+        "deployedAt": "2026-11-17T18:45:12.917Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.11,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "insights-blog",
+      "path": "/insights/blog",
+      "title": "Latest Natural Trends and Ingredient News | Omya Personal Care",
+      "templateId": "insights-blog",
+      "source": {
+        "migratedHtml": "stardust/migrated/insights/blog/index.html",
+        "metaJson": "stardust/migrated/insights/blog/_meta.json",
+        "sourceHash": "sha256:dbe8191789a86e5571d131c9ba4a6a65a8cf0124f96ae8661edb4a790a1d72b3",
+        "sourceUrl": "https://omyapersonalcare.us/insights/blog/"
+      },
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/insights/blog",
+        "deployedAt": "2026-11-17T18:17:28.454Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.33,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "insights-events",
+      "path": "/insights/events",
+      "title": "Upcoming Events | Omya Personal Care",
+      "templateId": "insights-events",
+      "source": {
+        "migratedHtml": "stardust/migrated/insights/events/index.html",
+        "metaJson": "stardust/migrated/insights/events/_meta.json",
+        "sourceHash": "sha256:cd7b0a0444abad8a54b9a18472fba962906b3ea09886d3fd29edf7caec065036",
+        "sourceUrl": "https://omyapersonalcare.us/insights/events/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/insights/events",
+        "deployedAt": "2026-11-17T19:57:48.121Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.32,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "news",
+      "path": "/news",
+      "title": "News Archive - Omya Personal Care",
+      "templateId": "news",
+      "source": {
+        "migratedHtml": "stardust/migrated/news/index.html",
+        "metaJson": "stardust/migrated/news/_meta.json",
+        "sourceHash": "sha256:d8ec4163438d82eebdae6562332e639d72093b39542d01ae9b648d9b8286d616",
+        "sourceUrl": "https://omyapersonalcare.us/news/"
+      },
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/news",
+        "deployedAt": "2026-11-17T19:57:48.184Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.29,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "news-news-item-1",
+      "path": "/news/news-item-1",
+      "title": "News Item 1 - Omya Personal Care",
+      "templateId": "news-news-item-1",
+      "source": {
+        "migratedHtml": "stardust/migrated/news/news-item-1/index.html",
+        "metaJson": "stardust/migrated/news/news-item-1/_meta.json",
+        "sourceHash": "sha256:ccfe5ffbb0004a7186be1991f4cdc81de835e75f98b19134535d5c23f4bb2ada",
+        "sourceUrl": "https://omyapersonalcare.us/news/news-item-1/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/news/news-item-1",
+        "deployedAt": "2026-11-17T18:51:35.373Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.64,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "news-news-item-2",
+      "path": "/news/news-item-2",
+      "title": "News Item 2 - Omya Personal Care",
+      "templateId": "news-news-item-2",
+      "source": {
+        "migratedHtml": "stardust/migrated/news/news-item-2/index.html",
+        "metaJson": "stardust/migrated/news/news-item-2/_meta.json",
+        "sourceHash": "sha256:587b85ba447a30cde0bd80f027a67e2b994d50661583752ffe970048f04378f5",
+        "sourceUrl": "https://omyapersonalcare.us/news/news-item-2/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/news/news-item-2",
+        "deployedAt": "2026-11-17T18:51:35.466Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.73,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "news-news-item-3",
+      "path": "/news/news-item-3",
+      "title": "News Item 3 - Omya Personal Care",
+      "templateId": "news-news-item-3",
+      "source": {
+        "migratedHtml": "stardust/migrated/news/news-item-3/index.html",
+        "metaJson": "stardust/migrated/news/news-item-3/_meta.json",
+        "sourceHash": "sha256:379d786627444475c2d47abb8a9835431f1ab3a7d22ef657def582b119627035",
+        "sourceUrl": "https://omyapersonalcare.us/news/news-item-3/"
+      },
+      "blocks": [
+        "page-hero",
+        "article",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/news/news-item-3",
+        "deployedAt": "2026-11-17T18:51:35.552Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.66,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "our-approach",
+      "path": "/our-approach",
+      "title": "Natural, Organic, Sustainable Cosmetics Ingredients &amp; Materials | Omya",
+      "templateId": "our-approach",
+      "source": {
+        "migratedHtml": "stardust/migrated/our-approach/index.html",
+        "metaJson": "stardust/migrated/our-approach/_meta.json",
+        "sourceHash": "sha256:00bd293b5bc4dbb9d9b1f83980ecff6d7d703d6654192eebc6105e10ca51f81f",
+        "sourceUrl": "https://omyapersonalcare.us/our-approach/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "alt-row",
+        "cta-band",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/our-approach",
+        "deployedAt": "2026-11-17T18:45:12.972Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.65,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "our-formulations",
+      "path": "/our-formulations",
+      "title": "Our Formulations | Omya Personal Care",
+      "templateId": "our-formulations",
+      "source": {
+        "migratedHtml": "stardust/migrated/our-formulations/index.html",
+        "metaJson": "stardust/migrated/our-formulations/_meta.json",
+        "sourceHash": "sha256:10174bf4b93c599930e4d09e1c319ce3a728549bc2ca99699e99ebfeb439c1b8",
+        "sourceUrl": "https://omyapersonalcare.us/our-formulations/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "cards",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/our-formulations",
+        "deployedAt": "2026-11-17T19:57:48.256Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.78,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "pay-thank-you",
+      "path": "/pay-thank-you",
+      "title": "Thank You for Payment | Omya Personal Care",
+      "templateId": "unique",
+      "source": {
+        "migratedHtml": "stardust/migrated/pay-thank-you/index.html",
+        "metaJson": "stardust/migrated/pay-thank-you/_meta.json",
+        "sourceHash": "sha256:2ff20ca56401cd538403652a4aec0b9d4c7a7b4669bf47ac11ffe56ee3ddfcc4",
+        "sourceUrl": "https://omyapersonalcare.us/pay-thank-you/"
+      },
+      "blocks": [
+        "page-hero",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/pay-thank-you",
+        "deployedAt": "2026-11-17T19:49:50.350Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.94,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "privacy-policy",
+      "path": "/privacy-policy",
+      "title": "Privacy Policy | Omya Personal Care",
+      "templateId": "privacy-policy",
+      "source": {
+        "migratedHtml": "stardust/migrated/privacy-policy/index.html",
+        "metaJson": "stardust/migrated/privacy-policy/_meta.json",
+        "sourceHash": "sha256:50df2b13ec70ed6a3e4a1fd52a63673d8dea0b523f7c355288e357e35cc9b76e",
+        "sourceUrl": "https://omyapersonalcare.us/privacy-policy/"
+      },
+      "blocks": [
+        "table",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/privacy-policy",
+        "deployedAt": "2026-11-17T20:55:25.044Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.41,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "request-info",
+      "path": "/request-info",
+      "title": "Request Information | Omya Personal Care",
+      "templateId": "request-info",
+      "source": {
+        "migratedHtml": "stardust/migrated/request-info/index.html",
+        "metaJson": "stardust/migrated/request-info/_meta.json",
+        "sourceHash": "sha256:6c87e862ddeb98b9d16054ffd93ce364a2ca31151cc9136171ecb7dcede9d508",
+        "sourceUrl": "https://omyapersonalcare.us/request-info/"
+      },
+      "blocks": [
+        "form",
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/request-info",
+        "deployedAt": "2026-11-17T19:24:54.549Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.39,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "terms-of-use",
+      "path": "/terms-of-use",
+      "title": "Terms of Use | Omya Personal Care",
+      "templateId": "terms-of-use",
+      "source": {
+        "migratedHtml": "stardust/migrated/terms-of-use/index.html",
+        "metaJson": "stardust/migrated/terms-of-use/_meta.json",
+        "sourceHash": "sha256:84824854e64df6effc0d7cec906bad5b5b3dc085116739229a3bc613cd0fed8e",
+        "sourceUrl": "https://omyapersonalcare.us/terms-of-use/"
+      },
+      "blocks": [
+        "page-hero",
+        "intro",
+        "band-pair"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.page/terms-of-use",
+        "deployedAt": "2026-11-17T18:45:13.095Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.41,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    },
+    {
+      "slug": "thank-you",
+      "path": "/thank-you",
+      "title": "Omya Personal Care Thank You",
+      "templateId": "thank-you",
+      "source": {
+        "migratedHtml": "stardust/migrated/thank-you/index.html",
+        "metaJson": "stardust/migrated/thank-you/_meta.json",
+        "sourceHash": "sha256:7f27dc6347b01401af5c53f4f5c247a478f86fdf1342179480d53bb7366ea8fc",
+        "sourceUrl": "https://omyapersonalcare.us/thank-you/"
+      },
+      "blocks": [
+        "page-hero"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--12a63657--aemcoder.aem.live/thank-you",
+        "deployedAt": "2026-11-17T19:49:50.414Z",
+        "verifiedAt": "2026-11-17T22:31:23.481Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.07,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-17T21:40:08.563Z"
+        }
+      }
+    }
+  ]
+}

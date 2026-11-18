@@ -1,0 +1,14 @@
+{
+  "media/thank-you/olive-oil.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/cluster-unique/media/thank-you/olive-oil.jpg",
+    "size": 252785,
+    "sha256": "b96c3824b0ae49e0b2edcb2410feb471c865efc17e6ff24589e3be5144fc4d33",
+    "contentType": "image/jpeg",
+    "source": "https://omyapersonalcare.us/wp-content/uploads/olive-oil.jpg",
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/thank-you/olive-oil.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T19:47:53.312Z"
+  }
+}

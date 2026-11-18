@@ -1,0 +1,4539 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:00:14.049Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+  "at": "2026-11-17T20:59:55.040Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5077,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/nutrition-x-oral-health/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "trend spotlight: nutrition x oral health"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 498,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 554,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 623,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 332,
+    "y": 810,
+    "w": 99,
+    "h": 17,
+    "text": "July 14, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 841,
+    "w": 843,
+    "h": 137,
+    "text": "Approaches to oral health are rapidly evolving. In recent years, oral care has t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 988,
+    "w": 843,
+    "h": 91,
+    "text": "Recently a new trend has emerged in the food and nutrition space – products that"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.img-responsive.img-thumbnail",
+    "x": 313,
+    "y": 1091,
+    "w": 843,
+    "h": 566,
+    "text": "smile close up",
+    "file": "smile-close-up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1677,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "oral-systemic health connections"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 1735,
+    "w": 843,
+    "h": 91,
+    "text": "There is mounting evidence supporting the bi-directional relationship between or"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1846,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "emerging formats and use occasions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 1905,
+    "w": 843,
+    "h": 206,
+    "text": "Mouthwash is out, nutritional supplements are in! One of the key learnings from "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.img-responsive.img-thumbnail",
+    "x": 857,
+    "y": 1917,
+    "w": 300,
+    "h": 203,
+    "text": "toothbrush mint close u",
+    "file": "toothbrush-mint-close-up-300x200"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 2120,
+    "w": 843,
+    "h": 137,
+    "text": "A more modern approach is to use products that target specific organisms, either"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 2267,
+    "w": 843,
+    "h": 228,
+    "text": "Nutritional supplements and functional confections like mints and gums are of pa"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > h2",
+    "x": 313,
+    "y": 2516,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 2574,
+    "w": 843,
+    "h": 137,
+    "text": "One could make a case that public water fluoridation is a form of supplementatio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 2721,
+    "w": 843,
+    "h": 137,
+    "text": "Confections like chewing gums and mints may directly add micronutrients to the s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > p",
+    "x": 313,
+    "y": 2868,
+    "w": 843,
+    "h": 114,
+    "text": "The idea that agents can be delivered through supplementation or confections and"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-68338 > div.entry-summary > h3",
+    "x": 313,
+    "y": 2997,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3041,
+    "w": 822,
+    "h": 32,
+    "text": "Teodoro M. Nutrition Watch: Total Oral Health. Mintel. 2024 Jul."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3073,
+    "w": 822,
+    "h": 78,
+    "text": "American Academy of Periodontology. Gum Disease and Other Diseases [Internet]. A"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3098,
+    "w": 816,
+    "h": 40,
+    "text": "https://www.perio.org/for-patients/gum-disease-information/gum-disease-and-other",
+    "href": "/for-patients/gum-disease-information/gum-disease-and-other-diseases/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3150,
+    "w": 822,
+    "h": 78,
+    "text": "LaMonte MJ, Gordon JH, Diaz-Moreno P, Andrews CA, Shimbo D, Hovey KM, Buck MJ, W"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3228,
+    "w": 822,
+    "h": 55,
+    "text": "Bryan NS, Tribble G, Angelov N. Oral Microbiome and Nitric Oxide: the Missing Li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3283,
+    "w": 822,
+    "h": 78,
+    "text": "Radaic A, Kapila YL. The oralome and its dysbiosis: New insights into oral micro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3360,
+    "w": 822,
+    "h": 78,
+    "text": "Coates H. The Next Wellness Frontier: Your Mouth [Internet]. The Business of Fas"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3385,
+    "w": 776,
+    "h": 40,
+    "text": "https://www.businessoffashion.com/articles/beauty/the-next-wellness-frontier-ora",
+    "href": "/articles/beauty/the-next-wellness-frontier-oral-microbiome-products/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3438,
+    "w": 822,
+    "h": 55,
+    "text": "Aps JK, Martens LC. Review: The physiology of saliva and transfer of drugs into "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3492,
+    "w": 822,
+    "h": 55,
+    "text": "Vila T, Rizk AM, Sultan AS, Jabra-Rizk MA. The power of saliva: Antimicrobial an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3547,
+    "w": 822,
+    "h": 78,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3625,
+    "w": 822,
+    "h": 32,
+    "text": "Hattab FN. Chewing Gum for Oral and Dental Health: A Review. J Oral Health Comm "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3656,
+    "w": 822,
+    "h": 78,
+    "text": "Sheetal A, Hiremath VK, Patil AG, Sajjansetty S, Kumar SR. Malnutrition and its "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3734,
+    "w": 822,
+    "h": 78,
+    "text": "Cagetti MG, Wolf TG, Tennert C, Camoni N, Lingström P, Campus G. The Role of Vit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3812,
+    "w": 822,
+    "h": 78,
+    "text": "Shodhan Shetty A, Shenoy R, Dasson Bajaj P, Rao A, Ks A, Pai M, Br A, Jodalli P."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3889,
+    "w": 822,
+    "h": 78,
+    "text": "Yu X, Devine DA, Vernon JJ. Manipulating the diseased oral microbiome: the power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 3967,
+    "w": 822,
+    "h": 55,
+    "text": "Ly KA, Milgrom P, Rothen M. The potential of dental-protective chewing gum in or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ol > li",
+    "x": 334,
+    "y": 4021,
+    "w": 822,
+    "h": 55,
+    "text": "American Dental Association. Chewing Gum [Internet]. Mouthhealthy.org. 2023. Ava"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 4046,
+    "w": 403,
+    "h": 17,
+    "text": "https://www.mouthhealthy.org/all-topics-a-z/chewing-gum",
+    "href": "/all-topics-a-z/chewing-gum"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 265,
+    "y": 4226,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 1060,
+    "y": 4672,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/nutrition-x-oral-health/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 265,
+    "y": 4672,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 4802,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 4881,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 4900,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 4802,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 4802,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 4848,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 4802,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 4848,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 4871,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 4894,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 4917,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 4940,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 4802,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 4848,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 4871,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 4802,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 4848,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 4993,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 4994,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 4994,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 4994,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 5011,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 5011,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 5011,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 110,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health",
+  "at": "2026-11-17T21:00:13.925Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5078,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/nutrition-x-oral-health"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 728,
+    "text": "",
+    "file": "media_1f88a15c467b234788a97f54756bada297"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#trend-spotlight-nutrition-x-oral-health",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 115,
+    "level": 1,
+    "text": "trend spotlight: nutrition x oral health"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 472,
+    "w": 843,
+    "h": 23,
+    "text": "/ / / Trend Spotlight: Nutrition x Oral Health"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 498,
+    "y": 474,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 554,
+    "y": 474,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 623,
+    "y": 474,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 332,
+    "y": 810,
+    "w": 99,
+    "h": 17,
+    "text": "July 14, 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 841,
+    "w": 843,
+    "h": 137,
+    "text": "Approaches to oral health are rapidly evolving. In recent years, oral care has t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 988,
+    "w": 843,
+    "h": 91,
+    "text": "Recently a new trend has emerged in the food and nutrition space – products that"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > picture.figure-media > img",
+    "x": 313,
+    "y": 1091,
+    "w": 843,
+    "h": 566,
+    "text": "smile close up",
+    "file": "media_15c4e8d5643e290980e9f68c983f18b2bd"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#oral-systemic-health-connections",
+    "x": 313,
+    "y": 1677,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "oral-systemic health connections"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1735,
+    "w": 843,
+    "h": 91,
+    "text": "There is mounting evidence supporting the bi-directional relationship between or"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#emerging-formats-and-use-occasions",
+    "x": 313,
+    "y": 1847,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "emerging formats and use occasions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > picture.figure-media > img",
+    "x": 847,
+    "y": 1917,
+    "w": 310,
+    "h": 210,
+    "text": "toothbrush mint close u",
+    "file": "media_1ce58577099fadcce0518c87a895c106de"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1906,
+    "w": 843,
+    "h": 206,
+    "text": "Mouthwash is out, nutritional supplements are in! One of the key learnings from "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2121,
+    "w": 843,
+    "h": 137,
+    "text": "A more modern approach is to use products that target specific organisms, either"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2268,
+    "w": 843,
+    "h": 228,
+    "text": "Nutritional supplements and functional confections like mints and gums are of pa"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#conclusion",
+    "x": 313,
+    "y": 2517,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2575,
+    "w": 843,
+    "h": 137,
+    "text": "One could make a case that public water fluoridation is a form of supplementatio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2722,
+    "w": 843,
+    "h": 137,
+    "text": "Confections like chewing gums and mints may directly add micronutrients to the s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 2869,
+    "w": 843,
+    "h": 114,
+    "text": "The idea that agents can be delivered through supplementation or confections and"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#references",
+    "x": 313,
+    "y": 2998,
+    "w": 843,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3042,
+    "w": 822,
+    "h": 32,
+    "text": "Teodoro M. Nutrition Watch: Total Oral Health. Mintel. 2024 Jul."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3074,
+    "w": 822,
+    "h": 78,
+    "text": "American Academy of Periodontology. Gum Disease and Other Diseases [Internet]. A"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3099,
+    "w": 816,
+    "h": 40,
+    "text": "https://www.perio.org/for-patients/gum-disease-information/gum-disease-and-other",
+    "href": "/for-patients/gum-disease-information/gum-disease-and-other-diseases/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3151,
+    "w": 822,
+    "h": 78,
+    "text": "LaMonte MJ, Gordon JH, Diaz-Moreno P, Andrews CA, Shimbo D, Hovey KM, Buck MJ, W"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3229,
+    "w": 822,
+    "h": 55,
+    "text": "Bryan NS, Tribble G, Angelov N. Oral Microbiome and Nitric Oxide: the Missing Li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3284,
+    "w": 822,
+    "h": 78,
+    "text": "Radaic A, Kapila YL. The oralome and its dysbiosis: New insights into oral micro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3361,
+    "w": 822,
+    "h": 78,
+    "text": "Coates H. The Next Wellness Frontier: Your Mouth [Internet]. The Business of Fas"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 3386,
+    "w": 776,
+    "h": 40,
+    "text": "https://www.businessoffashion.com/articles/beauty/the-next-wellness-frontier-ora",
+    "href": "/articles/beauty/the-next-wellness-frontier-oral-microbiome-products/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3439,
+    "w": 822,
+    "h": 55,
+    "text": "Aps JK, Martens LC. Review: The physiology of saliva and transfer of drugs into "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3493,
+    "w": 822,
+    "h": 55,
+    "text": "Vila T, Rizk AM, Sultan AS, Jabra-Rizk MA. The power of saliva: Antimicrobial an"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3548,
+    "w": 822,
+    "h": 78,
+    "text": "Iheozor-Ejiofor, Z., Walsh, T., Lewis, S. R., Riley, P., Boyers, D., Clarkson, J"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3626,
+    "w": 822,
+    "h": 32,
+    "text": "Hattab FN. Chewing Gum for Oral and Dental Health: A Review. J Oral Health Comm "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3658,
+    "w": 822,
+    "h": 78,
+    "text": "Sheetal A, Hiremath VK, Patil AG, Sajjansetty S, Kumar SR. Malnutrition and its "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3735,
+    "w": 822,
+    "h": 78,
+    "text": "Cagetti MG, Wolf TG, Tennert C, Camoni N, Lingström P, Campus G. The Role of Vit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3813,
+    "w": 822,
+    "h": 78,
+    "text": "Shodhan Shetty A, Shenoy R, Dasson Bajaj P, Rao A, Ks A, Pai M, Br A, Jodalli P."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3890,
+    "w": 822,
+    "h": 78,
+    "text": "Yu X, Devine DA, Vernon JJ. Manipulating the diseased oral microbiome: the power"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 3968,
+    "w": 822,
+    "h": 55,
+    "text": "Ly KA, Milgrom P, Rothen M. The potential of dental-protective chewing gum in or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 334,
+    "y": 4022,
+    "w": 822,
+    "h": 55,
+    "text": "American Dental Association. Chewing Gum [Internet]. Mouthhealthy.org. 2023. Ava"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 334,
+    "y": 4047,
+    "w": 403,
+    "h": 17,
+    "text": "https://www.mouthhealthy.org/all-topics-a-z/chewing-gum",
+    "href": "/all-topics-a-z/chewing-gum"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 265,
+    "y": 4227,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 1060,
+    "y": 4673,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/nutrition-x-oral-health"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 265,
+    "y": 4673,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 4803,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 4882,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 4901,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 4803,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 4803,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 4849,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 4803,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4849,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4872,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4895,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4918,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 4941,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 4803,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 4849,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 4872,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 4803,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 4849,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 4994,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 4995,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 4995,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 4995,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 5012,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 5012,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 5012,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/nutrition-x-oral-health"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 109,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "oral-systemic health connections",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "emerging formats and use occasions",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "references",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 16,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 16,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"trend spotlight: nutrition x oral health\" (y 342) has no origin heading",
+   "text": "trend spotlight: nutrition x oral health"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 355,
+    "y": 344,
+    "w": 731,
+    "h": 53
+   },
+   {
+    "x": 647,
+    "y": 402,
+    "w": 147,
+    "h": 53
+   },
+   {
+    "x": 498,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 541,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 554,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 609,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 623,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 655,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 668,
+    "y": 474,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 843,
+    "w": 834,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 865,
+    "w": 831,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 888,
+    "w": 799,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 805,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 830,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 957,
+    "w": 50,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 990,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1013,
+    "w": 766,
+    "h": 17
+   },
+   {
+    "x": 1079,
+    "y": 1012,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1035,
+    "w": 826,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1058,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1678,
+    "w": 590,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1737,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1760,
+    "w": 610,
+    "h": 17
+   },
+   {
+    "x": 924,
+    "y": 1759,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 930,
+    "y": 1760,
+    "w": 220,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1783,
+    "w": 160,
+    "h": 17
+   },
+   {
+    "x": 473,
+    "y": 1782,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 489,
+    "y": 1783,
+    "w": 648,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1806,
+    "w": 785,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1847,
+    "w": 660,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1907,
+    "w": 455,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1929,
+    "w": 516,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1952,
+    "w": 510,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1975,
+    "w": 426,
+    "h": 17
+   },
+   {
+    "x": 739,
+    "y": 1975,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 746,
+    "y": 1975,
+    "w": 28,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1998,
+    "w": 516,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2021,
+    "w": 496,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2044,
+    "w": 513,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2067,
+    "w": 460,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2089,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2122,
+    "w": 445,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2145,
+    "w": 671,
+    "h": 17
+   },
+   {
+    "x": 984,
+    "y": 2145,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 990,
+    "y": 2145,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2168,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2191,
+    "w": 807,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2214,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2236,
+    "w": 56,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2269,
+    "w": 784,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2292,
+    "w": 790,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2315,
+    "w": 435,
+    "h": 17
+   },
+   {
+    "x": 748,
+    "y": 2315,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 754,
+    "y": 2315,
+    "w": 376,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2338,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 405,
+    "y": 2337,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 411,
+    "y": 2338,
+    "w": 742,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2361,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 557,
+    "y": 2360,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 563,
+    "y": 2361,
+    "w": 529,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2384,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2406,
+    "w": 836,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2429,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2452,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2475,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2517,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2576,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 1135,
+    "y": 2575,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2599,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2622,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 615,
+    "y": 2621,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 627,
+    "y": 2622,
+    "w": 474,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2644,
+    "w": 462,
+    "h": 17
+   },
+   {
+    "x": 776,
+    "y": 2644,
+    "w": 28,
+    "h": 12
+   },
+   {
+    "x": 804,
+    "y": 2644,
+    "w": 335,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2667,
+    "w": 725,
+    "h": 17
+   },
+   {
+    "x": 1038,
+    "y": 2667,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 1051,
+    "y": 2667,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2690,
+    "w": 750,
+    "h": 17
+   },
+   {
+    "x": 1063,
+    "y": 2690,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2723,
+    "w": 832,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2746,
+    "w": 486,
+    "h": 17
+   },
+   {
+    "x": 800,
+    "y": 2745,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 815,
+    "y": 2746,
+    "w": 310,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2769,
+    "w": 602,
+    "h": 17
+   },
+   {
+    "x": 915,
+    "y": 2768,
+    "w": 25,
+    "h": 12
+   },
+   {
+    "x": 940,
+    "y": 2769,
+    "w": 165,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2792,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2814,
+    "w": 196,
+    "h": 17
+   },
+   {
+    "x": 510,
+    "y": 2814,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 522,
+    "y": 2814,
+    "w": 572,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2837,
+    "w": 585,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2870,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2893,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2916,
+    "w": 842,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2939,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2961,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2997,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 334,
+    "y": 3043,
+    "w": 446,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3075,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3098,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 602,
+    "y": 3098,
+    "w": 548,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3121,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3152,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3175,
+    "w": 794,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3198,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3230,
+    "w": 797,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3253,
+    "w": 727,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3285,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3307,
+    "w": 761,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3330,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3362,
+    "w": 800,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3385,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 444,
+    "y": 3385,
+    "w": 666,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3408,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3440,
+    "w": 805,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3463,
+    "w": 528,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3494,
+    "w": 815,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3517,
+    "w": 696,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3549,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3572,
+    "w": 788,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3595,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3627,
+    "w": 780,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3658,
+    "w": 785,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3681,
+    "w": 764,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3704,
+    "w": 163,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3736,
+    "w": 760,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3759,
+    "w": 698,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3782,
+    "w": 473,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3814,
+    "w": 803,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3836,
+    "w": 590,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3859,
+    "w": 554,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3891,
+    "w": 803,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3914,
+    "w": 777,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3937,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3969,
+    "w": 813,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3991,
+    "w": 638,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 4023,
+    "w": 671,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 4046,
+    "w": 403,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4227,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 4683,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4672,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 4683,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 4811,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4811,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4847,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4811,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 4847,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4870,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4893,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4916,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4939,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4811,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 4847,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4870,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 4811,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 4847,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 4994,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 4994,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 4994,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 4994,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 4994,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 5011,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 5011,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 5011,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 5011,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 5011,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 5011,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 355,
+    "y": 344,
+    "w": 731,
+    "h": 53
+   },
+   {
+    "x": 647,
+    "y": 402,
+    "w": 147,
+    "h": 53
+   },
+   {
+    "x": 498,
+    "y": 474,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 541,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 554,
+    "y": 474,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 609,
+    "y": 474,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 623,
+    "y": 474,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 655,
+    "y": 474,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 332,
+    "y": 810,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 843,
+    "w": 834,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 866,
+    "w": 831,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 888,
+    "w": 799,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 911,
+    "w": 805,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 934,
+    "w": 830,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 957,
+    "w": 50,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 990,
+    "w": 810,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1013,
+    "w": 766,
+    "h": 17
+   },
+   {
+    "x": 1079,
+    "y": 1011,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 1035,
+    "w": 826,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1058,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1678,
+    "w": 590,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1737,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1760,
+    "w": 610,
+    "h": 17
+   },
+   {
+    "x": 924,
+    "y": 1758,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 930,
+    "y": 1760,
+    "w": 220,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1783,
+    "w": 160,
+    "h": 17
+   },
+   {
+    "x": 473,
+    "y": 1781,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 489,
+    "y": 1783,
+    "w": 648,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1806,
+    "w": 785,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1848,
+    "w": 660,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1908,
+    "w": 455,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1931,
+    "w": 485,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1953,
+    "w": 418,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1976,
+    "w": 475,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1999,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 383,
+    "y": 1997,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 389,
+    "y": 1999,
+    "w": 403,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2022,
+    "w": 454,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2045,
+    "w": 478,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2068,
+    "w": 454,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2090,
+    "w": 471,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2123,
+    "w": 445,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2146,
+    "w": 671,
+    "h": 17
+   },
+   {
+    "x": 984,
+    "y": 2145,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 990,
+    "y": 2146,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2169,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2192,
+    "w": 807,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2215,
+    "w": 812,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2238,
+    "w": 56,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2270,
+    "w": 784,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2293,
+    "w": 790,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2316,
+    "w": 435,
+    "h": 17
+   },
+   {
+    "x": 748,
+    "y": 2314,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 754,
+    "y": 2316,
+    "w": 376,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2339,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 405,
+    "y": 2337,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 411,
+    "y": 2339,
+    "w": 742,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2362,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 557,
+    "y": 2360,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 563,
+    "y": 2362,
+    "w": 529,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2385,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2407,
+    "w": 836,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2430,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2453,
+    "w": 819,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2476,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2518,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 2577,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 1135,
+    "y": 2575,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2600,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2623,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 615,
+    "y": 2621,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 627,
+    "y": 2623,
+    "w": 474,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2646,
+    "w": 462,
+    "h": 17
+   },
+   {
+    "x": 776,
+    "y": 2644,
+    "w": 28,
+    "h": 12
+   },
+   {
+    "x": 804,
+    "y": 2646,
+    "w": 335,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2668,
+    "w": 725,
+    "h": 17
+   },
+   {
+    "x": 1038,
+    "y": 2667,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 1051,
+    "y": 2668,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2691,
+    "w": 750,
+    "h": 17
+   },
+   {
+    "x": 1063,
+    "y": 2690,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 313,
+    "y": 2724,
+    "w": 832,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2747,
+    "w": 486,
+    "h": 17
+   },
+   {
+    "x": 800,
+    "y": 2745,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 812,
+    "y": 2747,
+    "w": 315,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2770,
+    "w": 602,
+    "h": 17
+   },
+   {
+    "x": 915,
+    "y": 2768,
+    "w": 25,
+    "h": 12
+   },
+   {
+    "x": 940,
+    "y": 2770,
+    "w": 165,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2793,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2815,
+    "w": 196,
+    "h": 17
+   },
+   {
+    "x": 510,
+    "y": 2814,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 522,
+    "y": 2815,
+    "w": 572,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2838,
+    "w": 585,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2871,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2894,
+    "w": 829,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2917,
+    "w": 842,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2940,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2962,
+    "w": 824,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2998,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 334,
+    "y": 3044,
+    "w": 446,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3076,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3099,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 602,
+    "y": 3099,
+    "w": 548,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3122,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3153,
+    "w": 809,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3176,
+    "w": 794,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3199,
+    "w": 822,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3231,
+    "w": 797,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3254,
+    "w": 727,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3286,
+    "w": 796,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3309,
+    "w": 761,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3331,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3363,
+    "w": 800,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3386,
+    "w": 110,
+    "h": 17
+   },
+   {
+    "x": 444,
+    "y": 3386,
+    "w": 666,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3409,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3441,
+    "w": 805,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3464,
+    "w": 528,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3495,
+    "w": 815,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3518,
+    "w": 696,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3550,
+    "w": 817,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3573,
+    "w": 788,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3596,
+    "w": 199,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3628,
+    "w": 780,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3660,
+    "w": 785,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3682,
+    "w": 764,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3705,
+    "w": 163,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3737,
+    "w": 760,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3760,
+    "w": 698,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3783,
+    "w": 473,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3815,
+    "w": 803,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3837,
+    "w": 590,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3860,
+    "w": 554,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3892,
+    "w": 803,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3915,
+    "w": 777,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3938,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3970,
+    "w": 813,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 3992,
+    "w": 638,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 4024,
+    "w": 671,
+    "h": 17
+   },
+   {
+    "x": 334,
+    "y": 4047,
+    "w": 403,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4228,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 4684,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 4673,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 4684,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 4812,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4812,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 4848,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4812,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 4848,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4871,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4894,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4917,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 4940,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4812,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 4848,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 4871,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 4812,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 4848,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 4995,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 4995,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 4995,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 4995,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 4995,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 5012,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 5012,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 5012,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 5012,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 5012,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 5012,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

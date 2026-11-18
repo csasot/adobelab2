@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+  "width": 360,
+  "vh": 900,
+  "height": 2196,
+  "chunks": 3,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 10,
+    "late": 0
+  },
+  "at": "2026-11-17T19:43:40.323Z"
+}

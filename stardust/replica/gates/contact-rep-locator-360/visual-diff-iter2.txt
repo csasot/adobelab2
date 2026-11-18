@@ -1,0 +1,1918 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/contact-rep-locator-360/vdiff-iter2/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 748,
+  "textLen": 157,
+  "images": [
+   {
+    "src": "VWETZF5UJ5DC5JRDYHX6GH?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&cookie=6QMRPU7Q5VEFDHCS4NFO7U%3A34%7CVWETZF5UJ5DC5JRDYHX6GH%3A34%7C4EAMVJEN3BGPZFWWFRLASI%3A34&adroll_s_ref=&keyw=&p0=804&adroll_version=1.0",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "out?af0=fd67aaba&adroll_fpc=9605c1a59f56f851e8d7d2a219a30177-1794930642674&pv=41560839903.919235&arrfrr=https%3A%2F%2Fomyapersonalcare.us%2Fcontact%2Frep-locator%2F&advertisable=4EAMVJEN3BGPZFWWFRLASI",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-states-map-max-gray.jpg",
+    "natural": "1920x1399",
+    "rendered": "330x240",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-states-map-max-gray.jpg",
+    "natural": "1920x1399",
+    "rendered": "329x240",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Karen-Cole-1.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsey-Ross.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lily-Hoang-1.jpg",
+    "natural": "400x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsey-Ross.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "269x336",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "500x630",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "400x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "Omya Sales Representative Locato",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Alabama",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Alaska",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Arizona",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Arkansas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "California",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Colorado",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Connecticut",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Delaware",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Florida",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Georgia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Hawaii",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Idaho",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Illinois",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Indiana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Iowa",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Kansas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Kentucky",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Louisiana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Maine",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Maryland",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Massachusetts",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Michigan",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Minnesota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Mississippi",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Missouri",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Montana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nebraska",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nevada",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Hampshire",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Mexico",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Wyoming",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Jersey",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New York",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "North Carolina",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "North Dakota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ohio",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Oklahoma",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Oregon",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Pennsylvania",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Rhode Island",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "South Carolina",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "South Dakota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Tennessee",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Texas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Utah",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Vermont",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Virginia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Washington",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "West Virginia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Wisconsin",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hotspot-content",
+    "width": 236,
+    "left": 62
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 748,
+  "textLen": 157,
+  "images": [
+   {
+    "src": "Omya-Logo-White.png",
+    "natural": "2448x1576",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Karen-Cole-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Domenic-Hix.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsey-Ross.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lily-Hoang-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Joseph-Shieh-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsey-Ross.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Meriem-Chetoui.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Lindsay-Boris-1.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Teresa-Bucio.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-states-map-max-gray.jpg",
+    "natural": "1920x1399",
+    "rendered": "330x240",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "omya.png",
+    "natural": "696x452",
+    "rendered": "90x58",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "linkedin.png",
+    "natural": "790x250",
+    "rendered": "125x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "Omya Sales Representative Locato",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Alabama",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Alaska",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Arizona",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Arkansas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "California",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Colorado",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Connecticut",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Delaware",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Florida",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Georgia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Hawaii",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Idaho",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Illinois",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Indiana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Iowa",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Kansas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Kentucky",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Louisiana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Maine",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Maryland",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Massachusetts",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Michigan",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Minnesota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Mississippi",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Missouri",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Montana",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nebraska",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nevada",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Hampshire",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Mexico",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Wyoming",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New Jersey",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New York",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "North Carolina",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "North Dakota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ohio",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Oklahoma",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Oregon",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Pennsylvania",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Rhode Island",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "South Carolina",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "South Dakota",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Tennessee",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Texas",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Utah",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Vermont",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Virginia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Washington",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "West Virginia",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Wisconsin",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "Arial",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "rep-map__intro",
+    "width": 236,
+    "left": 62
+   }
+  ]
+ }
+}

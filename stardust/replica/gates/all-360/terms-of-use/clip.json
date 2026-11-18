@@ -1,0 +1,36 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/terms-of-use",
+ "at": "2026-11-17T22:01:28.430Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 0,
+  "offPage": 14,
+  "textNodes": 55,
+  "controls": 28,
+  "total": 0
+ },
+ "groups": [],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 0,
+   "offPage": 0,
+   "textNodes": 56,
+   "controls": 24,
+   "total": 0
+  }
+ }
+}

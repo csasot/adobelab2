@@ -1,0 +1,1706 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-17T15:41:15.663Z",
+    "readArtifacts": [
+      "stardust/current/_brand-extraction.json",
+      "stardust/current/_computed-styles.json",
+      "stardust/current/pages/*.json"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.39.4",
+    "descriptive": true
+  },
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-17T15:41:15.663Z",
+  "title": "Design System: Omya Personal Care (current state)",
+  "extensions": {
+    "colorMeta": {
+      "omya-blue": {
+        "role": "primary",
+        "displayName": "Omya Blue",
+        "canonical": "#007ac1",
+        "hover": "#338ec9"
+      },
+      "ink": {
+        "role": "text",
+        "displayName": "Ink",
+        "canonical": "#221f20"
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "canonical": "#ffffff"
+      },
+      "navy-link": {
+        "role": "link",
+        "displayName": "Navy Link",
+        "canonical": "#1e4263"
+      },
+      "mist": {
+        "role": "surface",
+        "displayName": "Mist Gray",
+        "canonical": "#f1f1f1"
+      },
+      "rule": {
+        "role": "border",
+        "displayName": "Rule Gray",
+        "canonical": "#dddddd"
+      },
+      "sky": {
+        "role": "accent",
+        "displayName": "Sky",
+        "canonical": "#99c7e4"
+      },
+      "ice": {
+        "role": "accent",
+        "displayName": "Ice",
+        "canonical": "#e2f1f8"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "H1 (hero)",
+        "purpose": "Centred white page title over the hero photo."
+      },
+      "headline": {
+        "displayName": "H2",
+        "purpose": "Section headings, Omya blue on white."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Arial 16px, light weight declared (300) — renders as Arial Regular."
+      }
+    },
+    "fonts": [
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": 900,
+        "file": "stardust/current/assets/fonts/fa-solid-900.woff2",
+        "source": "https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff2",
+        "licensed": false,
+        "license": "SIL OFL 1.1 (Font Awesome Free)"
+      }
+    ],
+    "declaredUnrenderedFonts": [
+      "frutigerbold (404)",
+      "frutigerregular (404)",
+      "Istok Web",
+      "Oswald",
+      "Roboto"
+    ],
+    "shadows": [
+      {
+        "name": "fab",
+        "value": "rgb(128,128,128) 0 0 3px 0",
+        "purpose": "FIND A REP circular fab"
+      },
+      {
+        "name": "shadow-2",
+        "value": "rgba(0, 0, 0, 0.25) 5px 5px 50px 0px",
+        "purpose": "observed"
+      }
+    ],
+    "motion": [
+      {
+        "name": "button",
+        "value": "all 0.25s",
+        "purpose": "button bg hover transition (style.css:163)"
+      }
+    ],
+    "layoutBreakpoints": [
+      {
+        "name": "sm",
+        "value": "767px"
+      },
+      {
+        "name": "md",
+        "value": "991px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      }
+    ],
+    "breakpoints": {
+      "containerMaxWidth": "1310px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1310,
+          "via": "fixed",
+          "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding",
+          "pages": [
+            "https://omyapersonalcare.us/",
+            "https://omyapersonalcare.us/blog/aak-partnership/",
+            "https://omyapersonalcare.us/insights/blog/",
+            "https://omyapersonalcare.us/contact/",
+            "https://omyapersonalcare.us/about/",
+            "https://omyapersonalcare.us/contact/rep-locator/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1024,
+          "via": "fixed",
+          "selector": "div.col-xs-12.padding-bottom-40 > div.hotspots-container.layout-left > div.hotspots-interaction > div.hotspots-image-container",
+          "pages": [
+            "https://omyapersonalcare.us/contact/rep-locator/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 983,
+          "via": "fixed",
+          "selector": "#interior-content > div.partners-section.page-content > div.container.no-side-padding > div.col-sm-9.col-xs-12",
+          "pages": [
+            "https://omyapersonalcare.us/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 873,
+          "via": "fixed",
+          "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding > div.col-xs-12.col-sm-12",
+          "pages": [
+            "https://omyapersonalcare.us/",
+            "https://omyapersonalcare.us/blog/aak-partnership/",
+            "https://omyapersonalcare.us/contact/",
+            "https://omyapersonalcare.us/about/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 640,
+          "via": "fixed",
+          "selector": "div > div.alternating-rows-triangle.border > div.container > div.col-xs-12.col-sm-6",
+          "pages": [
+            "https://omyapersonalcare.us/",
+            "https://omyapersonalcare.us/insights/blog/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 533,
+          "via": "fixed",
+          "selector": "#interior-content > div.container-fixed.formulary-cta > div.container > div.cta-content.col-lg-5",
+          "pages": [
+            "https://omyapersonalcare.us/contact/",
+            "https://omyapersonalcare.us/about/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 427,
+          "via": "fixed",
+          "selector": "#process-section > div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12",
+          "pages": [
+            "https://omyapersonalcare.us/",
+            "https://omyapersonalcare.us/contact/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 331,
+          "via": "fixed",
+          "selector": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12 > div.col-xs-12.col-lg-10",
+          "pages": [
+            "https://omyapersonalcare.us/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 285,
+          "via": "fixed",
+          "selector": "div.alternating-rows.odd > div.container.no-side-padding > div.col-xs-12.col-sm-6 > p.button.btn-orange",
+          "pages": [
+            "https://omyapersonalcare.us/about/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 260,
+          "via": "fixed",
+          "selector": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h2 > span.orange-text",
+          "pages": [
+            "https://omyapersonalcare.us/",
+            "https://omyapersonalcare.us/insights/blog/",
+            "https://omyapersonalcare.us/about/",
+            "https://omyapersonalcare.us/contact/rep-locator/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header.home",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 1,
+          "selector": "#stickyquote",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 2,
+          "selector": "#interior-content",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/",
+          "section": 6,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header.blog-header",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 1,
+          "selector": "#stickyquote",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 2,
+          "selector": "#interior-content",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+          "section": 6,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 1,
+          "selector": "#stickyquote",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 2,
+          "selector": "#insights-section",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > div.page-content.col-lg-12",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 6,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/insights/blog/",
+          "section": 7,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 1,
+          "selector": "#stickyquote",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 2,
+          "selector": "#interior-content",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/",
+          "section": 6,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 1,
+          "selector": "#stickyquote",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 2,
+          "selector": "#interior-content",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/about/",
+          "section": 6,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 0,
+          "selector": "body.cbp-spmenu-push > header",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 1,
+          "selector": "#interior-content",
+          "px": 1310
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 2,
+          "selector": "body.cbp-spmenu-push > div.clearfix",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 3,
+          "selector": "body.cbp-spmenu-push > footer",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 4,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        },
+        {
+          "url": "https://omyapersonalcare.us/contact/rep-locator/",
+          "section": 5,
+          "selector": "body.cbp-spmenu-push > div",
+          "px": null
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-17T15:46:36.242Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://omyapersonalcare.us/",
+          "https://omyapersonalcare.us/blog/aak-partnership/",
+          "https://omyapersonalcare.us/insights/blog/",
+          "https://omyapersonalcare.us/contact/",
+          "https://omyapersonalcare.us/about/",
+          "https://omyapersonalcare.us/contact/rep-locator/"
+        ]
+      }
+    },
+    "componentStyle": {
+      "buttons": [
+        {
+          "name": "btn-orange (blue)",
+          "bg": "#007ac1",
+          "text": "#ffffff",
+          "hoverBg": "#338ec9",
+          "shape": "skewX(-10deg)",
+          "radius": 0,
+          "source": "style.css:165,171"
+        },
+        {
+          "name": "btn-black",
+          "bg": "#221f20",
+          "text": "#ffffff",
+          "hoverBg": "#338ec9",
+          "shape": "skewX(-10deg)",
+          "radius": 0,
+          "source": "style.css:167,173"
+        },
+        {
+          "name": "btn-white",
+          "bg": "#ffffff",
+          "text": "#007ac1",
+          "hoverBg": "#338ec9",
+          "shape": "skewX(-10deg)",
+          "radius": 0,
+          "source": "style.css:169,175"
+        }
+      ],
+      "hover": [
+        {
+          "kind": "link",
+          "from": {
+            "color": "rgb(255, 255, 255)"
+          },
+          "to": {
+            "color": "rgb(153, 199, 228)"
+          },
+          "count": 71
+        },
+        {
+          "kind": "button",
+          "from": {
+            "backgroundColor": "rgb(0, 122, 193)"
+          },
+          "to": {
+            "backgroundColor": "rgb(51, 142, 201)"
+          },
+          "count": 5
+        },
+        {
+          "kind": "button",
+          "from": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "borderColor": "rgb(204, 204, 204)"
+          },
+          "to": {
+            "backgroundColor": "rgb(230, 230, 230)",
+            "borderColor": "rgb(173, 173, 173)"
+          },
+          "count": 2
+        }
+      ],
+      "inputs": {
+        "border": "1px solid #cccccc",
+        "radius": 0,
+        "sources": [
+          "#company",
+          "#fname"
+        ]
+      }
+    },
+    "motifs": {
+      "radius": {
+        "dominant": "0",
+        "note": "square corners almost everywhere; 50% only on the FIND A REP fab and the 3 home process circles",
+        "values": [
+          {
+            "value": "50%",
+            "count": 77,
+            "sources": [
+              {
+                "url": "https://omyapersonalcare.us/",
+                "selector": "#stickyquote"
+              },
+              {
+                "url": "https://omyapersonalcare.us/about/",
+                "selector": "#stickyquote"
+              }
+            ]
+          },
+          {
+            "value": "100%",
+            "count": 3,
+            "sources": [
+              {
+                "url": "https://omyapersonalcare.us/",
+                "selector": "#process-section > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1)"
+              },
+              {
+                "url": "https://omyapersonalcare.us/",
+                "selector": "#process-section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1)"
+              }
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 3,
+            "sources": [
+              {
+                "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+                "selector": "#interior-content > div > div > div > article > div > p:nth-of-type(4) > img"
+              },
+              {
+                "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+                "selector": "#interior-content > div > div > div > article > div > p:nth-of-type(6) > img"
+              }
+            ]
+          },
+          {
+            "value": "3px",
+            "count": 1,
+            "sources": [
+              {
+                "url": "https://omyapersonalcare.us/formulary-request/",
+                "selector": "#contact-form > fieldset > div > div:nth-of-type(5) > div:nth-of-type(1) > div > button"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgb(128, 128, 128) 0px 0px 3px 0px",
+          "count": 70,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#stickyquote"
+            },
+            {
+              "url": "https://omyapersonalcare.us/about/",
+              "selector": "#stickyquote"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.25) 5px 5px 50px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#interior-content > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(5) > img"
+            },
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#interior-content > div:nth-of-type(7) > div:nth-of-type(1) > div > div:nth-of-type(1) > img:nth-of-type(1)"
+            }
+          ]
+        }
+      ],
+      "gradients": [],
+      "skewedButtons": {
+        "transform": "skewX(-10deg)",
+        "inner": "skewX(10deg)",
+        "source": "cmds_theme_child/style.css:163-164",
+        "note": "signature parallelogram buttons (.button, #button-menu > li, form submit)"
+      },
+      "patterns": [
+        "photo-hero-with-dark-overlay-and-centred-white-h1",
+        "parallelogram-button",
+        "split image/text panels",
+        "date-tag card",
+        "blueprint-grid footer texture (bg-body.gif)"
+      ]
+    },
+    "voice": {
+      "heroHeadline": "Thinking of Tomorrow",
+      "heroLede": "Omya provides innovative raw materials to the personal care industry.",
+      "firstParagraph": "As a distributor of high-quality, innovative ingredients from around the globe, we strive to exceed the development needs of our customers while remaining conscious of the impact on the environment.",
+      "ctaSamples": [
+        "Our Products",
+        "Learn About Our Process",
+        "Download Omya’s Personal Care Portfolio",
+        "Request Info",
+        "Contact Us"
+      ],
+      "linkList": [
+        "Our Approach",
+        "Our Products",
+        "About",
+        "Insights",
+        "Contact",
+        "Customer Resources"
+      ],
+      "heroImage": {
+        "url": "https://omyapersonalcare.us/wp-content/themes/cmds_theme_child/images/omya-kinetik-personal-care-homev2.jpg",
+        "source": "pages/index.json#media.cssBackgrounds[0] (hero background)",
+        "ogImage": "https://omyapersonalcare.us/wp-content/uploads/omya-kinetik-personal-care-homev2.jpg"
+      },
+      "heroMedium": null,
+      "tone": "B2B, consultative, ingredient-supplier; first-person plural (\"we strive to exceed…\"), benefit + sustainability claims"
+    },
+    "systemComponents": [
+      {
+        "id": "site-header",
+        "kind": "header",
+        "pages": 71,
+        "evidence": "23 identical nav CTA labels on 71/71 pages (Request Info, Newsletter Signup, Our Approach … Customer Resources); logo #logo-header > a > img",
+        "selector": "header"
+      },
+      {
+        "id": "site-footer",
+        "kind": "footer",
+        "pages": 71,
+        "evidence": "Data Protection / Sales Terms / Impressum / Terms of Use / Privacy Policy / Consent Choices on 71/71; bg-body.gif blueprint texture on 71/71",
+        "selector": "footer"
+      },
+      {
+        "id": "newsletter-modal",
+        "kind": "modal",
+        "pages": 71,
+        "evidence": "\"Omya Market Insights — Subscribe here to get email updates!\" modal (#newsletter-form) on 71/71; auto-opens on some loads",
+        "selector": "#newsletter-form"
+      },
+      {
+        "id": "find-a-rep-fab",
+        "kind": "persistent-cta",
+        "pages": 70,
+        "evidence": "\"FIND AREP\" circular sticky button #stickyquote (radius 50%, shadow 0 0 3px #808080) on 70/71",
+        "selector": "#stickyquote"
+      },
+      {
+        "id": "contact-omya-band",
+        "kind": "cross-promo",
+        "pages": 64,
+        "evidence": "h2 \"Contact Omya\" + form [thename,company,email,email-confirm,message,recaptcha] + \"Contact Us\" on 64/71",
+        "selector": "#contact-footer"
+      },
+      {
+        "id": "insights-band",
+        "kind": "cross-promo",
+        "pages": 20,
+        "evidence": "h2 \"Insights\" + latest blog card + \"Read Our Blog\" on 20/71",
+        "selector": "#insights-section"
+      }
+    ],
+    "iconFont": {
+      "families": [
+        "Font Awesome 5 Brands",
+        "Font Awesome 5 Free",
+        "Glyphicons Halflings",
+        "icomoon"
+      ],
+      "loaded": [
+        "Font Awesome 5 Free 900"
+      ],
+      "file": "stardust/current/assets/fonts/fa-solid-900.woff2",
+      "glyphs": [
+        {
+          "class": "fa fa-times",
+          "codepoint": "U+F00D",
+          "count": 71
+        },
+        {
+          "class": "fas fa-calendar-alt",
+          "codepoint": "U+F073",
+          "count": 46
+        },
+        {
+          "class": "fas fa-chevron-circle-right",
+          "codepoint": "U+F138",
+          "count": 23
+        },
+        {
+          "class": "glyphicon glyphicon-ok check-mark",
+          "codepoint": "U+E013",
+          "count": 2
+        }
+      ]
+    },
+    "metadata": {
+      "siteName": "Omya Personal Care",
+      "defaultOgImage": "https://omyapersonalcare.us/wp-content/uploads/omya-kinetik-personal-care-homev2.jpg",
+      "themeColor": null,
+      "favicon": "stardust/current/assets/favicon.jpg",
+      "defaultLocale": "en-US"
+    },
+    "modules": [
+      {
+        "id": "candidate-f819d7",
+        "name": "site-header",
+        "kind": "header",
+        "signals": "1+2",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "utility-links",
+            "type": "link[]",
+            "required": false
+          },
+          {
+            "name": "nav",
+            "type": "link[] (5 items, dropdowns)",
+            "required": false
+          },
+          {
+            "name": "customer-resources-button",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 71,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "header"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "header"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "header"
+          },
+          {
+            "slug": "about",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "header"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "header"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-a928d4",
+        "name": "site-footer",
+        "kind": "footer",
+        "signals": "2+3",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "social",
+            "type": "link",
+            "required": false
+          },
+          {
+            "name": "link-columns",
+            "type": "link[][]",
+            "required": false
+          },
+          {
+            "name": "legal-links",
+            "type": "link[]",
+            "required": false
+          },
+          {
+            "name": "copyright",
+            "type": "text",
+            "required": false
+          }
+        ],
+        "instanceCount": 71,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "footer"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "footer"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "footer"
+          },
+          {
+            "slug": "about",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "footer"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "footer"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-33d402",
+        "name": "newsletter-modal",
+        "kind": "modal",
+        "signals": "1+4",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "subheading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "form",
+            "type": "form",
+            "required": false
+          },
+          {
+            "name": "consent-note",
+            "type": "text",
+            "required": false
+          }
+        ],
+        "instanceCount": 71,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "about",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "#newsletter-form"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "#newsletter-form"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-40ed25",
+        "name": "find-a-rep-fab",
+        "kind": "persistent-cta",
+        "signals": "2",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "label",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "href",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 70,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "about",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "#stickyquote"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "#stickyquote"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-6ed834",
+        "name": "page-hero-banner",
+        "kind": "hero",
+        "signals": "1+3",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "background",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "h1",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "breadcrumb",
+            "type": "link[]",
+            "required": false
+          }
+        ],
+        "instanceCount": 70,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "about",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "#header-top"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "#header-top"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-9b31c2",
+        "name": "contact-omya-band",
+        "kind": "cross-promo",
+        "signals": "1+2+4",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "form",
+            "type": "form",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 64,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "about",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "#contact-footer"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "#contact-footer"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-10009e",
+        "name": "insights-band",
+        "kind": "cross-promo",
+        "signals": "1+2",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "post-card",
+            "type": "card(date,title,image,link)",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 21,
+        "instances": [
+          {
+            "slug": "about-global-partners",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "about-our-difference",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "about-our-team",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "about",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "careers",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "contact-rep-locator",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "contact",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "customer-resources-credit-application",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "customer-resources-onboarding",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "customer-resources",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "formulary-request",
+            "selector": "#insights-section"
+          },
+          {
+            "slug": "get-a-sample",
+            "selector": "#insights-section"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-0d8445",
+        "name": "formulation-cta-band",
+        "kind": "cta-band",
+        "signals": "1+2+3",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          },
+          {
+            "name": "background",
+            "type": "image",
+            "required": false
+          }
+        ],
+        "instanceCount": 4,
+        "instances": [
+          {
+            "slug": "about-our-difference",
+            "selector": "section with formulary-cta.jpg"
+          },
+          {
+            "slug": "about",
+            "selector": "section with formulary-cta.jpg"
+          },
+          {
+            "slug": "contact",
+            "selector": "section with formulary-cta.jpg"
+          },
+          {
+            "slug": "our-approach",
+            "selector": "section with formulary-cta.jpg"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-09a09a",
+        "name": "date-card-grid",
+        "kind": "card-grid",
+        "signals": "2",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "card.date",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "card.title",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "card.image",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "card.href",
+            "type": "link",
+            "required": false
+          },
+          {
+            "name": "pagination",
+            "type": "link[]",
+            "required": false
+          }
+        ],
+        "instanceCount": 3,
+        "instances": [
+          {
+            "slug": "events",
+            "selector": "#interior-content .row (cards)"
+          },
+          {
+            "slug": "insights-blog",
+            "selector": "#interior-content .row (cards)"
+          },
+          {
+            "slug": "news",
+            "selector": "#interior-content .row (cards)"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-d53685",
+        "name": "cosmospheres-promo-band",
+        "kind": "cta-band",
+        "signals": "2",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "background",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 3,
+        "instances": [
+          {
+            "slug": "events",
+            "selector": "band after card grid"
+          },
+          {
+            "slug": "insights-blog",
+            "selector": "band after card grid"
+          },
+          {
+            "slug": "news",
+            "selector": "band after card grid"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-a940fb",
+        "name": "article-meta",
+        "kind": "article-header",
+        "signals": "1+5",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "date",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "icon",
+            "type": "icon fa-calendar-alt",
+            "required": false
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "required": false
+          }
+        ],
+        "instanceCount": 46,
+        "instances": [
+          {
+            "slug": "blog-aak-partnership",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-announcing-our-latest-product-launches",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-asp-products-pay-your-invoice",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-february-is-national-childrens-dental-health-month",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-national-toothache-day-february-9th",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-nutrition-x-oral-health",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+            "selector": "article header (date + calendar icon)"
+          },
+          {
+            "slug": "blog-omya-partners-with-lipoid-kosmetik",
+            "selector": "article header (date + calendar icon)"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-56868d",
+        "name": "split-image-panel",
+        "kind": "split",
+        "signals": "6 (vision)",
+        "confidence": "speculative",
+        "slots": [
+          {
+            "name": "image",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "body",
+            "type": "richtext",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instanceCount": 5,
+        "instances": [
+          {
+            "slug": "about-our-difference",
+            "selector": "alternating image/text rows"
+          },
+          {
+            "slug": "about",
+            "selector": "alternating image/text rows"
+          },
+          {
+            "slug": "index",
+            "selector": "alternating image/text rows"
+          },
+          {
+            "slug": "insights",
+            "selector": "alternating image/text rows"
+          },
+          {
+            "slug": "our-approach",
+            "selector": "alternating image/text rows"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-c0adde",
+        "name": "references-list",
+        "kind": "article-section",
+        "signals": "1",
+        "confidence": "high",
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "items",
+            "type": "text[]",
+            "required": false
+          }
+        ],
+        "instanceCount": 4,
+        "instances": [
+          {
+            "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+            "selector": "article h3 References + ol"
+          },
+          {
+            "slug": "blog-how-2025-reshaped-oral-health",
+            "selector": "article h3 References + ol"
+          },
+          {
+            "slug": "blog-nutrition-x-oral-health",
+            "selector": "article h3 References + ol"
+          },
+          {
+            "slug": "blog-trend-spotlight-oil-pulling",
+            "selector": "article h3 References + ol"
+          }
+        ],
+        "status": "candidate"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button (blue)",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Parallelogram CTA, Omya blue.",
+      "html": "<span class=\"ds-btn ds-btn-blue\"><a href=\"#\">Our Products</a></span>",
+      "css": ".ds-btn{display:inline-block;transform:skewX(-10deg);transition:all .25s;font-family:Arial,sans-serif;font-size:16px}.ds-btn a{display:block;transform:skewX(10deg);padding:12px 18px;line-height:1;height:40px;box-sizing:border-box;color:#fff;text-decoration:none}.ds-btn-blue{background:#007ac1}.ds-btn-blue:hover,.ds-btn-blue:focus-within{background:#338ec9}"
+    },
+    {
+      "name": "Dark Button",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Parallelogram CTA, ink fill.",
+      "html": "<span class=\"ds-btn ds-btn-black\"><a href=\"#\">Learn About Our Process</a></span>",
+      "css": ".ds-btn{display:inline-block;transform:skewX(-10deg);transition:all .25s;font-family:Arial,sans-serif;font-size:16px}.ds-btn a{display:block;transform:skewX(10deg);padding:12px 18px;line-height:1;height:40px;box-sizing:border-box;color:#fff;text-decoration:none}.ds-btn-black{background:#221f20}.ds-btn-black:hover,.ds-btn-black:focus-within{background:#338ec9}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Square bordered field.",
+      "html": "<input class=\"ds-input\" placeholder=\"Email\">",
+      "css": ".ds-input{border:1px solid #ccc;border-radius:0;padding:8px 12px;font:16px Arial,sans-serif;color:#221f20}.ds-input:focus-visible{outline:2px solid #007ac1}"
+    },
+    {
+      "name": "Date Card",
+      "kind": "card",
+      "refersTo": "card-date",
+      "description": "Listing card: blue date tag, title on gradient over image.",
+      "html": "<a class=\"ds-card\" href=\"#\"><span class=\"ds-tag\">July 31, 2024</span><span class=\"ds-title\">SWSCC Suppliers’ Day</span></a>",
+      "css": ".ds-card{position:relative;display:block;width:320px;height:200px;background:#ccc linear-gradient(transparent 50%,rgba(0,0,0,.6));color:#fff;text-decoration:none;font-family:Arial,sans-serif}.ds-tag{position:absolute;top:12px;left:12px;background:#007ac1;padding:6px 10px;font-size:12px}.ds-title{position:absolute;left:12px;bottom:12px;right:12px;font-size:16px}.ds-card:hover .ds-title{text-decoration:underline}"
+    },
+    {
+      "name": "Find a Rep Fab",
+      "kind": "custom",
+      "refersTo": "fab",
+      "description": "Fixed circular blue CTA on the right edge.",
+      "html": "<a class=\"ds-fab\" href=\"#\">FIND A REP</a>",
+      "css": ".ds-fab{display:flex;align-items:center;justify-content:center;width:60px;height:60px;border-radius:50%;background:#007ac1;color:#fff;font:700 10px Arial,sans-serif;text-align:center;box-shadow:0 0 3px #808080;text-decoration:none}.ds-fab:hover{background:#338ec9}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Ingredient Catalogue",
+    "overview": "A WordPress/Bootstrap-3 B2B site in Omya blue and white: photo heroes with a dark overlay and centred white titles, parallelogram buttons, square corners, Arial throughout.",
+    "keyCharacteristics": [
+      "Omya blue #007ac1 carries headings, bands and primary buttons",
+      "Skewed (-10deg) parallelogram buttons",
+      "Square corners; only the FIND A REP fab is round",
+      "Arial for everything; no web text font renders",
+      "Every interior page ends with a blue Contact Omya form band"
+    ],
+    "rules": [
+      {
+        "name": "The Parallelogram Rule",
+        "body": "Buttons are skewX(-10deg) boxes with the label counter-skewed upright.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do keep heading blue on white and white on photo heroes."
+    ],
+    "donts": [
+      "Don't round button or card corners."
+    ]
+  }
+}

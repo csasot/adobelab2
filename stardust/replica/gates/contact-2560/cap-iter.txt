@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://omyapersonalcare.us/contact/
+  modules  5 sections: capped 1310 ×3 · full-bleed ×2
+  contentMaxWidth 1310px (module) · shellMaxWidth fluid · root #interior-content
+build  http://localhost:8791/contact-proposed.html
+  modules  3 sections: capped 1310 ×3 · full-bleed ×0
+  contentMaxWidth 1310px (module) · shellMaxWidth fluid · root #interior-content
+rows
+  ✓ content cap: live 1310px = build 1310px (±20, shared module cap)
+  ⚠ sections: live 5 vs build 3 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ✓ module 1/5: 1310px = 1310px
+  ⚠ module 2/5: live full-bleed (#interior-content > div.clearfix) → build 1310px (#interior-content > section.page-section.page-section--blue > div.wrap.page-section__wrap)
+  ✓ module 3/5: 1310px = 1310px
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/contact-2560/cap-iter.json)

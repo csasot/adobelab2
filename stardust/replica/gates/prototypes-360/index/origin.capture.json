@@ -1,0 +1,18 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://omyapersonalcare.us/",
+  "width": 360,
+  "vh": 900,
+  "height": 5564,
+  "chunks": 7,
+  "denialCheck": "ok",
+  "fontsFailed": [
+    "frutigerbold"
+  ],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 10,
+    "late": 0
+  },
+  "at": "2026-11-17T16:15:04.104Z"
+}

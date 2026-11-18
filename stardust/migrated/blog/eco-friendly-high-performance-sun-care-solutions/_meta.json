@@ -1,0 +1,134 @@
+{
+  "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "video-grid",
+    "columns",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "6fbb837d4d63",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Eco-Friendly &amp; High-Performance Sun Care Solutions - Omya",
+    "description": "As a daily essential for consumers, sun care users are seeking more than just UV protection. Omya supports these evolving needs.",
+    "canonical": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Eco-Friendly &amp; High-Performance Sun Care Solutions - Omya",
+    "description": "As a daily essential for consumers, sun care users are seeking more than just UV protection. Omya supports these evolving needs.",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "5c4cb739d01b",
+  "sourceProposedSha": "8dc987077e5d",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-eco-friendly-high-performance-sun-care-solutions.html; no invented copy"
+  },
+  "contentDeviations": [
+    {
+      "kind": "style",
+      "source": "inline styles: centred/blue h3, blue product labels (span color), 20/30px clearfix spacers, col-md-5/7 split",
+      "target": "accent-headings section style (blue h3, left-aligned), plain bold labels, no spacers, columns block 50/50",
+      "reason": "per-element inline styles are not authorable in DA default content; gate 1440 11.32% / 360 23.53% FAIL (fix-round cap)"
+    }
+  ],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/SunstiK-SPF-30-Sunscreen-SH-01-81-09.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/GellyBalm-SPF-30-Sunscreen-SH-02-42-05.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/ButterScreen-SH-02-14-16.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/eco-friendly-high-performance-sun-care-solutions/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/eco-friendly-high-performance-sun-care-solutions/_meta.json",
+  "driverVersion": "1"
+}

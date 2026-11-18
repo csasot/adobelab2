@@ -1,0 +1,38 @@
+{
+  "media/careers/careers-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/cluster-form/media/careers/careers-1.jpg",
+    "size": 201934,
+    "sha256": "62932581882bc17d13f9acbfc86727720c1b2fb586daab67fe019ad2f2ce115a",
+    "contentType": "image/jpeg",
+    "source": "https://omyapersonalcare.us/wp-content/uploads/careers-1.jpg",
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/careers/careers-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T19:22:40.804Z"
+  },
+  "media/customer-resources/credit-application/credit-application-thumb.png": {
+    "status": "uploaded",
+    "file": "stardust/.work/cluster-form/media/customer-resources/credit-application/credit-application-thumb.png",
+    "size": 48923,
+    "sha256": "ace0b008b5c9cae27170f40cc176328bd93b9654865b92e4eca46e77760a5ad1",
+    "contentType": "image/png",
+    "source": "https://omyapersonalcare.us/wp-content/uploads/credit-application-thumb.png",
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/customer-resources/credit-application/credit-application-thumb.png",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T19:22:41.801Z"
+  },
+  "media/customer-resources/onboarding/light.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/cluster-form/media/customer-resources/onboarding/light.jpg",
+    "size": 228208,
+    "sha256": "d1fe90d97b0c683e3344fc6b9e9973ad40543f05eebd49abf0c5b69b3c226001",
+    "contentType": "image/jpeg",
+    "source": "https://omyapersonalcare.us/wp-content/uploads/light.jpg",
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/customer-resources/onboarding/light.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T19:22:42.709Z"
+  }
+}

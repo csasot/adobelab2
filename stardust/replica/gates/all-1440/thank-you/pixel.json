@@ -1,0 +1,36 @@
+{
+  "a": "stardust/replica/gates/all-1440/thank-you/origin.png",
+  "b": "stardust/replica/gates/all-1440/thank-you/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 972,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 658,
+  "pct": 0.05,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/thank-you/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0.03,
+  "textBoxes": 40,
+  "textPixels": 67758,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.1
+    },
+    {
+      "y0": 500,
+      "y1": 972,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/thank-you"
+  }
+}

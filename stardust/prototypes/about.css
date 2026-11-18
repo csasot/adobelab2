@@ -1,0 +1,36 @@
+/* ==========================================================================
+   about.css — static archetype (about + 8 sibling pages). Load after canon.css.
+   Modules: header-about (inner header photo variant) · about-hero (h1 +
+   breadcrumbs title band) · nav-current · intro-texture.
+   NOTE: header-about / about-hero / nav-current are inner-page chrome authored
+   here (prefix-scoped) to avoid a concurrent write to canon.css; candidates to
+   merge into canon's header-inner / page-hero modules later.
+   ========================================================================== */
+
+/* == module: header-about == (page photo, center/cover, under the shared 50% scrim) */
+.site-header--about { background-position: center center; background-repeat: no-repeat; background-size: cover; }
+
+/* == module: about-hero == (bootstrap .container 50/40 padding; col 12 / md 10+1 / lg 8+2) */
+.about-hero { display: flow-root; position: relative; z-index: 10; padding: 50px 0 40px; text-align: center; }
+.about-hero__col { position: relative; min-height: 1px; padding: 0 15px; }
+@media (min-width: 992px) { .about-hero__col { width: 83.33333333%; margin-left: 8.33333333%; } }
+@media (min-width: 1200px) { .about-hero__col { width: 66.66666667%; margin-left: 16.66666667%; } }
+.about-hero__crumbs { margin: 15px 0 0; color: #fff; }
+.about-hero__crumbs a { color: var(--c-sky); text-decoration: none; }
+.about-hero__crumbs a:hover { color: var(--c-sky); text-decoration: underline; }
+
+/* == module: nav-current == (current section link in the desktop nav is sky blue) */
+.site-nav__list > li.is-current > a { color: var(--c-sky); background: none; }
+
+/* == compensation: aux-nav line box (header-about) ==
+   The source renders in limited-quirks mode (XHTML 1.0 Transitional doctype):
+   its aux-nav <li> line boxes get no strut, so the strip is 30px. canon's
+   standards-mode strut adds ~1.3px; zero the li's own line-height and restore
+   it on the link and the "/" separator. */
+.site-header--about .aux-nav__list > li { line-height: 0; }
+.site-header--about .aux-nav__list > li > a { line-height: var(--lh-body); }
+.site-header--about .aux-nav__list > li::after { line-height: 20px; }
+
+/* == module: intro-texture == (page-content band: body texture over 80% white; lede 400) */
+.page-section--texture { background: var(--bg-texture) center top rgba(255, 255, 255, 0.8); }
+.intro__lede { font-weight: 400; }

@@ -1,0 +1,2230 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:prototype",
+    "writtenAt": "2026-11-17T20:52:15Z",
+    "stardustVersion": "0.39.4"
+  },
+  "site": {
+    "originUrl": "https://omyapersonalcare.us",
+    "deployUrl": null,
+    "extractedAt": "2026-11-17T15:44:09.993Z",
+    "pageCap": 0,
+    "pagesArg": "stardust/.labs/pages-arg.txt",
+    "totalDiscovered": 100,
+    "crawled": 71,
+    "captureGaps": [],
+    "excluded": {
+      "offOriginRedirect": [
+        "https://omyapersonalcare.us/our-products/preservation/greengard-pea-bio/",
+        "https://omyapersonalcare.us/our-products/skin-care/exfobreeze/",
+        "https://omyapersonalcare.us/our-products/skin-care/flexan-ii-polymer/",
+        "https://omyapersonalcare.us/our-products/skin-care/green-clay/",
+        "https://omyapersonalcare.us/our-products/skin-care/greensens-tec-bio/",
+        "https://omyapersonalcare.us/our-products/skin-care/kahlpowder-2442p5-carnauba/",
+        "https://omyapersonalcare.us/our-products/sun-care/ferulan-active/",
+        "https://omyapersonalcare.us/our-products/sun-care/gls-hemp-10/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6279l-myrica/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6607l-mb-sunflower/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6642-organic-carnauba/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6692-rose/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-6702-natural-cl-substitute/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8104-white-beeswax/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8105-yellow-beeswax/",
+        "https://omyapersonalcare.us/our-products/sun-care/kahlwax-8138-organic-beeswax/",
+        "https://omyapersonalcare.us/our-products/"
+      ],
+      "http404AfterOffOriginRedirect": [
+        "https://omyapersonalcare.us/our-products/color/",
+        "https://omyapersonalcare.us/our-products/sun/",
+        "https://omyapersonalcare.us/our-products/oral/",
+        "https://omyapersonalcare.us/our-products/preservation/",
+        "https://omyapersonalcare.us/our-products/skin/",
+        "https://omyapersonalcare.us/our-products/hair/",
+        "https://omyapersonalcare.us/our-products/preservation/greengard-ba-bio/",
+        "https://omyapersonalcare.us/our-products/sun-care/greengard-pa12/",
+        "https://omyapersonalcare.us/our-products/skin-care/greengard-pa3/",
+        "https://omyapersonalcare.us/our-products/skin-care/greengard-pa/",
+        "https://omyapersonalcare.us/our-products/sun-care/gle-organic-glycerin/",
+        "https://omyapersonalcare.us/our-products/skin-care/hipegel-oleo/"
+      ]
+    }
+  },
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-17T15:44:09.993Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "about-global-partners",
+      "url": "https://omyapersonalcare.us/about/global-partners/",
+      "title": "Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:17.219Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/about-global-partners.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "about-our-difference",
+      "url": "https://omyapersonalcare.us/about/our-difference/",
+      "title": "Natural Cosmetics Ingredients | Organic Raw Materials | Omya",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:54.723Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/about-our-difference.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "about-our-team",
+      "url": "https://omyapersonalcare.us/about/our-team/",
+      "title": "Our Team | Omya Personal Care",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:21.146Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/about-our-team.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "about",
+      "url": "https://omyapersonalcare.us/about/",
+      "title": "Personal Care Formulary | Natural Cosmetics Ingredients | Omya",
+      "type": "static",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:52.833Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:41:01Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/about.json",
+      "prototypePath": "stardust/prototypes/about-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-aak-partnership",
+      "url": "https://omyapersonalcare.us/blog/aak-partnership/",
+      "title": "AAK Partnership - Omya Personal Care",
+      "type": "article",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:29.938Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:41:20Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-aak-partnership.json",
+      "prototypePath": "stardust/prototypes/blog-aak-partnership-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-announcing-our-latest-product-launches",
+      "url": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+      "title": "Announcing Our Latest Product Launches! - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:22.876Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-announcing-our-latest-product-launches.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-asp-products-pay-your-invoice",
+      "url": "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/",
+      "title": "Pay Your Invoice - Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:30.326Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-asp-products-pay-your-invoice.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "url": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+      "title": "Eco-Friendly & High-Performance Sun Care Solutions - Omya",
+      "type": "article",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:39.424Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T20:52:15Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-eco-friendly-high-performance-sun-care-solutions.json",
+      "prototypePath": "stardust/prototypes/blog-eco-friendly-high-performance-sun-care-solutions-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-february-is-national-childrens-dental-health-month",
+      "url": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+      "title": "February is National Children's Dental Health Month - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:31.803Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-february-is-national-childrens-dental-health-month.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "url": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+      "title": "Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:01.917Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-how-2025-reshaped-oral-health",
+      "url": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "title": "How 2025 Reshaped Oral Health - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:53.430Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-how-2025-reshaped-oral-health.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+      "url": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+      "title": "Introducing our newest supply partner, Quimivita - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:15.593Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-introducing-our-newest-supply-partner-quimivita.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-national-toothache-day-february-9th",
+      "url": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+      "title": "National Toothache Day - February 9th - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:17.551Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-national-toothache-day-february-9th.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-nutrition-x-oral-health",
+      "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+      "title": "Trend Spotlight: Nutrition x Oral Health - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:46.963Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-nutrition-x-oral-health.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "url": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+      "title": "Omya announces a new partnership with ACTV Biotechnology",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:40.386Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-omya-announces-new-partnership-with-actv-biotechnology.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-omya-partners-with-lipoid-kosmetik",
+      "url": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+      "title": "Omya Partners with Lipoid Kosmetik",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:47.562Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-omya-partners-with-lipoid-kosmetik.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "url": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+      "title": "Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:24.550Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-pacific-blends-and-omya-specialty-materials-partnership.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-skinification-of-oral-care",
+      "url": "https://omyapersonalcare.us/blog/skinification-of-oral-care/",
+      "title": "Skinification of Oral Care - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:25.783Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-skinification-of-oral-care.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-the-healthy-bite",
+      "url": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+      "title": "The Healthy Bite - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:32.605Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-the-healthy-bite.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-trend-spotlight-oil-pulling",
+      "url": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+      "title": "Trend Spotlight: Oil Pulling - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:37.483Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-trend-spotlight-oil-pulling.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-water-conscious-oral-care-solutions",
+      "url": "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/",
+      "title": "Water Conscious Oral Care Solutions - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:11.626Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-water-conscious-oral-care-solutions.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+      "url": "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/",
+      "title": "Welcoming Monica Advani to the Omya Team - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:18.873Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-welcoming-monica-advani-to-the-omya-team.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "careers",
+      "url": "https://omyapersonalcare.us/careers/",
+      "title": "Careers | Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:36.434Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/careers.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "contact-rep-locator",
+      "url": "https://omyapersonalcare.us/contact/rep-locator/",
+      "title": "Rep Locator | Omya Personal Care",
+      "type": "unique",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:55.519Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:56:00Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/contact-rep-locator.json",
+      "prototypePath": "stardust/prototypes/contact-rep-locator-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "contact",
+      "url": "https://omyapersonalcare.us/contact/",
+      "title": "Contact Us | Omya Personal Care",
+      "type": "form",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:02.212Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:54:53Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/contact.json",
+      "prototypePath": "stardust/prototypes/contact-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "customer-resources-credit-application",
+      "url": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "title": "Credit Application | Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:20.199Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/customer-resources-credit-application.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "customer-resources-onboarding",
+      "url": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "title": "Onboarding | Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:00.912Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/customer-resources-onboarding.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "customer-resources",
+      "url": "https://omyapersonalcare.us/customer-resources/",
+      "title": "Omya Personal Care Customer Resources",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:40.934Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/customer-resources.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-2019-sunscreen-symposium",
+      "url": "https://omyapersonalcare.us/events/2019-sunscreen-symposium/",
+      "title": "2019 Sunscreen Symposium - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:49.644Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-2019-sunscreen-symposium.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-3590",
+      "url": "https://omyapersonalcare.us/events/3590/",
+      "title": "California Suppliers’ Day Booth #335 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:18.026Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-3590.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "url": "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/",
+      "title": "Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:10.488Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-catch-jason-nesta-speaking-at-swscc-sept-educational-month.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-cosmoprof-north-america",
+      "url": "https://omyapersonalcare.us/events/cosmoprof-north-america/",
+      "title": "Cosmoprof North America - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:17.064Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-cosmoprof-north-america.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-evercare-seminar-la",
+      "url": "https://omyapersonalcare.us/events/evercare-seminar-la/",
+      "title": "Evercare Seminar LA - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:57.491Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-evercare-seminar-la.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "url": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+      "title": "ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:42.686Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "url": "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+      "title": "IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:34.944Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-in-cosmetics-global-2022",
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global-2022/",
+      "title": "In-Cosmetics Global 2022 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:11.451Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-in-cosmetics-global-2022.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+      "title": "In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:35.614Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-in-cosmetics-global-attended-by-kinetik-and-suppliers.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-in-cosmetics-global",
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global/",
+      "title": "In-Cosmetics Global - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:02.026Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-in-cosmetics-global.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-indie-beauty-expo-la",
+      "url": "https://omyapersonalcare.us/events/indie-beauty-expo-la/",
+      "title": "Indie Beauty Expo LA - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:55.122Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-indie-beauty-expo-la.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-indie-beauty-expo-ny",
+      "url": "https://omyapersonalcare.us/events/indie-beauty-expo-ny/",
+      "title": "Indie Beauty Expo NY - August 2020 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:03.912Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-indie-beauty-expo-ny.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "url": "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/",
+      "title": "Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:24.572Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-join-us-at-a-kinetik-technology-seminar",
+      "url": "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/",
+      "title": "Join us at a Kinetik Technology Seminar! - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:50.878Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-join-us-at-a-kinetik-technology-seminar.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+      "url": "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/",
+      "title": "Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:48.504Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-kinetik-attends-ca-suppliers-day-2019.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "url": "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+      "title": "Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:44.200Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "url": "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+      "title": "Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:41.796Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-makeup-los-angeles",
+      "url": "https://omyapersonalcare.us/events/makeup-los-angeles/",
+      "title": "MakeUp Los Angeles - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:56.378Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-makeup-los-angeles.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-midwest-scc-teamworks",
+      "url": "https://omyapersonalcare.us/events/midwest-scc-teamworks/",
+      "title": "Midwest SCC TeamWorks - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:03.025Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-midwest-scc-teamworks.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-naturally-kiawah-symposium",
+      "url": "https://omyapersonalcare.us/events/naturally-kiawah-symposium/",
+      "title": "Naturally Kiawah Symposium - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:10.488Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-naturally-kiawah-symposium.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-ny-suppliers-day-2023",
+      "url": "https://omyapersonalcare.us/events/ny-suppliers-day-2023/",
+      "title": "NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:23.736Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-ny-suppliers-day-2023.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-nyscc-suppliers-day-2021",
+      "url": "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/",
+      "title": "NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:19.175Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-nyscc-suppliers-day-2021.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "url": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+      "title": "Society of Cosmetic Chemists: Ingredion Inc.'s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:30.701Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "url": "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/",
+      "title": "Suppliers' Day 2019: Visit the Kinetik Booth! - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:37.544Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-suppliers-day-2019-visit-the-kinetik-booth.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events-swscc-suppliers-day",
+      "url": "https://omyapersonalcare.us/events/swscc-suppliers-day/",
+      "title": "SWSCC Suppliers’ Day - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:21:25.561Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events-swscc-suppliers-day.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "events",
+      "url": "https://omyapersonalcare.us/events/",
+      "title": "Events Archive - Omya Personal Care",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:20.660Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/events.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "formulary-request",
+      "url": "https://omyapersonalcare.us/formulary-request/",
+      "title": "Cosmetics Formulary and Personal Care Product Recipe Source | Omya",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:47.760Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/formulary-request.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "get-a-sample",
+      "url": "https://omyapersonalcare.us/get-a-sample/",
+      "title": "Request a Sample | Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:50.244Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/get-a-sample.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "index",
+      "url": "https://omyapersonalcare.us/",
+      "title": "Innovative Raw Materials For The Personal Care Industry | Omya",
+      "type": "landing",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:01.131Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:27:40Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "insights-blog",
+      "url": "https://omyapersonalcare.us/insights/blog/",
+      "title": "Latest Natural Trends and Ingredient News | Omya Personal Care",
+      "type": "listing",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:30.545Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-17T16:44:10Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/insights-blog.json",
+      "prototypePath": "stardust/prototypes/insights-blog-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "insights-events",
+      "url": "https://omyapersonalcare.us/insights/events/",
+      "title": "Upcoming Events | Omya Personal Care",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:13.457Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/insights-events.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "insights",
+      "url": "https://omyapersonalcare.us/insights/",
+      "title": "Natural Cosmetics News, Insights and Resources | Omya",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:43.679Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/insights.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-news-item-1",
+      "url": "https://omyapersonalcare.us/news/news-item-1/",
+      "title": "News Item 1 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:24.120Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/news-news-item-1.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-news-item-2",
+      "url": "https://omyapersonalcare.us/news/news-item-2/",
+      "title": "News Item 2 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:27.712Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/news-news-item-2.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news-news-item-3",
+      "url": "https://omyapersonalcare.us/news/news-item-3/",
+      "title": "News Item 3 - Omya Personal Care",
+      "type": "article",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:20:28.233Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/news-news-item-3.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "news",
+      "url": "https://omyapersonalcare.us/news/",
+      "title": "News Archive - Omya Personal Care",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:21.517Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/news.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "our-approach",
+      "url": "https://omyapersonalcare.us/our-approach/",
+      "title": "Natural, Organic, Sustainable Cosmetics Ingredients & Materials | Omya",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:57.377Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/our-approach.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "our-formulations",
+      "url": "https://omyapersonalcare.us/our-formulations/",
+      "title": "Our Formulations | Omya Personal Care",
+      "type": "listing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:19:00.987Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/our-formulations.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "pay-thank-you",
+      "url": "https://omyapersonalcare.us/pay-thank-you/",
+      "title": "Thank You for Payment | Omya Personal Care",
+      "type": "unique",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:10.645Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/pay-thank-you.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "privacy-policy",
+      "url": "https://omyapersonalcare.us/privacy-policy/",
+      "title": "Privacy Policy | Omya Personal Care",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:38:11.970Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/privacy-policy.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "request-info",
+      "url": "https://omyapersonalcare.us/request-info/",
+      "title": "Request Information | Omya Personal Care",
+      "type": "form",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:54.896Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/request-info.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "terms-of-use",
+      "url": "https://omyapersonalcare.us/terms-of-use/",
+      "title": "Terms of Use | Omya Personal Care",
+      "type": "static",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:34.289Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/terms-of-use.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "thank-you",
+      "url": "https://omyapersonalcare.us/thank-you/",
+      "title": "Omya Personal Care Thank You",
+      "type": "unique",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-17T15:18:28.413Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/thank-you.json",
+      "prototypePath": null,
+      "migratedPath": null
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-17T20:14:57Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/about/global-partners/",
+        "outputPath": "about/global-partners/index.html",
+        "slug": "about-global-partners",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/about/our-difference/",
+        "outputPath": "about/our-difference/index.html",
+        "slug": "about-our-difference",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/about/our-team/",
+        "outputPath": "about/our-team/index.html",
+        "slug": "about-our-team",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/about/",
+        "outputPath": "about/index.html",
+        "slug": "about",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/aak-partnership/",
+        "outputPath": "blog/aak-partnership/index.html",
+        "slug": "blog-aak-partnership",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/announcing-our-latest-product-launches/",
+        "outputPath": "blog/announcing-our-latest-product-launches/index.html",
+        "slug": "blog-announcing-our-latest-product-launches",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/asp-products/pay-your-invoice/",
+        "outputPath": "blog/asp-products/pay-your-invoice/index.html",
+        "slug": "blog-asp-products-pay-your-invoice",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "outputPath": "blog/eco-friendly-high-performance-sun-care-solutions/index.html",
+        "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/february-is-national-childrens-dental-health-month/",
+        "outputPath": "blog/february-is-national-childrens-dental-health-month/index.html",
+        "slug": "blog-february-is-national-childrens-dental-health-month",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "outputPath": "blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/index.html",
+        "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/how-2025-reshaped-oral-health/",
+        "outputPath": "blog/how-2025-reshaped-oral-health/index.html",
+        "slug": "blog-how-2025-reshaped-oral-health",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/introducing-our-newest-supply-partner-quimivita/",
+        "outputPath": "blog/introducing-our-newest-supply-partner-quimivita/index.html",
+        "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/national-toothache-day-february-9th/",
+        "outputPath": "blog/national-toothache-day-february-9th/index.html",
+        "slug": "blog-national-toothache-day-february-9th",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/nutrition-x-oral-health/",
+        "outputPath": "blog/nutrition-x-oral-health/index.html",
+        "slug": "blog-nutrition-x-oral-health",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+        "outputPath": "blog/omya-announces-new-partnership-with-actv-biotechnology/index.html",
+        "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/omya-partners-with-lipoid-kosmetik/",
+        "outputPath": "blog/omya-partners-with-lipoid-kosmetik/index.html",
+        "slug": "blog-omya-partners-with-lipoid-kosmetik",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+        "outputPath": "blog/pacific-blends-and-omya-specialty-materials-partnership/index.html",
+        "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/skinification-of-oral-care/",
+        "outputPath": "blog/skinification-of-oral-care/index.html",
+        "slug": "blog-skinification-of-oral-care",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/the-healthy-bite/",
+        "outputPath": "blog/the-healthy-bite/index.html",
+        "slug": "blog-the-healthy-bite",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/trend-spotlight-oil-pulling/",
+        "outputPath": "blog/trend-spotlight-oil-pulling/index.html",
+        "slug": "blog-trend-spotlight-oil-pulling",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/water-conscious-oral-care-solutions/",
+        "outputPath": "blog/water-conscious-oral-care-solutions/index.html",
+        "slug": "blog-water-conscious-oral-care-solutions",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/blog/welcoming-monica-advani-to-the-omya-team/",
+        "outputPath": "blog/welcoming-monica-advani-to-the-omya-team/index.html",
+        "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/careers/",
+        "outputPath": "careers/index.html",
+        "slug": "careers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/contact/rep-locator/",
+        "outputPath": "contact/rep-locator/index.html",
+        "slug": "contact-rep-locator",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/contact/",
+        "outputPath": "contact/index.html",
+        "slug": "contact",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/customer-resources/credit-application/",
+        "outputPath": "customer-resources/credit-application/index.html",
+        "slug": "customer-resources-credit-application",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/customer-resources/onboarding/",
+        "outputPath": "customer-resources/onboarding/index.html",
+        "slug": "customer-resources-onboarding",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/customer-resources/",
+        "outputPath": "customer-resources/index.html",
+        "slug": "customer-resources",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/2019-sunscreen-symposium/",
+        "outputPath": "events/2019-sunscreen-symposium/index.html",
+        "slug": "events-2019-sunscreen-symposium",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/3590/",
+        "outputPath": "events/3590/index.html",
+        "slug": "events-3590",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/",
+        "outputPath": "events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/index.html",
+        "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/cosmoprof-north-america/",
+        "outputPath": "events/cosmoprof-north-america/index.html",
+        "slug": "events-cosmoprof-north-america",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/evercare-seminar-la/",
+        "outputPath": "events/evercare-seminar-la/index.html",
+        "slug": "events-evercare-seminar-la",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+        "outputPath": "events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/index.html",
+        "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+        "outputPath": "events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/index.html",
+        "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/in-cosmetics-global-2022/",
+        "outputPath": "events/in-cosmetics-global-2022/index.html",
+        "slug": "events-in-cosmetics-global-2022",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+        "outputPath": "events/in-cosmetics-global-attended-by-kinetik-and-suppliers/index.html",
+        "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/in-cosmetics-global/",
+        "outputPath": "events/in-cosmetics-global/index.html",
+        "slug": "events-in-cosmetics-global",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/indie-beauty-expo-la/",
+        "outputPath": "events/indie-beauty-expo-la/index.html",
+        "slug": "events-indie-beauty-expo-la",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/indie-beauty-expo-ny/",
+        "outputPath": "events/indie-beauty-expo-ny/index.html",
+        "slug": "events-indie-beauty-expo-ny",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/",
+        "outputPath": "events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/index.html",
+        "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/join-us-at-a-kinetik-technology-seminar/",
+        "outputPath": "events/join-us-at-a-kinetik-technology-seminar/index.html",
+        "slug": "events-join-us-at-a-kinetik-technology-seminar",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/kinetik-attends-ca-suppliers-day-2019/",
+        "outputPath": "events/kinetik-attends-ca-suppliers-day-2019/index.html",
+        "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+        "outputPath": "events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/index.html",
+        "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+        "outputPath": "events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/index.html",
+        "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/makeup-los-angeles/",
+        "outputPath": "events/makeup-los-angeles/index.html",
+        "slug": "events-makeup-los-angeles",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/midwest-scc-teamworks/",
+        "outputPath": "events/midwest-scc-teamworks/index.html",
+        "slug": "events-midwest-scc-teamworks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/naturally-kiawah-symposium/",
+        "outputPath": "events/naturally-kiawah-symposium/index.html",
+        "slug": "events-naturally-kiawah-symposium",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/ny-suppliers-day-2023/",
+        "outputPath": "events/ny-suppliers-day-2023/index.html",
+        "slug": "events-ny-suppliers-day-2023",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/nyscc-suppliers-day-2021/",
+        "outputPath": "events/nyscc-suppliers-day-2021/index.html",
+        "slug": "events-nyscc-suppliers-day-2021",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+        "outputPath": "events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/index.html",
+        "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/suppliers-day-2019-visit-the-kinetik-booth/",
+        "outputPath": "events/suppliers-day-2019-visit-the-kinetik-booth/index.html",
+        "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/swscc-suppliers-day/",
+        "outputPath": "events/swscc-suppliers-day/index.html",
+        "slug": "events-swscc-suppliers-day",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/events/",
+        "outputPath": "events/index.html",
+        "slug": "events",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/formulary-request/",
+        "outputPath": "formulary-request/index.html",
+        "slug": "formulary-request",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/get-a-sample/",
+        "outputPath": "get-a-sample/index.html",
+        "slug": "get-a-sample",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/insights/blog/",
+        "outputPath": "insights/blog/index.html",
+        "slug": "insights-blog",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/insights/events/",
+        "outputPath": "insights/events/index.html",
+        "slug": "insights-events",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/insights/",
+        "outputPath": "insights/index.html",
+        "slug": "insights",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/news/news-item-1/",
+        "outputPath": "news/news-item-1/index.html",
+        "slug": "news-news-item-1",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/news/news-item-2/",
+        "outputPath": "news/news-item-2/index.html",
+        "slug": "news-news-item-2",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/news/news-item-3/",
+        "outputPath": "news/news-item-3/index.html",
+        "slug": "news-news-item-3",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/news/",
+        "outputPath": "news/index.html",
+        "slug": "news",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/our-approach/",
+        "outputPath": "our-approach/index.html",
+        "slug": "our-approach",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/our-formulations/",
+        "outputPath": "our-formulations/index.html",
+        "slug": "our-formulations",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/pay-thank-you/",
+        "outputPath": "pay-thank-you/index.html",
+        "slug": "pay-thank-you",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/privacy-policy/",
+        "outputPath": "privacy-policy/index.html",
+        "slug": "privacy-policy",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/request-info/",
+        "outputPath": "request-info/index.html",
+        "slug": "request-info",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/terms-of-use/",
+        "outputPath": "terms-of-use/index.html",
+        "slug": "terms-of-use",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/thank-you/",
+        "outputPath": "thank-you/index.html",
+        "slug": "thank-you",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 55,
+    "bundledAssets": [
+      "about.css",
+      "blog-aak-partnership.css",
+      "canon.css",
+      "canon.js",
+      "contact-rep-locator.css",
+      "contact-rep-locator.js",
+      "contact.css",
+      "fonts/fa-solid-900.woff2",
+      "fonts/wprmenu.woff",
+      "img/AAK-Partnership-Announcement-Website-Image-1600x860-1.jpg",
+      "img/Clean-Beauty-2.jpeg",
+      "img/Domenic-Hix.jpg",
+      "img/DyStar.png",
+      "img/EverCare-png.png",
+      "img/Itaconix.png",
+      "img/Joseph-Shieh-1.jpg",
+      "img/Karen-Cole-1.jpg",
+      "img/Lily-Hoang-1.jpg",
+      "img/Lindsay-Boris-1.jpg",
+      "img/Lindsey-Ross.jpg",
+      "img/Meriem-Chetoui.jpg",
+      "img/National-Childrens-Dental-Health-Month-Website-Image-v2.jpeg",
+      "img/National-Toothache-Day-Blog-Image-2025.jpg",
+      "img/NouryonLogo_RGB.png",
+      "img/Nutrition-x-Oral-Health.jpg",
+      "img/OMYA-Lipoid-Kosmetik.jpg",
+      "img/OMYA-Oil-Pulling.png",
+      "img/Omya-Logo-White.png",
+      "img/PB_hi-rezlogo.png",
+      "img/PersonalCare-Product-Portfolio.jpg",
+      "img/Quimivita.png",
+      "img/Teresa-Bucio.jpg",
+      "img/aak-logo.png",
+      "img/about-kinetik-omya.jpg",
+      "img/actv-biotech-logo.png",
+      "img/alchemy.png",
+      "img/bg-body.gif",
+      "img/clouds.jpg",
+      "img/favicon.jpg",
+      "img/formulary-cta.jpg",
+      "img/kahwax-2023.png",
+      "img/linkedin.png",
+      "img/malva-sylvestris-flower-blooming-garden.jpg",
+      "img/mountains-dark.jpg",
+      "img/omya-kinetik-personal-care-homev2.jpg",
+      "img/omya-kinetik-product-header.jpg",
+      "img/omya.png",
+      "img/the-IT-list-cta.jpg",
+      "img/the-healthy-bite-featured-updated-3.jpg",
+      "img/toothpaste-and-other-oral-health-products.jpg",
+      "img/us-states-map-max-gray.jpg",
+      "img/woman-headsetv2-scaled-e1615414347329.jpg",
+      "img/woman-holding-umbrella-beach.jpg",
+      "index.css",
+      "insights-blog.css"
+    ],
+    "pages": [
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 26
+      },
+      {
+        "slug": "about",
+        "file": "stardust/migrated/about/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "blog-aak-partnership",
+        "file": "stardust/migrated/blog/aak-partnership/index.html",
+        "assetsBundled": 8
+      },
+      {
+        "slug": "insights-blog",
+        "file": "stardust/migrated/insights/blog/index.html",
+        "assetsBundled": 18
+      },
+      {
+        "slug": "contact",
+        "file": "stardust/migrated/contact/index.html",
+        "assetsBundled": 10
+      },
+      {
+        "slug": "contact-rep-locator",
+        "file": "stardust/migrated/contact/rep-locator/index.html",
+        "assetsBundled": 19
+      },
+      {
+        "slug": "about-global-partners",
+        "file": "stardust/migrated/about/global-partners/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "about-our-difference",
+        "file": "stardust/migrated/about/our-difference/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "about-our-team",
+        "file": "stardust/migrated/about/our-team/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "customer-resources",
+        "file": "stardust/migrated/customer-resources/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "insights",
+        "file": "stardust/migrated/insights/index.html",
+        "assetsBundled": 6
+      },
+      {
+        "slug": "our-approach",
+        "file": "stardust/migrated/our-approach/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "privacy-policy",
+        "file": "stardust/migrated/privacy-policy/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "terms-of-use",
+        "file": "stardust/migrated/terms-of-use/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "blog-announcing-our-latest-product-launches",
+        "file": "stardust/migrated/blog/announcing-our-latest-product-launches/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "blog-eco-friendly-high-performance-sun-care-solutions",
+        "file": "stardust/migrated/blog/eco-friendly-high-performance-sun-care-solutions/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-february-is-national-childrens-dental-health-month",
+        "file": "stardust/migrated/blog/february-is-national-childrens-dental-health-month/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+        "file": "stardust/migrated/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-how-2025-reshaped-oral-health",
+        "file": "stardust/migrated/blog/how-2025-reshaped-oral-health/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-introducing-our-newest-supply-partner-quimivita",
+        "file": "stardust/migrated/blog/introducing-our-newest-supply-partner-quimivita/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-national-toothache-day-february-9th",
+        "file": "stardust/migrated/blog/national-toothache-day-february-9th/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-nutrition-x-oral-health",
+        "file": "stardust/migrated/blog/nutrition-x-oral-health/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+        "file": "stardust/migrated/blog/omya-announces-new-partnership-with-actv-biotechnology/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-omya-partners-with-lipoid-kosmetik",
+        "file": "stardust/migrated/blog/omya-partners-with-lipoid-kosmetik/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+        "file": "stardust/migrated/blog/pacific-blends-and-omya-specialty-materials-partnership/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-skinification-of-oral-care",
+        "file": "stardust/migrated/blog/skinification-of-oral-care/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-the-healthy-bite",
+        "file": "stardust/migrated/blog/the-healthy-bite/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-trend-spotlight-oil-pulling",
+        "file": "stardust/migrated/blog/trend-spotlight-oil-pulling/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-water-conscious-oral-care-solutions",
+        "file": "stardust/migrated/blog/water-conscious-oral-care-solutions/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-welcoming-monica-advani-to-the-omya-team",
+        "file": "stardust/migrated/blog/welcoming-monica-advani-to-the-omya-team/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-2019-sunscreen-symposium",
+        "file": "stardust/migrated/events/2019-sunscreen-symposium/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-3590",
+        "file": "stardust/migrated/events/3590/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+        "file": "stardust/migrated/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-cosmoprof-north-america",
+        "file": "stardust/migrated/events/cosmoprof-north-america/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-evercare-seminar-la",
+        "file": "stardust/migrated/events/evercare-seminar-la/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+        "file": "stardust/migrated/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+        "file": "stardust/migrated/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-in-cosmetics-global-2022",
+        "file": "stardust/migrated/events/in-cosmetics-global-2022/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+        "file": "stardust/migrated/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-in-cosmetics-global",
+        "file": "stardust/migrated/events/in-cosmetics-global/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-indie-beauty-expo-la",
+        "file": "stardust/migrated/events/indie-beauty-expo-la/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-indie-beauty-expo-ny",
+        "file": "stardust/migrated/events/indie-beauty-expo-ny/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+        "file": "stardust/migrated/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-join-us-at-a-kinetik-technology-seminar",
+        "file": "stardust/migrated/events/join-us-at-a-kinetik-technology-seminar/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-kinetik-attends-ca-suppliers-day-2019",
+        "file": "stardust/migrated/events/kinetik-attends-ca-suppliers-day-2019/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+        "file": "stardust/migrated/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+        "file": "stardust/migrated/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-makeup-los-angeles",
+        "file": "stardust/migrated/events/makeup-los-angeles/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-midwest-scc-teamworks",
+        "file": "stardust/migrated/events/midwest-scc-teamworks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-naturally-kiawah-symposium",
+        "file": "stardust/migrated/events/naturally-kiawah-symposium/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-ny-suppliers-day-2023",
+        "file": "stardust/migrated/events/ny-suppliers-day-2023/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-nyscc-suppliers-day-2021",
+        "file": "stardust/migrated/events/nyscc-suppliers-day-2021/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+        "file": "stardust/migrated/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+        "file": "stardust/migrated/events/suppliers-day-2019-visit-the-kinetik-booth/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "events-swscc-suppliers-day",
+        "file": "stardust/migrated/events/swscc-suppliers-day/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "news-news-item-1",
+        "file": "stardust/migrated/news/news-item-1/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "news-news-item-2",
+        "file": "stardust/migrated/news/news-item-2/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "news-news-item-3",
+        "file": "stardust/migrated/news/news-item-3/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-asp-products-pay-your-invoice",
+        "file": "stardust/migrated/blog/asp-products/pay-your-invoice/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "careers",
+        "file": "stardust/migrated/careers/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "customer-resources-credit-application",
+        "file": "stardust/migrated/customer-resources/credit-application/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "customer-resources-onboarding",
+        "file": "stardust/migrated/customer-resources/onboarding/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "formulary-request",
+        "file": "stardust/migrated/formulary-request/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "request-info",
+        "file": "stardust/migrated/request-info/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "get-a-sample",
+        "file": "stardust/migrated/get-a-sample/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "pay-thank-you",
+        "file": "stardust/migrated/pay-thank-you/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "thank-you",
+        "file": "stardust/migrated/thank-you/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "events",
+        "file": "stardust/migrated/events/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "insights-events",
+        "file": "stardust/migrated/insights/events/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "news",
+        "file": "stardust/migrated/news/index.html",
+        "assetsBundled": 8
+      },
+      {
+        "slug": "our-formulations",
+        "file": "stardust/migrated/our-formulations/index.html",
+        "assetsBundled": 7
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-17T20:14:57Z",
+      "rendered": [],
+      "unchanged": [
+        "our-formulations"
+      ],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

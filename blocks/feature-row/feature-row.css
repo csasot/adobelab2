@@ -1,0 +1,148 @@
+/* feature-row — canon.css · feature-row (mobile-first). The EDS block wrapper plays the
+   prototype's .feature-row-wrap (15px gutters around the bordered row). */
+main .section .feature-row-wrapper {
+  position: relative;
+  padding: 15px 15px 5px;
+}
+
+.feature-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: auto;
+  padding: 20px 0;
+  color: var(--c-ink);
+  background: #fff;
+  border: 2px solid var(--c-row-border);
+}
+
+.feature-row .feature-row-inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 15px;
+}
+
+.feature-row .feature-row-text,
+.feature-row .feature-row-media,
+.feature-row .feature-row-spacer {
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.feature-row .feature-row-media {
+  display: flow-root;
+  order: -1;
+  width: 100%;
+}
+
+.feature-row .feature-row-text {
+  width: 100%;
+}
+
+.feature-row .feature-row-spacer {
+  display: none;
+  width: calc(100% / 12);
+}
+
+.feature-row .feature-row-text :is(h2, h3) {
+  position: relative;
+  z-index: 2;
+  font-size: 24px;
+  color: #000;
+}
+
+/* the live line box around a two-line (wrapped) button stays at the button's 40px */
+.feature-row .feature-row-text p.button-wrapper {
+  vertical-align: top;
+}
+
+.feature-row .feature-row-media picture {
+  display: block;
+}
+
+.feature-row .feature-row-media img {
+  position: relative;
+  z-index: 2;
+  box-sizing: content-box;
+  display: block;
+  float: none;
+  max-width: calc(100% - 10px);
+  height: auto;
+  margin: 0 auto 10px;
+  border: 5px solid #fff;
+  box-shadow: var(--shadow-photo);
+}
+
+@media (width >= 768px) {
+  .feature-row {
+    min-height: 535px;
+    padding: 0;
+  }
+
+  .feature-row .feature-row-inner {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: var(--wrap-w);
+    margin: 0 auto;
+  }
+
+  .feature-row .feature-row-media {
+    order: 0;
+    width: 50%;
+  }
+
+  .feature-row .feature-row-text {
+    width: calc(100% * 5 / 12);
+  }
+
+  .feature-row .feature-row-spacer {
+    display: block;
+  }
+
+  .feature-row .feature-row-spacer-lead {
+    display: none;
+  }
+
+  .feature-row .feature-row-text :is(h2, h3) {
+    position: static;
+    font-size: 32px;
+  }
+
+  .feature-row.img-right .feature-row-media img {
+    float: right;
+    margin: 0 50px 0 0;
+  }
+
+  .feature-row.img-left .feature-row-media img {
+    float: left;
+    margin: 0 0 0 50px;
+  }
+}
+
+@media (width >= 992px) {
+  .feature-row .feature-row-text {
+    width: calc(100% / 3);
+  }
+
+  .feature-row .feature-row-spacer-lead {
+    display: block;
+  }
+}
+
+@media (width >= 1226px) {
+  .feature-row .feature-row-text :is(h2, h3) {
+    font-size: 36px;
+  }
+
+  .feature-row.img-right .feature-row-media img {
+    margin-right: 100px;
+  }
+
+  .feature-row.img-left .feature-row-media img {
+    margin-left: 100px;
+  }
+}

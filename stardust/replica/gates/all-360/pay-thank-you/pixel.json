@@ -1,0 +1,51 @@
+{
+  "a": "stardust/replica/gates/all-360/pay-thank-you/origin.png",
+  "b": "stardust/replica/gates/all-360/pay-thank-you/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 2056,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 21762,
+  "pct": 2.94,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/pay-thank-you/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 32,
+  "textPixels": 67619,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 3.1
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 8.8
+    },
+    {
+      "y0": 2000,
+      "y1": 2056,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/pay-thank-you"
+  }
+}

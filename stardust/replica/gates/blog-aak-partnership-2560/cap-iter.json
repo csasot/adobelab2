@@ -1,0 +1,179 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-17T16:38:24.340Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://omyapersonalcare.us/blog/aak-partnership/",
+      "http://localhost:8791/blog-aak-partnership-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://omyapersonalcare.us/blog/aak-partnership/",
+    "http://localhost:8791/blog-aak-partnership-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 7,
+      "w2": 1310
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content",
+        "tier": 0,
+        "share": 1,
+        "section": -1,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "content",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding > div.col-xs-12.col-sm-12",
+        "tier": 3,
+        "share": 1,
+        "section": -1,
+        "w1": 873,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.col-xs-12.col-sm-12 > article.post.type-post > div.entry-summary > p.orange-text",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "div.col-xs-12.col-sm-12 > article.post.type-post > div.entry-summary > h2",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "div.col-xs-12.col-sm-12 > article.post.type-post > div.entry-summary > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "div.col-xs-12.col-sm-12 > article.post.type-post > div.entry-summary > p",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1310,
+    "contentMaxWidth": 873,
+    "contentFrom": "content",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 54
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#interior-content",
+      "isBody": false,
+      "leaves": 7,
+      "w2": 1310
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1310,
+        "via": "fixed",
+        "selector": "#interior-content",
+        "tier": 0,
+        "share": 1,
+        "section": -1,
+        "w1": 1310,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "content",
+        "px": 873,
+        "via": "fixed",
+        "selector": "#interior-content > div.article-page > div.wrap.article-page__wrap > div.article-page__col",
+        "tier": 3,
+        "share": 1,
+        "section": -1,
+        "w1": 873,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.wrap.article-page__wrap > div.article-page__col > article.article.article--post > p.article__date",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "div.wrap.article-page__wrap > div.article-page__col > article.article.article--post > div.article__body",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1310,
+    "contentMaxWidth": 873,
+    "contentFrom": "content",
+    "maxCap": 1310,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 41
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 873px = build 873px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "outer shell",
+        "detail": "live 1310px (#interior-content) encloses the 873px wrapper cap — informational, no content bound of its own",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 4 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/4",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/4",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/blog-aak-partnership-2560/cap-iter.json"
+}

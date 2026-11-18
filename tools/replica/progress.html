@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Migration result</title>
+<link rel="stylesheet" href="spectrum.css">
+<style>
+  body { background-color: var(--spectrum-bg-app); }
+  main { max-width: 760px; margin: 0 auto; padding: 40px 24px 64px; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .meta { color: var(--spectrum-text-subdued); margin: 0 0 24px; }
+  .spectrum-panel { margin-bottom: 16px; }
+  .spectrum-panel-header { margin: 0; padding: 0 16px; }
+  details.spectrum-panel > summary { cursor: pointer; list-style: none; }
+  details.spectrum-panel > summary::-webkit-details-marker { display: none; }
+  details.spectrum-panel > summary > h2 { margin: 0; font: inherit; }
+  details.spectrum-panel > summary > h2::before { content: "\25B8"; display: inline-block; width: 1em; margin-right: 6px; color: var(--spectrum-text-subdued); }
+  details.spectrum-panel[open] > summary > h2::before { content: "\25BE"; }
+  .panel-body { padding: 16px; }
+  .panel-body > :last-child { margin-bottom: 0; }
+  .bar { height: 8px; border-radius: 9999px; background-color: var(--spectrum-gray-200); overflow: hidden; }
+  .bar span { display: block; height: 100%; background-color: var(--spectrum-accent-bg); }
+  ol.steps { list-style: none; padding: 0; margin: 0; }
+  ol.steps li { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 0; }
+  ol.steps li + li { border-top: 1px solid var(--spectrum-gray-200); }
+  details summary { cursor: pointer; }
+  table.pages { margin-top: 8px; }
+  table.pages td { word-break: break-all; }
+  table.pages td .spectrum-badge { word-break: normal; }
+  @media (max-width: 400px) { table.pages th, table.pages td { padding: 8px 4px; } }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 8px; text-align: left; border-bottom: 1px solid var(--spectrum-gray-200); }
+  th { color: var(--spectrum-text-subdued); font-weight: 700; }
+  .panel-body h3 { margin: 16px 0 4px; }
+  ol.todo { padding-left: 20px; margin: 0 0 16px; }
+  ol.todo li { margin: 6px 0; }
+  ul.all { columns: 2; margin: 4px 0; padding-left: 18px; }
+  .spectrum-panel-header .spectrum-badge { margin-left: 8px; vertical-align: middle; }
+  #blocks-used table.blocks { table-layout: fixed; }
+  #blocks-used table.blocks th:nth-child(1) { width: 26%; }
+  #blocks-used table.blocks th:nth-child(2) { width: 32%; }
+  #blocks-used td { overflow-wrap: break-word; vertical-align: top; }
+  #blocks-used td:last-child { overflow-wrap: anywhere; }
+  #blocks-used tr.group td { border-top: 1px solid var(--spectrum-gray-300); }
+  #blocks-used td.block { font-weight: 700; }
+  #blocks-used .block-pages { display: block; font-weight: 400; color: var(--spectrum-text-subdued); }
+  #blocks-used .variant { display: inline-block; padding: 0 6px; margin: 0 4px 2px 0; border: 1px solid var(--spectrum-gray-300); border-radius: var(--spectrum-radius-sm); font-family: var(--spectrum-font-code); }
+  #blocks-used .variant-inline { font-family: var(--spectrum-font-code); font-weight: 400; color: var(--spectrum-text-subdued); }
+  #blocks-used .default, #blocks-used .blocks-count { color: var(--spectrum-text-subdued); }
+  #blocks-used .default { font-style: italic; }
+  #blocks-used .blocks-count { margin: 0; }
+  #blocks-used button.more { padding: 0; border: 0; background: none; color: var(--spectrum-text-accent); font: inherit; cursor: pointer; text-decoration: underline; }
+  #blocks-used .blocks-popover { width: min(520px, 90vw); max-height: 80vh; overflow: auto; overflow-wrap: anywhere; padding: 16px 20px; border: 1px solid var(--spectrum-gray-300); border-radius: var(--spectrum-radius-lg); background-color: var(--spectrum-bg-layer-1); box-shadow: var(--spectrum-shadow-elevated); }
+  #blocks-used .blocks-popover::backdrop { background-color: color-mix(in srgb, var(--spectrum-gray-900) 35%, transparent); }
+  #blocks-used .popover-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; }
+  #blocks-used .popover-head h3 { margin: 0; }
+  #blocks-used ul.popover-pages { columns: 2; padding-left: 20px; margin: 12px 0 0; }
+  #blocks-used ul.popover-pages li { padding: 4px 0; break-inside: avoid; }
+  /* A browser without the popover API would show every page list inline; ':popover-open' is invalid there. */
+  @supports not selector(:popover-open) {
+    #blocks-used .blocks-popover, #blocks-used .more { display: none; }
+  }
+  #blocks-used .bp-radio { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  #blocks-used .bp-page, #blocks-used .bp-range { display: none; }
+  #blocks-used .pager { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 12px; flex-wrap: wrap; }
+  #blocks-used .labels { display: flex; flex-wrap: wrap; gap: 4px; }
+  #blocks-used .bp-radio:focus-visible ~ .pager label { outline: 2px solid var(--spectrum-focus-ring); }
+  #bp-1:checked ~ table .bp-page-1 { display: table-row-group; }
+  #bp-1:checked ~ .pager .bp-range-1 { display: inline; }
+  #bp-1:checked ~ .pager label[for="bp-1"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-2:checked ~ table .bp-page-2 { display: table-row-group; }
+  #bp-2:checked ~ .pager .bp-range-2 { display: inline; }
+  #bp-2:checked ~ .pager label[for="bp-2"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-3:checked ~ table .bp-page-3 { display: table-row-group; }
+  #bp-3:checked ~ .pager .bp-range-3 { display: inline; }
+  #bp-3:checked ~ .pager label[for="bp-3"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-4:checked ~ table .bp-page-4 { display: table-row-group; }
+  #bp-4:checked ~ .pager .bp-range-4 { display: inline; }
+  #bp-4:checked ~ .pager label[for="bp-4"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+  #bp-5:checked ~ table .bp-page-5 { display: table-row-group; }
+  #bp-5:checked ~ .pager .bp-range-5 { display: inline; }
+  #bp-5:checked ~ .pager label[for="bp-5"] { background-color: var(--spectrum-gray-200); font-weight: 700; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Migration result</h1>
+    <span class="spectrum-badge spectrum-badge--positive">Ready</span>
+  </header>
+  <p class="meta">Source site: <a href="https://omyapersonalcare.us/" target="_blank" rel="noopener">https://omyapersonalcare.us/</a><br>Preview site: <a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">https://main--12a63657--aemcoder.aem.page/</a><br>Finished: 2026-11-17 22:35 UTC</p>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>What's done</h2></summary>
+    <div class="panel-body">
+      <p>Your new site is complete: all 71 pages are live, match your current design side by side, and pass our link, speed, accessibility and search checks. Your analytics, tag and consent setup is in place but switched off, waiting for you to turn it on.</p>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Next steps</h2></summary>
+    <div class="panel-body">
+      <p>What remains is yours to decide when you&#39;re ready: where form submissions should go, switching on analytics and consent, and the domain switch-over, as listed in the delivery report.</p>
+      <ol class="todo">
+        <li><strong>Make it yours.</strong> Move this result into your own site and GitHub repository: use <strong>Make it yours</strong> on this migration in AEM Coder.</li>
+        <li><strong>Review the pages</strong> on the <a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">preview site</a>.</li>
+        <li><strong>Switch on analytics and tags</strong> when you are ready: see <em>Before you switch them on</em> under Analytics and tags.</li>
+      </ol>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Pages</h2></summary>
+    <div class="panel-body">
+      <p>This migration covers 100 pages. 71 of 100 are published on the preview site; 71 have passed the side-by-side check against the original.</p>
+      <details>
+        <summary>100 pages in this migration</summary>
+        <table class="pages">
+          <thead><tr><th>Source page</th><th>On the preview site</th><th>Status</th></tr></thead>
+          <tbody>
+          <tr><td><a href="https://omyapersonalcare.us/" target="_blank" rel="noopener">https://omyapersonalcare.us/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/privacy-policy/" target="_blank" rel="noopener">https://omyapersonalcare.us/privacy-policy/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/privacy-policy" target="_blank" rel="noopener">Privacy Policy | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/pay-thank-you/" target="_blank" rel="noopener">https://omyapersonalcare.us/pay-thank-you/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/pay-thank-you" target="_blank" rel="noopener">Thank You for Payment | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/thank-you/" target="_blank" rel="noopener">https://omyapersonalcare.us/thank-you/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/thank-you" target="_blank" rel="noopener">Omya Personal Care Thank You</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/terms-of-use/" target="_blank" rel="noopener">https://omyapersonalcare.us/terms-of-use/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/terms-of-use" target="_blank" rel="noopener">Terms of Use | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/careers/" target="_blank" rel="noopener">https://omyapersonalcare.us/careers/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/careers" target="_blank" rel="noopener">Careers | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/customer-resources/" target="_blank" rel="noopener">https://omyapersonalcare.us/customer-resources/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/customer-resources" target="_blank" rel="noopener">Omya Personal Care Customer Resources</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/insights/" target="_blank" rel="noopener">https://omyapersonalcare.us/insights/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/insights" target="_blank" rel="noopener">Natural Cosmetics News, Insights and Resources | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/formulary-request/" target="_blank" rel="noopener">https://omyapersonalcare.us/formulary-request/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/formulary-request" target="_blank" rel="noopener">Cosmetics Formulary and Personal Care Product Recipe Source | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/get-a-sample/" target="_blank" rel="noopener">https://omyapersonalcare.us/get-a-sample/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/get-a-sample" target="_blank" rel="noopener">Request a Sample | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/about/" target="_blank" rel="noopener">https://omyapersonalcare.us/about/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/about" target="_blank" rel="noopener">Personal Care Formulary | Natural Cosmetics Ingredients | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/request-info/" target="_blank" rel="noopener">https://omyapersonalcare.us/request-info/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/request-info" target="_blank" rel="noopener">Request Information | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-approach/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-approach/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/our-approach" target="_blank" rel="noopener">Natural, Organic, Sustainable Cosmetics Ingredients &amp;amp; Materials | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-formulations/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-formulations/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/our-formulations" target="_blank" rel="noopener">Our Formulations | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/contact/" target="_blank" rel="noopener">https://omyapersonalcare.us/contact/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/news/" target="_blank" rel="noopener">https://omyapersonalcare.us/news/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/news" target="_blank" rel="noopener">News Archive - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events" target="_blank" rel="noopener">Events Archive - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/insights/blog/" target="_blank" rel="noopener">https://omyapersonalcare.us/insights/blog/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/insights/blog" target="_blank" rel="noopener">Latest Natural Trends and Ingredient News | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/water-conscious-oral-care-solutions" target="_blank" rel="noopener">Water Conscious Oral Care Solutions - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/introducing-our-newest-supply-partner-quimivita" target="_blank" rel="noopener">Introducing our newest supply partner, Quimivita - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/national-toothache-day-february-9th/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/national-toothache-day-february-9th/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/national-toothache-day-february-9th" target="_blank" rel="noopener">National Toothache Day - February 9th - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/welcoming-monica-advani-to-the-omya-team" target="_blank" rel="noopener">Welcoming Monica Advani to the Omya Team - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/announcing-our-latest-product-launches" target="_blank" rel="noopener">Announcing Our Latest Product Launches! - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/pacific-blends-and-omya-specialty-materials-partnership" target="_blank" rel="noopener">Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/skinification-of-oral-care/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/skinification-of-oral-care/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care" target="_blank" rel="noopener">Skinification of Oral Care - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/aak-partnership/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/aak-partnership/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/aak-partnership" target="_blank" rel="noopener">AAK Partnership - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month" target="_blank" rel="noopener">February is National Children&#39;s Dental Health Month - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/the-healthy-bite/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/the-healthy-bite/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite" target="_blank" rel="noopener">The Healthy Bite - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling" target="_blank" rel="noopener">Trend Spotlight: Oil Pulling - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay" target="_blank" rel="noopener">Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/nutrition-x-oral-health/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/nutrition-x-oral-health/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-partners-with-lipoid-kosmetik" target="_blank" rel="noopener">Omya Partners with Lipoid Kosmetik</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health" target="_blank" rel="noopener">How 2025 Reshaped Oral Health - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/about/our-difference/" target="_blank" rel="noopener">https://omyapersonalcare.us/about/our-difference/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/about/our-difference" target="_blank" rel="noopener">Natural Cosmetics Ingredients | Organic Raw Materials | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/contact/rep-locator/" target="_blank" rel="noopener">https://omyapersonalcare.us/contact/rep-locator/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/contact/rep-locator" target="_blank" rel="noopener">Rep Locator | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/customer-resources/onboarding/" target="_blank" rel="noopener">https://omyapersonalcare.us/customer-resources/onboarding/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/onboarding" target="_blank" rel="noopener">Onboarding | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/color/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/color/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/oral/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/oral/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/preservation/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/preservation/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/insights/events/" target="_blank" rel="noopener">https://omyapersonalcare.us/insights/events/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/insights/events" target="_blank" rel="noopener">Upcoming Events | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/hair/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/hair/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/about/global-partners/" target="_blank" rel="noopener">https://omyapersonalcare.us/about/global-partners/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/about/global-partners" target="_blank" rel="noopener">Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/customer-resources/credit-application/" target="_blank" rel="noopener">https://omyapersonalcare.us/customer-resources/credit-application/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/credit-application" target="_blank" rel="noopener">Credit Application | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/about/our-team/" target="_blank" rel="noopener">https://omyapersonalcare.us/about/our-team/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/about/our-team" target="_blank" rel="noopener">Our Team | Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/news/news-item-1/" target="_blank" rel="noopener">https://omyapersonalcare.us/news/news-item-1/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-1" target="_blank" rel="noopener">News Item 1 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/news/news-item-2/" target="_blank" rel="noopener">https://omyapersonalcare.us/news/news-item-2/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-2" target="_blank" rel="noopener">News Item 2 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/news/news-item-3/" target="_blank" rel="noopener">https://omyapersonalcare.us/news/news-item-3/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-3" target="_blank" rel="noopener">News Item 3 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance" target="_blank" rel="noopener">Society of Cosmetic Chemists: Ingredion Inc.&#39;s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma" target="_blank" rel="noopener">IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-attended-by-kinetik-and-suppliers" target="_blank" rel="noopener">In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/suppliers-day-2019-visit-the-kinetik-booth" target="_blank" rel="noopener">Suppliers&#39; Day 2019: Visit the Kinetik Booth! - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium" target="_blank" rel="noopener">Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity" target="_blank" rel="noopener">ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable" target="_blank" rel="noopener">Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-attends-ca-suppliers-day-2019" target="_blank" rel="noopener">Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/2019-sunscreen-symposium/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/2019-sunscreen-symposium/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/2019-sunscreen-symposium" target="_blank" rel="noopener">2019 Sunscreen Symposium - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/join-us-at-a-kinetik-technology-seminar" target="_blank" rel="noopener">Join us at a Kinetik Technology Seminar! - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/indie-beauty-expo-la/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/indie-beauty-expo-la/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-la" target="_blank" rel="noopener">Indie Beauty Expo LA - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/makeup-los-angeles/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/makeup-los-angeles/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/makeup-los-angeles" target="_blank" rel="noopener">MakeUp Los Angeles - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/evercare-seminar-la/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/evercare-seminar-la/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/evercare-seminar-la" target="_blank" rel="noopener">Evercare Seminar LA - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/in-cosmetics-global/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/in-cosmetics-global/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global" target="_blank" rel="noopener">In-Cosmetics Global - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/midwest-scc-teamworks/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/midwest-scc-teamworks/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/midwest-scc-teamworks" target="_blank" rel="noopener">Midwest SCC TeamWorks - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/indie-beauty-expo-ny/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/indie-beauty-expo-ny/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-ny" target="_blank" rel="noopener">Indie Beauty Expo NY - August 2020 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/naturally-kiawah-symposium/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/naturally-kiawah-symposium/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/naturally-kiawah-symposium" target="_blank" rel="noopener">Naturally Kiawah Symposium - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month" target="_blank" rel="noopener">Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/in-cosmetics-global-2022/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/in-cosmetics-global-2022/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022" target="_blank" rel="noopener">In-Cosmetics Global 2022 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/cosmoprof-north-america/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/cosmoprof-north-america/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/cosmoprof-north-america" target="_blank" rel="noopener">Cosmoprof North America - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/3590/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/3590/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/3590" target="_blank" rel="noopener">California Suppliers’ Day Booth #335 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/nyscc-suppliers-day-2021" target="_blank" rel="noopener">NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/ny-suppliers-day-2023/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/ny-suppliers-day-2023/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/ny-suppliers-day-2023" target="_blank" rel="noopener">NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium" target="_blank" rel="noopener">Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/events/swscc-suppliers-day/" target="_blank" rel="noopener">https://omyapersonalcare.us/events/swscc-suppliers-day/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/events/swscc-suppliers-day" target="_blank" rel="noopener">SWSCC Suppliers’ Day - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/" target="_blank" rel="noopener">https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/</a></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/asp-products/pay-your-invoice" target="_blank" rel="noopener">Pay Your Invoice - Omya Personal Care</a></td><td><span class="spectrum-badge spectrum-badge--positive">Checked</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/preservation/greengard-ba-bio/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/preservation/greengard-ba-bio/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/preservation/greengard-pea-bio/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/preservation/greengard-pea-bio/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/greengard-pa12/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/greengard-pa12/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/greengard-pa3/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/greengard-pa3/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/greensens-tec-bio/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/greensens-tec-bio/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/gls-hemp-10/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/gls-hemp-10/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/green-clay/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/green-clay/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/ferulan-active/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/ferulan-active/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/exfobreeze/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/exfobreeze/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/flexan-ii-polymer/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/flexan-ii-polymer/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/greengard-pa/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/greengard-pa/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/gle-organic-glycerin/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/gle-organic-glycerin/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-6607l-mb-sunflower/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-6607l-mb-sunflower/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-6279l-myrica/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-6279l-myrica/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-6692-rose/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-6692-rose/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/kahlpowder-2442p5-carnauba/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/kahlpowder-2442p5-carnauba/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/skin-care/hipegel-oleo/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/skin-care/hipegel-oleo/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-6642-organic-carnauba/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-6642-organic-carnauba/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-6702-natural-cl-substitute/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-6702-natural-cl-substitute/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-8105-yellow-beeswax/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-8105-yellow-beeswax/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-8138-organic-beeswax/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-8138-organic-beeswax/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          <tr><td><a href="https://omyapersonalcare.us/our-products/sun-care/kahlwax-8104-white-beeswax/" target="_blank" rel="noopener">https://omyapersonalcare.us/our-products/sun-care/kahlwax-8104-white-beeswax/</a></td><td>—</td><td><span class="spectrum-badge">Upcoming</span></td></tr>
+          </tbody>
+        </table>
+      </details>
+    </div>
+  </details>
+
+  <details class="spectrum-panel">
+    <summary class="spectrum-panel-header"><h2>Page templates</h2></summary>
+    <div class="panel-body">
+      <table>
+        <thead><tr><th>Template</th><th>Pages</th><th>Desktop</th><th>Mobile</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Blog, event and news articles</td><td>45</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Form pages</td><td>8</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Home page</td><td>1</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>Blog, event and news listings</td><td>5</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>About and information pages</td><td>9</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+          <tr><td>One-off pages (rep locator, thank-you pages)</td><td>3</td><td>—</td><td>—</td><td><span class="spectrum-badge">Not recorded</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" id="blocks-used">
+    <summary class="spectrum-panel-header"><h2>Blocks used</h2></summary>
+    <div class="panel-body">
+      <p>21 blocks in 37 variants across 71 pages. These are the building blocks your authors will work with.</p>
+      <input type="radio" name="blocks-page" id="bp-1" class="bp-radio" checked>
+      <input type="radio" name="blocks-page" id="bp-2" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-3" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-4" class="bp-radio">
+      <input type="radio" name="blocks-page" id="bp-5" class="bp-radio">
+      <table class="blocks">
+        <thead><tr><th>Block</th><th>Variant</th><th>Pages</th></tr></thead>
+        <tbody class="bp-page bp-page-1">
+          <tr class="group"><td class="block" rowspan="2">page-hero<span class="block-pages">70 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-0-0">View 53 pages</button></td></tr>
+          <tr><td><span class="variant">tall</span></td><td><button class="more" popovertarget="blocks-pages-0-1">View 17 pages</button></td></tr>
+          <tr class="group"><td class="block" rowspan="2">band-pair<span class="block-pages">67 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-1-0">View 17 pages</button></td></tr>
+          <tr><td><span class="variant">solo</span></td><td><button class="more" popovertarget="blocks-pages-1-1">View 50 pages</button></td></tr>
+          <tr class="group"><td class="block" rowspan="2">article<span class="block-pages">46 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-2-0">View 21 pages</button></td></tr>
+          <tr><td><span class="variant">event</span></td><td><button class="more" popovertarget="blocks-pages-2-1">View 25 pages</button></td></tr>
+          <tr class="group"><td class="block" rowspan="8">figure<span class="block-pages">7 pages</span></td><td><span class="variant">start</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling" target="_blank" rel="noopener">Trend Spotlight: Oil Pulling - Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay" target="_blank" rel="noopener">Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">center</span><span class="variant">thumbnail</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">center</span><span class="variant">width-550</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></td></tr>
+          <tr><td><span class="variant">half</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/introducing-our-newest-supply-partner-quimivita" target="_blank" rel="noopener">Introducing our newest supply partner, Quimivita - Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">left</span><span class="variant">line-after</span><span class="variant">width-200</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></td></tr>
+          <tr><td><span class="variant">right</span><span class="variant">pad-bottom-25</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite" target="_blank" rel="noopener">The Healthy Bite - Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">right</span><span class="variant">thumbnail</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">right</span><span class="variant">width-200</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></td></tr>
+          <tr class="group"><td class="block" rowspan="5">form<span class="block-pages">6 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/request-info" target="_blank" rel="noopener">Request Information | Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">no-captcha</span><span class="variant">blocked</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/careers" target="_blank" rel="noopener">Careers | Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">no-captcha</span><span class="variant">blocked</span><span class="variant">tight</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/onboarding" target="_blank" rel="noopener">Onboarding | Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">no-captcha</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/formulary-request" target="_blank" rel="noopener">Cosmetics Formulary and Personal Care Product Recipe Source | Omya</a></td></tr>
+          <tr><td><span class="variant">payment</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/asp-products/pay-your-invoice" target="_blank" rel="noopener">Pay Your Invoice - Omya Personal Care</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-2">
+          <tr class="group"><td class="block">cta-band<span class="block-pages">4 pages</span></td><td><span class="default">default</span></td><td><button class="more" popovertarget="blocks-pages-5-0">View 4 pages</button></td></tr>
+          <tr class="group"><td class="block">alt-row<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/insights" target="_blank" rel="noopener">Natural Cosmetics News, Insights and Resources | Omya</a>, <a href="https://main--12a63657--aemcoder.aem.page/about" target="_blank" rel="noopener">Personal Care Formulary | Natural Cosmetics Ingredients | Omya</a>, <a href="https://main--12a63657--aemcoder.aem.page/our-approach" target="_blank" rel="noopener">Natural, Organic, Sustainable Cosmetics Ingredients &amp;amp; Materials | Omya</a></td></tr>
+          <tr class="group"><td class="block">post-list<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/news" target="_blank" rel="noopener">News Archive - Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/events" target="_blank" rel="noopener">Events Archive - Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/insights/blog" target="_blank" rel="noopener">Latest Natural Trends and Ingredient News | Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block">video-band<span class="block-pages">3 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/news" target="_blank" rel="noopener">News Archive - Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/events" target="_blank" rel="noopener">Events Archive - Omya Personal Care</a>, <a href="https://main--12a63657--aemcoder.aem.page/insights/blog" target="_blank" rel="noopener">Latest Natural Trends and Ingredient News | Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block" rowspan="2">partners<span class="block-pages">2 pages</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a></td></tr>
+          <tr><td><span class="variant">grid</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/about/global-partners" target="_blank" rel="noopener">Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-3">
+          <tr class="group"><td class="block">cards<span class="block-pages">1 page</span></td><td><span class="variant">formulations</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/our-formulations" target="_blank" rel="noopener">Our Formulations | Omya Personal Care</a> <span class="blocks-count">×2</span></td></tr>
+          <tr class="group"><td class="block">columns<span class="block-pages">1 page</span></td><td><span class="variant">split</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></td></tr>
+          <tr class="group"><td class="block">contact-offices<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block">feature-row<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a> <span class="blocks-count">×2</span></td></tr>
+          <tr class="group"><td class="block">hero<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-4">
+          <tr class="group"><td class="block">process<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a></td></tr>
+          <tr class="group"><td class="block">rep-locator<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/contact/rep-locator" target="_blank" rel="noopener">Rep Locator | Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block">striped-table<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month" target="_blank" rel="noopener">February is National Children&#39;s Dental Health Month - Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block" rowspan="2">table<span class="block-pages">1 page</span></td><td><span class="variant">definitions</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/privacy-policy" target="_blank" rel="noopener">Privacy Policy | Omya Personal Care</a></td></tr>
+          <tr><td><span class="variant">row-headers</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/privacy-policy" target="_blank" rel="noopener">Privacy Policy | Omya Personal Care</a></td></tr>
+          <tr class="group"><td class="block">team<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/about/our-team" target="_blank" rel="noopener">Our Team | Omya Personal Care</a></td></tr>
+        </tbody>
+        <tbody class="bp-page bp-page-5">
+          <tr class="group"><td class="block">video-grid<span class="block-pages">1 page</span></td><td><span class="default">default</span></td><td><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></td></tr>
+        </tbody>
+      </table>
+      <nav class="pager" aria-label="Pages of blocks"><span class="bp-range bp-range-1">Blocks 1–5 of 21</span><span class="bp-range bp-range-2">Blocks 6–10 of 21</span><span class="bp-range bp-range-3">Blocks 11–15 of 21</span><span class="bp-range bp-range-4">Blocks 16–20 of 21</span><span class="bp-range bp-range-5">Block 21 of 21</span><div class="labels"><label for="bp-1" class="spectrum-button spectrum-button--quiet">1</label><label for="bp-2" class="spectrum-button spectrum-button--quiet">2</label><label for="bp-3" class="spectrum-button spectrum-button--quiet">3</label><label for="bp-4" class="spectrum-button spectrum-button--quiet">4</label><label for="bp-5" class="spectrum-button spectrum-button--quiet">5</label></div></nav>
+      <div popover id="blocks-pages-0-0" class="blocks-popover" aria-labelledby="blocks-pages-0-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-0-0-title">page-hero <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 53 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-0-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/privacy-policy" target="_blank" rel="noopener">Privacy Policy | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/pay-thank-you" target="_blank" rel="noopener">Thank You for Payment | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/thank-you" target="_blank" rel="noopener">Omya Personal Care Thank You</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/terms-of-use" target="_blank" rel="noopener">Terms of Use | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/careers" target="_blank" rel="noopener">Careers | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources" target="_blank" rel="noopener">Omya Personal Care Customer Resources</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/insights" target="_blank" rel="noopener">Natural Cosmetics News, Insights and Resources | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/formulary-request" target="_blank" rel="noopener">Cosmetics Formulary and Personal Care Product Recipe Source | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/get-a-sample" target="_blank" rel="noopener">Request a Sample | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about" target="_blank" rel="noopener">Personal Care Formulary | Natural Cosmetics Ingredients | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/request-info" target="_blank" rel="noopener">Request Information | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/our-approach" target="_blank" rel="noopener">Natural, Organic, Sustainable Cosmetics Ingredients &amp;amp; Materials | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/our-formulations" target="_blank" rel="noopener">Our Formulations | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news" target="_blank" rel="noopener">News Archive - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events" target="_blank" rel="noopener">Events Archive - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/insights/blog" target="_blank" rel="noopener">Latest Natural Trends and Ingredient News | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/our-difference" target="_blank" rel="noopener">Natural Cosmetics Ingredients | Organic Raw Materials | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/contact/rep-locator" target="_blank" rel="noopener">Rep Locator | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/onboarding" target="_blank" rel="noopener">Onboarding | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/insights/events" target="_blank" rel="noopener">Upcoming Events | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/global-partners" target="_blank" rel="noopener">Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/credit-application" target="_blank" rel="noopener">Credit Application | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/our-team" target="_blank" rel="noopener">Our Team | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-1" target="_blank" rel="noopener">News Item 1 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-2" target="_blank" rel="noopener">News Item 2 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-3" target="_blank" rel="noopener">News Item 3 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance" target="_blank" rel="noopener">Society of Cosmetic Chemists: Ingredion Inc.&#39;s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma" target="_blank" rel="noopener">IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-attended-by-kinetik-and-suppliers" target="_blank" rel="noopener">In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/suppliers-day-2019-visit-the-kinetik-booth" target="_blank" rel="noopener">Suppliers&#39; Day 2019: Visit the Kinetik Booth! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium" target="_blank" rel="noopener">Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity" target="_blank" rel="noopener">ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable" target="_blank" rel="noopener">Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-attends-ca-suppliers-day-2019" target="_blank" rel="noopener">Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/2019-sunscreen-symposium" target="_blank" rel="noopener">2019 Sunscreen Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-us-at-a-kinetik-technology-seminar" target="_blank" rel="noopener">Join us at a Kinetik Technology Seminar! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-la" target="_blank" rel="noopener">Indie Beauty Expo LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/makeup-los-angeles" target="_blank" rel="noopener">MakeUp Los Angeles - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/evercare-seminar-la" target="_blank" rel="noopener">Evercare Seminar LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global" target="_blank" rel="noopener">In-Cosmetics Global - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/midwest-scc-teamworks" target="_blank" rel="noopener">Midwest SCC TeamWorks - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-ny" target="_blank" rel="noopener">Indie Beauty Expo NY - August 2020 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/naturally-kiawah-symposium" target="_blank" rel="noopener">Naturally Kiawah Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month" target="_blank" rel="noopener">Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022" target="_blank" rel="noopener">In-Cosmetics Global 2022 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/cosmoprof-north-america" target="_blank" rel="noopener">Cosmoprof North America - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/3590" target="_blank" rel="noopener">California Suppliers’ Day Booth #335 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/nyscc-suppliers-day-2021" target="_blank" rel="noopener">NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/ny-suppliers-day-2023" target="_blank" rel="noopener">NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium" target="_blank" rel="noopener">Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/swscc-suppliers-day" target="_blank" rel="noopener">SWSCC Suppliers’ Day - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/asp-products/pay-your-invoice" target="_blank" rel="noopener">Pay Your Invoice - Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-0-1" class="blocks-popover" aria-labelledby="blocks-pages-0-1-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-0-1-title">page-hero <span class="variant-inline">tall</span></h3>
+            <p class="blocks-count">Used on 17 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-0-1" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/water-conscious-oral-care-solutions" target="_blank" rel="noopener">Water Conscious Oral Care Solutions - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/introducing-our-newest-supply-partner-quimivita" target="_blank" rel="noopener">Introducing our newest supply partner, Quimivita - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/national-toothache-day-february-9th" target="_blank" rel="noopener">National Toothache Day - February 9th - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/welcoming-monica-advani-to-the-omya-team" target="_blank" rel="noopener">Welcoming Monica Advani to the Omya Team - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/announcing-our-latest-product-launches" target="_blank" rel="noopener">Announcing Our Latest Product Launches! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/pacific-blends-and-omya-specialty-materials-partnership" target="_blank" rel="noopener">Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care" target="_blank" rel="noopener">Skinification of Oral Care - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/aak-partnership" target="_blank" rel="noopener">AAK Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month" target="_blank" rel="noopener">February is National Children&#39;s Dental Health Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite" target="_blank" rel="noopener">The Healthy Bite - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling" target="_blank" rel="noopener">Trend Spotlight: Oil Pulling - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay" target="_blank" rel="noopener">Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-partners-with-lipoid-kosmetik" target="_blank" rel="noopener">Omya Partners with Lipoid Kosmetik</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health" target="_blank" rel="noopener">How 2025 Reshaped Oral Health - Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-1-0" class="blocks-popover" aria-labelledby="blocks-pages-1-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-1-0-title">band-pair <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 17 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-1-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/" target="_blank" rel="noopener">Innovative Raw Materials For The Personal Care Industry | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/privacy-policy" target="_blank" rel="noopener">Privacy Policy | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/pay-thank-you" target="_blank" rel="noopener">Thank You for Payment | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/terms-of-use" target="_blank" rel="noopener">Terms of Use | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources" target="_blank" rel="noopener">Omya Personal Care Customer Resources</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/get-a-sample" target="_blank" rel="noopener">Request a Sample | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about" target="_blank" rel="noopener">Personal Care Formulary | Natural Cosmetics Ingredients | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/request-info" target="_blank" rel="noopener">Request Information | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/our-approach" target="_blank" rel="noopener">Natural, Organic, Sustainable Cosmetics Ingredients &amp;amp; Materials | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/our-formulations" target="_blank" rel="noopener">Our Formulations | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/our-difference" target="_blank" rel="noopener">Natural Cosmetics Ingredients | Organic Raw Materials | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/contact/rep-locator" target="_blank" rel="noopener">Rep Locator | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/onboarding" target="_blank" rel="noopener">Onboarding | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/insights/events" target="_blank" rel="noopener">Upcoming Events | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/global-partners" target="_blank" rel="noopener">Cosmetics Raw Materials Suppliers | Natural Ingredients | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/customer-resources/credit-application" target="_blank" rel="noopener">Credit Application | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/our-team" target="_blank" rel="noopener">Our Team | Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-1-1" class="blocks-popover" aria-labelledby="blocks-pages-1-1-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-1-1-title">band-pair <span class="variant-inline">solo</span></h3>
+            <p class="blocks-count">Used on 50 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-1-1" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/careers" target="_blank" rel="noopener">Careers | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/insights" target="_blank" rel="noopener">Natural Cosmetics News, Insights and Resources | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/formulary-request" target="_blank" rel="noopener">Cosmetics Formulary and Personal Care Product Recipe Source | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/water-conscious-oral-care-solutions" target="_blank" rel="noopener">Water Conscious Oral Care Solutions - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/introducing-our-newest-supply-partner-quimivita" target="_blank" rel="noopener">Introducing our newest supply partner, Quimivita - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/national-toothache-day-february-9th" target="_blank" rel="noopener">National Toothache Day - February 9th - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/welcoming-monica-advani-to-the-omya-team" target="_blank" rel="noopener">Welcoming Monica Advani to the Omya Team - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/announcing-our-latest-product-launches" target="_blank" rel="noopener">Announcing Our Latest Product Launches! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/pacific-blends-and-omya-specialty-materials-partnership" target="_blank" rel="noopener">Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care" target="_blank" rel="noopener">Skinification of Oral Care - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/aak-partnership" target="_blank" rel="noopener">AAK Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month" target="_blank" rel="noopener">February is National Children&#39;s Dental Health Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite" target="_blank" rel="noopener">The Healthy Bite - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling" target="_blank" rel="noopener">Trend Spotlight: Oil Pulling - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay" target="_blank" rel="noopener">Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-partners-with-lipoid-kosmetik" target="_blank" rel="noopener">Omya Partners with Lipoid Kosmetik</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health" target="_blank" rel="noopener">How 2025 Reshaped Oral Health - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-1" target="_blank" rel="noopener">News Item 1 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-2" target="_blank" rel="noopener">News Item 2 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-3" target="_blank" rel="noopener">News Item 3 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance" target="_blank" rel="noopener">Society of Cosmetic Chemists: Ingredion Inc.&#39;s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma" target="_blank" rel="noopener">IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-attended-by-kinetik-and-suppliers" target="_blank" rel="noopener">In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/suppliers-day-2019-visit-the-kinetik-booth" target="_blank" rel="noopener">Suppliers&#39; Day 2019: Visit the Kinetik Booth! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium" target="_blank" rel="noopener">Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity" target="_blank" rel="noopener">ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable" target="_blank" rel="noopener">Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-attends-ca-suppliers-day-2019" target="_blank" rel="noopener">Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/2019-sunscreen-symposium" target="_blank" rel="noopener">2019 Sunscreen Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-us-at-a-kinetik-technology-seminar" target="_blank" rel="noopener">Join us at a Kinetik Technology Seminar! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-la" target="_blank" rel="noopener">Indie Beauty Expo LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/makeup-los-angeles" target="_blank" rel="noopener">MakeUp Los Angeles - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/evercare-seminar-la" target="_blank" rel="noopener">Evercare Seminar LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global" target="_blank" rel="noopener">In-Cosmetics Global - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/midwest-scc-teamworks" target="_blank" rel="noopener">Midwest SCC TeamWorks - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-ny" target="_blank" rel="noopener">Indie Beauty Expo NY - August 2020 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/naturally-kiawah-symposium" target="_blank" rel="noopener">Naturally Kiawah Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month" target="_blank" rel="noopener">Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022" target="_blank" rel="noopener">In-Cosmetics Global 2022 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/cosmoprof-north-america" target="_blank" rel="noopener">Cosmoprof North America - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/3590" target="_blank" rel="noopener">California Suppliers’ Day Booth #335 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/nyscc-suppliers-day-2021" target="_blank" rel="noopener">NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/ny-suppliers-day-2023" target="_blank" rel="noopener">NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium" target="_blank" rel="noopener">Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/swscc-suppliers-day" target="_blank" rel="noopener">SWSCC Suppliers’ Day - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/asp-products/pay-your-invoice" target="_blank" rel="noopener">Pay Your Invoice - Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-0" class="blocks-popover" aria-labelledby="blocks-pages-2-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-0-title">article <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 21 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/water-conscious-oral-care-solutions" target="_blank" rel="noopener">Water Conscious Oral Care Solutions - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/introducing-our-newest-supply-partner-quimivita" target="_blank" rel="noopener">Introducing our newest supply partner, Quimivita - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/national-toothache-day-february-9th" target="_blank" rel="noopener">National Toothache Day - February 9th - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/welcoming-monica-advani-to-the-omya-team" target="_blank" rel="noopener">Welcoming Monica Advani to the Omya Team - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/announcing-our-latest-product-launches" target="_blank" rel="noopener">Announcing Our Latest Product Launches! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/pacific-blends-and-omya-specialty-materials-partnership" target="_blank" rel="noopener">Pacific Blends and Omya Specialty Materials Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care" target="_blank" rel="noopener">Skinification of Oral Care - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/aak-partnership" target="_blank" rel="noopener">AAK Partnership - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/february-is-national-childrens-dental-health-month" target="_blank" rel="noopener">February is National Children&#39;s Dental Health Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite" target="_blank" rel="noopener">The Healthy Bite - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling" target="_blank" rel="noopener">Trend Spotlight: Oil Pulling - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions" target="_blank" rel="noopener">Eco-Friendly &amp;amp; High-Performance Sun Care Solutions - Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-announces-new-partnership-with-actv-biotechnology" target="_blank" rel="noopener">Omya announces a new partnership with ACTV Biotechnology</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay" target="_blank" rel="noopener">Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/nutrition-x-oral-health" target="_blank" rel="noopener">Trend Spotlight: Nutrition x Oral Health - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/omya-partners-with-lipoid-kosmetik" target="_blank" rel="noopener">Omya Partners with Lipoid Kosmetik</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health" target="_blank" rel="noopener">How 2025 Reshaped Oral Health - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-1" target="_blank" rel="noopener">News Item 1 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-2" target="_blank" rel="noopener">News Item 2 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/news/news-item-3" target="_blank" rel="noopener">News Item 3 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/blog/asp-products/pay-your-invoice" target="_blank" rel="noopener">Pay Your Invoice - Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-2-1" class="blocks-popover" aria-labelledby="blocks-pages-2-1-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-2-1-title">article <span class="variant-inline">event</span></h3>
+            <p class="blocks-count">Used on 25 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-2-1" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance" target="_blank" rel="noopener">Society of Cosmetic Chemists: Ingredion Inc.&#39;s Business Scientist Ashraf Hossain Speaks on Redefining Plant-based Ingredient Performance - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma" target="_blank" rel="noopener">IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pharma - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-attended-by-kinetik-and-suppliers" target="_blank" rel="noopener">In-cosmetics Global: Attended by Kinetik and Suppliers - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/suppliers-day-2019-visit-the-kinetik-booth" target="_blank" rel="noopener">Suppliers&#39; Day 2019: Visit the Kinetik Booth! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium" target="_blank" rel="noopener">Kinetik joins Twin Cities Chapter Society of Cosmetic Chemists to present at the 2019 Holistic Cosmetic Symposium. - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity" target="_blank" rel="noopener">ICMAD: Kinetik will Award a Young Designer for their Creativity and Ingenuity - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable" target="_blank" rel="noopener">Kinetik is Attending the Mazur Group Beauty Biz Roundtable - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/kinetik-attends-ca-suppliers-day-2019" target="_blank" rel="noopener">Join Kinetik at CA Suppliers’ Day 2019 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/2019-sunscreen-symposium" target="_blank" rel="noopener">2019 Sunscreen Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-us-at-a-kinetik-technology-seminar" target="_blank" rel="noopener">Join us at a Kinetik Technology Seminar! - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-la" target="_blank" rel="noopener">Indie Beauty Expo LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/makeup-los-angeles" target="_blank" rel="noopener">MakeUp Los Angeles - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/evercare-seminar-la" target="_blank" rel="noopener">Evercare Seminar LA - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global" target="_blank" rel="noopener">In-Cosmetics Global - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/midwest-scc-teamworks" target="_blank" rel="noopener">Midwest SCC TeamWorks - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/indie-beauty-expo-ny" target="_blank" rel="noopener">Indie Beauty Expo NY - August 2020 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/naturally-kiawah-symposium" target="_blank" rel="noopener">Naturally Kiawah Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month" target="_blank" rel="noopener">Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/in-cosmetics-global-2022" target="_blank" rel="noopener">In-Cosmetics Global 2022 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/cosmoprof-north-america" target="_blank" rel="noopener">Cosmoprof North America - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/3590" target="_blank" rel="noopener">California Suppliers’ Day Booth #335 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/nyscc-suppliers-day-2021" target="_blank" rel="noopener">NYSCC Suppliers’ Day 2021 Booth #1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/ny-suppliers-day-2023" target="_blank" rel="noopener">NY Suppliers Day 2023 - Visit us at Booth 1101 - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium" target="_blank" rel="noopener">Join Omya at the first annual The Healthy Bite Oral Care Symposium - Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/events/swscc-suppliers-day" target="_blank" rel="noopener">SWSCC Suppliers’ Day - Omya Personal Care</a></li>
+        </ul>
+      </div>
+      <div popover id="blocks-pages-5-0" class="blocks-popover" aria-labelledby="blocks-pages-5-0-title">
+        <div class="popover-head">
+          <div>
+            <h3 id="blocks-pages-5-0-title">cta-band <span class="variant-inline">default</span></h3>
+            <p class="blocks-count">Used on 4 pages</p>
+          </div>
+          <button class="spectrum-button spectrum-button--quiet" popovertarget="blocks-pages-5-0" popovertargetaction="hide">Close</button>
+        </div>
+        <ul class="popover-pages">
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about" target="_blank" rel="noopener">Personal Care Formulary | Natural Cosmetics Ingredients | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/our-approach" target="_blank" rel="noopener">Natural, Organic, Sustainable Cosmetics Ingredients &amp;amp; Materials | Omya</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/contact" target="_blank" rel="noopener">Contact Us | Omya Personal Care</a></li>
+          <li><a href="https://main--12a63657--aemcoder.aem.page/about/our-difference" target="_blank" rel="noopener">Natural Cosmetics Ingredients | Organic Raw Materials | Omya</a></li>
+        </ul>
+      </div>
+    </div>
+  </details>
+
+  <details class="spectrum-panel" open>
+    <summary class="spectrum-panel-header"><h2>Analytics and tags</h2><span class="spectrum-badge">Switched off</span></summary>
+    <div class="panel-body">
+      <p>We carried over 1 tag, <strong>switched off</strong>: nothing loads on the new site until you turn it on.</p>
+      <table>
+        <thead><tr><th>Found on omyapersonalcare.us</th><th></th></tr></thead>
+        <tbody>
+          <tr><td>Google Tag Manager</td><td><code>GTM-NS9KZC3</code></td></tr>
+          <tr><td>Consent manager</td><td>None found</td></tr>
+          <tr><td>Data layers</td><td><code>dataLayer</code></td></tr>
+          <tr><td>Loaded by your tags</td><td>Google Analytics / Ads, ad / retargeting pixel</td></tr>
+        </tbody>
+      </table>
+      <p>We read the Google Tag Manager container (10 rules, 4 data elements).</p>
+      <h3>Before you switch them on</h3>
+      <ol class="todo">
+        <li><strong>Check 7 rules that target the old page structure</strong> (CSS selectors or URLs), for example <code>Phone click-to-call: UA Tel/Click + GA4 phone_ctc</code>, <code>Contact form submit: UA Contact Form/Submit + GA4 contact_form_submit</code>, <code>Email click: UA Email/Submit + GA4 email_submit</code> and 4 more.
+          <details><summary>Show all 7</summary><ul class="all"><li><code>Phone click-to-call: UA Tel/Click + GA4 phone_ctc</code></li><li><code>Contact form submit: UA Contact Form/Submit + GA4 contact_form_submit</code></li><li><code>Email click: UA Email/Submit + GA4 email_submit</code></li><li><code>Onboarding form submit: UA Onboard/Form + GA4 onboard_form</code></li><li><code>Credit application submit: UA Credit Application/Submit + GA4 credit_app_form</code></li><li><code>Download click (.png in URL): UA PDF/Downloads</code></li><li><code>Request-info success visible: GA4 request_info</code></li></ul></details></li>
+        <li><strong>Send 1 data-layer event from the new pages</strong> so the tags fire, for example <code>ajaxComplete</code>.</li>
+        <li><strong>Decide how consent works.</strong> We found no consent manager on the pages we checked; once switched on, the tags load without one.</li>
+      </ol>
+      <p class="meta">Full details for your developers: <code>stardust/martech-handoff.md</code> in the repository.</p>
+    </div>
+  </details>
+
+  <details class="spectrum-panel">
+    <summary class="spectrum-panel-header"><h2>Journey</h2></summary>
+    <div class="panel-body">
+      <ol class="steps">
+        <li>Analyzing your site<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Capturing brand and design<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Rebuilding page templates<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Publishing your pages<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Checking every page against the original<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+        <li>Final checks<span class="spectrum-badge spectrum-badge--positive">Done</span></li>
+      </ol>
+    </div>
+  </details>
+</main>
+</body>
+</html>

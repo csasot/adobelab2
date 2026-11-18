@@ -1,0 +1,16 @@
+{
+  "variantName": "rep-locator",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "US state map with click-to-show sales representatives",
+    "layout": "Clickable US map with hover highlight, tooltip and rep panel"
+  },
+  "contentPattern": {
+    "structure": "intro row: map image + h2 + intro paragraphs; then one row per rep: photo | name, phone, email paragraphs | list of states (optional bracketed note)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Rep Locator page only.",
+  "reuseGuidance": "Reuse rep-locator for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

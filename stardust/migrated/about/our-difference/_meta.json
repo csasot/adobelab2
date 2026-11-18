@@ -1,0 +1,128 @@
+{
+  "slug": "about-our-difference",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "intro",
+    "cta-band",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section",
+    "cta-band"
+  ],
+  "canonShas": {
+    "header": "5ff8823a0d52",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "about",
+      "encoder": "stardust/.work/cluster-static/probes/encode.py",
+      "note": "state status extracted -> migrate branch A; rendered from the about archetype model (cluster-static)"
+    }
+  ],
+  "metadata": {
+    "title": "Natural Cosmetics Ingredients | Organic Raw Materials | Omya",
+    "description": "Omya Personal Care helps you select natural cosmetics ingredients to formulate the right personal care products for your line.",
+    "canonical": "https://omyapersonalcare.us/about/our-difference/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Natural Cosmetics Ingredients | Organic Raw Materials | Omya",
+    "description": "Omya Personal Care helps you select natural cosmetics ingredients to formulate the right personal care products for your line.",
+    "url": "https://omyapersonalcare.us/about/our-difference/"
+  },
+  "migratedAt": "2026-11-17T18:43:42Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "fcac3c973f92",
+  "sourceProposedSha": "8dec47c7dcb0",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder lifts every heading/paragraph/list/link/image of #interior-content + hero h1/crumbs from stardust/current/pages/about-our-difference.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/formulary-request/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "about/our-difference/index.html",
+  "outputPathDefault": null,
+  "sidecar": "about/our-difference/_meta.json",
+  "driverVersion": "1"
+}

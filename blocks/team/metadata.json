@@ -1,0 +1,16 @@
+{
+  "variantName": "team",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Staff grid with a contact dialog per member",
+    "layout": "Floated tiles 6-up/4-up/2-up; clicking opens a dialog with contact details"
+  },
+  "contentPattern": {
+    "structure": "one row per member: photo | h2 name, h3 job title, contact paragraphs (Phone, Email mailto link)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Our Team page.",
+  "reuseGuidance": "Reuse team for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

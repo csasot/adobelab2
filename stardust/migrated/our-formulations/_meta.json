@@ -1,0 +1,365 @@
+{
+  "slug": "our-formulations",
+  "type": "listing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "intro",
+    "cards",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "f21fc58fd376",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "insights-blog",
+      "encoder": "stardust/.work/cluster-listing/probes/listenc.py",
+      "note": "page shape of the listing template: no post list on the source; composed from the inner-page intro section + band-pair (static/form archetype blocks)"
+    }
+  ],
+  "metadata": {
+    "title": "Our Formulations | Omya Personal Care",
+    "description": "Omya Personal Care offers a wide variety of formulations for the use of our customers and prospects. Explore our full range of free formulations.",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Our Formulations | Omya Personal Care",
+    "description": "Omya Personal Care offers a wide variety of formulations for the use of our customers and prospects. Explore our full range of free formulations.",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:56:38Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "ef86162c2c28",
+  "sourceProposedSha": "f04b4b7481e1",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "intro texture wide cards formulations",
+    "intro texture blend wide"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-listing/probes/listenc.py lifts every heading/paragraph/link/image (alt verbatim) of the .page-content column, hero photo/h1/crumbs and the Insights/Contact bands from stardust/current/pages/our-formulations.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "layout",
+      "source": "empty line-break paragraphs between formulation rows",
+      "target": "row rhythm in cards formulations CSS",
+      "reason": "spacer paragraphs are not content"
+    }
+  ],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Active-Detox-Natural-Toothpaste-with-Charcoal-Cosmospheres.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Active-Fresh-Anticavity-Fluoride-Mouthwash.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Desensitizing-Toothpaste_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fortify-Natural-Toothpaste-Fluoride-Free.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Healthy-Start-Toddler-Training-Tooth-Gel.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Scrub-Stick-Dentrifice_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Sparkle-Enzymatic-Toothpowder.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Vitality-Anti-Aging-Tooth-Gum-Serum.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Wipe-New-Tooth-and-Gum-Wipe-Solution.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Activate-Curl-Defining-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Activate-Curl-Defining-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/ButterScreen-SH-02-14-16.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/ButterScreen-SH-02-14-16.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Chaos-Control-Styling-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Chaos-Control-Styling-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Densify-Scalp-Therapy-Mist.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Dreamy-Creamy-Cleanser-SH-02-33-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Eyegevity-SPF-25-Eye-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Fix-Repeat-Hair-Repair-Treatment-SH-02-35-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/GellyBalm-SPF-30-Sunscreen.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Insulate-Thermal-Oil-Spray.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Magic-Multitasker-Facial-Toner-SH-02-31-04.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Neutralize-Natural-Deodorant-Formulation-Card.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Perfectly-Polished-Hair-Oil-SH-02-17-03.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Reboot-Whole-Body-Deodorant-Cream.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Rebound-Dry-Shampoo-SH-02-16-01_Digital.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Recover-Lip-Treatment-Mask-Formulation-Card.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Restore-Oral-Health-Toner.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Restore-Oral-Health-Toner.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Seamlessly-Smooth-Body-Stick.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Solar-Shine-SPF-30-Lip-Gloss.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Spicy-Smooth-Lip-Exfoliant.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Silky-C-Concentrate-SH-02-25-03.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/SunstiK-SPF-30-Sunscreen.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Synergy-DeoSerum.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Synergy-DeoSerum.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Brighten-Smooth-SH-02-39-03A.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Firm-and-Renew.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Treatment-Body-Lotion-Toning-and-Hydrating.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Unveil-SPF-30-Color-Corrector-SH-01-58-08.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Vegan-Milky-Essence.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/Vegan-Milky-Essence.pdf",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "our-formulations/index.html",
+  "outputPathDefault": null,
+  "sidecar": "our-formulations/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,28 @@
+/* ==========================================================================
+   contact.css — form archetype (contact + 7 form pages). Load after canon.css.
+   Modules: page-section--blue · contact-offices (address card + hours note).
+   Shared modules this page added to canon.css: form, page-hero-compact,
+   nav-current, post-tile-half.
+   ========================================================================== */
+
+/* == module: page-section--blue == (blue content band, white text) */
+.page-section--blue { color: #fff; background: var(--c-blue); }
+
+/* == module: contact-offices == (white address card, 50% column centred ≥992; hours line) */
+.contact-offices__row { display: flow-root; }
+.contact-offices__row::after { content: ""; display: block; height: 0; margin-bottom: 10px; }
+.contact-offices__col { position: relative; min-height: 1px; padding: 0 15px; }
+.contact-card { height: 100%; margin: 0 0 25px; padding: 25px; font-size: 18px; font-style: normal; line-height: var(--lh-body); color: #333; background: #fff; }
+.contact-offices__note { position: relative; min-height: 1px; margin-top: 30px; padding: 0 15px; }
+@media (min-width: 980px) {
+  .contact-offices__row { display: flex; }
+  .contact-offices__row::after { flex: 0 0 auto; }
+  .contact-card { display: flex; align-items: center; justify-content: center; }
+}
+@media (min-width: 992px) { .contact-offices__col { width: 50%; margin: 0 auto; } }
+
+/* == compensation: form top gap (contact) ==
+   On the source a bootstrap .clearfix (display:table pseudo-elements) sits
+   between the last intro <p> (margin-bottom 10) and the form (margin-top 20),
+   so the two margins do not collapse: 30px total. */
+#contact-form { margin-top: 30px; }

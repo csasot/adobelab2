@@ -1,0 +1,6228 @@
+{
+  "archetype": "https://omyapersonalcare.us/blog/aak-partnership/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "hero": "header",
+    "date": ".entry-summary .orange-text",
+    "body": ".entry-summary",
+    "h1": "header h1",
+    "contact": "#footer-form-section"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "hero": {
+        "sel": "header",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 670
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+          "image": {
+            "w": 90,
+            "h": 58
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+      },
+      "date": {
+        "sel": ".entry-summary .orange-text",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 23
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 122, 193)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 16px/22.8571px 300",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "January 15, 2024"
+      },
+      "body": {
+        "sel": ".entry-summary",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 225
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "January 15, 2024 AAK Partnership Omya is pleased to announce"
+      },
+      "h1": {
+        "sel": "header h1",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 58
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 48px/57.6px 700",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "AAK Partnership"
+      },
+      "contact": {
+        "sel": "#footer-form-section",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 566
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(0, 122, 193)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "50px 15px 30px 15px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Contact Omya Contact Us Omya will use the information you pr"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 246}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 3, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 246
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 3, 2023 Omya Kinetik is pleased to announce our lates"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Announcing Our Latest Product Launches!"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 785}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 3391}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 173}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 785
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 19, 2025"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 3391
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 843,
+                "h": 202
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 19, 2025 Beyond UV Protection: Eco-Friendly & High-Per"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 173
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Beyond UV Protection: Eco-Friendly & High-Performance Sun Ca"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 1689}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 8, 2024"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 1689
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 843,
+                "h": 474
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 8, 2024 February is National Children’s Dental Heal"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February is National Children’s Dental Health Month"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 3156}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 6, 2025"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 3156
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 636,
+                "h": 480
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 6, 2025 National Toothache Day February is National"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 866}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 4648}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 230}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 866
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 4648
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 6, 2026 2025 was the year oral care stepped out of the b"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 230
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "How 2025 Reshaped Oral Health: Fluoride Safety Debates and O"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/introducing-our-newest-supply-partner-quimivita/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 497}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 31, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 497
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 422,
+                "h": 183
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 31, 2023 Omya is pleased to announce our national pa"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Introducing our newest supply partner, Quimivita"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 1454}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 8, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 1454
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 843,
+                "h": 474
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 8, 2023 February 9th is National Toothache Day. It’"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "National Toothache Day – February 9th"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 3268}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 14, 2025"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 3268
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 843,
+                "h": 566
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 14, 2025 Approaches to oral health are rapidly evolving"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Trend Spotlight: Nutrition x Oral Health"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 785}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 683}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → h3 arial 24px/28.8px 700 rgb(0, 122, 193); image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 173}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 785
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 20, 2025"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 683
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h3 arial 24px/28.8px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 200,
+                "h": 245
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 20, 2025 Omya is thrilled to announce a new partnershi"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 173
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya Announces Exclusive US Distribution Partnership with AC"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 785}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 360}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 173}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 785
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 29, 2025"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 360
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 29, 2025 Omya is proud to partner with Lipoid Kosmet"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 173
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya Partners with Lipoid Kosmetik to Strengthen U.S. Presen"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/pacific-blends-and-omya-specialty-materials-partnership/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 297}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "December 1, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 297
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "December 1, 2023 We are delighted to announce that Pacific B"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Pacific Blends and Omya Specialty Materials Partnership"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/skinification-of-oral-care/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 774}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 670
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "December 21, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 774
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "December 21, 2023 Skinification is the presence of skincare-"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Skinification of Oral Care"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 1278}; image null → [object Object]"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 670
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 30, 2024"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 1278
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 843,
+                "h": 304
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 30, 2024 The Healthy Bite On June 20th, Intermountain W"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "The Healthy Bite"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 2723}; image null → [object Object]"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 670
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 7, 2024"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 2723
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 540,
+                "h": 326
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 7, 2024 Curious about oil pulling? You’re not the on"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Trend Spotlight: Oil Pulling"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/water-conscious-oral-care-solutions/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 1049}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 12, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 1049
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 12, 2023 Global Water Crisis Many areas around the w"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Water Conscious Oral Care Solutions"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/blog/welcoming-monica-advani-to-the-omya-team/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 728}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 591}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 728
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 21, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 591
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": {
+                "w": 300,
+                "h": 300
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 21, 2023 We Welcome Monica Advani to Omya as Personal "
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Welcoming Monica Advani to the Omya Team"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/2019-sunscreen-symposium/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "June 17, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "June 17, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "2019 Sunscreen Symposium"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/3590/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 10, 2021"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "May 10, 2021"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "California Suppliers’ Day Booth #335"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 89}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 18, 2021"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 89
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 18, 2021 Sept. Educational Month Changing with Change"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Catch Jason Nesta Speaking at SWSCC, Sept. Educational Month"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/cosmoprof-north-america/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 19, 2021"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "August 19, 2021"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Cosmoprof North America"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/evercare-seminar-la/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Evercare Seminar LA"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 559}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 173}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 559
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 173
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "ICMAD: Kinetik will Award a Young Designer for their Creativ"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "IDEA 2019: Featuring an Exhibit by Kinetik Supplier, Res Pha"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global-2022/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "April 15, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "April 15, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "In-Cosmetics Global 2022"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global-attended-by-kinetik-and-suppliers/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "In-cosmetics Global: Attended by Kinetik and Suppliers"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/in-cosmetics-global/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "In-Cosmetics Global"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/indie-beauty-expo-la/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Indie Beauty Expo LA"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/indie-beauty-expo-ny/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Indie Beauty Expo NY – August 2020"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 14, 2024"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 14, 2024"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Join Omya at the first annual The Healthy Bite Oral Care Sym"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/join-us-at-a-kinetik-technology-seminar/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 25, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 25, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Join us at a Kinetik Technology Seminar!"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/kinetik-attends-ca-suppliers-day-2019/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 134}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "June 12, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 134
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "June 12, 2019 Join Kinetik at the upcoming CA Suppliers’ Day"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Join Kinetik at CA Suppliers’ Day 2019"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "April 15, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "April 15, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Kinetik is Attending the Mazur Group Beauty Biz Roundtable"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 639}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 230}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 639
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 230
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Kinetik joins Twin Cities Chapter Society of Cosmetic Chemis"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/makeup-los-angeles/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "MakeUp Los Angeles"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/midwest-scc-teamworks/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Midwest SCC TeamWorks"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/naturally-kiawah-symposium/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Naturally Kiawah Symposium"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/ny-suppliers-day-2023/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 21, 2023"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "March 21, 2023"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "NY Suppliers Day 2023 – Visit us at Booth 1101"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/nyscc-suppliers-day-2021/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "January 22, 2020"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "NYSCC Suppliers’ Day 2021 Booth #1101"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 697}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 288}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 697
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 288
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Society of Cosmetic Chemists: Ingredion Inc.’s Business Scie"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/suppliers-day-2019-visit-the-kinetik-booth/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 501}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 23}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h1",
+          "msg": "rect{h 58 → 115}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 501
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "February 19, 2019"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 115
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Suppliers’ Day 2019: Visit the Kinetik Booth!"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/events/swscc-suppliers-day/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 56}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 31, 2024"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 56
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "July 31, 2024 Irving Convention Center at Las Colinas"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "SWSCC Suppliers’ Day"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/news/news-item-1/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 317}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 317
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018 Lorem ipsum dolor sit amet, consectetur adi"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "News Item 1"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/news/news-item-2/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 317}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 317
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018 Lorem ipsum dolor sit amet, consectetur adi"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "News Item 2"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/news/news-item-3/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "hero",
+          "msg": "rect{h 670 → 443}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "body",
+          "msg": "rect{h 225 → 317}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": "header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 443
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h1 arial 48px/57.6px 700 rgb(255, 255, 255)",
+              "image": {
+                "w": 90,
+                "h": 58
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Request Info Newsletter Signup Our Approach Our Products Our"
+          },
+          "date": {
+            "sel": ".entry-summary .orange-text",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018"
+          },
+          "body": {
+            "sel": ".entry-summary",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 317
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "October 11, 2018 Lorem ipsum dolor sit amet, consectetur adi"
+          },
+          "h1": {
+            "sel": "header h1",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 58
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 48px/57.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "News Item 3"
+          },
+          "contact": {
+            "sel": "#footer-form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "50px 15px 30px 15px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 500 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Contact Omya Contact Us Omya will use the information you pr"
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 44,
+    "varying": 44,
+    "probesVarying": [
+      "hero",
+      "body",
+      "h1"
+    ]
+  }
+}

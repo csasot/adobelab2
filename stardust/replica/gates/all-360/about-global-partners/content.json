@@ -1,0 +1,2232 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:17:39.977Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/about/global-partners/",
+  "at": "2026-11-17T21:17:20.158Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5302,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "global partners"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 69,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 124,
+    "y": 347,
+    "w": 42,
+    "h": 17,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h2",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 67,
+    "level": 2,
+    "text": "we proudly represent the following suppliers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p",
+    "x": 15,
+    "y": 620,
+    "w": 330,
+    "h": 114,
+    "text": "As a leading provider of natural personal care products, we promise to offer raw"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 944,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 98,
+    "y": 944,
+    "w": 164,
+    "h": 60,
+    "text": "",
+    "file": "aak-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 1189,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 117,
+    "y": 1189,
+    "w": 126,
+    "h": 60,
+    "text": "",
+    "file": "actv-biotech-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 1434,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 66,
+    "y": 1434,
+    "w": 228,
+    "h": 60,
+    "text": "",
+    "file": "alchemy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 1679,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 95,
+    "y": 1679,
+    "w": 171,
+    "h": 60,
+    "text": "",
+    "file": "DyStar"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 1924,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 82,
+    "y": 1924,
+    "w": 196,
+    "h": 60,
+    "text": "",
+    "file": "EverCare-JPG"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 2169,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/en"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 133,
+    "y": 2169,
+    "w": 94,
+    "h": 60,
+    "text": "",
+    "file": "gfn-selco"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 2414,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 93,
+    "y": 2414,
+    "w": 173,
+    "h": 60,
+    "text": "",
+    "file": "Itaconix"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 2659,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 95,
+    "y": 2659,
+    "w": 170,
+    "h": 60,
+    "text": "",
+    "file": "kahwax-2023"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 2904,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 88,
+    "y": 2904,
+    "w": 185,
+    "h": 60,
+    "text": "",
+    "file": "Screen-Shot-2021-06-24-at-1.52.24-PM"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 3149,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 129,
+    "y": 3149,
+    "w": 101,
+    "h": 60,
+    "text": "",
+    "file": "PB_hi-rezlogo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 3394,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 100,
+    "y": 3394,
+    "w": 161,
+    "h": 60,
+    "text": "",
+    "file": "Quimivita"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-md-4.col-sm-6 > div.global-partner-box.text-center > a",
+    "x": 45,
+    "y": 3639,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a > center > img.img-responsive",
+    "x": 100,
+    "y": 3639,
+    "w": 161,
+    "h": 60,
+    "text": "",
+    "file": "xceptor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#insights-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 3904,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left",
+    "x": 30,
+    "y": 3958,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.col-xs-12.col-md-10 > p.button.btn-black > a",
+    "x": 109,
+    "y": 4248,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 4378,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 4815,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 4865,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 5014,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 5014,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 5092,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 5111,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 5201,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 5202,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 5202,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 5202,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 5219,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 5236,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 5236,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 36,
+    "controls": 36,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/about/global-partners",
+  "at": "2026-11-17T21:17:39.849Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5302,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 396,
+    "text": "",
+    "file": "media_10a359d3a739b559c3d0050874f12d69bc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#global-partners",
+    "x": 15,
+    "y": 287,
+    "w": 330,
+    "h": 43,
+    "level": 1,
+    "text": "global partners"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 345,
+    "w": 330,
+    "h": 23,
+    "text": "/ / Global Partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 69,
+    "y": 347,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 124,
+    "y": 347,
+    "w": 42,
+    "h": 17,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.section > div.default-content-wrapper > h2#we-proudly-represent-the-following-suppliers",
+    "x": 15,
+    "y": 538,
+    "w": 330,
+    "h": 67,
+    "level": 2,
+    "text": "we proudly represent the following suppliers"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro.section > div.default-content-wrapper > p",
+    "x": 15,
+    "y": 620,
+    "w": 330,
+    "h": 114,
+    "text": "As a leading provider of natural personal care products, we promise to offer raw"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 944,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 98,
+    "y": 944,
+    "w": 164,
+    "h": 60,
+    "text": "",
+    "file": "media_1f2b770be87e92c0ac346c111dc4ccf4fa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 1189,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 117,
+    "y": 1189,
+    "w": 126,
+    "h": 60,
+    "text": "",
+    "file": "media_170e3657fa8502a7eeae53641dd64859ee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 1434,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 66,
+    "y": 1434,
+    "w": 228,
+    "h": 60,
+    "text": "",
+    "file": "media_1223974a84b636c3e8433f34026e633beb"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 1679,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 95,
+    "y": 1679,
+    "w": 171,
+    "h": 60,
+    "text": "",
+    "file": "media_1cf71b84b6e22d3065cbe20106f4f3a984"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 1924,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 82,
+    "y": 1924,
+    "w": 196,
+    "h": 60,
+    "text": "",
+    "file": "media_1bd6ec72a7532e5b603d8c0b02d462814e"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 2169,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/en"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 133,
+    "y": 2169,
+    "w": 94,
+    "h": 60,
+    "text": "",
+    "file": "media_10b37d3e124f6f5b27dd745ebbc3a6db45"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 2414,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 93,
+    "y": 2414,
+    "w": 173,
+    "h": 60,
+    "text": "",
+    "file": "media_17a8f22d6ac29c727eccab2d4c13837207"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 2659,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 95,
+    "y": 2659,
+    "w": 170,
+    "h": 60,
+    "text": "",
+    "file": "media_1444c8700ee935534913825e086d421d39"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 2904,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 88,
+    "y": 2904,
+    "w": 185,
+    "h": 60,
+    "text": "",
+    "file": "media_1e0363b6dbc19b3129b36d95664702abd2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 3149,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 129,
+    "y": 3149,
+    "w": 101,
+    "h": 60,
+    "text": "",
+    "file": "media_15dab5e8d5488d3293a2dd7e3619c2f6fc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 3394,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 100,
+    "y": 3394,
+    "w": 161,
+    "h": 60,
+    "text": "",
+    "file": "media_12b5cce6c45e77d62615039a5186b86795"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-slide.partners-box > p > a",
+    "x": 45,
+    "y": 3639,
+    "w": 270,
+    "h": 60,
+    "text": "",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 100,
+    "y": 3639,
+    "w": 161,
+    "h": 60,
+    "text": "",
+    "file": "media_1c97161ff6265785f6d8eef57eec7b4480"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#insights",
+    "x": 30,
+    "y": 3904,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-posts > a.post-tile",
+    "x": 30,
+    "y": 3958,
+    "w": 300,
+    "h": 270,
+    "text": "may 6, 2026 how 2025 reshaped oral health: fluoride safety debates and oral–syst",
+    "href": "/blog/how-2025-reshaped-oral-health"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.post-tile-media > picture > img",
+    "x": 35,
+    "y": 3963,
+    "w": 290,
+    "h": 260,
+    "text": "",
+    "file": "media_1158b861bd185c8bf2db0d5ee3c77a2f40"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > p.button-wrapper > a.button.primary",
+    "x": 109,
+    "y": 4248,
+    "w": 142,
+    "h": 40,
+    "text": "read our blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 4378,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 4815,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 4880,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 5014,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 5014,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 5092,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 5111,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 5201,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 5202,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 5202,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 5202,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 5219,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 5236,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 5236,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 14,
+    "textNodes": 35,
+    "controls": 40,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "we proudly represent the following suppliers",
+   "variable": false,
+   "origin": {
+    "link": 13,
+    "button": 0,
+    "text": 1,
+    "image": 12
+   },
+   "eds": {
+    "link": 13,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 12,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "insights",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"global partners\" (y 287) has no origin heading",
+   "text": "global partners"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"about\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "about"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 5,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 5,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 46,
+    "y": 288,
+    "w": 268,
+    "h": 41
+   },
+   {
+    "x": 69,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 112,
+    "y": 347,
+    "w": 12,
+    "h": 17
+   },
+   {
+    "x": 124,
+    "y": 347,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 347,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 180,
+    "y": 347,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 36,
+    "y": 539,
+    "w": 287,
+    "h": 31
+   },
+   {
+    "x": 28,
+    "y": 573,
+    "w": 305,
+    "h": 31
+   },
+   {
+    "x": 19,
+    "y": 622,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 31,
+    "y": 645,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 668,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 691,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 714,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3905,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 3995,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4119,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4141,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4164,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4187,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 4259,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4379,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 4826,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4880,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4891,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4902,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4913,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 5202,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 5202,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 5202,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 5202,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 5202,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5219,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 5219,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 5219,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 5236,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 5236,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 5236,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 46,
+    "y": 288,
+    "w": 268,
+    "h": 41
+   },
+   {
+    "x": 69,
+    "y": 347,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 112,
+    "y": 347,
+    "w": 12,
+    "h": 17
+   },
+   {
+    "x": 124,
+    "y": 347,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 347,
+    "w": 125,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 539,
+    "w": 287,
+    "h": 31
+   },
+   {
+    "x": 28,
+    "y": 573,
+    "w": 305,
+    "h": 31
+   },
+   {
+    "x": 19,
+    "y": 622,
+    "w": 323,
+    "h": 17
+   },
+   {
+    "x": 31,
+    "y": 645,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 668,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 691,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 150,
+    "y": 714,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3905,
+    "w": 97,
+    "h": 31
+   },
+   {
+    "x": 50,
+    "y": 3995,
+    "w": 88,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4119,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4142,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4164,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 4187,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 4259,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4379,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 4826,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4880,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4891,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4902,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 4913,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 5202,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 5202,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 5202,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 5202,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 5202,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5219,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 5219,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 5219,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 5236,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 5236,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 5236,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

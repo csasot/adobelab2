@@ -1,0 +1,685 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-17T15:40:17.602Z",
+    "readArtifacts": [
+      "https://omyapersonalcare.us/",
+      "stardust/current/pages/*.json (71 on-origin)",
+      "stardust/current/_computed-styles.json",
+      "https://omyapersonalcare.us/wp-content/themes/cmds_theme_child/style.css"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.39.4",
+    "notes": [
+      "palette capped at 8; dropped: #00000080, #000000, #cccccc, #333333, #666666, #ffffffcc, #bfbfbf, #000000b3, #999999",
+      "aggregation scope: 71 on-origin pages; 17 captures that redirected to products.omya.com excluded (different origin + design)",
+      "computed type is Arial everywhere: the theme declares frutigerbold/frutigerregular @font-face but both files 404 (FontFace status error/unloaded); Istok Web / Oswald / Roboto Google CSS is linked but no element renders in them"
+    ]
+  },
+  "site": {
+    "name": "Omya Personal Care",
+    "tagline": "Omya provides innovative raw materials to the personal care industry.",
+    "originUrl": "https://omyapersonalcare.us"
+  },
+  "origins": [
+    {
+      "origin": "https://omyapersonalcare.us",
+      "role": "primary",
+      "pages": 71
+    }
+  ],
+  "logo": {
+    "source": "img",
+    "src": "https://omyapersonalcare.us/wp-content/uploads/Omya-Logo-White.png",
+    "alt": "Omya Logo",
+    "selector": "#logo-header > a > img",
+    "rect": {
+      "x": 72,
+      "y": 90,
+      "w": 90,
+      "h": 58
+    },
+    "file": "stardust/current/assets/logo.png",
+    "variant": "white-on-image",
+    "note": "white wordmark sits on the hero photo; no dark variant captured"
+  },
+  "favicon": {
+    "file": "stardust/current/assets/favicon.jpg",
+    "url": "https://omyapersonalcare.us/wp-content/uploads/cropped-omya-kinetik-favicon-32x32.jpg"
+  },
+  "palette": [
+    {
+      "role": "background",
+      "value": "#ffffff",
+      "occurrences": 2727,
+      "usedAs": [
+        "text",
+        "background",
+        "border"
+      ],
+      "sourceSelectors": [
+        "#nav > li:nth-of-type(1) > a",
+        "#nav > li:nth-of-type(1) > a",
+        "#nav > li:nth-of-type(1) > a"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/our-formulations/",
+        "https://omyapersonalcare.us/events/",
+        "https://omyapersonalcare.us/insights/blog/",
+        "https://omyapersonalcare.us/"
+      ]
+    },
+    {
+      "role": "text-primary",
+      "value": "#221f20",
+      "occurrences": 2767,
+      "usedAs": [
+        "text",
+        "background",
+        "border"
+      ],
+      "sourceSelectors": [
+        "#interior-content > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > p:nth-of-type(1)",
+        "#interior-content > div > div > div > article > div > p:nth-of-type(2)",
+        "#interior-content > div > div > div > article > div > p:nth-of-type(2)"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/privacy-policy/",
+        "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/",
+        "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+        "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/"
+      ],
+      "note": "also the .btn-black fill"
+    },
+    {
+      "role": "primary",
+      "value": "#007ac1",
+      "occurrences": 726,
+      "usedAs": [
+        "background",
+        "text",
+        "border"
+      ],
+      "sourceSelectors": [
+        "header > div:nth-of-type(1)",
+        "#interior-content > div:nth-of-type(1) > div:nth-of-type(1) > div > h2:nth-of-type(1)",
+        "#interior-content > div:nth-of-type(1) > div:nth-of-type(1) > div > h2"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/our-formulations/",
+        "https://omyapersonalcare.us/about/our-team/",
+        "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/"
+      ],
+      "note": "Omya blue: utility bar, headings, contact band, .btn-orange"
+    },
+    {
+      "role": "text-link",
+      "value": "#1e4263",
+      "occurrences": 936,
+      "usedAs": [
+        "text"
+      ],
+      "sourceSelectors": [
+        "div > div > div > article > div > p:nth-of-type(12) > em > a",
+        "#interior-content > div > div > div > article > div > p:nth-of-type(9) > a",
+        "#interior-content > div > div > div > article > div > p:nth-of-type(7) > a:nth-of-type(1)"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/",
+        "https://omyapersonalcare.us/blog/national-toothache-day-february-9th/",
+        "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/"
+      ],
+      "note": "inline body links"
+    },
+    {
+      "role": "surface",
+      "value": "#f1f1f1",
+      "occurrences": 74,
+      "usedAs": [
+        "background",
+        "border"
+      ],
+      "sourceSelectors": [
+        "#interior-content > div:nth-of-type(8)",
+        "#interior-content > div:nth-of-type(5) > div:nth-of-type(1)",
+        "footer"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/",
+        "https://omyapersonalcare.us/about/",
+        "https://omyapersonalcare.us/about/global-partners/",
+        "https://omyapersonalcare.us/about/our-difference/"
+      ],
+      "note": "insights card / light section bands"
+    },
+    {
+      "role": "border",
+      "value": "#dddddd",
+      "occurrences": 163,
+      "usedAs": [
+        "border",
+        "background"
+      ],
+      "sourceSelectors": [
+        "div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(5) > div > div > div > table",
+        "#interior-content > div > div > div > article > div > p:nth-of-type(4) > img",
+        "#insights-section"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/privacy-policy/",
+        "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+        "https://omyapersonalcare.us/events/",
+        "https://omyapersonalcare.us/insights/blog/",
+        "https://omyapersonalcare.us/news/"
+      ]
+    },
+    {
+      "role": "accent-1",
+      "value": "#99c7e4",
+      "occurrences": 304,
+      "usedAs": [
+        "text"
+      ],
+      "sourceSelectors": [
+        "#header-top > div:nth-of-type(2) > div > p > span:nth-of-type(1) > a",
+        "#header-top > div:nth-of-type(2) > div > p > span:nth-of-type(1) > a",
+        "#header-top > div:nth-of-type(2) > div > p > span:nth-of-type(1) > a"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/blog/aak-partnership/",
+        "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+        "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/",
+        "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+      ],
+      "note": "utility-bar links + nav link hover"
+    },
+    {
+      "role": "accent-2",
+      "value": "#e2f1f8",
+      "occurrences": 4,
+      "usedAs": [
+        "background"
+      ],
+      "sourceSelectors": [
+        "div > div > div > article > div > table > tbody > tr:nth-of-type(1)",
+        "#interior-content > div:nth-of-type(5)"
+      ],
+      "sources": [
+        "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/",
+        "https://omyapersonalcare.us/about/global-partners/"
+      ],
+      "note": "table header rows / pale-blue band"
+    }
+  ],
+  "type": {
+    "headingFamily": "Arial",
+    "bodyFamily": "Arial",
+    "stack": "'Arial', sans-serif",
+    "families": [
+      {
+        "family": "Arial",
+        "count": 701,
+        "headings": 314,
+        "text": 378,
+        "buttons": 9
+      }
+    ],
+    "declaredUnrendered": [
+      "frutigerbold (404)",
+      "frutigerregular (404)",
+      "Istok Web",
+      "Oswald",
+      "Roboto"
+    ],
+    "files": [
+      {
+        "family": "Font Awesome 5 Free",
+        "weight": 900,
+        "file": "stardust/current/assets/fonts/fa-solid-900.woff2",
+        "source": "https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff2",
+        "licensed": false,
+        "license": "SIL OFL 1.1 (Font Awesome Free)"
+      }
+    ],
+    "levels": {
+      "h1": {
+        "fontSize": 48,
+        "fontWeight": "700",
+        "count": 70,
+        "score": 702.79
+      },
+      "h2": {
+        "fontSize": 36,
+        "fontWeight": "700",
+        "count": 68,
+        "score": 519.51
+      },
+      "h3": {
+        "fontSize": 24,
+        "fontWeight": "700",
+        "count": 20,
+        "score": 187.83
+      }
+    },
+    "sizes": [
+      {
+        "px": 48,
+        "count": 71,
+        "headings": 71,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 36,
+        "count": 154,
+        "headings": 154,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 28,
+        "count": 3,
+        "headings": 3,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 24,
+        "count": 21,
+        "headings": 21,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 20,
+        "count": 18,
+        "headings": 14,
+        "text": 4,
+        "buttons": 0
+      },
+      {
+        "px": 18,
+        "count": 38,
+        "headings": 37,
+        "text": 1,
+        "buttons": 0
+      },
+      {
+        "px": 16,
+        "count": 250,
+        "headings": 0,
+        "text": 241,
+        "buttons": 9
+      },
+      {
+        "px": 12,
+        "count": 81,
+        "headings": 14,
+        "text": 67,
+        "buttons": 0
+      },
+      {
+        "px": 10,
+        "count": 65,
+        "headings": 0,
+        "text": 65,
+        "buttons": 0
+      }
+    ],
+    "weights": [
+      {
+        "weight": "300",
+        "count": 370,
+        "headings": 0,
+        "text": 365,
+        "buttons": 5
+      },
+      {
+        "weight": "700",
+        "count": 183,
+        "headings": 177,
+        "text": 5,
+        "buttons": 1
+      },
+      {
+        "weight": "500",
+        "count": 85,
+        "headings": 85,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "weight": "400",
+        "count": 63,
+        "headings": 52,
+        "text": 8,
+        "buttons": 3
+      }
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "steps": [
+        48,
+        36,
+        28,
+        24,
+        20,
+        18,
+        16,
+        12,
+        10
+      ],
+      "note": "ratios 1.33/1.29/1.17/1.2/1.11/1.125/1.33/1.2 — no constant ratio"
+    },
+    "sources": [
+      "_computed-styles.json#aggregate.type"
+    ]
+  },
+  "spacing": {
+    "system": "bootstrap-3 grid (bootstrap.min.css)",
+    "headerTopPadding": "60px 0 (45px ≤991, 30px ≤767)",
+    "buttonPadding": "12px 18px",
+    "buttonHeight": "40px",
+    "sources": [
+      "cmds_theme_child/style.css:164,256,1344,1400"
+    ]
+  },
+  "motifs": {
+    "radius": {
+      "dominant": "0",
+      "note": "square corners almost everywhere; 50% only on the FIND A REP fab and the 3 home process circles",
+      "values": [
+        {
+          "value": "50%",
+          "count": 77,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#stickyquote"
+            },
+            {
+              "url": "https://omyapersonalcare.us/about/",
+              "selector": "#stickyquote"
+            }
+          ]
+        },
+        {
+          "value": "100%",
+          "count": 3,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#process-section > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1)"
+            },
+            {
+              "url": "https://omyapersonalcare.us/",
+              "selector": "#process-section > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1)"
+            }
+          ]
+        },
+        {
+          "value": "4px",
+          "count": 3,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+              "selector": "#interior-content > div > div > div > article > div > p:nth-of-type(4) > img"
+            },
+            {
+              "url": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/",
+              "selector": "#interior-content > div > div > div > article > div > p:nth-of-type(6) > img"
+            }
+          ]
+        },
+        {
+          "value": "3px",
+          "count": 1,
+          "sources": [
+            {
+              "url": "https://omyapersonalcare.us/formulary-request/",
+              "selector": "#contact-form > fieldset > div > div:nth-of-type(5) > div:nth-of-type(1) > div > button"
+            }
+          ]
+        }
+      ]
+    },
+    "shadows": [
+      {
+        "value": "rgb(128, 128, 128) 0px 0px 3px 0px",
+        "count": 70,
+        "sources": [
+          {
+            "url": "https://omyapersonalcare.us/",
+            "selector": "#stickyquote"
+          },
+          {
+            "url": "https://omyapersonalcare.us/about/",
+            "selector": "#stickyquote"
+          }
+        ]
+      },
+      {
+        "value": "rgba(0, 0, 0, 0.25) 5px 5px 50px 0px",
+        "count": 2,
+        "sources": [
+          {
+            "url": "https://omyapersonalcare.us/",
+            "selector": "#interior-content > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(5) > img"
+          },
+          {
+            "url": "https://omyapersonalcare.us/",
+            "selector": "#interior-content > div:nth-of-type(7) > div:nth-of-type(1) > div > div:nth-of-type(1) > img:nth-of-type(1)"
+          }
+        ]
+      }
+    ],
+    "gradients": [],
+    "skewedButtons": {
+      "transform": "skewX(-10deg)",
+      "inner": "skewX(10deg)",
+      "source": "cmds_theme_child/style.css:163-164",
+      "note": "signature parallelogram buttons (.button, #button-menu > li, form submit)"
+    },
+    "patterns": [
+      "photo-hero-with-dark-overlay-and-centred-white-h1",
+      "parallelogram-button",
+      "split image/text panels",
+      "date-tag card",
+      "blueprint-grid footer texture (bg-body.gif)"
+    ]
+  },
+  "componentStyle": {
+    "buttons": [
+      {
+        "name": "btn-orange (blue)",
+        "bg": "#007ac1",
+        "text": "#ffffff",
+        "hoverBg": "#338ec9",
+        "shape": "skewX(-10deg)",
+        "radius": 0,
+        "source": "style.css:165,171"
+      },
+      {
+        "name": "btn-black",
+        "bg": "#221f20",
+        "text": "#ffffff",
+        "hoverBg": "#338ec9",
+        "shape": "skewX(-10deg)",
+        "radius": 0,
+        "source": "style.css:167,173"
+      },
+      {
+        "name": "btn-white",
+        "bg": "#ffffff",
+        "text": "#007ac1",
+        "hoverBg": "#338ec9",
+        "shape": "skewX(-10deg)",
+        "radius": 0,
+        "source": "style.css:169,175"
+      }
+    ],
+    "hover": [
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(255, 255, 255)"
+        },
+        "to": {
+          "color": "rgb(153, 199, 228)"
+        },
+        "count": 71
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(0, 122, 193)"
+        },
+        "to": {
+          "backgroundColor": "rgb(51, 142, 201)"
+        },
+        "count": 5
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderColor": "rgb(204, 204, 204)"
+        },
+        "to": {
+          "backgroundColor": "rgb(230, 230, 230)",
+          "borderColor": "rgb(173, 173, 173)"
+        },
+        "count": 2
+      }
+    ],
+    "inputs": {
+      "border": "1px solid #cccccc",
+      "radius": 0,
+      "sources": [
+        "#company",
+        "#fname"
+      ]
+    }
+  },
+  "systemComponents": [
+    {
+      "id": "site-header",
+      "kind": "header",
+      "pages": 71,
+      "evidence": "23 identical nav CTA labels on 71/71 pages (Request Info, Newsletter Signup, Our Approach … Customer Resources); logo #logo-header > a > img",
+      "selector": "header"
+    },
+    {
+      "id": "site-footer",
+      "kind": "footer",
+      "pages": 71,
+      "evidence": "Data Protection / Sales Terms / Impressum / Terms of Use / Privacy Policy / Consent Choices on 71/71; bg-body.gif blueprint texture on 71/71",
+      "selector": "footer"
+    },
+    {
+      "id": "newsletter-modal",
+      "kind": "modal",
+      "pages": 71,
+      "evidence": "\"Omya Market Insights — Subscribe here to get email updates!\" modal (#newsletter-form) on 71/71; auto-opens on some loads",
+      "selector": "#newsletter-form"
+    },
+    {
+      "id": "find-a-rep-fab",
+      "kind": "persistent-cta",
+      "pages": 70,
+      "evidence": "\"FIND AREP\" circular sticky button #stickyquote (radius 50%, shadow 0 0 3px #808080) on 70/71",
+      "selector": "#stickyquote"
+    },
+    {
+      "id": "contact-omya-band",
+      "kind": "cross-promo",
+      "pages": 64,
+      "evidence": "h2 \"Contact Omya\" + form [thename,company,email,email-confirm,message,recaptcha] + \"Contact Us\" on 64/71",
+      "selector": "#contact-footer"
+    },
+    {
+      "id": "insights-band",
+      "kind": "cross-promo",
+      "pages": 20,
+      "evidence": "h2 \"Insights\" + latest blog card + \"Read Our Blog\" on 20/71",
+      "selector": "#insights-section"
+    }
+  ],
+  "iconFont": {
+    "families": [
+      "Font Awesome 5 Brands",
+      "Font Awesome 5 Free",
+      "Glyphicons Halflings",
+      "icomoon"
+    ],
+    "loaded": [
+      "Font Awesome 5 Free 900"
+    ],
+    "file": "stardust/current/assets/fonts/fa-solid-900.woff2",
+    "glyphs": [
+      {
+        "class": "fa fa-times",
+        "codepoint": "U+F00D",
+        "count": 71
+      },
+      {
+        "class": "fas fa-calendar-alt",
+        "codepoint": "U+F073",
+        "count": 46
+      },
+      {
+        "class": "fas fa-chevron-circle-right",
+        "codepoint": "U+F138",
+        "count": 23
+      },
+      {
+        "class": "glyphicon glyphicon-ok check-mark",
+        "codepoint": "U+E013",
+        "count": 2
+      }
+    ]
+  },
+  "voice": {
+    "heroHeadline": "Thinking of Tomorrow",
+    "heroLede": "Omya provides innovative raw materials to the personal care industry.",
+    "firstParagraph": "As a distributor of high-quality, innovative ingredients from around the globe, we strive to exceed the development needs of our customers while remaining conscious of the impact on the environment.",
+    "ctaSamples": [
+      "Our Products",
+      "Learn About Our Process",
+      "Download Omya’s Personal Care Portfolio",
+      "Request Info",
+      "Contact Us"
+    ],
+    "linkList": [
+      "Our Approach",
+      "Our Products",
+      "About",
+      "Insights",
+      "Contact",
+      "Customer Resources"
+    ],
+    "heroImage": {
+      "url": "https://omyapersonalcare.us/wp-content/themes/cmds_theme_child/images/omya-kinetik-personal-care-homev2.jpg",
+      "source": "pages/index.json#media.cssBackgrounds[0] (hero background)",
+      "ogImage": "https://omyapersonalcare.us/wp-content/uploads/omya-kinetik-personal-care-homev2.jpg"
+    },
+    "heroMedium": null,
+    "tone": "B2B, consultative, ingredient-supplier; first-person plural (\"we strive to exceed…\"), benefit + sustainability claims"
+  },
+  "voiceTable": {
+    "pages": 71,
+    "register": "formal-consultative"
+  },
+  "crossPromo": {
+    "items": [
+      "contact-omya-band",
+      "insights-band",
+      "formulation-cta-band"
+    ]
+  },
+  "register": "brand"
+}

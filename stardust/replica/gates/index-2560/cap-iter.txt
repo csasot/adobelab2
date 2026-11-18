@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://omyapersonalcare.us/
+  modules  9 sections: capped 1310 ×6 · full-bleed ×3
+  contentMaxWidth 1310px (module) · shellMaxWidth fluid · root #interior-content
+build  http://localhost:8791/index-proposed.html
+  modules  6 sections: capped 1310 ×6 · full-bleed ×0
+  contentMaxWidth 1310px (module) · shellMaxWidth fluid · root #interior-content
+rows
+  ✓ content cap: live 1310px = build 1310px (±20, shared module cap)
+  ⚠ sections: live 9 vs build 6 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ✓ module 1/9: 1310px = 1310px
+  ⚠ module 2/9: live full-bleed (#interior-content > div.clearfix) → build 1310px (#process-section > div.wrap.page-section__wrap)
+  ✓ module 3/9: 1310px = 1310px
+  ⚠ module 4/9: live full-bleed (#interior-content > div.clearfix) → build 1310px (#interior-content > div.feature-row-wrap > section.feature-row.feature-row--img-left > div.wrap.feature-row__wrap)
+  ✓ module 5/9: 1310px = 1310px
+  ✓ module 6/9: 1310px = 1310px
+cap-probe: PASS at 2560 — 0 of 8 rows failed (evidence stardust/replica/gates/index-2560/cap-iter.json)

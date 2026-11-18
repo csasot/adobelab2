@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/all-360/events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/origin.png",
+  "b": "stardust/replica/gates/all-360/events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 1836,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 22574,
+  "pct": 3.42,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0.65,
+  "textBoxes": 33,
+  "textPixels": 86153,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 11.9
+    },
+    {
+      "y0": 1500,
+      "y1": 1836,
+      "pct": 0.8
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/events/kinetik-is-attending-the-mazur-group-beauty-biz-roundtable"
+  }
+}

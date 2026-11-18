@@ -1,0 +1,47 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/blog/skinification-of-oral-care",
+ "at": "2026-11-17T21:23:19.211Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 1,
+  "offPage": 14,
+  "textNodes": 46,
+  "controls": 29,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": null,
+   "path": "div.default-content-wrapper > ol > li > a",
+   "text": "https://www.cosmeticsdesign.com/article/2023/02/02/2023-tren",
+   "cutMin": 5,
+   "cutMax": 5
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 0,
+   "offPage": 0,
+   "textNodes": 47,
+   "controls": 25,
+   "total": 0
+  }
+ }
+}

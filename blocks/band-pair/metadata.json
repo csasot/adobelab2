@@ -1,0 +1,21 @@
+{
+  "variantName": "band-pair",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Shared bottom bands: grey Insights band with latest post tiles plus blue Contact Omya band with the contact form",
+    "layout": "Two side-by-side bands: grey post tiles and blue contact form; solo shows one band full width"
+  },
+  "contentPattern": {
+    "structure": "rows in order: Insights h2, one row per post tile (picture | date | title link), \"Read Our Blog\" CTA; then Contact h2, submit CTA, disclaimer paragraph. The last heading opens the contact band"
+  },
+  "options": [
+    {
+      "class": "solo",
+      "label": "Solo"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Footer-adjacent Insights + Contact bands used on nearly every page; use solo for a single band.",
+  "reuseGuidance": "Reuse band-pair for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

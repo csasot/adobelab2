@@ -1,0 +1,110 @@
+{
+  "media/contact/rep-locator/Domenic-Hix.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Domenic-Hix.jpg",
+    "size": 33515,
+    "sha256": "b8deb2f28f4221e6b625d8db3c97e5864c2e3db866e824de5d4e7dc200bfd5dd",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Domenic-Hix.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:30.562Z"
+  },
+  "media/contact/rep-locator/Karen-Cole-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Karen-Cole-1.jpg",
+    "size": 31969,
+    "sha256": "aadd390d0f02e18a8432d7e2f251a81eb16f10ce01f35477d1ffa7896e1fddfc",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Karen-Cole-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.206Z"
+  },
+  "media/contact/rep-locator/Lindsay-Boris-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Lindsay-Boris-1.jpg",
+    "size": 244582,
+    "sha256": "ed9b9aa21560376d9ba4fad6e4c6b99d72a2ece886b9e336943aa2c6c75b2adb",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Lindsay-Boris-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.292Z"
+  },
+  "media/contact/rep-locator/Lily-Hoang-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Lily-Hoang-1.jpg",
+    "size": 32420,
+    "sha256": "abcefd0f712e3b29323e7607036ef989d09a41aab11ded905daddb287591b3a1",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Lily-Hoang-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.295Z"
+  },
+  "media/contact/rep-locator/Joseph-Shieh-1.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Joseph-Shieh-1.jpg",
+    "size": 263759,
+    "sha256": "ee345cc1096076843054e884d6a552c74330c9d12326ef9846387019fab4db2f",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Joseph-Shieh-1.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.371Z"
+  },
+  "media/contact/rep-locator/Meriem-Chetoui.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Meriem-Chetoui.jpg",
+    "size": 4252,
+    "sha256": "5c2c889e52eee26dbeeeb346a5f86946b3d05460e48e499ab9eaec0438a4cd44",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Meriem-Chetoui.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.926Z"
+  },
+  "media/contact/rep-locator/Lindsey-Ross.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Lindsey-Ross.jpg",
+    "size": 205214,
+    "sha256": "d6aa7589604229a942f7133d9dcc307789c43d345d52604dcb4ab9abfe061093",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Lindsey-Ross.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.928Z"
+  },
+  "media/contact/rep-locator/Teresa-Bucio.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/Teresa-Bucio.jpg",
+    "size": 54748,
+    "sha256": "ad3f2832c90d782e273980b296d3df1820d8ce25a3baae43995ed87aea490b8f",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/Teresa-Bucio.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:31.945Z"
+  },
+  "media/contact/rep-locator/us-states-map-max-gray.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-unique/media/us-states-map-max-gray.jpg",
+    "size": 250548,
+    "sha256": "0227e81b6b34b71ce2e460d2d01457651bd2200c92e381a889e5ad72df2013ac",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/rep-locator/us-states-map-max-gray.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:20:32.379Z"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "a": "stardust/replica/gates/all-1440/blog-eco-friendly-high-performance-sun-care-solutions/origin.png",
+  "b": "stardust/replica/gates/all-1440/blog-eco-friendly-high-performance-sun-care-solutions/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 5247,
+    "mode": "overlap"
+  },
+  "heightDelta": -1,
+  "differingPixels": 43176,
+  "pct": 0.64,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/blog-eco-friendly-high-performance-sun-care-solutions/diff.png",
+  "masks": [
+    {
+      "yA": 2088,
+      "h": 563,
+      "yB": 2088
+    }
+  ],
+  "maskedRows": 563,
+  "textPct": 0.83,
+  "textBoxes": 93,
+  "textPixels": 486432,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.4
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 2.2
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.1
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0.1
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0.1
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 0
+    },
+    {
+      "y0": 4500,
+      "y1": 5000,
+      "pct": 3
+    },
+    {
+      "y0": 5000,
+      "y1": 5247,
+      "pct": 0.3
+    }
+  ],
+  "maskReason": "known source residual: the source YouTube iframes (src \"…?si=…?rel=0\") render the player error state (Error 153), ours the player (embed passthrough, dynamic-features row 19) — video-grid band masked; everything else compared",
+  "capturesDropped": {
+    "masks": [
+      "2088:563@2088"
+    ],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/blog/eco-friendly-high-performance-sun-care-solutions"
+  }
+}

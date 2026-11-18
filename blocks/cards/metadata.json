@@ -1,0 +1,21 @@
+{
+  "variantName": "cards",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Card grid; the formulations variant renders the formulation download boxes",
+    "layout": "Card grid; formulations is 3-up with linked thumbnail, blue h3 and skewed download button"
+  },
+  "contentPattern": {
+    "structure": "one row per card: image | body (h3 title, Download Now link)"
+  },
+  "options": [
+    {
+      "class": "formulations",
+      "label": "Formulations"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Formulation download grids on the Our Formulations page.",
+  "reuseGuidance": "Reuse cards for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

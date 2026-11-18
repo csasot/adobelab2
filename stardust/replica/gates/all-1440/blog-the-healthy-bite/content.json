@@ -1,0 +1,2787 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:01:29.202Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/the-healthy-bite/",
+  "at": "2026-11-17T21:01:12.570Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3030,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1143 > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1838 > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/the-healthy-bite/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1125 > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-68349 > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1127 > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1131 > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#nav > li#menu-item-1133 > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 58,
+    "level": 1,
+    "text": "the healthy bite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 298,
+    "y": 415,
+    "w": 843,
+    "h": 23,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 576,
+    "y": 417,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 632,
+    "y": 417,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 701,
+    "y": 417,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 332,
+    "y": 752,
+    "w": 99,
+    "h": 17,
+    "text": "July 30, 2024"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > h2",
+    "x": 313,
+    "y": 793,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "the healthy bite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 137,
+    "text": ", Intermountain West SCC hosted the inaugural US edition of Omya’s The Healthy B"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.aligncenter.size-full",
+    "x": 313,
+    "y": 1000,
+    "w": 843,
+    "h": 304,
+    "text": "",
+    "file": "healthy-bite-2024-horizontal"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1316,
+    "w": 843,
+    "h": 69,
+    "text": "The Healthy Bite was conceived by Omya to fill a gap in education and idea excha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1395,
+    "w": 843,
+    "h": 137,
+    "text": "This year, the program featured 8 sessions covering a wide array of topics rangi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1542,
+    "w": 843,
+    "h": 160,
+    "text": "The afternoon content shifted from chemistry to biology, opening with Registered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.alignright.size-medium",
+    "x": 932,
+    "y": 1554,
+    "w": 225,
+    "h": 325,
+    "text": "",
+    "file": "healthy-bite-2024-vertical-225x300"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1712,
+    "w": 843,
+    "h": 69,
+    "text": "Throughout the day, attendees visited the Ingredient and Supplier Exposition. Th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1790,
+    "w": 843,
+    "h": 114,
+    "text": "At this first US event of its kind, The Healthy Bite set a high standard for fut"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > h2",
+    "x": 313,
+    "y": 1924,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "missed out on this event?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-37894 > div.entry-summary > p",
+    "x": 313,
+    "y": 1983,
+    "w": 843,
+    "h": 46,
+    "text": "Join us at the NYSCC’s Oral Care Symposium, co-hosted by Omya, on October 15 in "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > a",
+    "x": 709,
+    "y": 2007,
+    "w": 71,
+    "h": 17,
+    "text": "at this link",
+    "href": "/blog/events/emerging-trends-in-oral-health-beauty/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 265,
+    "y": 2178,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 1060,
+    "y": 2625,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/the-healthy-bite/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 265,
+    "y": 2625,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 80,
+    "y": 2755,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 80,
+    "y": 2833,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 80,
+    "y": 2852,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1163 > a",
+    "x": 423,
+    "y": 2755,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-68351 > a",
+    "x": 642,
+    "y": 2755,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3838 > a",
+    "x": 642,
+    "y": 2801,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1165 > a",
+    "x": 867,
+    "y": 2755,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1167 > a",
+    "x": 867,
+    "y": 2801,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1168 > a",
+    "x": 867,
+    "y": 2824,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-3314 > a",
+    "x": 867,
+    "y": 2847,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1166 > a",
+    "x": 867,
+    "y": 2870,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1171 > a",
+    "x": 867,
+    "y": 2893,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1169 > a",
+    "x": 1093,
+    "y": 2755,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1170 > a",
+    "x": 1093,
+    "y": 2801,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1329 > a",
+    "x": 1093,
+    "y": 2824,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#menu-footer-menu > li#menu-item-1172 > a",
+    "x": 1263,
+    "y": 2755,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.sub-menu > li#menu-item-1335 > a",
+    "x": 1263,
+    "y": 2801,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 80,
+    "y": 2946,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1133,
+    "y": 2947,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1225,
+    "y": 2947,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1301,
+    "y": 2947,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1104,
+    "y": 2964,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1184,
+    "y": 2964,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 1269,
+    "y": 2964,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 59,
+    "controls": 36,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/the-healthy-bite",
+  "at": "2026-11-17T21:01:29.089Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3031,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1180,
+    "y": 7,
+    "w": 78,
+    "h": 17,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.aux-nav-list > li > a",
+    "x": 1266,
+    "y": 7,
+    "w": 102,
+    "h": 17,
+    "text": "newsletter signup",
+    "href": "/blog/the-healthy-bite"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 72,
+    "y": 90,
+    "w": 216,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 72,
+    "y": 90,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li > a",
+    "x": 446,
+    "y": 90,
+    "w": 120,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 601,
+    "y": 90,
+    "w": 115,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 751,
+    "y": 90,
+    "w": 52,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 838,
+    "y": 90,
+    "w": 69,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.site-nav-list > li.has-sub > a",
+    "x": 942,
+    "y": 90,
+    "w": 67,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 1152,
+    "y": 90,
+    "w": 210,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 670,
+    "text": "",
+    "file": "media_197e3f733753fd8adfa97c3dde69e74e91"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#the-healthy-bite",
+    "x": 298,
+    "y": 342,
+    "w": 843,
+    "h": 58,
+    "level": 1,
+    "text": "the healthy bite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 298,
+    "y": 415,
+    "w": 843,
+    "h": 23,
+    "text": "/ / / The Healthy Bite"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 576,
+    "y": 417,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 632,
+    "y": 417,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 701,
+    "y": 417,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 332,
+    "y": 752,
+    "w": 99,
+    "h": 17,
+    "text": "July 30, 2024"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#the-healthy-bite-1",
+    "x": 313,
+    "y": 793,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "the healthy bite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 851,
+    "w": 843,
+    "h": 137,
+    "text": ", Intermountain West SCC hosted the inaugural US edition of Omya’s The Healthy B"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 313,
+    "y": 1000,
+    "w": 843,
+    "h": 304,
+    "text": "",
+    "file": "media_1b9fbf89e1e98e1070d525282980b0b10c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1316,
+    "w": 843,
+    "h": 69,
+    "text": "The Healthy Bite was conceived by Omya to fill a gap in education and idea excha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1395,
+    "w": 843,
+    "h": 137,
+    "text": "This year, the program featured 8 sessions covering a wide array of topics rangi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > picture.figure-media > img",
+    "x": 932,
+    "y": 1554,
+    "w": 225,
+    "h": 325,
+    "text": "",
+    "file": "media_1a2a26084e2967b953c44a6d87a98df7a4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1543,
+    "w": 843,
+    "h": 160,
+    "text": "The afternoon content shifted from chemistry to biology, opening with Registered"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1713,
+    "w": 843,
+    "h": 69,
+    "text": "Throughout the day, attendees visited the Ingredient and Supplier Exposition. Th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1791,
+    "w": 843,
+    "h": 114,
+    "text": "At this first US event of its kind, The Healthy Bite set a high standard for fut"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#missed-out-on-this-event",
+    "x": 313,
+    "y": 1926,
+    "w": 843,
+    "h": 43,
+    "level": 2,
+    "text": "missed out on this event?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 313,
+    "y": 1984,
+    "w": 843,
+    "h": 46,
+    "text": "Join us at the NYSCC’s Oral Care Symposium, co-hosted by Omya, on October 15 in "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 709,
+    "y": 2009,
+    "w": 71,
+    "h": 17,
+    "text": "at this link",
+    "href": "/blog/events/emerging-trends-in-oral-health-beauty/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 265,
+    "y": 2179,
+    "w": 910,
+    "h": 43,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 1060,
+    "y": 2626,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/the-healthy-bite"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 265,
+    "y": 2626,
+    "w": 910,
+    "h": 22,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 2756,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 80,
+    "y": 2834,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 80,
+    "y": 2853,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 423,
+    "y": 2756,
+    "w": 111,
+    "h": 38,
+    "text": "our approach",
+    "href": "/our-approach"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 642,
+    "y": 2756,
+    "w": 116,
+    "h": 38,
+    "text": "our products",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 642,
+    "y": 2802,
+    "w": 116,
+    "h": 15,
+    "text": "our formulations",
+    "href": "/our-formulations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 867,
+    "y": 2756,
+    "w": 118,
+    "h": 38,
+    "text": "about",
+    "href": "/about"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2802,
+    "w": 118,
+    "h": 15,
+    "text": "our difference",
+    "href": "/about/our-difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2825,
+    "w": 118,
+    "h": 15,
+    "text": "our team",
+    "href": "/about/our-team"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2848,
+    "w": 118,
+    "h": 15,
+    "text": "consumer goods",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2871,
+    "w": 118,
+    "h": 15,
+    "text": "global partners",
+    "href": "/about/global-partners"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 867,
+    "y": 2894,
+    "w": 118,
+    "h": 15,
+    "text": "careers",
+    "href": "/careers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1093,
+    "y": 2756,
+    "w": 62,
+    "h": 38,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 2802,
+    "w": 62,
+    "h": 15,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1093,
+    "y": 2825,
+    "w": 62,
+    "h": 15,
+    "text": "events",
+    "href": "/insights/events"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-menu > li > a",
+    "x": 1263,
+    "y": 2756,
+    "w": 82,
+    "h": 38,
+    "text": "contact",
+    "href": "/contact"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1263,
+    "y": 2802,
+    "w": 82,
+    "h": 15,
+    "text": "rep locator",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 80,
+    "y": 2947,
+    "w": 1280,
+    "h": 34,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1133,
+    "y": 2948,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1225,
+    "y": 2948,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1301,
+    "y": 2948,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1104,
+    "y": 2965,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1184,
+    "y": 2965,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 1269,
+    "y": 2965,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/the-healthy-bite"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 1340,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 58,
+    "controls": 36,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "the healthy bite",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 6,
+    "image": 2
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "missed out on this event?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"the healthy bite\" (y 793) has no origin heading",
+   "text": "the healthy bite"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"the healthy bite\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"the healthy bite\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"the healthy bite\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "blog"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 4,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 532,
+    "y": 344,
+    "w": 376,
+    "h": 53
+   },
+   {
+    "x": 576,
+    "y": 417,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 417,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 632,
+    "y": 417,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 687,
+    "y": 417,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 701,
+    "y": 417,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 733,
+    "y": 417,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 746,
+    "y": 417,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 332,
+    "y": 752,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 794,
+    "w": 282,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 853,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 415,
+    "y": 853,
+    "w": 735,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 876,
+    "w": 823,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 899,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 922,
+    "w": 793,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 945,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 967,
+    "w": 350,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1318,
+    "w": 839,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1341,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1364,
+    "w": 439,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1397,
+    "w": 825,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1420,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1442,
+    "w": 807,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1465,
+    "w": 798,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1488,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1511,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1544,
+    "w": 570,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1567,
+    "w": 544,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1589,
+    "w": 568,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1612,
+    "w": 559,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1635,
+    "w": 590,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1658,
+    "w": 588,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1681,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1714,
+    "w": 578,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1737,
+    "w": 574,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1759,
+    "w": 193,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1792,
+    "w": 553,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1815,
+    "w": 550,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1838,
+    "w": 593,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1861,
+    "w": 580,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1884,
+    "w": 419,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1925,
+    "w": 442,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1985,
+    "w": 831,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2007,
+    "w": 396,
+    "h": 17
+   },
+   {
+    "x": 709,
+    "y": 2007,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 780,
+    "y": 2007,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2179,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 2636,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2625,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 2636,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 2764,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2764,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2800,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2764,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 2800,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2823,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2846,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2869,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2892,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2764,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 2800,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2823,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2764,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 2800,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 2947,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 2947,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 2947,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 2947,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 2947,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 2964,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 2964,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 2964,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 2964,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 2964,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 2964,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 1185,
+    "y": 8,
+    "w": 68,
+    "h": 14
+   },
+   {
+    "x": 1271,
+    "y": 8,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 446,
+    "y": 99,
+    "w": 120,
+    "h": 20
+   },
+   {
+    "x": 601,
+    "y": 99,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 751,
+    "y": 99,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 838,
+    "y": 99,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 942,
+    "y": 99,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 1170,
+    "y": 99,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 532,
+    "y": 344,
+    "w": 376,
+    "h": 53
+   },
+   {
+    "x": 576,
+    "y": 417,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 619,
+    "y": 417,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 632,
+    "y": 417,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 687,
+    "y": 417,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 701,
+    "y": 417,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 733,
+    "y": 417,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 332,
+    "y": 752,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 794,
+    "w": 282,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 853,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 415,
+    "y": 853,
+    "w": 735,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 876,
+    "w": 823,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 899,
+    "w": 837,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 922,
+    "w": 793,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 945,
+    "w": 808,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 967,
+    "w": 350,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1318,
+    "w": 839,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1341,
+    "w": 801,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1364,
+    "w": 439,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1397,
+    "w": 825,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1420,
+    "w": 818,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1442,
+    "w": 807,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1465,
+    "w": 798,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1488,
+    "w": 841,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1511,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1545,
+    "w": 570,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1568,
+    "w": 544,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1591,
+    "w": 568,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1613,
+    "w": 559,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1636,
+    "w": 590,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1659,
+    "w": 588,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1682,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1715,
+    "w": 578,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1738,
+    "w": 574,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1760,
+    "w": 193,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1793,
+    "w": 553,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1816,
+    "w": 550,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1839,
+    "w": 593,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1862,
+    "w": 580,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1885,
+    "w": 419,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 1927,
+    "w": 442,
+    "h": 41
+   },
+   {
+    "x": 313,
+    "y": 1986,
+    "w": 831,
+    "h": 17
+   },
+   {
+    "x": 313,
+    "y": 2009,
+    "w": 396,
+    "h": 17
+   },
+   {
+    "x": 709,
+    "y": 2009,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 780,
+    "y": 2009,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2180,
+    "w": 230,
+    "h": 41
+   },
+   {
+    "x": 1078,
+    "y": 2637,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 265,
+    "y": 2626,
+    "w": 774,
+    "h": 11
+   },
+   {
+    "x": 265,
+    "y": 2637,
+    "w": 325,
+    "h": 11
+   },
+   {
+    "x": 423,
+    "y": 2765,
+    "w": 111,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2765,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 642,
+    "y": 2801,
+    "w": 116,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2765,
+    "w": 47,
+    "h": 20
+   },
+   {
+    "x": 867,
+    "y": 2801,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2824,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2847,
+    "w": 118,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2870,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 867,
+    "y": 2893,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2765,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1093,
+    "y": 2801,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 1093,
+    "y": 2824,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 1263,
+    "y": 2765,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 1263,
+    "y": 2801,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 1133,
+    "y": 2948,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1215,
+    "y": 2948,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1225,
+    "y": 2948,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 1291,
+    "y": 2948,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1301,
+    "y": 2948,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 869,
+    "y": 2965,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 1104,
+    "y": 2965,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 1174,
+    "y": 2965,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1184,
+    "y": 2965,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 1259,
+    "y": 2965,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 1269,
+    "y": 2965,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 1357,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 1366,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   }
+  ]
+ }
+}

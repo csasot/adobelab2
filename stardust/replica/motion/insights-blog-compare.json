@@ -1,0 +1,124 @@
+{
+  "live": "stardust/replica/motion/insights-blog.json",
+  "build": "stardust/replica/motion/insights-blog-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 15,
+    "parity": 11,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 2,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "hover",
+      "name": ".featured-post → .post-tile",
+      "state": "advisory",
+      "note": "no hover diff on live; build changes i.color — live mechanics may be invisible to the hover probe (pseudo-element underlines, text-decoration, border-color) — confirm on the element before treating it as invented",
+      "line": "motion hover .featured-post → .post-tile: extra on build — advisory (no hover diff on live; build changes i.color — live mechanics may be invisible to the hover probe (pseudo-element underlines, text-decoration, border-color) — confirm on the element before treating it as invented)"
+    },
+    {
+      "cls": "hover",
+      "name": ".wp-pagenavi a → .ib-pagenavi a",
+      "state": "parity",
+      "note": "self.color; 250ms; paired by order",
+      "line": "motion hover .wp-pagenavi a → .ib-pagenavi a: parity (self.color; 250ms; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": "#section555 .button → .ib-video-row__btn",
+      "state": "parity",
+      "note": "self.background; 250ms; paired by order",
+      "line": "motion hover #section555 .button → .ib-video-row__btn: parity (self.background; 250ms; paired by order)"
+    },
+    {
+      "cls": "hover",
+      "name": ".breadcrumbs a → .ib-breadcrumbs a",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .breadcrumbs a → .ib-breadcrumbs a: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": "#navigation .nav > li > a → .site-nav__list > li > a",
+      "state": "parity",
+      "note": "self.color; 250ms; paired by order",
+      "line": "motion hover #navigation .nav > li > a → .site-nav__list > li > a: parity (self.color; 250ms; paired by order)"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 250ms",
+      "line": "motion transition background-color: parity (2 event(s) on live, 2 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-bottom-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 250ms",
+      "line": "motion transition border-bottom-color: parity (4 event(s) on live, 4 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-left-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 250ms",
+      "line": "motion transition border-left-color: parity (4 event(s) on live, 4 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-right-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 250ms",
+      "line": "motion transition border-right-color: parity (4 event(s) on live, 4 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-top-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 250ms",
+      "line": "motion transition border-top-color: parity (4 event(s) on live, 4 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "bottom",
+      "state": "parity",
+      "note": "5 event(s) on live, 4 on build, 400ms",
+      "line": "motion transition bottom: parity (5 event(s) on live, 4 on build, 400ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "5 event(s) on live, 5 on build, 250ms",
+      "line": "motion transition color: parity (5 event(s) on live, 5 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "outline-width",
+      "state": "missing",
+      "note": "9 event(s) on live, 250ms",
+      "line": "motion transition outline-width: MISSING on build (9 event(s) on live, 250ms)"
+    },
+    {
+      "cls": "class",
+      "name": "active",
+      "state": "parity",
+      "note": "added 2× on live, 2× on build",
+      "line": "motion class active: parity (added 2× on live, 2× on build)"
+    }
+  ]
+}

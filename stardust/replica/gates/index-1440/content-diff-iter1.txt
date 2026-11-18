@@ -1,0 +1,23 @@
+
+Content diff @ 1440px (profile "generic", roots: #interior-content, header, footer)
+root "#interior-content"
+  source: 24 text nodes — 5 headings, 0 eyebrows, 5 CTAs, 14 body; 28 img
+  build: 24 text nodes — 5 headings, 0 eyebrows, 5 CTAs, 14 body; 27 img
+  editable texts (outermost h*/p/ul/ol): source 20 / build 20
+  attributes (placeholder/aria-label/title): source 0 / build 0; icons: source 0 / build 0
+root "header"
+  source: 23 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 3 body; 1 img
+  build: 23 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 3 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 6 / build 6
+  attributes (placeholder/aria-label/title): source 1 / build 1; icons: source 0 / build 0
+root "footer"
+  source: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  build: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  editable texts (outermost h*/p/ul/ol): source 2 / build 2
+  attributes (placeholder/aria-label/title): source 1 / build 0; icons: source 0 / build 0
+
+Findings: 3 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 3
+  🟡 MISSING TITLE [header]: source <a> title="Home" has no build <a> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 EXTRA ARIA-LABEL [header]: build <nav> aria-label="Main" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 MISSING TITLE [footer]: source <a> title="Home" has no build <a> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.

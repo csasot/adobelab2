@@ -1,0 +1,38 @@
+{
+  "/events": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T19:57:24.067Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/insights/events": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T19:57:24.067Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/news": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T19:57:30.458Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/our-formulations": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-17T20:05:19.212Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

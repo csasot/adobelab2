@@ -1,0 +1,16 @@
+{
+  "variantName": "video-grid",
+  "baseBlock": "embed",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "YouTube players in a two-up grid with captions",
+    "layout": "Two-up 16:9 videos with centred bold blue captions"
+  },
+  "contentPattern": {
+    "structure": "one row per video, one cell: YouTube link paragraph, then caption paragraph"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Video galleries inside article content.",
+  "reuseGuidance": "Reuse video-grid for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

@@ -1,0 +1,141 @@
+{
+ "source": "file:///workspace/12a63657/stardust/prototypes/about-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "page-section",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "About Omya"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Omya is a dynamic and customer-focused distributor of high-quality specialty ingredients from around the globe, serving the US personal care and cosmetic markets. Founded in 1884, Omya is a leading global producer of calcium carbonate and a worldwide distributor of specialty chemicals, with over 175 locations worldwide."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "alt-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Difference"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Omya"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "We truly believe in the unique power of quality ingredients and their ability to elevate brand success. Quality formulations and quality products come from collaboration. We’re excited to start the conversation, learn about your sustainable goals and make something innovative together."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn About The Omya Difference",
+     "href": "https://omyapersonalcare.us/about/our-difference/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "alt-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Team"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Exceptional"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "At Omya, we believe in transparency. We’re passionate about unveiling innovative solutions for brands through active and functional ingredients of the highest quality. With extensive technical and commercial backgrounds, we go beyond the ingredients. As your trusted partner, we also provide the ongoing support that your brands need to evolve."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn More About Our Team",
+     "href": "https://omyapersonalcare.us/about/our-team/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "alt-row",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Partners"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Global"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "As a leading provider of high-quality specialty ingredients for personal care products, we promise to offer raw material innovations and, whenever possible, use environmentally and socially conscious sources. Our global partners share this vision and we proudly represent these suppliers in the US."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn About Our Global Partners",
+     "href": "https://omyapersonalcare.us/about/global-partners/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "cta-band",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Do you need for your formulation?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "inspiration"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Let our experts help guide you in building the perfect formulation for your needs."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Get Started Now",
+     "href": "https://omyapersonalcare.us/formulary-request/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  }
+ ]
+}

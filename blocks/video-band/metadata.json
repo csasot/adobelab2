@@ -1,0 +1,16 @@
+{
+  "variantName": "video-band",
+  "baseBlock": "embed",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Blue band with a 16:9 YouTube player beside a black skewed CTA",
+    "layout": "Blue band, video player and black skewed button, stacked on mobile"
+  },
+  "contentPattern": {
+    "structure": "one row (cells in any order): YouTube link paragraph, bold CTA link"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Video band on insights listing pages.",
+  "reuseGuidance": "Reuse video-band for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

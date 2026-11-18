@@ -1,0 +1,200 @@
+/* article — canon.css · article (mobile-first). The section holding the article block is the
+   source's main#interior-content (.wrap) > .article-page (15px gutters) > .wrap (40px rhythm) >
+   column (12 / md 10 offset 1 / lg 8 offset 2, 40px 15px). The date block and the default-content
+   body share that column; their vertical margins collapse as in one flow (date 10 → h2 20). */
+main .section:is(.article-container, .article-body) {
+  display: flow-root;
+  width: var(--wrap-w);
+  margin: 0 auto;
+  padding: 80px 15px;
+  text-align: left;
+}
+
+main .section:is(.article-container, .article-body) > div {
+  position: relative;
+  width: var(--wrap-w);
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+main .section:is(.article-container, .article-body) h2 {
+  margin: 20px 0 15px;
+}
+
+main .section:is(.article-container, .article-body) sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 70%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+main .section:is(.article-container, .article-body) img {
+  max-width: 100%;
+  height: auto;
+}
+
+.article .article-date {
+  color: var(--c-blue);
+}
+
+.icon-calendar::before {
+  content: "\f073";
+}
+
+@media (width >= 992px) {
+  main .section:is(.article-container, .article-body) > div {
+    width: calc(var(--wrap-w) * 5 / 6);
+    margin-left: calc(var(--wrap-w) / 12);
+  }
+}
+
+@media (width >= 1200px) {
+  main .section:is(.article-container, .article-body) > div {
+    width: calc(var(--wrap-w) * 2 / 3);
+    margin-left: calc(var(--wrap-w) / 6);
+  }
+}
+
+/* article body default content (cluster siblings): the source's `.page-content` rules and the
+   page-level `.page-content h3` style; images are WordPress `aligncenter` (theme style.css 1212)
+   and go full width below 768px (`.entry-summary img`). */
+main .section:is(.article-container, .article-body) h3 {
+  margin: 15px 0;
+  font-size: 24px;
+  font-weight: 700;
+  color: #221f20;
+}
+
+main .section:is(.article-container, .article-body) :is(ul, ol) {
+  margin: 0 0 10px;
+  padding-left: 1.5em;
+}
+
+main .section:is(.article-container, .article-body) li {
+  font-size: 16px;
+}
+
+main .section:is(.article-container, .article-body) :is(ol, ul) > li {
+  padding-bottom: 9px;
+}
+
+main .section:is(.article-container, .article-body) > .default-content-wrapper img {
+  display: block;
+  width: 100%;
+  margin: 15px 0;
+}
+
+/* `article-rule` section style = the body's <hr> (a rule starts a new section in the document):
+   the sections join into one column with a 1px rule between them */
+main .section.article-body:has(+ .section.article-rule) {
+  padding-bottom: 0;
+}
+
+main .section.article-body.article-rule {
+  padding-top: 0;
+}
+
+main .section.article-body.article-rule > div:first-child::before {
+  content: "";
+  display: block;
+  margin: 10px 0 20px;
+  border-top: 1px solid #d5d5d5;
+}
+
+@media (width >= 768px) {
+  main .section:is(.article-container, .article-body) > .default-content-wrapper img {
+    width: auto;
+    margin: 12px auto;
+  }
+}
+
+/* variant `event`: the source's article.type-events sits 25px lower in the column */
+.article.event {
+  margin-top: 25px;
+}
+
+/* section style `accent-headings`: posts whose every sub-heading the source sets in the brand blue */
+main .section.article-body.accent-headings h3 {
+  color: var(--c-blue);
+}
+
+/* section style `article-references`: the closing reference list / note (the source's <small>
+   paragraphs and its 12px numbered list) */
+main .section.article-body.article-references p {
+  font-size: 13.6px;
+}
+
+main .section.article-body.article-references li {
+  font-size: 12px;
+}
+
+/* ── page-level section styles (additive, opt-in; first used by the standalone
+   blog-eco-friendly-high-performance-sun-care-solutions prototype). The source sets these
+   elements one by one with inline styles; each style names one of those treatments. ── */
+
+/* `rule-flow`: the body sections flow as ONE column — margins collapse across the section
+   boundary like the source's bootstrap <hr> (20px above and below, #eee), so a rule after an
+   image keeps the image's 12px inside the 20px instead of adding to it */
+main .section.article-body.rule-flow {
+  display: block;
+}
+
+main .section.article-body.rule-flow > div {
+  min-height: 0;
+}
+
+main .section.article-body.article-rule.rule-flow > div:first-child::before {
+  margin: 20px 0;
+  border-top-color: #eee;
+}
+
+/* `rule-gap-30`: the source's `.clearfix` spacer (margin-top 30px) before the rule — it does not
+   collapse with the rule's own 20px: 30 + 20 above the line */
+main .section.article-body.article-rule.rule-flow.rule-gap-30 > div:first-child::before {
+  margin-top: 50px;
+}
+
+/* `feature-headings`: h3s centred in the brand blue, 20px above (inline style on the source);
+   `heading-gap-40`: the same with 40px above */
+main .section.article-body.feature-headings h3 {
+  margin-top: 20px;
+  color: var(--c-blue);
+  text-align: center;
+}
+
+main .section.article-body.feature-headings.heading-gap-40 h3 {
+  margin-top: 40px;
+}
+
+/* `accent-leads`: a paragraph opening with a bold product name + line break — the name in blue,
+   20px above (the source's spacer / rule before each product) */
+main .section.article-body.accent-leads p:has(> strong:first-child + br) {
+  margin-top: 20px;
+}
+
+main .section.article-body.accent-leads p > strong:first-child:has(+ br) {
+  color: var(--c-blue);
+}
+
+/* `image-pairs`: two images stacked in one source paragraph (no-bottom-margin + no-top-margin)
+   with the <br> line between them; an image paragraph followed by a figure block reads the same */
+main .section.article-body.image-pairs p > picture + br + picture img {
+  margin-top: 0;
+}
+
+main .section.article-body.image-pairs p > picture:has(+ br + picture) img,
+main .section.article-body.image-pairs .default-content-wrapper:has(+ .figure-wrapper)
+  > p:last-child img {
+  margin-bottom: 0;
+}
+
+main .section.article-body.image-pairs .default-content-wrapper:has(+ .figure-wrapper)
+  > p:last-child:has(> picture:only-child) {
+  margin-bottom: 0;
+}
+
+main .section.article-body.image-pairs .default-content-wrapper + .figure-wrapper > .figure {
+  margin-top: 0;
+  padding-top: 22.86px;
+}

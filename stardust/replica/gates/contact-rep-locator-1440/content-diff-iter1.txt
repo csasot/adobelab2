@@ -1,0 +1,23 @@
+
+Content diff @ 1440px (profile "generic", roots: #interior-content, header, footer)
+root "#interior-content"
+  source: 216 text nodes — 51 headings, 0 eyebrows, 106 CTAs, 59 body; 55 img
+  build: 214 text nodes — 51 headings, 0 eyebrows, 106 CTAs, 57 body; 54 img
+  editable texts (outermost h*/p/ul/ol): source 52 / build 214
+  attributes (placeholder/aria-label/title): source 0 / build 1; icons: source 1 / build 1
+root "header"
+  source: 24 text nodes — 1 headings, 0 eyebrows, 21 CTAs, 2 body; 1 img
+  build: 24 text nodes — 1 headings, 0 eyebrows, 21 CTAs, 2 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 5 / build 5
+  attributes (placeholder/aria-label/title): source 3 / build 3; icons: source 0 / build 0
+root "footer"
+  source: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  build: 21 text nodes — 0 headings, 0 eyebrows, 20 CTAs, 1 body; 2 img
+  editable texts (outermost h*/p/ul/ol): source 2 / build 2
+  attributes (placeholder/aria-label/title): source 1 / build 1; icons: source 0 / build 0
+
+Findings: 3 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 3
+  🟡 MISSING BODY [#interior-content]: source body "Omya Sales Representative Locator Specialty Ingr"… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 MISSING BODY [#interior-content]: source body "Click a state to find your representative. Once "… not found in build. Source body copy not found in the build — confirm a rewrite vs a drop.
+  🟡 EXTRA ARIA-LABEL [#interior-content]: build <svg> aria-label="Omya Sales Representative Locator Specialty Ingr" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).

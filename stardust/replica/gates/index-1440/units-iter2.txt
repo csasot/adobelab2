@@ -1,0 +1,72 @@
+unit-geometry @ 1440px, tol 4px — https://omyapersonalcare.us/ vs http://localhost:8791/index-proposed.html
+unit 1 of process-step (required) #process-section .each-step=.process__step: origin 80,1357 427×281 vs served 80,1357 427×281 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "1" | 163,25 100×100 | 163,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "discovery" | 175,152 77×17 | 175,152 77×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "during our initial consultation, we " | 63,183 301×69 | 63,183 301×69 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of process-step (required) #process-section .each-step=.process__step: origin 507,1357 427×304 vs served 507,1357 427×304 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "2" | 163,25 100×100 | 163,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "strategy" | 181,152 64×17 | 181,152 64×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "next, we’ll help you identify soluti" | 63,183 301×91 | 63,183 301×91 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of process-step (required) #process-section .each-step=.process__step: origin 933,1357 427×281 vs served 933,1357 427×281 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "3" | 163,25 100×100 | 163,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "support" | 183,152 61×17 | 183,152 61×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "finally, our ongoing consultative su" | 63,183 301×69 | 63,183 301×69 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of feature-row (required) .alternating-rows-triangle=.feature-row: origin 15,1796 1410×535 vs served 15,1796 1410×535 → Δx 0 Δy 0 Δw 0 Δh 0; 6 elements: 6 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.main-img.img-responsive#1" | 620,63 610×410 | 620,63 610×410 | 0 | 0 | 0 | 0 | ✓ |
+| heading "about omya" | 187,117 397×43 | 187,117 397×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya is a dynamic, innovative, and c" | 187,175 397×69 | 187,175 397×69 | 0 | 0 | 0 | 0 | ✓ |
+| text "with decades of industry experience " | 187,254 397×114 | 187,254 397×114 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 183,378 153×40 | 183,378 153×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "meet our team" | 187,378 146×40 | 187,378 146×40 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of feature-row (required) .alternating-rows-triangle=.feature-row: origin 15,2351 1410×535 vs served 15,2351 1410×535 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.main-img.img-responsive#1" | 180,19 610×496 | 180,19 610×496 | 0 | 0 | 0 | 0 | ✓ |
+| heading "omya’s personal care portfolio" | 827,112 397×86 | 827,112 397×86 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya’s personal care portfolio showc" | 827,213 397×160 | 827,213 397×160 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 823,383 342×40 | 823,383 342×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "download omya’s personal care portfo" | 827,383 335×40 | 827,383 335×40 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of footer-menu-column (required) .footer-menu > li=.footer-menu > li: origin 423,4415 111×161 vs served 423,4415 111×161 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "our approach" | 0,0 111×38 | 0,0 111×38 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of footer-menu-column (required) .footer-menu > li=.footer-menu > li: origin 642,4415 116×161 vs served 642,4415 116×161 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "our products" | 0,0 116×38 | 0,0 116×38 | 0 | 0 | 0 | 0 | ✓ |
+| link "our formulations" | 0,46 116×15 | 0,46 116×15 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of footer-menu-column (required) .footer-menu > li=.footer-menu > li: origin 867,4415 118×161 vs served 867,4415 118×161 → Δx 0 Δy 0 Δw 0 Δh 0; 6 elements: 6 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "about" | 0,0 118×38 | 0,0 118×38 | 0 | 0 | 0 | 0 | ✓ |
+| link "our difference" | 0,46 118×15 | 0,46 118×15 | 0 | 0 | 0 | 0 | ✓ |
+| link "our team" | 0,69 118×15 | 0,69 118×15 | 0 | 0 | 0 | 0 | ✓ |
+| link "consumer goods" | 0,92 118×15 | 0,92 118×15 | 0 | 0 | 0 | 0 | ✓ |
+| link "global partners" | 0,115 118×15 | 0,115 118×15 | 0 | 0 | 0 | 0 | ✓ |
+| link "careers" | 0,138 118×15 | 0,138 118×15 | 0 | 0 | 0 | 0 | ✓ |
+unit 4 of footer-menu-column (required) .footer-menu > li=.footer-menu > li: origin 1093,4415 62×161 vs served 1093,4415 62×161 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "insights" | 0,0 62×38 | 0,0 62×38 | 0 | 0 | 0 | 0 | ✓ |
+| link "blog" | 0,46 62×15 | 0,46 62×15 | 0 | 0 | 0 | 0 | ✓ |
+| link "events" | 0,69 62×15 | 0,69 62×15 | 0 | 0 | 0 | 0 | ✓ |
+unit 5 of footer-menu-column (required) .footer-menu > li=.footer-menu > li: origin 1263,4415 82×161 vs served 1263,4415 82×161 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "contact" | 0,0 82×38 | 0,0 82×38 | 0 | 0 | 0 | 0 | ✓ |
+| link "rep locator" | 0,46 82×15 | 0,46 82×15 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of insights-post-tile (required) #insights-section .featured-post=.post-tile: origin 144,3913 427×270 vs served 144,3913 427×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "may 6, 2026" | 5,25 118×43 | 5,25 118×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "how 2025 reshaped oral health: fluor" | 20,181 387×69 | 20,181 387×69 | 0 | 0 | 0 | 0 | ✓ |
+Units: 11 compared; elements within 36, off 0, hidden 0, missing 0 → PASS
+json → stardust/replica/gates/index-1440/units-iter2.json

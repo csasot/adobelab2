@@ -1,0 +1,95 @@
+/* page-hero — canon.css · header-inner + page-hero (+ page-hero-compact), about.css · about-hero
+   (mobile-first). The site header (blocks/header) is an absolute overlay over this block: the
+   block owns the page photo + 50% scrim behind it, pads its top by the overlay height
+   (--header-h) and its bottom by the source's .site-header__top pad (30 / 45 / 60). */
+.page-hero {
+  position: relative;
+  z-index: 0;
+  display: flow-root;
+  padding: var(--header-h) 0 30px;
+  overflow: hidden;
+  color: #fff;
+}
+
+.page-hero .page-hero-media,
+.page-hero .page-hero-media picture,
+.page-hero .page-hero-scrim {
+  position: absolute;
+  inset: 0;
+}
+
+.page-hero .page-hero-media img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.page-hero .page-hero-scrim {
+  background: rgb(0 0 0 / 50%);
+}
+
+/* title band: bootstrap .container, 50/40 rhythm (tall: 10% / 12% of the header width) */
+.page-hero .page-hero-band {
+  position: relative;
+  z-index: 10;
+  display: flow-root;
+  padding: 50px 0 40px;
+  text-align: center;
+}
+
+.page-hero.tall .page-hero-band {
+  padding: 10% 0 12%;
+}
+
+.page-hero .page-hero-col {
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+}
+
+.page-hero .page-hero-title :is(h1, h2, h3) {
+  margin: 0 0 15px;
+  color: #fff;
+}
+
+.page-hero .page-hero-crumbs p {
+  margin: 15px 0 0;
+  color: #fff;
+}
+
+.page-hero .page-hero-crumbs a:any-link {
+  color: var(--c-sky);
+  text-decoration: none;
+}
+
+.page-hero .page-hero-crumbs a:hover {
+  color: var(--c-sky);
+  text-decoration: underline;
+}
+
+@media (width >= 768px) {
+  .page-hero {
+    padding-bottom: 45px;
+  }
+}
+
+@media (width >= 992px) {
+  .page-hero {
+    padding-bottom: 60px;
+  }
+
+  .page-hero .page-hero-col {
+    width: calc(100% * 10 / 12);
+    margin-left: calc(100% / 12);
+  }
+}
+
+@media (width >= 1200px) {
+  .page-hero .page-hero-col {
+    width: calc(100% * 8 / 12);
+    margin-left: calc(100% * 2 / 12);
+  }
+}

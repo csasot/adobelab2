@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://omyapersonalcare.us/contact/rep-locator/
+  shell     1310px  fixed     #interior-content > div.page-content.col-lg-12 > div.container.no-side-padding  (tier 2, holds 100% of the text)
+  content    256px  fixed     div.col-xs-12.padding-bottom-40 > div.hotspots-container.layout-left > div.hotspots-interaction > div.hotspots-placeholder  (tier 6, holds 100% of the text)
+  modules  2 sections: capped 1024 ×1 · full-bleed ×1
+  contentMaxWidth 256px (content) · shellMaxWidth 1310px · root #interior-content
+build  http://localhost:8791/contact-rep-locator-proposed.html
+  shell     1310px  fixed     #interior-content > section.page-section > div.wrap.page-section__wrap  (tier 2, holds 100% of the text)
+  content    256px  fixed     div.wrap.page-section__wrap > div.rep-locator > div.rep-map > div.rep-map__panel  (tier 5, holds 100% of the text)
+  modules  2 sections: capped 1024 ×1 · full-bleed ×1
+  contentMaxWidth 256px (content) · shellMaxWidth 1310px · root #interior-content
+rows
+  ✓ wrapper cap: live 256px = build 256px (±20)
+  ⚠ outer shell: live 1310px (#interior-content > div.page-content.col-lg-12 > div.container.no-side-padding) encloses the 256px wrapper cap — informational, no content bound of its own
+  ✓ module 1/2: 1024px = 1024px
+  ✓ module 2/2: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/contact-rep-locator-2560/cap-iter.json)

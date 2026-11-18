@@ -1,0 +1,47 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+ "at": "2026-11-17T21:20:43.300Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 2,
+  "offPage": 15,
+  "textNodes": 102,
+  "controls": 37,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": null,
+   "path": "div.default-content-wrapper > ol > li > a",
+   "text": "https://doi.org/10.1002/14651858.cd010856.pub3",
+   "cutMin": 47,
+   "cutMax": 341
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 1,
+   "textNodes": 103,
+   "controls": 33,
+   "total": 0
+  }
+ }
+}

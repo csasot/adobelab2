@@ -1,0 +1,51 @@
+{
+  "a": "stardust/replica/gates/all-360/blog-aak-partnership/origin.png",
+  "b": "stardust/replica/gates/all-360/blog-aak-partnership/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 2003,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 23348,
+  "pct": 3.24,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/blog-aak-partnership/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 1.04,
+  "textBoxes": 51,
+  "textPixels": 119964,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.4
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 11.6
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.9
+    },
+    {
+      "y0": 2000,
+      "y1": 2003,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/blog/aak-partnership"
+  }
+}

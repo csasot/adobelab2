@@ -1,0 +1,47 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling",
+ "at": "2026-11-17T21:24:05.212Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 1,
+  "offPage": 14,
+  "textNodes": 78,
+  "controls": 33,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": null,
+   "path": "div.article-body.section > div.default-content-wrapper > ol > li",
+   "text": "woolley, j., gibbons, t., patel, k., & sacco, r. (2020). the",
+   "cutMin": 11,
+   "cutMax": 11
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 0,
+   "textNodes": 79,
+   "controls": 29,
+   "total": 0
+  }
+ }
+}

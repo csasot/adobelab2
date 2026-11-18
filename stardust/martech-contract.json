@@ -1,0 +1,207 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-17T17:03:59.909Z",
+  "input": "stardust/.work/dynamics/b2/_dynamics.json",
+  "martech": "stardust/martech"
+ },
+ "productionHosts": [
+  "omyapersonalcare.us"
+ ],
+ "consent": {
+  "cmp": null,
+  "model": "owner-decision",
+  "categories": [],
+  "ruleSets": 0,
+  "consentMode": {
+   "pages": 0,
+   "of": 6,
+   "libraries": [
+    "tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js"
+   ]
+  }
+ },
+ "routes": [
+  {
+   "id": "google-tag-manager",
+   "vendor": "Google Tag Manager",
+   "src": "https://www.googletagmanager.com/gtm.js?id=GTM-NS9KZC3",
+   "boot": "gtm",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  }
+ ],
+ "otherTags": [
+  "analytics: Google Analytics / Ads",
+  "marketing: ad / retargeting pixel"
+ ],
+ "tagManagers": [
+  "Google Tag Manager"
+ ],
+ "dataLayers": [
+  "dataLayer"
+ ],
+ "tagNotes": {
+  "Google Tag Manager": {
+   "rules": [
+    {
+     "name": "All pages: UA pageview (UA-116841070-1, retired product), AdRoll smart pixel (adv VWETZF5UJ5DC5JRDYHX6GH / pix 4EAMVJEN3BGPZFWWFRLASI), Google Ads remarketing AW-658173166, conversion linker, click/form-submit/visibility listeners, jQuery ajaxComplete listener (custom HTML)",
+     "paths": [],
+     "selectors": [],
+     "events": [
+      "gtm.js"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[0] → tags[0,1,2,3,19-28]"
+    },
+    {
+     "name": "GA4 config G-QT12E7SKTC (send_page_view)",
+     "paths": [],
+     "selectors": [],
+     "events": [
+      "gtm.init"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[8] → tags[11]"
+    },
+    {
+     "name": "Phone click-to-call: UA Tel/Click + GA4 phone_ctc",
+     "paths": [],
+     "selectors": [
+      "a[href^=\"tel:\"]"
+     ],
+     "events": [
+      "gtm.click"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[1] predicates[1,2] → tags[4,17]"
+    },
+    {
+     "name": "Contact form submit: UA Contact Form/Submit + GA4 contact_form_submit",
+     "paths": [],
+     "selectors": [
+      "#contact-form"
+     ],
+     "events": [
+      "gtm.formSubmit"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[2] predicates[3,4,5] → tags[5,13]"
+    },
+    {
+     "name": "Lead form success (AJAX): UA Lead Form/Submit + GA4 lead_form_submit",
+     "paths": [],
+     "selectors": [],
+     "events": [
+      "ajaxComplete"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[3] predicates[6,7] (attributes.response contains \"success\") → tags[6,12]"
+    },
+    {
+     "name": "Email click: UA Email/Submit + GA4 email_submit",
+     "paths": [],
+     "selectors": [
+      "a[href^=\"mailto:\"]"
+     ],
+     "events": [
+      "gtm.click"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[4] predicates[2,8] → tags[7,15]"
+    },
+    {
+     "name": "Onboarding form submit: UA Onboard/Form + GA4 onboard_form",
+     "paths": [
+      "/customer-resources/onboarding/"
+     ],
+     "selectors": [
+      "#onboarding-form"
+     ],
+     "events": [
+      "gtm.formSubmit"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[5] predicates[4,9,10] → tags[8,16]"
+    },
+    {
+     "name": "Credit application submit: UA Credit Application/Submit + GA4 credit_app_form",
+     "paths": [
+      "/customer-resources/credit-application/"
+     ],
+     "selectors": [
+      "#credit-application"
+     ],
+     "events": [
+      "gtm.formSubmit"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[6] predicates[4,11,12] → tags[9,14]"
+    },
+    {
+     "name": "Download click (.png in URL): UA PDF/Downloads",
+     "paths": [],
+     "selectors": [
+      "a[href*=\".png\"]"
+     ],
+     "events": [
+      "gtm.click"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[7] predicates[2,13] → tags[10]"
+    },
+    {
+     "name": "Request-info success visible: GA4 request_info",
+     "paths": [
+      "/request-info"
+     ],
+     "selectors": [
+      ".form-message.margin-bottom-15.success"
+     ],
+     "events": [
+      "gtm.elementVisibility"
+     ],
+     "consentGroups": [],
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 rules[9] predicates[15,16,17] → tags[18,26]"
+    }
+   ],
+   "dataElements": [
+    {
+     "name": "GA settings (UA-116841070-1)",
+     "selectors": [],
+     "source": "constant",
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 macros[1]"
+    },
+    {
+     "name": "GA4 measurement id G-QT12E7SKTC",
+     "selectors": [],
+     "source": "constant",
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 macros[10]"
+    },
+    {
+     "name": "ajax response (attributes.response)",
+     "selectors": [],
+     "source": "dataLayer attributes.response (pushed by custom HTML ajaxComplete listener)",
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 macros[7], tags[28]"
+    },
+    {
+     "name": "Click URL / Form ID / Page Path",
+     "selectors": [],
+     "source": "GTM built-ins gtm.elementUrl, gtm.elementId, URL path",
+     "from": "martech/tags/www.googletagmanager.com-gtm-GTM-NS9KZC3.js resource v20 macros[3,4,9]"
+    }
+   ],
+   "notes": "Consent on the source is Didomi, not GTM: the page HTML wraps the GTM snippet in `<script type=\"didomi/javascript\" data-vendor=\"c:googleana-4TXnJigR\" data-purposes=\"measure_ad_performance,improve_products\">`, so GTM only executes after Didomi grants that vendor (read from https://omyapersonalcare.us/ server HTML, <head>). Didomi loads inline from sdk.privacy-center.org with public API key `140e89a8-992a-4e56-b3c6-7c311b7e0e6d`, notice `ACt2ytmx` (same HTML, `spcloader` snippet); footer link `javascript:Didomi.preferences.show()`. vendors.json has no `cmp` loader knowledge for Didomi, so `consent.cmp` stays null: the owner adds the Didomi loader (or extends vendors.json) and gates the GTM route on the Didomi vendor/purposes before enabling. No Google Consent Mode default inline (0/6 pages); the GTM library references ads_data_redaction only. Form rules depend on source ids (#contact-form, #onboarding-form, #credit-application), the jQuery ajaxComplete payload and `.form-message…success`: the rebuilt forms must push equivalent dataLayer events or the owner rewrites these triggers. UA tags (UA-116841070-1) are dead since UA sunset — owner may drop them. reCAPTCHA v2 is page-level (www.google.com/recaptcha), not a GTM tag."
+  }
+ },
+ "rewrite": {
+  "library": null,
+  "rules": [],
+  "dataElements": [],
+  "dataLayer": [],
+  "dataLayerPaths": []
+ },
+ "aemMartech": null,
+ "target": null
+}

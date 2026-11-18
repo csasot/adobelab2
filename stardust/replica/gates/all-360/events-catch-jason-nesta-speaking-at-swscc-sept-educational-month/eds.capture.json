@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://main--12a63657--aemcoder.aem.page/events/catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+  "width": 360,
+  "vh": 900,
+  "height": 1858,
+  "chunks": 3,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 5,
+    "late": 0
+  },
+  "at": "2026-11-17T19:43:00.317Z"
+}

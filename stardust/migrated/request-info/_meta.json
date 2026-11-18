@@ -1,0 +1,91 @@
+{
+  "slug": "request-info",
+  "type": "form",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "form",
+    "page-hero",
+    "intro",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "5215506d355e",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "contact",
+      "encoder": "stardust/.work/cluster-form/probes/formenc.py",
+      "note": "rendered from the /contact archetype model (cluster-form); fields authored as form-block cells"
+    }
+  ],
+  "metadata": {
+    "title": "Request Information | Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Request Information | Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:23:41Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "6e5b29f53c87",
+  "sourceProposedSha": "6c2063bc9c18",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-form/probes/formenc.py lifts every heading/paragraph/link/image of #interior-content, every form field placeholder/option/label, submit + disclaimer, the insights/contact bands and hero h1/crumbs from stardust/current/pages/request-info.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "request-info/index.html",
+  "outputPathDefault": null,
+  "sidecar": "request-info/_meta.json",
+  "driverVersion": "1"
+}

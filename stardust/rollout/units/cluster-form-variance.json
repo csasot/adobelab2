@@ -1,0 +1,941 @@
+{
+ "archetype": "https://omyapersonalcare.us/contact/",
+ "width": 1440,
+ "tolerance": 2,
+ "probes": {
+  "field": "#interior-content form .form-control",
+  "h2": "#interior-content .page-content h2",
+  "submit": "#interior-content form button[type=submit]",
+  "lede": "#interior-content .page-content p",
+  "disclaimer": "#interior-content .form-disclaimer"
+ },
+ "archetypeRaw": {
+  "sections": [],
+  "probes": {
+   "field": {
+    "sel": "#interior-content form .form-control",
+    "count": 6,
+    "first": {
+     "rect": {
+      "w": 407,
+      "h": 40
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgb(255, 255, 255)",
+     "color": "rgb(51, 51, 51)",
+     "padding": "6px 12px 6px 12px",
+     "font": "arial 16px/22.8571px 300",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 2,
+    "text": ""
+   },
+   "h2": {
+    "sel": "#interior-content .page-content h2",
+    "count": 1,
+    "first": {
+     "rect": {
+      "w": 843,
+      "h": 43
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "color": "rgb(0, 122, 193)",
+     "padding": "0px 0px 0px 0px",
+     "font": "arial 36px/43.2px 700",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "Get in Touch"
+   },
+   "submit": {
+    "sel": "#interior-content form button[type=submit]",
+    "count": 1,
+    "first": {
+     "rect": {
+      "w": 158,
+      "h": 45
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgb(0, 122, 193)",
+     "color": "rgb(255, 255, 255)",
+     "padding": "10px 18px 10px 18px",
+     "font": "arial 16px/17.6px 300",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "Submit"
+   },
+   "lede": {
+    "sel": "#interior-content .page-content p",
+    "count": 8,
+    "first": {
+     "rect": {
+      "w": 843,
+      "h": 23
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "color": "rgb(34, 31, 32)",
+     "padding": "0px 0px 0px 0px",
+     "font": "arial 16px/22.8571px 300",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 3,
+    "text": "Have a question about product development? Looking for a spe"
+   },
+   "disclaimer": {
+    "sel": "#interior-content .form-disclaimer",
+    "count": 1,
+    "first": {
+     "rect": {
+      "w": 843,
+      "h": 45
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "color": "rgb(34, 31, 32)",
+     "padding": "15px 30px 0px 30px",
+     "font": "arial 10px/15px 300",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "Omya will use the information you provide to be in touch wit"
+   }
+  }
+ },
+ "siblings": [
+  {
+   "url": "https://omyapersonalcare.us/request-info/",
+   "findings": [
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 2 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 2 distinct style families among matches (a second visual family = a variant class)"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 6,
+      "first": {
+       "rect": {
+        "w": 407,
+        "h": 40
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(255, 255, 255)",
+       "color": "rgb(51, 51, 51)",
+       "padding": "6px 12px 6px 12px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": ""
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 43
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(0, 122, 193)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 36px/43.2px 700",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "We\u2019re here to guide you!"
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 158,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(0, 122, 193)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "10px 18px 10px 18px",
+       "font": "arial 16px/17.6px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Submit"
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 2,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 23
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": "Fill our the form below and one of our experts will reach ou"
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "15px 30px 0px 30px",
+       "font": "arial 10px/15px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Omya will use the information you provide to be in touch wit"
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/formulary-request/",
+   "findings": [
+    {
+     "kind": "COUNT",
+     "probe": "field",
+     "msg": "6 \u2192 5 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "field",
+     "msg": "2 \u2192 1 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 4 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 2 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "lede",
+     "msg": "rect{h 23 \u2192 69}"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 5,
+      "first": {
+       "rect": {
+        "w": 407,
+        "h": 40
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(255, 255, 255)",
+       "color": "rgb(51, 51, 51)",
+       "padding": "6px 12px 6px 12px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 43
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(0, 122, 193)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 36px/43.2px 700",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Discover the Perfect Formulation"
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 158,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(0, 122, 193)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "10px 18px 10px 18px",
+       "font": "arial 16px/17.6px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Submit"
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 4,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 69
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": "From natural based foundation to paraben-free suncare, formu"
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "15px 30px 0px 30px",
+       "font": "arial 10px/15px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Omya will use the information you provide to be in touch wit"
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/careers/",
+   "findings": [
+    {
+     "kind": "COUNT",
+     "probe": "field",
+     "msg": "6 \u2192 5 matches"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "h2",
+     "msg": "1 \u2192 2 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "h2",
+     "msg": "1 \u2192 2 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "h2",
+     "msg": "rect{w 843 \u2192 1280}; color rgb(0, 122, 193) \u2192 rgb(255, 255, 255)"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 5 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 4 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "lede",
+     "msg": "rect{w 843 \u2192 1280}; color rgb(34, 31, 32) \u2192 rgb(255, 255, 255)"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 5,
+      "first": {
+       "rect": {
+        "w": 407,
+        "h": 40
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(255, 255, 255)",
+       "color": "rgb(51, 51, 51)",
+       "padding": "6px 12px 6px 12px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": ""
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 2,
+      "first": {
+       "rect": {
+        "w": 1280,
+        "h": 43
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 36px/43.2px 700",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": "Careers at Omya"
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 158,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(0, 122, 193)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "10px 18px 10px 18px",
+       "font": "arial 16px/17.6px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Submit"
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 5,
+      "first": {
+       "rect": {
+        "w": 1280,
+        "h": 23
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 4,
+      "text": "Join our diverse team of talented people and find your next "
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "15px 30px 0px 30px",
+       "font": "arial 10px/15px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Omya will use the information you provide to be in touch wit"
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/customer-resources/onboarding/",
+   "findings": [
+    {
+     "kind": "COUNT",
+     "probe": "field",
+     "msg": "6 \u2192 14 matches"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "field",
+     "msg": "rect{w 407 \u2192 843}"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "submit",
+     "msg": "rect{w 158 \u2192 277}"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 3 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 2 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "lede",
+     "msg": "rect{h 23 \u2192 46}"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 14,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 40
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(255, 255, 255)",
+       "color": "rgb(51, 51, 51)",
+       "padding": "6px 12px 6px 12px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": ""
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 43
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(0, 122, 193)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 36px/43.2px 700",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Thank you for your interest in Omya products."
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 277,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgb(0, 122, 193)",
+       "color": "rgb(255, 255, 255)",
+       "padding": "10px 18px 10px 18px",
+       "font": "arial 16px/17.6px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Submit Onboarding Questionaire"
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 3,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 46
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 2,
+      "text": "To better serve you, please complete the short onboarding qu"
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 45
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "15px 30px 0px 30px",
+       "font": "arial 10px/15px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "Omya will use the information you provide to be in touch wit"
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/customer-resources/credit-application/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "field",
+     "msg": "\"#interior-content form .form-control\" matches 6 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "h2",
+     "msg": "\"#interior-content .page-content h2\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "submit",
+     "msg": "\"#interior-content form button[type=submit]\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 1 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 1 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "lede",
+     "msg": "rect{h 23 \u2192 46}"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "disclaimer",
+     "msg": "\"#interior-content .form-disclaimer\" matches 1 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 0
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 0
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 0
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 46
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 31, 32)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "The undersigned is applying for credit with Omya Specialty M"
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 0
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/get-a-sample/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "field",
+     "msg": "\"#interior-content form .form-control\" matches 6 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "h2",
+     "msg": "\"#interior-content .page-content h2\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "submit",
+     "msg": "\"#interior-content form button[type=submit]\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "lede",
+     "msg": "\"#interior-content .page-content p\" matches 8 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "disclaimer",
+     "msg": "\"#interior-content .form-disclaimer\" matches 1 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 0
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 0
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 0
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 0
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 0
+     }
+    }
+   }
+  },
+  {
+   "url": "https://omyapersonalcare.us/blog/asp-products/pay-your-invoice/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "field",
+     "msg": "\"#interior-content form .form-control\" matches 6 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "h2",
+     "msg": "\"#interior-content .page-content h2\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "submit",
+     "msg": "\"#interior-content form button[type=submit]\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "COUNT",
+     "probe": "lede",
+     "msg": "8 \u2192 1 matches"
+    },
+    {
+     "kind": "CLUSTERS",
+     "probe": "lede",
+     "msg": "3 \u2192 1 distinct style families among matches (a second visual family = a variant class)"
+    },
+    {
+     "kind": "PROBE",
+     "probe": "lede",
+     "msg": "color rgb(34, 31, 32) \u2192 rgb(0, 122, 193)"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "disclaimer",
+     "msg": "\"#interior-content .form-disclaimer\" matches 1 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "field": {
+      "sel": "#interior-content form .form-control",
+      "count": 0
+     },
+     "h2": {
+      "sel": "#interior-content .page-content h2",
+      "count": 0
+     },
+     "submit": {
+      "sel": "#interior-content form button[type=submit]",
+      "count": 0
+     },
+     "lede": {
+      "sel": "#interior-content .page-content p",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 843,
+        "h": 23
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(0, 122, 193)",
+       "padding": "0px 0px 0px 0px",
+       "font": "arial 16px/22.8571px 300",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": "November 7, 2019"
+     },
+     "disclaimer": {
+      "sel": "#interior-content .form-disclaimer",
+      "count": 0
+     }
+    }
+   }
+  }
+ ],
+ "summary": {
+  "siblings": 7,
+  "varying": 7,
+  "probesVarying": [
+   "lede",
+   "field",
+   "h2",
+   "submit",
+   "disclaimer"
+  ]
+ }
+}

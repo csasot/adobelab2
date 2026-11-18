@@ -1,0 +1,26 @@
+{
+  "media/contact/OMYA-Lipoid-Kosmetik.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-form/media/OMYA-Lipoid-Kosmetik.jpg",
+    "size": 223887,
+    "sha256": "5fe0815c1fdbee4756c717068267a2ea1bc8639bc669bf46e8d793e4ce8f6565",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/OMYA-Lipoid-Kosmetik.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:14:02.140Z"
+  },
+  "media/contact/clouds.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/archetype-form/media/clouds.jpg",
+    "size": 53170,
+    "sha256": "d43629077333e4eb8905559f997092161f3956385f16c8a63dd75681fd4d164b",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/12a63657/media/contact/clouds.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-17T18:14:02.920Z"
+  }
+}

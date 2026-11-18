@@ -1,0 +1,23 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://omyapersonalcare.us/insights/blog/
+  no cap origin — content runs 2560px wide at 2560 (fluid)
+  modules  11 sections: none capped · full-bleed ×11
+  contentMaxWidth fluid · shellMaxWidth fluid · root #insights-section
+build  http://localhost:8791/insights-blog-proposed.html
+  no cap origin — content runs 2560px wide at 2560 (fluid)
+  modules  11 sections: none capped · full-bleed ×11
+  contentMaxWidth fluid · shellMaxWidth fluid · root #insights-section
+rows
+  ✓ content cap: fluid on both sides — no wrapper, no shared module cap
+  ✓ module 1/11: full-bleed on both
+  ✓ module 2/11: full-bleed on both
+  ✓ module 3/11: full-bleed on both
+  ✓ module 4/11: full-bleed on both
+  ✓ module 5/11: full-bleed on both
+  ✓ module 6/11: full-bleed on both
+  ✓ module 7/11: full-bleed on both
+  ✓ module 8/11: full-bleed on both
+  ✓ module 9/11: full-bleed on both
+  ✓ module 10/11: full-bleed on both
+  ✓ module 11/11: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 12 rows failed (evidence stardust/replica/gates/insights-blog-2560/cap-iter.json)

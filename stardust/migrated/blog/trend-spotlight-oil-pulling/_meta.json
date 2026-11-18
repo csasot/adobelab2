@@ -1,0 +1,114 @@
+{
+  "slug": "blog-trend-spotlight-oil-pulling",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "figure",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "8d7540513b65",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Trend Spotlight: Oil Pulling - Omya Personal Care",
+    "description": "Curious about oil pulling? You’re not the only one. Currently sitting at just over 40k posts, #oilpulling has been trending on TikTok over the past year. What is oil pulling? Oil pulling is an ancient Ayurvedic procedure which has been practiced in southern India for centuries. The classic procedure is to swish with a tablespoon of oil, pulling it between your teeth, first thing in […]",
+    "canonical": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Trend Spotlight: Oil Pulling - Omya Personal Care",
+    "description": "Curious about oil pulling? You’re not the only one. Currently sitting at just over 40k posts, #oilpulling has been trending on TikTok over the past year. What is oil pulling? Oil pulling is an ancient Ayurvedic procedure which has been practiced in southern India for centuries. The classic procedure is to swish with a tablespoon of oil, pulling it between your teeth, first thing in […]",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "c723d1f9f811",
+  "sourceProposedSha": "4d5fa7b62a2e",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "figure-start page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-trend-spotlight-oil-pulling.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/trend-spotlight-oil-pulling/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/trend-spotlight-oil-pulling/_meta.json",
+  "driverVersion": "1"
+}

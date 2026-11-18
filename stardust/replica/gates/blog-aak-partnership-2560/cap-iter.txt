@@ -1,0 +1,18 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://omyapersonalcare.us/blog/aak-partnership/
+  shell     1310px  fixed     #interior-content  (tier 0, holds 100% of the text)
+  content    873px  fixed     #interior-content > div.page-content.col-lg-12 > div.container.no-side-padding > div.col-xs-12.col-sm-12  (tier 3, holds 100% of the text)
+  modules  4 sections: none capped · full-bleed ×4
+  contentMaxWidth 873px (content) · shellMaxWidth 1310px · root #interior-content
+build  http://localhost:8791/blog-aak-partnership-proposed.html
+  shell     1310px  fixed     #interior-content  (tier 0, holds 100% of the text)
+  content    873px  fixed     #interior-content > div.article-page > div.wrap.article-page__wrap > div.article-page__col  (tier 3, holds 100% of the text)
+  modules  2 sections: none capped · full-bleed ×2
+  contentMaxWidth 873px (content) · shellMaxWidth 1310px · root #interior-content
+rows
+  ✓ wrapper cap: live 873px = build 873px (±20)
+  ⚠ outer shell: live 1310px (#interior-content) encloses the 873px wrapper cap — informational, no content bound of its own
+  ⚠ sections: live 4 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ✓ module 1/4: full-bleed on both
+  ✓ module 2/4: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/blog-aak-partnership-2560/cap-iter.json)

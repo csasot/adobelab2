@@ -1,0 +1,5200 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-17T21:24:05.212Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/",
+  "at": "2026-11-17T21:23:42.952Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7306,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.wide-container.no-side-padding > div#logo-header > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-header > a > img.img-responsive",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "Omya-Logo-White"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul#button-menu > li#menu-item-1148 > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > h1",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 86,
+    "level": 1,
+    "text": "trend spotlight: oil pulling"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > p.breadcrumbs",
+    "x": 15,
+    "y": 374,
+    "w": 330,
+    "h": 46,
+    "text": "/ / /"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.home",
+    "x": 27,
+    "y": 376,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post.post-page",
+    "x": 83,
+    "y": 376,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "p.breadcrumbs > span > a.post-root.post",
+    "x": 152,
+    "y": 376,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "a.call-mobile.visible-xs",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "a#stickyquote",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p.orange-text > strong",
+    "x": 48,
+    "y": 575,
+    "w": 119,
+    "h": 17,
+    "text": "October 7, 2024"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 606,
+    "w": 300,
+    "h": 91,
+    "text": "Curious about oil pulling? You’re not the only one. Currently sitting at just ov"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > p > img.size-full.wp-image-40877",
+    "x": 30,
+    "y": 712,
+    "w": 300,
+    "h": 181,
+    "text": "omya graph - oil pulling",
+    "file": "Screenshot-2024-10-07-at-10.43.12%E2%80%"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h2",
+    "x": 30,
+    "y": 914,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "what is oil pulling?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 962,
+    "w": 300,
+    "h": 251,
+    "text": "Oil pulling is an ancient Ayurvedic procedure which has been practiced in southe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 1223,
+    "w": 300,
+    "h": 320,
+    "text": "In modern times, there is a lot more variability depending on where you get your"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h2",
+    "x": 30,
+    "y": 1563,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "is oil pulling safe?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 1612,
+    "w": 300,
+    "h": 297,
+    "text": "Simply stated, yes, pulling a food grade oil between your teeth for up to 20 min"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h2",
+    "x": 30,
+    "y": 1929,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "what are the benefits of oil pulling?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 2011,
+    "w": 300,
+    "h": 228,
+    "text": "Oil pulling has been practiced for centuries and is believed to both detoxify th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 2249,
+    "w": 300,
+    "h": 183,
+    "text": "The truth may be a little more nuanced. Oil pulling may not be an effective alte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ul > li",
+    "x": 51,
+    "y": 2442,
+    "w": 279,
+    "h": 215,
+    "text": "Kaliamoorthy et al investigated the impact of oil pulling with coconut oil or se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.entry-summary > ul > li",
+    "x": 51,
+    "y": 2657,
+    "w": 279,
+    "h": 352,
+    "text": "Asokan et al investigated the impact of oil pulling on Streptococcus mutans leve"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 3013,
+    "w": 300,
+    "h": 251,
+    "text": "These open access peer-reviewed journal articles are just two of many scientific"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 3275,
+    "w": 300,
+    "h": 251,
+    "text": "The proposed mechanism of action is reported to be (1) that oil pulling generate"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h2",
+    "x": 30,
+    "y": 3546,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "healthy oral microbiome"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 3628,
+    "w": 300,
+    "h": 457,
+    "text": "Antiseptic mouthwashes are under fire. Earlier this year, Health & Wellness podc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h2",
+    "x": 30,
+    "y": 4105,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > p",
+    "x": 30,
+    "y": 4154,
+    "w": 300,
+    "h": 297,
+    "text": "Daily oil pulling before morning toothbrushing may be an alternative to using an"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article#post-40871 > div.entry-summary > h3",
+    "x": 30,
+    "y": 4466,
+    "w": 300,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 4511,
+    "w": 253,
+    "h": 40,
+    "text": "Ballal, V. Oil therapy. Br Dent J 207, 193 (2009)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 4557,
+    "w": 272,
+    "h": 17,
+    "text": "https://doi.org/10.1038/sj.bdj.2009.772",
+    "href": "/10.1038/sj.bdj.2009.772"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 4589,
+    "w": 272,
+    "h": 131,
+    "text": "Radu CM, Radu CC, Bochiș SA, et al. Revisiting the Therapeutic Effects of Essent"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 4735,
+    "w": 266,
+    "h": 40,
+    "text": "ADA (n.d.). Oil Pulling. MouthHealthy. Retrieved September 23, 2024, from"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 4781,
+    "w": 234,
+    "h": 40,
+    "text": "https://www.mouthhealthy.org/all-topics-a-z/oil-pulling",
+    "href": "/all-topics-a-z/oil-pulling"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 4835,
+    "w": 278,
+    "h": 177,
+    "text": "Kaliamoorthy S, Pazhani A, Nagarajan M, Meyyappan A, Rayar S, Mathivanan S. Comp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 5027,
+    "w": 274,
+    "h": 223,
+    "text": "Asokan, S., Rathan, J., Muthu, M. S., Rathna, P. V., Emmadi, P., Raghuraman, & C"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5256,
+    "w": 205,
+    "h": 40,
+    "text": "https://doi.org/10.4103/0970-4388.40315",
+    "href": "/10.4103/0970-4388.40315"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 5310,
+    "w": 264,
+    "h": 108,
+    "text": "Shanbhag V. K. (2016). Oil pulling for maintaining oral hygiene – A review. Jour"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5424,
+    "w": 303,
+    "h": 17,
+    "text": "https://doi.org/10.1016/j.jtcme.2016.05.004",
+    "href": "/10.1016/j.jtcme.2016.05.004"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 5456,
+    "w": 325,
+    "h": 154,
+    "text": "Woolley, J., Gibbons, T., Patel, K., & Sacco, R. (2020). The effect of oil pulli"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 5625,
+    "w": 266,
+    "h": 86,
+    "text": "[Andrew Huberman]. (2024, February 12). How to Improve Oral Health & Its Critica"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5717,
+    "w": 233,
+    "h": 40,
+    "text": "https://www.youtube.com/watch?v=zvcayyuwwsw",
+    "href": "/watch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > span",
+    "x": 51,
+    "y": 5771,
+    "w": 270,
+    "h": 108,
+    "text": "Peng, X., Cheng, L., You, Y., Tang, C., Ren, B., Li, Y., Xu, X., & Zhou, X. (202"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5885,
+    "w": 254,
+    "h": 40,
+    "text": "https://doi.org/10.1038/s41368-022-00163-7",
+    "href": "/10.1038/s41368-022-00163-7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > small > em",
+    "x": 30,
+    "y": 5981,
+    "w": 298,
+    "h": 248,
+    "text": "This article is provided for educational and informational purposes only and is "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#footer-form-section > div.col-xs-12.col-md-10 > h2.text-left",
+    "x": 30,
+    "y": 6381,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p.button.btn-black > a",
+    "x": 127,
+    "y": 6818,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/trend-spotlight-oil-pulling/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "fieldset > div > p.form-disclaimer.text-left",
+    "x": 30,
+    "y": 6868,
+    "w": 300,
+    "h": 59,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#logo-footer > a",
+    "x": 15,
+    "y": 7017,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#logo-footer > a > img.pull-left.img-responsive",
+    "x": 135,
+    "y": 7017,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-lg-3.col-md-12 > div#footer-social > a",
+    "x": 123,
+    "y": 7095,
+    "w": 125,
+    "h": 59,
+    "text": "",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div#footer-social > a > img",
+    "x": 123,
+    "y": 7114,
+    "w": 125,
+    "h": 40,
+    "text": "",
+    "file": "linkedin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.container.no-side-padding > div.col-xs-12 > p.footer-copy",
+    "x": 15,
+    "y": 7204,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 66,
+    "y": 7205,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 159,
+    "y": 7205,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 234,
+    "y": 7205,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 259,
+    "y": 7223,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 92,
+    "y": 7240,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.col-xs-12 > p.footer-copy > a",
+    "x": 177,
+    "y": 7240,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "Didomi.preferences.show()"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 0,
+    "textNodes": 79,
+    "controls": 29,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "div.entry-summary > ol > li > span",
+     "text": "woolley, j., gibbons, t., patel, k., & sacco, r. (2020). the",
+     "cutMin": 16,
+     "cutMax": 16
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/blog/trend-spotlight-oil-pulling",
+  "at": "2026-11-17T21:24:05.083Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7311,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-wide.site-header-row > div.site-header-logo > a",
+    "x": 18,
+    "y": 72,
+    "w": 324,
+    "h": 58,
+    "text": "omya logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 72,
+    "w": 90,
+    "h": 58,
+    "text": "omya logo",
+    "file": "media_1268c27ceecea28ae0ac728493949e0d65"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.cta-menu > li.cta-menu-item > a",
+    "x": 77,
+    "y": 151,
+    "w": 205,
+    "h": 36,
+    "text": "customer resources",
+    "href": "/customer-resources"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-media > picture > img",
+    "x": 0,
+    "y": 42,
+    "w": 360,
+    "h": 451,
+    "text": "",
+    "file": "media_18eec0b7bcc7b77cef0201c88574221906"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-title > h1#trend-spotlight-oil-pulling",
+    "x": 15,
+    "y": 273,
+    "w": 330,
+    "h": 86,
+    "level": 1,
+    "text": "trend spotlight: oil pulling"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-col > div.page-hero-crumbs > p",
+    "x": 15,
+    "y": 374,
+    "w": 330,
+    "h": 46,
+    "text": "/ / / Trend Spotlight: Oil Pulling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 27,
+    "y": 376,
+    "w": 43,
+    "h": 17,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 83,
+    "y": 376,
+    "w": 55,
+    "h": 17,
+    "text": "insights",
+    "href": "/insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-hero-crumbs > p > a",
+    "x": 152,
+    "y": 376,
+    "w": 32,
+    "h": 17,
+    "text": "blog",
+    "href": "/insights/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article.block > p.article-date > strong",
+    "x": 48,
+    "y": 575,
+    "w": 119,
+    "h": 17,
+    "text": "October 7, 2024"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 606,
+    "w": 300,
+    "h": 91,
+    "text": "Curious about oil pulling? You’re not the only one. Currently sitting at just ov"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.figure-media-cell > picture.figure-media > img",
+    "x": 30,
+    "y": 712,
+    "w": 300,
+    "h": 181,
+    "text": "omya graph - oil pulling",
+    "file": "media_1c173f24401b256a035761a95a31cdd373"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#what-is-oil-pulling",
+    "x": 30,
+    "y": 914,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "what is oil pulling?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 962,
+    "w": 300,
+    "h": 251,
+    "text": "Oil pulling is an ancient Ayurvedic procedure which has been practiced in southe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1223,
+    "w": 300,
+    "h": 320,
+    "text": "In modern times, there is a lot more variability depending on where you get your"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#is-oil-pulling-safe",
+    "x": 30,
+    "y": 1563,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "is oil pulling safe?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 1612,
+    "w": 300,
+    "h": 297,
+    "text": "Simply stated, yes, pulling a food grade oil between your teeth for up to 20 min"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#what-are-the-benefits-of-oil-pulling",
+    "x": 30,
+    "y": 1929,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "what are the benefits of oil pulling?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 2011,
+    "w": 300,
+    "h": 228,
+    "text": "Oil pulling has been practiced for centuries and is believed to both detoxify th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 2249,
+    "w": 300,
+    "h": 183,
+    "text": "The truth may be a little more nuanced. Oil pulling may not be an effective alte"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2442,
+    "w": 279,
+    "h": 215,
+    "text": "Kaliamoorthy et al investigated the impact of oil pulling with coconut oil or se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2657,
+    "w": 279,
+    "h": 352,
+    "text": "Asokan et al investigated the impact of oil pulling on Streptococcus mutans leve"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3018,
+    "w": 300,
+    "h": 251,
+    "text": "These open access peer-reviewed journal articles are just two of many scientific"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3280,
+    "w": 300,
+    "h": 251,
+    "text": "The proposed mechanism of action is reported to be (1) that oil pulling generate"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#healthy-oral-microbiome",
+    "x": 30,
+    "y": 3551,
+    "w": 300,
+    "h": 67,
+    "level": 2,
+    "text": "healthy oral microbiome"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 3633,
+    "w": 300,
+    "h": 457,
+    "text": "Antiseptic mouthwashes are under fire. Earlier this year, Health & Wellness podc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h2#conclusion",
+    "x": 30,
+    "y": 4110,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 30,
+    "y": 4159,
+    "w": 300,
+    "h": 297,
+    "text": "Daily oil pulling before morning toothbrushing may be an alternative to using an"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#references",
+    "x": 30,
+    "y": 4471,
+    "w": 300,
+    "h": 29,
+    "level": 3,
+    "text": "references"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 4514,
+    "w": 279,
+    "h": 78,
+    "text": "Ballal, V. Oil therapy. Br Dent J 207, 193 (2009)."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 4562,
+    "w": 272,
+    "h": 17,
+    "text": "https://doi.org/10.1038/sj.bdj.2009.772",
+    "href": "/10.1038/sj.bdj.2009.772"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 4592,
+    "w": 279,
+    "h": 146,
+    "text": "Radu CM, Radu CC, Bochiș SA, et al. Revisiting the Therapeutic Effects of Essent"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 4738,
+    "w": 279,
+    "h": 100,
+    "text": "ADA (n.d.). Oil Pulling. MouthHealthy. Retrieved September 23, 2024, from"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 4786,
+    "w": 234,
+    "h": 40,
+    "text": "https://www.mouthhealthy.org/all-topics-a-z/oil-pulling",
+    "href": "/all-topics-a-z/oil-pulling"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 4838,
+    "w": 279,
+    "h": 192,
+    "text": "Kaliamoorthy S, Pazhani A, Nagarajan M, Meyyappan A, Rayar S, Mathivanan S. Comp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5030,
+    "w": 279,
+    "h": 283,
+    "text": "Asokan, S., Rathan, J., Muthu, M. S., Rathna, P. V., Emmadi, P., Raghuraman, & C"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5261,
+    "w": 205,
+    "h": 40,
+    "text": "https://doi.org/10.4103/0970-4388.40315",
+    "href": "/10.4103/0970-4388.40315"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5313,
+    "w": 279,
+    "h": 146,
+    "text": "Shanbhag V. K. (2016). Oil pulling for maintaining oral hygiene – A review. Jour"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5430,
+    "w": 303,
+    "h": 17,
+    "text": "https://doi.org/10.1016/j.jtcme.2016.05.004",
+    "href": "/10.1016/j.jtcme.2016.05.004"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5459,
+    "w": 279,
+    "h": 169,
+    "text": "Woolley, J., Gibbons, T., Patel, K., & Sacco, R. (2020). The effect of oil pulli"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5628,
+    "w": 279,
+    "h": 146,
+    "text": "[Andrew Huberman]. (2024, February 12). How to Improve Oral Health & Its Critica"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5722,
+    "w": 233,
+    "h": 40,
+    "text": "https://www.youtube.com/watch?v=zvcayyuwwsw",
+    "href": "/watch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 51,
+    "y": 5774,
+    "w": 279,
+    "h": 169,
+    "text": "Peng, X., Cheng, L., You, Y., Tang, C., Ren, B., Li, Y., Xu, X., & Zhou, X. (202"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 51,
+    "y": 5891,
+    "w": 254,
+    "h": 40,
+    "text": "https://doi.org/10.1038/s41368-022-00163-7",
+    "href": "/10.1038/s41368-022-00163-7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 30,
+    "y": 5986,
+    "w": 298,
+    "h": 248,
+    "text": "This article is provided for educational and informational purposes only and is "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.band-inner > div.band-title > h2#contact-omya",
+    "x": 30,
+    "y": 6387,
+    "w": 300,
+    "h": 34,
+    "level": 2,
+    "text": "contact omya"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.contact-form-submit > p.button-wrapper > a.button.primary",
+    "x": 127,
+    "y": 6823,
+    "w": 115,
+    "h": 40,
+    "text": "contact us",
+    "href": "/blog/trend-spotlight-oil-pulling"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form#contact-footer > div.contact-form-disclaimer > p",
+    "x": 30,
+    "y": 6888,
+    "w": 300,
+    "h": 44,
+    "text": "Omya will use the information you provide to be in touch with you and provide up"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-logo > a",
+    "x": 15,
+    "y": 7022,
+    "w": 330,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 135,
+    "y": 7022,
+    "w": 90,
+    "h": 58,
+    "text": "omya - innovation comes naturally",
+    "file": "media_15a12b42170e2ea166b75d93c5b698e838"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-brand > div.site-footer-social > a",
+    "x": 123,
+    "y": 7101,
+    "w": 125,
+    "h": 59,
+    "text": "linkedin",
+    "href": "/showcase/omya-consumer-goods/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 123,
+    "y": 7120,
+    "w": 125,
+    "h": 40,
+    "text": "linkedin",
+    "file": "media_1024222ec809cd9f2e190490785be40b5b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.wrap.site-footer-wrap > div.site-footer-legal > p",
+    "x": 15,
+    "y": 7210,
+    "w": 330,
+    "h": 51,
+    "text": "| | Copyright Omya 2026. All Rights Reserved. | |"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 66,
+    "y": 7211,
+    "w": 83,
+    "h": 14,
+    "text": "data protection",
+    "href": "/Documents/Omya%20Data%20Protection%20Notice.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 159,
+    "y": 7211,
+    "w": 66,
+    "h": 14,
+    "text": "sales terms",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 234,
+    "y": 7211,
+    "w": 59,
+    "h": 14,
+    "text": "impressum",
+    "href": "/impressum"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 259,
+    "y": 7228,
+    "w": 71,
+    "h": 14,
+    "text": "terms of use",
+    "href": "/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 92,
+    "y": 7245,
+    "w": 75,
+    "h": 14,
+    "text": "privacy policy",
+    "href": "/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-legal > p > a",
+    "x": 177,
+    "y": 7245,
+    "w": 91,
+    "h": 14,
+    "text": "consent choices",
+    "href": "/blog/trend-spotlight-oil-pulling"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.call-mobile",
+    "x": 215,
+    "y": 0,
+    "w": 145,
+    "h": 42,
+    "text": "request info",
+    "href": "/request-info"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "a.fab-rep",
+    "x": 260,
+    "y": 920,
+    "w": 80,
+    "h": 80,
+    "text": "find a rep",
+    "href": "/contact/rep-locator"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "text": "menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu > div.mobile-menu-bar > button.mobile-menu-toggle",
+    "x": 16,
+    "y": 7,
+    "w": 36,
+    "h": 29,
+    "label": "menu",
+    "value": "menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.mobile-menu-bar > div.mobile-menu-title > a",
+    "x": 52,
+    "y": 2,
+    "w": 59,
+    "h": 35,
+    "text": "menu",
+    "href": "/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 14,
+    "textNodes": 78,
+    "controls": 33,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": null,
+     "path": "div.article-body.section > div.default-content-wrapper > ol > li",
+     "text": "woolley, j., gibbons, t., patel, k., & sacco, r. (2020). the",
+     "cutMin": 11,
+     "cutMax": 11
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 11,
+     "path": "div.article-body.section > div.default-content-wrapper > ol > li",
+     "text": "woolley, j., gibbons, t., patel, k., & sacco, r. (2020). the",
+     "clipper": null,
+     "rect": {
+      "l": 51,
+      "t": 5461,
+      "r": 306,
+      "b": 5478,
+      "w": 255,
+      "h": 17
+     },
+     "clip": null,
+     "lines": 7
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  },
+  {
+   "index": 1,
+   "heading": "what is oil pulling?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "is oil pulling safe?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "what are the benefits of oil pulling?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "healthy oral microbiome",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "references",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 0,
+    "text": 10,
+    "image": 0
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 10,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "contact omya",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h1 \"trend spotlight: oil pulling\" (y 273) has no origin heading",
+   "text": "trend spotlight: oil pulling"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"home\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "home"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"insights\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "insights"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"blog\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "blog"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"request info\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 1,
+   "text": "request info"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"menu\" served in band \"(top)\", no origin link or button",
+   "band": 0,
+   "n": 2,
+   "text": "menu"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 6,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 6,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 274,
+    "w": 276,
+    "h": 41
+   },
+   {
+    "x": 91,
+    "y": 317,
+    "w": 178,
+    "h": 41
+   },
+   {
+    "x": 27,
+    "y": 376,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 70,
+    "y": 376,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 83,
+    "y": 376,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 138,
+    "y": 376,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 152,
+    "y": 376,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 184,
+    "y": 376,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 197,
+    "y": 376,
+    "w": 136,
+    "h": 17
+   },
+   {
+    "x": 156,
+    "y": 399,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 575,
+    "w": 119,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 608,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 631,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 654,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 677,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 915,
+    "w": 257,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 964,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 987,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1010,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1033,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1055,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1078,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1101,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1124,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1147,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1170,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1193,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 269,
+    "y": 1192,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1225,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1248,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1271,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1294,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1317,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1340,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1362,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1385,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1408,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1431,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1454,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1477,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1500,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1522,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1564,
+    "w": 244,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1614,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1637,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1659,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1682,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1705,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1728,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1751,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1774,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1797,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 234,
+    "y": 1796,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 246,
+    "y": 1797,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1819,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1842,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1865,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1888,
+    "w": 152,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1930,
+    "w": 283,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1963,
+    "w": 184,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2013,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2036,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2059,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2081,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2104,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2127,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2150,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2173,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2196,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2219,
+    "w": 161,
+    "h": 17
+   },
+   {
+    "x": 191,
+    "y": 2218,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2251,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2274,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2297,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2320,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2343,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2366,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2388,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2411,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2444,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2467,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2490,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2513,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2536,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2558,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2581,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2604,
+    "w": 236,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2627,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 95,
+    "y": 2626,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 51,
+    "y": 2659,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2682,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2704,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2727,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2750,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2773,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2796,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2819,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2841,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2864,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2887,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2910,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2933,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2956,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2979,
+    "w": 241,
+    "h": 17
+   },
+   {
+    "x": 292,
+    "y": 2978,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3015,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3038,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3061,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3084,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3107,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3130,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3152,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3175,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3198,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3221,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3244,
+    "w": 192,
+    "h": 17
+   },
+   {
+    "x": 222,
+    "y": 3243,
+    "w": 19,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3277,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3300,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3322,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3345,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3368,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3391,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 110,
+    "y": 3390,
+    "w": 12,
+    "h": 12
+   },
+   {
+    "x": 123,
+    "y": 3391,
+    "w": 200,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3414,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3437,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3459,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3482,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3505,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3547,
+    "w": 165,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3581,
+    "w": 157,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3630,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3653,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3676,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3699,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3722,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3744,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3767,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3790,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3813,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3836,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3859,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3881,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3904,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3927,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3950,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3973,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 117,
+    "y": 3972,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 126,
+    "y": 3973,
+    "w": 130,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3996,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4018,
+    "w": 222,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4041,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4064,
+    "w": 188,
+    "h": 17
+   },
+   {
+    "x": 218,
+    "y": 4064,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 4106,
+    "w": 152,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 4156,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4178,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4201,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4224,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4247,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4270,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4293,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4316,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4338,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4361,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4384,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4407,
+    "w": 236,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4430,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4466,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 4511,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4534,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4557,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4589,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4612,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4635,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4657,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4680,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4703,
+    "w": 230,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4735,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4758,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4781,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4804,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4835,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4858,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4881,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4904,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4927,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4950,
+    "w": 188,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4972,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4995,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5027,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5050,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5073,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5096,
+    "w": 207,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5118,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5141,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5164,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5187,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5210,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5233,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5256,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5278,
+    "w": 85,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5310,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5333,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5356,
+    "w": 175,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5379,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5402,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5424,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5456,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5479,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5502,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5525,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5548,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5571,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5593,
+    "w": 325,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5625,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5648,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5671,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5694,
+    "w": 125,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5717,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5739,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5771,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5794,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5817,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5840,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5863,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5885,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5908,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5981,
+    "w": 255,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6001,
+    "w": 280,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6020,
+    "w": 283,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6039,
+    "w": 289,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6059,
+    "w": 287,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6078,
+    "w": 274,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6098,
+    "w": 267,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6117,
+    "w": 298,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6136,
+    "w": 298,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6156,
+    "w": 288,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6175,
+    "w": 286,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6195,
+    "w": 279,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6214,
+    "w": 214,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6382,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 6829,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 6883,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6894,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6905,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6916,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 7205,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 7205,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 7205,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 7205,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 7205,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7223,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 7223,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 7223,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 7240,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 7240,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 7240,
+    "w": 91,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 95,
+    "y": 160,
+    "w": 150,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 274,
+    "w": 276,
+    "h": 41
+   },
+   {
+    "x": 91,
+    "y": 317,
+    "w": 178,
+    "h": 41
+   },
+   {
+    "x": 27,
+    "y": 376,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 70,
+    "y": 376,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 83,
+    "y": 376,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 138,
+    "y": 376,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 152,
+    "y": 376,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 184,
+    "y": 376,
+    "w": 149,
+    "h": 17
+   },
+   {
+    "x": 156,
+    "y": 399,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 48,
+    "y": 575,
+    "w": 119,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 608,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 631,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 654,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 677,
+    "w": 182,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 915,
+    "w": 257,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 964,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 987,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1010,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1033,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1056,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1078,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1101,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1124,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1147,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1170,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1193,
+    "w": 244,
+    "h": 17
+   },
+   {
+    "x": 274,
+    "y": 1191,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 1225,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1248,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1271,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1294,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1317,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1340,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1363,
+    "w": 299,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1385,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1408,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1431,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1454,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1477,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1500,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1522,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1564,
+    "w": 244,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1614,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1637,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1660,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1682,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1705,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1728,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1751,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1774,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1797,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 1795,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 244,
+    "y": 1797,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1819,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1842,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1865,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1888,
+    "w": 152,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 1930,
+    "w": 283,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 1963,
+    "w": 184,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 2013,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2036,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2059,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2082,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2104,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2127,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2150,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2173,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2196,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2219,
+    "w": 165,
+    "h": 17
+   },
+   {
+    "x": 195,
+    "y": 2217,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 2251,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2274,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2297,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2320,
+    "w": 262,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2343,
+    "w": 281,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2366,
+    "w": 286,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2389,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 2411,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2444,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2467,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2490,
+    "w": 214,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2513,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2536,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2558,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2581,
+    "w": 276,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2604,
+    "w": 236,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2627,
+    "w": 48,
+    "h": 17
+   },
+   {
+    "x": 99,
+    "y": 2625,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 51,
+    "y": 2659,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2682,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2704,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2727,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2750,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2773,
+    "w": 217,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2796,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2819,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2842,
+    "w": 227,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2864,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2887,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2910,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2933,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2956,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 2979,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 296,
+    "y": 2977,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3020,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3043,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3066,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3089,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3112,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3135,
+    "w": 289,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3158,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3180,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3203,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3226,
+    "w": 297,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3249,
+    "w": 196,
+    "h": 17
+   },
+   {
+    "x": 226,
+    "y": 3247,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 3282,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3305,
+    "w": 226,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3327,
+    "w": 294,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3350,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3373,
+    "w": 268,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3396,
+    "w": 84,
+    "h": 17
+   },
+   {
+    "x": 114,
+    "y": 3394,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 121,
+    "y": 3396,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3419,
+    "w": 257,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3442,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3464,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3487,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3510,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3552,
+    "w": 165,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3586,
+    "w": 157,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 3635,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3658,
+    "w": 250,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3681,
+    "w": 280,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3704,
+    "w": 288,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3727,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3749,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3772,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3795,
+    "w": 282,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3818,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3841,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3864,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3886,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3909,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3932,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3955,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 3978,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 122,
+    "y": 3976,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 128,
+    "y": 3978,
+    "w": 130,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4001,
+    "w": 261,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4024,
+    "w": 222,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4046,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4069,
+    "w": 192,
+    "h": 17
+   },
+   {
+    "x": 222,
+    "y": 4068,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 30,
+    "y": 4111,
+    "w": 152,
+    "h": 31
+   },
+   {
+    "x": 30,
+    "y": 4161,
+    "w": 219,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4184,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4206,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4229,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4252,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4275,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4298,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4321,
+    "w": 291,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4343,
+    "w": 279,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4366,
+    "w": 292,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4389,
+    "w": 295,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4412,
+    "w": 236,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4435,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 4471,
+    "w": 129,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 4516,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4539,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4562,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4594,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4617,
+    "w": 256,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4640,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4663,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4685,
+    "w": 169,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4708,
+    "w": 230,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4740,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4763,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4786,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4809,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4840,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4863,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4886,
+    "w": 267,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4909,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4932,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4955,
+    "w": 188,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 4977,
+    "w": 273,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5000,
+    "w": 99,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5032,
+    "w": 263,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5055,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5078,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5101,
+    "w": 207,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5124,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5146,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5169,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5192,
+    "w": 269,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5215,
+    "w": 274,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5238,
+    "w": 166,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5261,
+    "w": 205,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5283,
+    "w": 85,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5315,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5338,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5361,
+    "w": 175,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5384,
+    "w": 260,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5407,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5430,
+    "w": 303,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5461,
+    "w": 255,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5484,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5507,
+    "w": 239,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5530,
+    "w": 232,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5553,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5576,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5598,
+    "w": 320,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5630,
+    "w": 265,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5653,
+    "w": 266,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5676,
+    "w": 252,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5699,
+    "w": 125,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5722,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5744,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5776,
+    "w": 270,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5799,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5822,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5845,
+    "w": 240,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5868,
+    "w": 233,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5891,
+    "w": 254,
+    "h": 17
+   },
+   {
+    "x": 51,
+    "y": 5913,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 5986,
+    "w": 255,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6006,
+    "w": 280,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6025,
+    "w": 283,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6044,
+    "w": 289,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6064,
+    "w": 287,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6083,
+    "w": 274,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6103,
+    "w": 267,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6122,
+    "w": 298,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6141,
+    "w": 298,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6161,
+    "w": 288,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6180,
+    "w": 286,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6200,
+    "w": 279,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6219,
+    "w": 214,
+    "h": 15
+   },
+   {
+    "x": 30,
+    "y": 6388,
+    "w": 179,
+    "h": 31
+   },
+   {
+    "x": 145,
+    "y": 6834,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 30,
+    "y": 6888,
+    "w": 288,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6899,
+    "w": 294,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6910,
+    "w": 286,
+    "h": 11
+   },
+   {
+    "x": 30,
+    "y": 6921,
+    "w": 225,
+    "h": 11
+   },
+   {
+    "x": 66,
+    "y": 7211,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 149,
+    "y": 7211,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 159,
+    "y": 7211,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 225,
+    "y": 7211,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 234,
+    "y": 7211,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7228,
+    "w": 235,
+    "h": 14
+   },
+   {
+    "x": 259,
+    "y": 7228,
+    "w": 71,
+    "h": 14
+   },
+   {
+    "x": 329,
+    "y": 7228,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 92,
+    "y": 7245,
+    "w": 75,
+    "h": 14
+   },
+   {
+    "x": 167,
+    "y": 7245,
+    "w": 10,
+    "h": 14
+   },
+   {
+    "x": 177,
+    "y": 7245,
+    "w": 91,
+    "h": 14
+   },
+   {
+    "x": 235,
+    "y": 13,
+    "w": 105,
+    "h": 16
+   },
+   {
+    "x": 277,
+    "y": 943,
+    "w": 46,
+    "h": 16
+   },
+   {
+    "x": 286,
+    "y": 959,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 8,
+    "w": 59,
+    "h": 22
+   }
+  ]
+ }
+}

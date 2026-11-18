@@ -1,0 +1,1623 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-17T16:23:19.529Z",
+  "tol": 4,
+  "n": 5,
+  "width": 1440,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/",
+  "at": "2026-11-17T16:23:04.353Z",
+  "docH": 4690
+ },
+ "eds": {
+  "url": "http://localhost:8791/index-proposed.html",
+  "at": "2026-11-17T16:23:19.397Z",
+  "docH": 4690
+ },
+ "results": [
+  {
+   "sel": "#process-section .each-step=.process__step",
+   "family": "process-step",
+   "required": true,
+   "originMatches": 3,
+   "edsMatches": 3,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:1",
+       "role": "text",
+       "text": "1",
+       "edsText": "1",
+       "byPosition": false,
+       "origin": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:discovery",
+       "role": "text",
+       "text": "discovery",
+       "edsText": "discovery",
+       "byPosition": false,
+       "origin": {
+        "x": 175,
+        "y": 152,
+        "w": 77,
+        "h": 17
+       },
+       "eds": {
+        "x": 175,
+        "y": 152,
+        "w": 77,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:during our initial consultation, we take",
+       "role": "text",
+       "text": "during our initial consultation, we take the time to learn a",
+       "edsText": "during our initial consultation, we take the time to learn a",
+       "byPosition": false,
+       "origin": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 69
+       },
+       "eds": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 80,
+       "y": 1357,
+       "w": 427,
+       "h": 281
+      },
+      "eds": {
+       "x": 80,
+       "y": 1357,
+       "w": 427,
+       "h": 281
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:2",
+       "role": "text",
+       "text": "2",
+       "edsText": "2",
+       "byPosition": false,
+       "origin": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:strategy",
+       "role": "text",
+       "text": "strategy",
+       "edsText": "strategy",
+       "byPosition": false,
+       "origin": {
+        "x": 181,
+        "y": 152,
+        "w": 64,
+        "h": 17
+       },
+       "eds": {
+        "x": 181,
+        "y": 152,
+        "w": 64,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:next, we’ll help you identify solutions ",
+       "role": "text",
+       "text": "next, we’ll help you identify solutions and determine what i",
+       "edsText": "next, we’ll help you identify solutions and determine what i",
+       "byPosition": false,
+       "origin": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 91
+       },
+       "eds": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 507,
+       "y": 1357,
+       "w": 427,
+       "h": 304
+      },
+      "eds": {
+       "x": 507,
+       "y": 1357,
+       "w": 427,
+       "h": 304
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.container.no-side-padding > div.col-xs-12.col-sm-12 > div.each-step.col-xs-12"
+     },
+     "eds": {
+      "path": "div.process__inner > div.process__steps > div.process__step"
+     },
+     "rows": [
+      {
+       "key": "text:3",
+       "role": "text",
+       "text": "3",
+       "edsText": "3",
+       "byPosition": false,
+       "origin": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 163,
+        "y": 25,
+        "w": 100,
+        "h": 100,
+        "sel": "div.process__num",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "48/69/700",
+        "eds": "48/69/700"
+       }
+      },
+      {
+       "key": "text:support",
+       "role": "text",
+       "text": "support",
+       "edsText": "support",
+       "byPosition": false,
+       "origin": {
+        "x": 183,
+        "y": 152,
+        "w": 61,
+        "h": 17
+       },
+       "eds": {
+        "x": 183,
+        "y": 152,
+        "w": 61,
+        "h": 17,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/700",
+        "eds": "16/23/700"
+       }
+      },
+      {
+       "key": "text:finally, our ongoing consultative suppor",
+       "role": "text",
+       "text": "finally, our ongoing consultative support and education will",
+       "edsText": "finally, our ongoing consultative support and education will",
+       "byPosition": false,
+       "origin": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 69
+       },
+       "eds": {
+        "x": 63,
+        "y": 183,
+        "w": 301,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 933,
+       "y": 1357,
+       "w": 427,
+       "h": 281
+      },
+      "eds": {
+       "x": 933,
+       "y": 1357,
+       "w": 427,
+       "h": 281
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".alternating-rows-triangle=.feature-row",
+   "family": "feature-row",
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div#interior-content > div.alternating-rows-triangle-wrapper > div.alternating-rows-triangle.border"
+     },
+     "eds": {
+      "path": "main#interior-content > div.feature-row-wrap > section.feature-row.feature-row--img-right"
+     },
+     "rows": [
+      {
+       "key": "image:img.main-img.img-responsive#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 620,
+        "y": 63,
+        "w": 610,
+        "h": 410
+       },
+       "eds": {
+        "x": 620,
+        "y": 63,
+        "w": 610,
+        "h": 410,
+        "sel": "img.feature-row__img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "heading:about omya",
+       "role": "heading",
+       "text": "about omya",
+       "edsText": "about omya",
+       "byPosition": false,
+       "origin": {
+        "x": 187,
+        "y": 117,
+        "w": 397,
+        "h": 43
+       },
+       "eds": {
+        "x": 187,
+        "y": 117,
+        "w": 397,
+        "h": 43,
+        "sel": "h2",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "36/43/700",
+        "eds": "36/43/700"
+       }
+      },
+      {
+       "key": "text:omya is a dynamic, innovative, and custo",
+       "role": "text",
+       "text": "omya is a dynamic, innovative, and customer-focused distribu",
+       "edsText": "omya is a dynamic, innovative, and customer-focused distribu",
+       "byPosition": false,
+       "origin": {
+        "x": 187,
+        "y": 175,
+        "w": 397,
+        "h": 69
+       },
+       "eds": {
+        "x": 187,
+        "y": 175,
+        "w": 397,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:with decades of industry experience and ",
+       "role": "text",
+       "text": "with decades of industry experience and knowledge, we offer ",
+       "edsText": "with decades of industry experience and knowledge, we offer ",
+       "byPosition": false,
+       "origin": {
+        "x": 187,
+        "y": 254,
+        "w": 397,
+        "h": 114
+       },
+       "eds": {
+        "x": 187,
+        "y": 254,
+        "w": 397,
+        "h": 114,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "box:p.button.btn-orange#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 183,
+        "y": 378,
+        "w": 153,
+        "h": 40
+       },
+       "eds": {
+        "x": 183,
+        "y": 378,
+        "w": 153,
+        "h": 40,
+        "sel": "p.btn.btn--blue",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "link:meet our team",
+       "role": "link",
+       "text": "meet our team",
+       "edsText": "meet our team",
+       "byPosition": false,
+       "origin": {
+        "x": 187,
+        "y": 378,
+        "w": 146,
+        "h": 40
+       },
+       "eds": {
+        "x": 187,
+        "y": 378,
+        "w": 146,
+        "h": 40,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/300",
+        "eds": "16/16/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1796,
+       "w": 1410,
+       "h": 535
+      },
+      "eds": {
+       "x": 15,
+       "y": 1796,
+       "w": 1410,
+       "h": 535
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 6,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div#interior-content > div.alternating-rows-triangle-wrapper > div.alternating-rows-triangle.border"
+     },
+     "eds": {
+      "path": "main#interior-content > div.feature-row-wrap > section.feature-row.feature-row--img-left"
+     },
+     "rows": [
+      {
+       "key": "image:img.main-img.img-responsive#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 180,
+        "y": 19,
+        "w": 610,
+        "h": 496
+       },
+       "eds": {
+        "x": 180,
+        "y": 19,
+        "w": 610,
+        "h": 496,
+        "sel": "img.feature-row__img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/20/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "heading:omya’s personal care portfolio",
+       "role": "heading",
+       "text": "omya’s personal care portfolio",
+       "edsText": "omya’s personal care portfolio",
+       "byPosition": false,
+       "origin": {
+        "x": 827,
+        "y": 112,
+        "w": 397,
+        "h": 86
+       },
+       "eds": {
+        "x": 827,
+        "y": 112,
+        "w": 397,
+        "h": 86,
+        "sel": "h2",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "36/43/700",
+        "eds": "36/43/700"
+       }
+      },
+      {
+       "key": "text:omya’s personal care portfolio showcases",
+       "role": "text",
+       "text": "omya’s personal care portfolio showcases a comprehensive ran",
+       "edsText": "omya’s personal care portfolio showcases a comprehensive ran",
+       "byPosition": false,
+       "origin": {
+        "x": 827,
+        "y": 213,
+        "w": 397,
+        "h": 160
+       },
+       "eds": {
+        "x": 827,
+        "y": 213,
+        "w": 397,
+        "h": 160,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "box:p.button.btn-orange#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 823,
+        "y": 383,
+        "w": 342,
+        "h": 40
+       },
+       "eds": {
+        "x": 823,
+        "y": 383,
+        "w": 342,
+        "h": 40,
+        "sel": "p.btn.btn--blue",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "link:download omya’s personal care portfolio",
+       "role": "link",
+       "text": "download omya’s personal care portfolio",
+       "edsText": "download omya’s personal care portfolio",
+       "byPosition": false,
+       "origin": {
+        "x": 827,
+        "y": 383,
+        "w": 335,
+        "h": 40
+       },
+       "eds": {
+        "x": 827,
+        "y": 383,
+        "w": 335,
+        "h": 40,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/300",
+        "eds": "16/16/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 2351,
+       "w": 1410,
+       "h": 535
+      },
+      "eds": {
+       "x": 15,
+       "y": 2351,
+       "w": 1410,
+       "h": 535
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 5,
+      "within": 5,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".footer-menu > li=.footer-menu > li",
+   "family": "footer-menu-column",
+   "required": true,
+   "originMatches": 5,
+   "edsMatches": 5,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-lg-9.col-md-12 > ul#menu-footer-menu > li#menu-item-1163"
+     },
+     "eds": {
+      "path": "div.site-footer__nav > ul.footer-menu > li"
+     },
+     "rows": [
+      {
+       "key": "link:our approach",
+       "role": "link",
+       "text": "our approach",
+       "edsText": "our approach",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 38
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 38,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/18/300",
+        "eds": "18/18/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 423,
+       "y": 4415,
+       "w": 111,
+       "h": 161
+      },
+      "eds": {
+       "x": 423,
+       "y": 4415,
+       "w": 111,
+       "h": 161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col-lg-9.col-md-12 > ul#menu-footer-menu > li#menu-item-68351"
+     },
+     "eds": {
+      "path": "div.site-footer__nav > ul.footer-menu > li"
+     },
+     "rows": [
+      {
+       "key": "link:our products",
+       "role": "link",
+       "text": "our products",
+       "edsText": "our products",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 38
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 38,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/18/300",
+        "eds": "18/18/300"
+       }
+      },
+      {
+       "key": "link:our formulations",
+       "role": "link",
+       "text": "our formulations",
+       "edsText": "our formulations",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 46,
+        "w": 116,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 46,
+        "w": 116,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 642,
+       "y": 4415,
+       "w": 116,
+       "h": 161
+      },
+      "eds": {
+       "x": 642,
+       "y": 4415,
+       "w": 116,
+       "h": 161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.col-lg-9.col-md-12 > ul#menu-footer-menu > li#menu-item-1165"
+     },
+     "eds": {
+      "path": "div.site-footer__nav > ul.footer-menu > li"
+     },
+     "rows": [
+      {
+       "key": "link:about",
+       "role": "link",
+       "text": "about",
+       "edsText": "about",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 38
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 38,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/18/300",
+        "eds": "18/18/300"
+       }
+      },
+      {
+       "key": "link:our difference",
+       "role": "link",
+       "text": "our difference",
+       "edsText": "our difference",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 46,
+        "w": 118,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 46,
+        "w": 118,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      },
+      {
+       "key": "link:our team",
+       "role": "link",
+       "text": "our team",
+       "edsText": "our team",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 69,
+        "w": 118,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 69,
+        "w": 118,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      },
+      {
+       "key": "link:consumer goods",
+       "role": "link",
+       "text": "consumer goods",
+       "edsText": "consumer goods",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 92,
+        "w": 118,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 92,
+        "w": 118,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      },
+      {
+       "key": "link:global partners",
+       "role": "link",
+       "text": "global partners",
+       "edsText": "global partners",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 115,
+        "w": 118,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 115,
+        "w": 118,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      },
+      {
+       "key": "link:careers",
+       "role": "link",
+       "text": "careers",
+       "edsText": "careers",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 138,
+        "w": 118,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 138,
+        "w": 118,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 867,
+       "y": 4415,
+       "w": 118,
+       "h": 161
+      },
+      "eds": {
+       "x": 867,
+       "y": 4415,
+       "w": 118,
+       "h": 161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 6,
+      "within": 6,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.col-lg-9.col-md-12 > ul#menu-footer-menu > li#menu-item-1169"
+     },
+     "eds": {
+      "path": "div.site-footer__nav > ul.footer-menu > li"
+     },
+     "rows": [
+      {
+       "key": "link:insights",
+       "role": "link",
+       "text": "insights",
+       "edsText": "insights",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 38
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 38,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/18/300",
+        "eds": "18/18/300"
+       }
+      },
+      {
+       "key": "link:blog",
+       "role": "link",
+       "text": "blog",
+       "edsText": "blog",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 46,
+        "w": 62,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 46,
+        "w": 62,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      },
+      {
+       "key": "link:events",
+       "role": "link",
+       "text": "events",
+       "edsText": "events",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 69,
+        "w": 62,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 69,
+        "w": 62,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 1093,
+       "y": 4415,
+       "w": 62,
+       "h": 161
+      },
+      "eds": {
+       "x": 1093,
+       "y": 4415,
+       "w": 62,
+       "h": 161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div.col-lg-9.col-md-12 > ul#menu-footer-menu > li#menu-item-1172"
+     },
+     "eds": {
+      "path": "div.site-footer__nav > ul.footer-menu > li"
+     },
+     "rows": [
+      {
+       "key": "link:contact",
+       "role": "link",
+       "text": "contact",
+       "edsText": "contact",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 38
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 38,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/18/300",
+        "eds": "18/18/300"
+       }
+      },
+      {
+       "key": "link:rep locator",
+       "role": "link",
+       "text": "rep locator",
+       "edsText": "rep locator",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 46,
+        "w": 82,
+        "h": 15
+       },
+       "eds": {
+        "x": 0,
+        "y": 46,
+        "w": 82,
+        "h": 15,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/15/300",
+        "eds": "15/15/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 1263,
+       "y": 4415,
+       "w": 82,
+       "h": 161
+      },
+      "eds": {
+       "x": 1263,
+       "y": 4415,
+       "w": 82,
+       "h": 161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "#insights-section .featured-post=.post-tile",
+   "family": "insights-post-tile",
+   "required": true,
+   "originMatches": 1,
+   "edsMatches": 1,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.band__inner > div.band__posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:may 6, 2026",
+       "role": "text",
+       "text": "may 6, 2026",
+       "edsText": "may 6, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43,
+        "sel": "span.post-tile__date",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:how 2025 reshaped oral health: fluoride ",
+       "role": "text",
+       "text": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "edsText": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 181,
+        "w": 387,
+        "h": 69
+       },
+       "eds": {
+        "x": 20,
+        "y": 181,
+        "w": 387,
+        "h": 69,
+        "sel": "span.post-tile__title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 144,
+       "y": 3913,
+       "w": 427,
+       "h": 270
+      },
+      "eds": {
+       "x": 144,
+       "y": 3913,
+       "w": 427,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 11,
+  "within": 36,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

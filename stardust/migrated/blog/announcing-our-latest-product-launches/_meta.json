@@ -1,0 +1,117 @@
+{
+  "slug": "blog-announcing-our-latest-product-launches",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "article",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article-page"
+  ],
+  "canonShas": {
+    "header": "0bb4b2d15111",
+    "footer": "70ce13c015a3",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Announcing Our Latest Product Launches! - Omya Personal Care",
+    "description": "Omya Kinetik is pleased to announce our latest innovative product launches! These products are a selection of natural actives, emulsifiers, functional, and aesthetic ingredients sourced from our respected global partners. Whether it’s boosting efficacy, extending shelf life, or improving product texture, our functional ingredients are designed to give you a competitive edge. Download Our Product Sheet",
+    "canonical": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Announcing Our Latest Product Launches! - Omya Personal Care",
+    "description": "Omya Kinetik is pleased to announce our latest innovative product launches! These products are a selection of natural actives, emulsifiers, functional, and aesthetic ingredients sourced from our respected global partners. Whether it’s boosting efficacy, extending shelf life, or improving product texture, our functional ingredients are designed to give you a competitive edge. Download Our Product Sheet",
+    "mainEntityOfPage": "https://omyapersonalcare.us/blog/announcing-our-latest-product-launches/"
+  },
+  "migratedAt": "2026-11-17T18:47:12Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "c0144bb54fe6",
+  "sourceProposedSha": "fd849dff4e66",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "page-hero-tall"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-article/probes/encode.py: h1, breadcrumbs, date, every entry-summary node (text, links, images with verbatim alts) carried in order from stardust/current/pages/blog-announcing-our-latest-product-launches.html; no invented copy"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 5,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/onboarding/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/customer-resources/credit-application/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/request-info/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/wp-content/uploads/New-Product-Launches-Sheet-6.12.23.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/careers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/announcing-our-latest-product-launches/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/announcing-our-latest-product-launches/_meta.json",
+  "driverVersion": "1"
+}

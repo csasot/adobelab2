@@ -1,0 +1,85 @@
+/* contact-rep-locator.css — unique archetype (/contact/rep-locator/).
+   Shared modules from canon.css: header-inner (+ --photo), page-hero, page-section,
+   bands, footer. Page-specific:
+   - page-hero padding: this page's title band keeps the plain 50/40 rhythm even
+     though the header carries a photo (source: padding-top-50 / padding-bottom-40).
+   - rep-map: the source's client-side hotspot map (Draw Attention + Leaflet) rebuilt
+     as a static image + inline SVG of the 50 regions; contact-rep-locator.js adds the
+     observed hover tooltip and click-to-show behaviour. Region rep cards are in the
+     DOM (hidden) — no client fetch. */
+.page-rep-locator .site-header--photo .page-hero { padding: 50px 0 40px; }
+
+/* == rep-map == */
+.rep-locator { position: relative; min-height: 1px; padding: 40px 15px; }
+.rep-map { display: flex; flex-direction: column-reverse; width: 100%; margin: 14px 0; }
+.rep-map__panel { position: relative; padding: 14px; color: #fff; background: var(--c-blue, #007ac1); }
+.rep-map__panel > div { overflow: hidden; }
+.rep-map__panel > [hidden] { display: none; }
+.rep-map__panel > .is-in { animation: rep-map-fade 500ms; }
+@keyframes rep-map-fade { from { opacity: 0; } to { opacity: 1; } }
+.page-section .rep-map__title { font-size: 24px; color: #fff; overflow-wrap: break-word; word-break: break-word; }
+.rep-map__media { position: relative; margin: 0 auto; background: #fff; }
+.rep-map__img { display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; }
+.rep-map__layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.rep-map__svg { display: block; position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: visible; }
+.rep-map__area {
+  cursor: pointer; outline: none;
+  fill: #fff; fill-opacity: 0; stroke: #fff; stroke-opacity: 0; stroke-width: 1;
+  stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd;
+  transition: stroke 300ms, stroke-opacity 300ms, fill 300ms, fill-opacity 300ms;
+}
+.rep-map__area:hover, .rep-map__area:focus-visible, .rep-map__area.is-active {
+  fill: #007ac1; fill-opacity: 0.71; stroke: #007ac1; stroke-opacity: 0.01;
+}
+/* hover tooltip (Leaflet sticky tooltip look: follows the pointer, flips side at mid-map) */
+.rep-map__tip {
+  position: absolute; z-index: 2; top: 0; left: 0; padding: 6px; border: 1px solid #007ac1; border-radius: 3px;
+  color: #fff; background: #007ac1; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4); opacity: 0.9;
+  font-size: 14px; line-height: 20px; white-space: nowrap; pointer-events: none; user-select: none;
+}
+.rep-map__tip[hidden] { display: none; }
+.rep-map__tip::before { content: ""; position: absolute; top: 50%; margin-top: -6px; border: 6px solid transparent; pointer-events: none; }
+.rep-map__tip--left::before { right: 0; margin-right: -12px; border-left-color: #007ac1; }
+.rep-map__tip--right::before { left: 0; margin-left: -12px; border-right-color: #007ac1; }
+/* rep cards */
+.rep-card { margin-bottom: 15px; }
+.rep-card p { margin: 0; font-size: 14px; }
+.rep-card .rep-card__photo { margin: 0 0 10px; font-size: 16px; }
+.rep-card__photo img { display: block; max-width: 85%; height: auto; margin: 0 auto; }
+.rep-card__role { color: #f0bd00; }
+.rep-card__name { font-weight: 700; }
+.rep-card__phone a { color: #fff; text-decoration: none; }
+.rep-card__email a { color: #fff; }
+.rep-card__phone a:hover, .rep-card__email a:hover { color: #ebebeb; }
+
+@media (min-width: 600px) {
+  .rep-map { flex-direction: row; }
+  .rep-map__panel { flex: 0 0 34%; max-width: 34%; }
+  .rep-map__media { flex: 0 0 66%; }
+}
+@media (max-width: 767px) {
+  .rep-map__panel { max-width: 80%; margin: 20px auto; }
+}
+@media (min-width: 768px) {
+  /* source: .hotspots-map-container { left: 20px !important } — the drawn map sits 20px right */
+  .rep-map__img, .rep-map__layer { left: 20px; }
+  .rep-map__img { position: relative; }
+}
+@media (min-width: 900px) {
+  .rep-map__panel { flex: 0 0 25%; max-width: 25%; }
+  .rep-map__media { flex: 0 0 75%; }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .page-section .rep-map__title { font-size: 20px; }
+}
+@media (min-width: 1281px) {
+  .rep-map__panel { flex: 0 0 20%; max-width: 20%; }
+  .rep-map__media { flex: 0 0 80%; }
+}
+
+/* Source box model: the content section is a floated bootstrap column (col-lg-12) followed by
+   a .clearfix sibling whose ::after clears it, so that sibling spans the section's full height.
+   Mirrored so the main's two top-level boxes match the source's. */
+.page-rep-locator #interior-content > .page-section { float: left; }
+.u-clear::before, .u-clear::after { content: " "; display: table; }
+.u-clear::after { clear: both; }

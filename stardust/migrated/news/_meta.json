@@ -1,0 +1,70 @@
+{
+  "slug": "news",
+  "type": "listing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "post-list",
+    "video-band"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "ib-list__inner"
+  ],
+  "canonShas": {
+    "header": "931363be1ba7",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "insights-blog",
+      "encoder": "stardust/.work/cluster-listing/probes/listenc.py",
+      "note": "archive shape: the /insights/blog post-list model, cards authored in the block"
+    }
+  ],
+  "metadata": {
+    "title": "News Archive - Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/insights/blog/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "News Archive - Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/insights/blog/"
+  },
+  "migratedAt": "2026-11-17T19:56:38Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "74bc15dbb7a5",
+  "sourceProposedSha": "20585effbaed",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-listing/probes/listenc.py lifts hero photo/h1/crumbs, every captured card (date, title, href; image when the source tile has one), the pager links, the YouTube src + CTA from stardust/current/pages/news.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 8,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-products/sun-care/cosmospheres/",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "news/index.html",
+  "outputPathDefault": null,
+  "sidecar": "news/_meta.json",
+  "driverVersion": "1"
+}

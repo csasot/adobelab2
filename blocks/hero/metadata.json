@@ -1,0 +1,16 @@
+{
+  "variantName": "hero",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Homepage hero: full-bleed photo under a scrim with a translucent black band holding headline, lede and CTA",
+    "layout": "Full-bleed 95vh photo, 50% scrim, black translucent band pinned to the bottom"
+  },
+  "contentPattern": {
+    "structure": "one row (cells in any order): picture, h1 with <em> for the blue word, lede paragraph, bold CTA link"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Homepage hero only.",
+  "reuseGuidance": "Reuse hero for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

@@ -1,0 +1,1106 @@
+{
+  "archetype": "https://omyapersonalcare.us/about/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "hero": ".page-header",
+    "intro": ".page-content",
+    "introh2": ".page-content h2",
+    "introp": ".page-content p",
+    "altrow": ".alternating-rows",
+    "cta": ".formulary-cta"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "hero": {
+        "sel": ".page-header",
+        "count": 0
+      },
+      "intro": {
+        "sel": ".page-content",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 317
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(255, 255, 255, 0.8)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "About Omya Omya is a dynamic and customer-focused distributo"
+      },
+      "introh2": {
+        "sel": ".page-content h2",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 43
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 122, 193)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 36px/43.2px 700",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "About Omya"
+      },
+      "introp": {
+        "sel": ".page-content p",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 843,
+            "h": 69
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 16px/22.8571px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Omya is a dynamic and customer-focused distributor of high-q"
+      },
+      "altrow": {
+        "sel": ".alternating-rows",
+        "count": 3,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 550
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 36px/43.2px 700 rgb(255, 255, 255)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "The Omya Difference We truly believe in the unique power of "
+      },
+      "cta": {
+        "sel": ".formulary-cta",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 419
+          },
+          "backgroundLayers": [
+            "url(…)"
+          ],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 31, 32)",
+          "padding": "100px 0px 100px 0px",
+          "font": "arial 14px/20px 300",
+          "borderRadius": "0px",
+          "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+          "image": null,
+          "listStyle": "disc",
+          "before": "content:\" \" bg:none 0x0"
+        },
+        "clusters": 1,
+        "text": "Do you need inspiration for your formulation? Let our expert"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://omyapersonalcare.us/about/global-partners/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 294}; backgroundLayers [url(…)] → []; backgroundColor rgba(255, 255, 255, 0.8) → rgb(255, 255, 255)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 46}; font arial 16px/22.8571px 400 → arial 16px/22.8571px 300"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 294
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We proudly represent the following suppliers As a leading pr"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We proudly represent the following suppliers"
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 46
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "As a leading provider of natural personal care products, we "
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/about/our-difference/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 618}; backgroundLayers [url(…)] → []; backgroundColor rgba(255, 255, 255, 0.8) → rgb(255, 255, 255)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introh2",
+          "msg": "rect{h 43 → 86}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introp",
+          "msg": "1 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 46}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 618
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya provides innovative raw materials to the personal care "
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 86
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya provides innovative raw materials to the personal care "
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 46
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Our steadfast vision is based on three key components: a cus"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 419
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "100px 0px 100px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": "content:\" \" bg:none 0x0"
+            },
+            "clusters": 1,
+            "text": "Do you need inspiration for your formulation? Let our expert"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/about/our-team/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 296}; backgroundLayers [url(…)] → []; backgroundColor rgba(255, 255, 255, 0.8) → rgb(255, 255, 255); heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → h2 arial 28px/33.6px 700 rgb(0, 122, 193)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introh2",
+          "msg": "rect{h 43 → 101}; font arial 36px/43.2px 700 → arial 28px/33.6px 700"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "introp",
+          "msg": "\".page-content p\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 296
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 28px/33.6px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya offers naturally active and functional ingredients of t"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 101
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 28px/33.6px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya offers naturally active and functional ingredients of t"
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 0
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/customer-resources/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 200}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "introh2",
+          "msg": "\".page-content h2\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introp",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{w 843 → 237, h 69 → 40}; backgroundColor rgba(0, 0, 0, 0) → rgb(0, 122, 193); font arial 16px/22.8571px 400 → arial 16px/22.8571px 300"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 200
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "New Customer Onboarding Credit Application"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 0
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 237,
+                "h": 40
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(0, 122, 193)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "New Customer Onboarding"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/insights/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 438}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introh2",
+          "msg": "rect{h 43 → 86}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introp",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 91}; font arial 16px/22.8571px 400 → arial 16px/22.8571px 300"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "altrow",
+          "msg": "3 → 2 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 438
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We strive to exceed the development and marketing needs of o"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 86
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We strive to exceed the development and marketing needs of o"
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 91
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Omya is known for our unparalleled support team, technical s"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 550
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Blog Go behind-the-scenes with Omya and get the insight you "
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/our-approach/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 362}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → h2 arial 36px/43.2px 400 rgb(0, 122, 193)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introh2",
+          "msg": "font arial 36px/43.2px 700 → arial 36px/43.2px 400"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 114}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "altrow",
+          "msg": "3 → 2 matches"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 362
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 400 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Dynamic & Customer-Focused Our customers have always been ou"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Dynamic & Customer-Focused"
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 114
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Our customers have always been our first priority. With deca"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 550
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Innovative Ingredients We are a nationwide distributor of in"
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 419
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "100px 0px 100px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": "content:\" \" bg:none 0x0"
+            },
+            "clusters": 1,
+            "text": "Do you need inspiration for your formulation? Let our expert"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/privacy-policy/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 7196}; heading h2 arial 36px/43.2px 700 rgb(0, 122, 193) → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "introh2",
+          "msg": "\".page-content h2\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introp",
+          "msg": "1 → 74 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "introp",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 23}; font arial 16px/22.8571px 400 → arial 16px/22.8571px 700"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 7196
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Privacy Statement Your privacy is essential to Omya AG (“Omy"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 0
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 74,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 23
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Privacy Statement"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://omyapersonalcare.us/terms-of-use/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "intro",
+          "msg": "rect{h 317 → 1953}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introh2",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "introp",
+          "msg": "1 → 10 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "introp",
+          "msg": "rect{h 69 → 46}; font arial 16px/22.8571px 400 → arial 16px/22.8571px 300"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "altrow",
+          "msg": "\".alternating-rows\" matches 3 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".formulary-cta\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "hero": {
+            "sel": ".page-header",
+            "count": 0
+          },
+          "intro": {
+            "sel": ".page-content",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 1953
+              },
+              "backgroundLayers": [
+                "url(…)"
+              ],
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 14px/20px 300",
+              "borderRadius": "0px",
+              "heading": "h2 arial 36px/43.2px 700 rgb(0, 122, 193)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Acceptance of Terms of Use and Amendments. Each time you use"
+          },
+          "introh2": {
+            "sel": ".page-content h2",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 43
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(0, 122, 193)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 36px/43.2px 700",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Acceptance of Terms of Use and Amendments."
+          },
+          "introp": {
+            "sel": ".page-content p",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 843,
+                "h": 46
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 31, 32)",
+              "padding": "0px 0px 0px 0px",
+              "font": "arial 16px/22.8571px 300",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Each time you use or cause access to this web site, you agre"
+          },
+          "altrow": {
+            "sel": ".alternating-rows",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".formulary-cta",
+            "count": 0
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 8,
+    "varying": 8,
+    "probesVarying": [
+      "intro",
+      "introp",
+      "altrow",
+      "cta",
+      "introh2"
+    ]
+  }
+}

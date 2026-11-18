@@ -1,0 +1,13 @@
+{
+ "cache-control": "no-store, no-cache, must-revalidate",
+ "content-security-policy": "default-src 'self'; script-src 'self' https://sdk.privacy-center.org/ https: data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src 'self' https://api.privacy-center.org/ https://www.google-analytics.com/ https://www.google.com/ https://analytics.google.com/; style-src 'self' https: 'unsafe-inline'; font-src 'self' data: https:; img-src 'self' blob: data: https:; frame-src 'self' https: blob: https://www.youtube.com; form-action 'self';",
+ "permissions-policy": "camera=(), microphone=(), geolocation=(), fullscreen=(self), speaker=(self)",
+ "referrer-policy": "no-referrer",
+ "server": "cloudflare",
+ "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+ "x-content-type-options": "nosniff",
+ "x-frame-options": "DENY",
+ "x-pingback": "https://omyapersonalcare.us/xmlrpc.php",
+ "x-powered-by": "PHP/8.3.36, PleskLin",
+ "x-xss-protection": "1; mode=block"
+}

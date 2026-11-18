@@ -1,0 +1,33 @@
+/* striped-table — bootstrap 3 .table + .table-striped as used in the source's article bodies */
+.striped-table {
+  margin-bottom: 20px;
+  overflow-x: auto;
+}
+
+.striped-table table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.striped-table td {
+  padding: 8px;
+  font-size: 14px;
+  line-height: 1.4286;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+.striped-table td p {
+  margin: 0;
+  font-size: inherit;
+}
+
+/* two-column term | description rows: the source's first cell carries width="15%" */
+.striped-table td:first-child:nth-last-child(2) {
+  width: 15%;
+}
+
+.striped-table tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}

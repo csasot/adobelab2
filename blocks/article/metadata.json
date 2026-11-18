@@ -1,0 +1,21 @@
+{
+  "variantName": "article",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Date / meta line of a single blog post, event or news item; also lays out the following default-content article body as a centred column",
+    "layout": "Blue bold date with calendar icon above a centred 8/12 article column"
+  },
+  "contentPattern": {
+    "structure": "one row, one cell: the date (e.g. \"January 15, 2024\"); extra paragraphs become further meta lines. Article body is default content after the block in the same section"
+  },
+  "options": [
+    {
+      "class": "event",
+      "label": "Event"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Date line at the top of blog, event and news detail pages; use variant event on event posts.",
+  "reuseGuidance": "Reuse article for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

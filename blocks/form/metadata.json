@@ -1,0 +1,33 @@
+{
+  "variantName": "form",
+  "baseBlock": "form",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Page-content form with split field rows, reCAPTCHA slot, centred skewed submit and disclaimer",
+    "layout": "Square 40px fields, split rows, centred skewed submit button"
+  },
+  "contentPattern": {
+    "structure": "one row per form line; each cell is one field whose text is its label (2-3 cells = split row); a cell with a list is a select; textarea/email/tel/file inferred from labels"
+  },
+  "options": [
+    {
+      "class": "no-captcha",
+      "label": "No captcha"
+    },
+    {
+      "class": "blocked",
+      "label": "Submission blocked"
+    },
+    {
+      "class": "payment",
+      "label": "Payment"
+    },
+    {
+      "class": "tight",
+      "label": "Tight"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Contact, careers, sample request, credit application and other form pages.",
+  "reuseGuidance": "Reuse form for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

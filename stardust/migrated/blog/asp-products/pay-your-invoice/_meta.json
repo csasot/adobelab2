@@ -1,0 +1,102 @@
+{
+  "slug": "blog-asp-products-pay-your-invoice",
+  "type": "form",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "form",
+    "page-hero",
+    "article",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "2acf57d630c3",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "contact",
+      "encoder": "stardust/.work/cluster-form/probes/formenc.py",
+      "note": "rendered from the /contact archetype model (cluster-form); fields authored as form-block cells"
+    }
+  ],
+  "metadata": {
+    "title": "Pay Your Invoice - Omya Personal Care",
+    "description": "",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Pay Your Invoice - Omya Personal Care",
+    "description": "",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:23:41Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "ab62a3ac75fe",
+  "sourceProposedSha": "590e699dbea5",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "form payment",
+    "band-pair solo",
+    "page-hero no-photo"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-form/probes/formenc.py lifts every heading/paragraph/link/image of #interior-content, every form field placeholder/option/label, submit + disclaimer, the insights/contact bands and hero h1/crumbs from stardust/current/pages/blog-asp-products-pay-your-invoice.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "behaviour",
+      "source": "Accept Stripe Payments checkout (js.stripe.com)",
+      "target": "Pay Invoice control blocked: notice, no payment taken",
+      "reason": "dynamic-features row 17, D4 payments (mandatory)"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/our-formulations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://omyapersonalcare.us/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "blog/asp-products/pay-your-invoice/index.html",
+  "outputPathDefault": null,
+  "sidecar": "blog/asp-products/pay-your-invoice/_meta.json",
+  "driverVersion": "1"
+}

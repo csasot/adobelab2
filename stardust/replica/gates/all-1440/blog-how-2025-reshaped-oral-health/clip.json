@@ -1,0 +1,36 @@
+{
+ "url": "https://main--12a63657--aemcoder.aem.page/blog/how-2025-reshaped-oral-health",
+ "at": "2026-11-17T20:59:11.200Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 0,
+  "offPage": 0,
+  "textNodes": 208,
+  "controls": 35,
+  "total": 0
+ },
+ "groups": [],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 0,
+   "offPage": 0,
+   "textNodes": 209,
+   "controls": 35,
+   "total": 0
+  }
+ }
+}

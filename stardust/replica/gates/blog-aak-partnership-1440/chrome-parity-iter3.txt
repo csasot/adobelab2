@@ -1,0 +1,9 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://omyapersonalcare.us/blog/aak-partnership/ (live side from cache stardust/replica/gates/blog-aak-partnership-1440/chrome-live.json, probed 2026-11-17T16:31:33.478Z — delete the file to re-probe)
+  build: http://localhost:8791/blog-aak-partnership-proposed.html
+
+■ header: ✓ parity — 14 paired of 14/14 texts, 1/1 icons
+
+■ footer: ✓ parity — 21 paired of 21/21 texts, 2/2 icons
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

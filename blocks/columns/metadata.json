@@ -1,0 +1,21 @@
+{
+  "variantName": "columns",
+  "baseBlock": "columns",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Multi-column layout; split variant is a 5/7 image + stacked download buttons in an article body",
+    "layout": "Side-by-side columns; split is 5/7 image and buttons, stacked below 992px"
+  },
+  "contentPattern": {
+    "structure": "one row, one cell per column"
+  },
+  "options": [
+    {
+      "class": "split",
+      "label": "Split"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Image beside download buttons within article content.",
+  "reuseGuidance": "Reuse columns for the same content pattern on newly migrated pages; add an option class rather than forking for small visual differences."
+}

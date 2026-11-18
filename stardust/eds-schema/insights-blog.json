@@ -1,0 +1,170 @@
+{
+ "source": "http://localhost:3013/stardust/.work/archetype-listing/probes/proto-sections.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "page-hero",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Blog"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "/ /"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Home",
+     "href": "https://omyapersonalcare.us"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Insights",
+     "href": "https://omyapersonalcare.us/insights/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Blog"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "post-list",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "May 6, 2026 How 2025 Reshaped Oral Health: Fluoride Safety Debates and Oral–Systemic Science Guided Consumer Priorities",
+     "href": "https://omyapersonalcare.us/blog/how-2025-reshaped-oral-health/"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "October 29, 2025 Omya Partners with Lipoid Kosmetik to Strengthen U.S. Presence in the Personal Care Market",
+     "href": "https://omyapersonalcare.us/blog/omya-partners-with-lipoid-kosmetik/"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "July 14, 2025 Trend Spotlight: Nutrition x Oral Health",
+     "href": "https://omyapersonalcare.us/blog/nutrition-x-oral-health/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "March 20, 2025 Omya Announces Exclusive US Distribution Partnership with ACTV Biotechnology",
+     "href": "https://omyapersonalcare.us/blog/omya-announces-new-partnership-with-actv-biotechnology/"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "March 19, 2025 Beyond UV Protection: Eco-Friendly & High-Performance Sun Care Solutions",
+     "href": "https://omyapersonalcare.us/blog/eco-friendly-high-performance-sun-care-solutions/"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "February 6, 2025 Fluoride, Hydroxyapatite, and the Fight Against Tooth Decay",
+     "href": "https://omyapersonalcare.us/blog/fluoride-hydroxyapatite-and-the-fight-against-tooth-decay/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "October 7, 2024 Trend Spotlight: Oil Pulling",
+     "href": "https://omyapersonalcare.us/blog/trend-spotlight-oil-pulling/"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "July 30, 2024 The Healthy Bite",
+     "href": "https://omyapersonalcare.us/blog/the-healthy-bite/"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "February 8, 2024 February is National Children’s Dental Health Month",
+     "href": "https://omyapersonalcare.us/blog/february-is-national-childrens-dental-health-month/"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "January 15, 2024 AAK Partnership",
+     "href": "https://omyapersonalcare.us/blog/aak-partnership/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Page 1 of 2"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "1"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "2",
+     "href": "https://omyapersonalcare.us/insights/blog/page/2/"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "»",
+     "href": "https://omyapersonalcare.us/insights/blog/page/2/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.post-tile",
+     "count": 10,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "video-band",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn About Cosmospheres",
+     "href": "https://omyapersonalcare.us/our-products/sun-care/cosmospheres/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ib-video-row__cell",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

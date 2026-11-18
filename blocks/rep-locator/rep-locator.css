@@ -1,0 +1,291 @@
+/* rep-locator — canon.css page-section + contact-rep-locator.css rep-map.
+   page-section: white full-width band, .wrap, 40px rhythm, centred text;
+   rep-locator column: 40px 15px; rep-map: blue panel (intro or a state's rep cards) beside
+   the map image with the SVG state layer on top (panel below the map under 600px). */
+.rep-locator {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  background: #fff;
+}
+
+.rep-locator .rep-locator-wrap {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.rep-locator .rep-locator-inner {
+  position: relative;
+  min-height: 1px;
+  padding: 40px 15px;
+}
+
+.rep-locator .rep-map {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100%;
+  margin: 14px 0;
+}
+
+.rep-locator .rep-map-panel {
+  position: relative;
+  padding: 14px;
+  color: #fff;
+  background: var(--c-blue, #007ac1);
+}
+
+.rep-locator .rep-map-panel > div {
+  overflow: hidden;
+}
+
+.rep-locator .rep-map-panel > [hidden] {
+  display: none;
+}
+
+.rep-locator .rep-map-panel > .is-in {
+  animation: rep-map-fade 500ms;
+}
+
+@keyframes rep-map-fade {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.rep-locator .rep-map-title {
+  margin: 20px 0 15px;
+  font-size: 24px;
+  color: #fff;
+  overflow-wrap: break-word;
+}
+
+.rep-locator .rep-map-media {
+  position: relative;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.rep-locator .rep-map-media picture {
+  display: block;
+}
+
+.rep-locator .rep-map-img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.rep-locator .rep-map-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rep-locator .rep-map-svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.rep-locator .rep-map-area {
+  cursor: pointer;
+  outline: none;
+  fill: #fff;
+  fill-opacity: 0;
+  stroke: #fff;
+  stroke-opacity: 0;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill-rule: evenodd;
+  transition: stroke 300ms, stroke-opacity 300ms, fill 300ms, fill-opacity 300ms;
+}
+
+.rep-locator .rep-map-area:hover,
+.rep-locator .rep-map-area:focus-visible,
+.rep-locator .rep-map-area.is-active {
+  fill: #007ac1;
+  fill-opacity: 0.71;
+  stroke: #007ac1;
+  stroke-opacity: 0.01;
+}
+
+/* hover tooltip (Leaflet sticky tooltip: follows the pointer, flips side at mid-map) */
+.rep-locator .rep-map-tip {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  padding: 6px;
+  border: 1px solid #007ac1;
+  border-radius: 3px;
+  color: #fff;
+  background: #007ac1;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 40%);
+  opacity: 0.9;
+  font-size: 14px;
+  line-height: 20px;
+  white-space: nowrap;
+  pointer-events: none;
+  user-select: none;
+}
+
+.rep-locator .rep-map-tip[hidden] {
+  display: none;
+}
+
+.rep-locator .rep-map-tip::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  margin-top: -6px;
+  border: 6px solid transparent;
+  pointer-events: none;
+}
+
+.rep-locator .rep-map-tip-left::before {
+  right: 0;
+  margin-right: -12px;
+  border-left-color: #007ac1;
+}
+
+.rep-locator .rep-map-tip-right::before {
+  left: 0;
+  margin-left: -12px;
+  border-right-color: #007ac1;
+}
+
+/* rep cards */
+.rep-locator .rep-card {
+  margin-bottom: 15px;
+}
+
+.rep-locator .rep-card p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.rep-locator .rep-card .rep-card-photo {
+  margin: 0 0 10px;
+  font-size: 16px;
+}
+
+.rep-locator .rep-card-photo picture {
+  display: block;
+}
+
+.rep-locator .rep-card-photo img {
+  display: block;
+  max-width: 85%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.rep-locator .rep-card-role {
+  color: #f0bd00;
+}
+
+.rep-locator .rep-card-name {
+  font-weight: 700;
+}
+
+.rep-locator .rep-card-phone a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.rep-locator .rep-card-email a {
+  color: #fff;
+}
+
+.rep-locator .rep-card-phone a:hover,
+.rep-locator .rep-card-email a:hover {
+  color: #ebebeb;
+}
+
+@media (width >= 600px) {
+  .rep-locator .rep-map {
+    flex-direction: row;
+  }
+
+  .rep-locator .rep-map-panel {
+    flex: 0 0 34%;
+    max-width: 34%;
+  }
+
+  .rep-locator .rep-map-media {
+    flex: 0 0 66%;
+  }
+}
+
+@media (width <= 767px) {
+  .rep-locator .rep-map-panel {
+    max-width: 80%;
+    margin: 20px auto;
+  }
+}
+
+@media (width >= 768px) {
+  /* source: .hotspots-map-container { left: 20px !important } — the drawn map sits 20px right */
+  .rep-locator .rep-map-img,
+  .rep-locator .rep-map-layer {
+    left: 20px;
+  }
+
+  .rep-locator .rep-map-img {
+    position: relative;
+  }
+}
+
+@media (width >= 900px) {
+  .rep-locator .rep-map-panel {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  .rep-locator .rep-map-media {
+    flex: 0 0 75%;
+  }
+}
+
+@media (width >= 768px) and (width <= 1200px) {
+  .rep-locator .rep-map-title {
+    font-size: 20px;
+  }
+}
+
+@media (width >= 1281px) {
+  .rep-locator .rep-map-panel {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+
+  .rep-locator .rep-map-media {
+    flex: 0 0 80%;
+  }
+}
+
+/* the authored states list drives the map; visible only while editing */
+.rep-locator .rep-card-states {
+  display: none;
+}
+
+.prosemirror-editor .rep-locator .rep-card-states {
+  display: block;
+  margin: 10px 0 0;
+  padding: 0;
+  font-size: 12px;
+  list-style: none;
+}

@@ -1,0 +1,267 @@
+/* band-pair — canon.css · bands + band-solo + post-tile-half (mobile-first) */
+.band-pair {
+  display: flow-root;
+}
+
+.band-pair .band {
+  position: relative;
+  float: left;
+  width: 100%;
+  min-height: 1px;
+  margin-top: 10px;
+  padding: 50px 15px 30px;
+}
+
+.band-pair .band-insights {
+  background: var(--c-band-grey);
+}
+
+.band-pair .band-contact {
+  background: var(--c-blue);
+}
+
+.band-pair .band-inner {
+  display: flow-root;
+  position: relative;
+  min-height: 1px;
+  padding: 0 15px;
+  text-align: center;
+}
+
+.band-pair .band-title :is(h2, h3) {
+  font-weight: 500;
+  text-align: left;
+}
+
+.band-pair .band-insights .band-title :is(h2, h3) {
+  color: #000;
+}
+
+.band-pair .band-contact .band-title :is(h2, h3) {
+  color: #fff;
+}
+
+.band-pair .band-posts {
+  display: block;
+}
+
+/* == post tile (card-as-link) == */
+.band-pair a.post-tile {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 270px;
+  margin: 20px 0;
+  padding-bottom: 45%;
+  overflow: hidden;
+  border: 5px solid #fff;
+  font-size: 16px;
+  color: #fff;
+  text-align: left;
+  text-decoration: none;
+  transition: var(--t-fast);
+}
+
+.band-pair a.post-tile::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(to bottom, rgb(0 0 0 / 0%) 0%, rgb(0 0 0 / 0%) 21%, rgb(0 0 0 / 80%) 100%);
+}
+
+.band-pair a.post-tile:hover {
+  color: #fff;
+  border-color: var(--c-blue);
+}
+
+.band-pair .post-tile-media,
+.band-pair .post-tile-media picture {
+  position: absolute;
+  inset: 0;
+}
+
+.band-pair .post-tile-media img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.band-pair .post-tile p {
+  margin: 0;
+  font-size: inherit;
+}
+
+.band-pair .post-tile-date p {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  z-index: 1;
+  padding: 10px 15px;
+  background: var(--c-blue-date);
+}
+
+.band-pair .post-tile-title {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  left: 15px;
+  z-index: 1;
+}
+
+.band-pair .post-tile-title .icon {
+  float: right;
+  transition: var(--t-fast);
+}
+
+.band-pair a.post-tile:hover .post-tile-title .icon {
+  color: var(--c-blue);
+}
+
+/* == buttons in the bands are black == */
+.band-pair p.button-wrapper {
+  background: var(--c-ink);
+}
+
+.band-pair p.button-wrapper:hover {
+  background: var(--c-blue-hover);
+}
+
+/* == contact form == */
+.band-pair .contact-form {
+  margin-top: 30px;
+  padding: 0;
+}
+
+.band-pair .contact-form-field {
+  display: block;
+  width: 100%;
+  height: 45px;
+  margin: 0 0 15px;
+  padding: 0 10px;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  font-size: 16px;
+  line-height: var(--lh-body);
+  color: #000;
+  background-color: #fff;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
+}
+
+.band-pair .contact-form-field-area {
+  height: 90px;
+  padding: 10px;
+  overflow: auto;
+  resize: vertical;
+}
+
+.band-pair .contact-form-field::placeholder {
+  color: #444;
+  opacity: 1;
+}
+
+.band-pair .recaptcha-slot {
+  height: 78px;
+}
+
+.band-pair .contact-form-submit {
+  float: none;
+  margin-top: 10px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.band-pair .contact-form-disclaimer {
+  padding-top: 15px;
+}
+
+.band-pair .contact-form-disclaimer p {
+  margin: 10px 0 0;
+  padding: 0;
+  font-size: 10px;
+  line-height: 1.1;
+  color: #fff;
+  text-align: left;
+}
+
+.band-pair .form-message {
+  margin: 0 0 15px;
+  font-size: 14px;
+  color: #fff;
+  text-align: left;
+}
+
+@media (width >= 768px) {
+  .band-pair {
+    display: flex;
+  }
+
+  .band-pair .band {
+    float: none;
+    width: 50%;
+  }
+
+  .band-pair .band-insights {
+    margin-right: 5px;
+  }
+
+  .band-pair .band-contact {
+    margin-left: 5px;
+  }
+
+  .band-pair.solo .band {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .band-pair .band-posts {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .band-pair .band-posts[data-count="2"] a.post-tile {
+    width: 48%;
+    padding-bottom: 25%;
+  }
+
+  .band-pair .band-posts[data-count="3"] a.post-tile {
+    width: 31%;
+    padding-bottom: 20%;
+  }
+
+  .band-pair .contact-form-submit {
+    float: right;
+    margin: 10px 0 0 10px;
+    padding-left: 0;
+  }
+
+  .band-pair .contact-form-submit p.button-wrapper {
+    display: block;
+  }
+
+  .band-pair .contact-form-disclaimer {
+    padding-top: 0;
+  }
+}
+
+@media (width >= 992px) {
+  .band-pair .band-inner {
+    width: calc(100% * 5 / 6);
+    margin-left: calc(100% / 12);
+  }
+}
+
+@media (width >= 1200px) {
+  .band-pair .band-inner {
+    width: calc(100% * 2 / 3);
+    margin-left: calc(100% / 6);
+  }
+}

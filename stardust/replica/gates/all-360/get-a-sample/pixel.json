@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/all-360/get-a-sample/origin.png",
+  "b": "stardust/replica/gates/all-360/get-a-sample/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 1896,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 21601,
+  "pct": 3.16,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/get-a-sample/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 32,
+  "textPixels": 66359,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 11.9
+    },
+    {
+      "y0": 1500,
+      "y1": 1896,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--12a63657--aemcoder.aem.page/get-a-sample"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "insights-events",
+  "type": "listing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "page-hero",
+    "intro",
+    "band-pair"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-section"
+  ],
+  "canonShas": {
+    "header": "1be68ffc87a3",
+    "footer": "a4ea75c36024",
+    "css": "c8ba404ad264"
+  },
+  "deviations": [],
+  "migrationDecisions": [
+    {
+      "kind": "sibling-of-archetype",
+      "archetype": "insights-blog",
+      "encoder": "stardust/.work/cluster-listing/probes/listenc.py",
+      "note": "page shape of the listing template: no post list on the source; composed from the inner-page intro section + band-pair (static/form archetype blocks)"
+    }
+  ],
+  "metadata": {
+    "title": "Upcoming Events | Omya Personal Care",
+    "description": "Keep up to date with all upcoming Omya Personal Care company events and news. Join us at our upcoming events.",
+    "canonical": "https://omyapersonalcare.us/contact/",
+    "lang": "en-US"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Upcoming Events | Omya Personal Care",
+    "description": "Keep up to date with all upcoming Omya Personal Care company events and news. Join us at our upcoming events.",
+    "url": "https://omyapersonalcare.us/contact/"
+  },
+  "migratedAt": "2026-11-17T19:56:38Z",
+  "designMdSha": "57885d7def5d",
+  "designJsonSha": "17901c749f8d",
+  "sourceCurrentSha": "72c765e1a2cf",
+  "sourceProposedSha": "22f1d52bf2c7",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [
+    "intro events"
+  ],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoder stardust/.work/cluster-listing/probes/listenc.py lifts every heading/paragraph/link/image (alt verbatim) of the .page-content column, hero photo/h1/crumbs and the Insights/Contact bands from stardust/current/pages/insights-events.html verbatim; alt-audit 0 invented"
+  },
+  "contentDeviations": [
+    {
+      "kind": "layout",
+      "source": "<hr> rules between event entries",
+      "target": "section style events draws the rules",
+      "reason": "an authored <hr> is a DA section break"
+    },
+    {
+      "kind": "layout",
+      "source": "img-thumbnail frame on the second event image",
+      "target": "plain image",
+      "reason": "per-image classes are not authorable"
+    }
+  ],
+  "assetsBundled": 7,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "insights/events/index.html",
+  "outputPathDefault": null,
+  "sidecar": "insights/events/_meta.json",
+  "driverVersion": "1"
+}

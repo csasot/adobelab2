@@ -1,0 +1,569 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-17T21:54:22.000Z",
+  "tol": 4,
+  "n": 6,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://omyapersonalcare.us/contact/",
+  "at": "2026-11-17T16:53:59.692Z",
+  "docH": 3677
+ },
+ "eds": {
+  "url": "https://main--12a63657--aemcoder.aem.page/contact",
+  "at": "2026-11-17T21:54:21.893Z",
+  "docH": 3677
+ },
+ "results": [
+  {
+   "sel": "#contact-form .form-control:not(.email-confirm)=#contact-form .form__field:not(.form__hp), #contact-form .form-field:not(.form-hp)",
+   "family": null,
+   "required": true,
+   "originMatches": 6,
+   "edsMatches": 6,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.no-side-padding > div.col-xs-12.col-sm-6 > input#fname"
+     },
+     "eds": {
+      "path": "div.form-row.form-row-split > div.form-cell > input.form-field"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 895,
+       "w": 330,
+       "h": 40
+      },
+      "eds": {
+       "x": 15,
+       "y": 895,
+       "w": 330,
+       "h": 40
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col-xs-12.no-side-padding > div.col-xs-12.col-sm-6 > input#lname"
+     },
+     "eds": {
+      "path": "div.form-row.form-row-split > div.form-cell > input.form-field"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 950,
+       "w": 330,
+       "h": 40
+      },
+      "eds": {
+       "x": 15,
+       "y": 950,
+       "w": 330,
+       "h": 40
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div > div.col-xs-12.no-side-padding > input#company"
+     },
+     "eds": {
+      "path": "div.form-row > div.form-cell > input.form-field"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1005,
+       "w": 330,
+       "h": 40
+      },
+      "eds": {
+       "x": 15,
+       "y": 1005,
+       "w": 330,
+       "h": 40
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div > div.col-xs-12.no-side-padding > input#email"
+     },
+     "eds": {
+      "path": "div.form-row > div.form-cell > input.form-field"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1060,
+       "w": 330,
+       "h": 40
+      },
+      "eds": {
+       "x": 15,
+       "y": 1060,
+       "w": 330,
+       "h": 40
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div > div.col-xs-12.no-side-padding > input#phone"
+     },
+     "eds": {
+      "path": "div.form-row > div.form-cell > input.form-field"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1115,
+       "w": 330,
+       "h": 40
+      },
+      "eds": {
+       "x": 15,
+       "y": 1115,
+       "w": 330,
+       "h": 40
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "div > div.col-xs-12.no-side-padding > textarea#message"
+     },
+     "eds": {
+      "path": "div.form-row > div.form-cell > textarea.form-field.form-field-area"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 15,
+       "y": 1170,
+       "w": 330,
+       "h": 90
+      },
+      "eds": {
+       "x": 15,
+       "y": 1170,
+       "w": 330,
+       "h": 90
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "#insights-section .featured-post.post-count-2=.band--insights .post-tile--half, .band-pair.solo .band-insights .post-tile",
+   "family": null,
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.band-inner > div.band-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:may 6, 2026",
+       "role": "text",
+       "text": "may 6, 2026",
+       "edsText": "may 6, 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 118,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:how 2025 reshaped oral health: fluoride ",
+       "role": "text",
+       "text": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "edsText": "how 2025 reshaped oral health: fluoride safety debates and o",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91
+       },
+       "eds": {
+        "x": 20,
+        "y": 159,
+        "w": 260,
+        "h": 91,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2683,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2683,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 2678,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 2678,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col-xs-12.col-md-10 > div.flex-lg.flex-md > a.featured-post.text-left"
+     },
+     "eds": {
+      "path": "div.band-inner > div.band-posts > a.post-tile"
+     },
+     "rows": [
+      {
+       "key": "text:october 29, 2025",
+       "role": "text",
+       "text": "october 29, 2025",
+       "edsText": "october 29, 2025",
+       "byPosition": false,
+       "origin": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43
+       },
+       "eds": {
+        "x": 5,
+        "y": 25,
+        "w": 154,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      },
+      {
+       "key": "text:omya partners with lipoid kosmetik to st",
+       "role": "text",
+       "text": "omya partners with lipoid kosmetik to strengthen u.s. presen",
+       "edsText": "omya partners with lipoid kosmetik to strengthen u.s. presen",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69
+       },
+       "eds": {
+        "x": 20,
+        "y": 181,
+        "w": 260,
+        "h": 69,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/23/300",
+        "eds": "16/23/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2973,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "absolute",
+       "key": "image:picture#1"
+      },
+      {
+       "role": "image",
+       "tag": "img",
+       "sel": "img",
+       "text": "",
+       "boxed": false,
+       "x": 5,
+       "y": 5,
+       "w": 290,
+       "h": 260,
+       "absY": 2973,
+       "hidden": false,
+       "fs": 16,
+       "lh": 23,
+       "fw": "300",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:img#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 30,
+       "y": 2968,
+       "w": 300,
+       "h": 270
+      },
+      "eds": {
+       "x": 30,
+       "y": 2968,
+       "w": 300,
+       "h": 270
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 2,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 8,
+  "within": 4,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

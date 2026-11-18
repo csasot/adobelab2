@@ -1,0 +1,157 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-all.mjs",
+    "writtenAt": "2026-11-17T20:18:53.682Z",
+    "stage": "published",
+    "breakpoint": 360,
+    "threshold": 10,
+    "heightTolerance": 0.05,
+    "clipMax": 0,
+    "unitTol": 4,
+    "criteria": {
+      "pixel": true,
+      "height": true,
+      "clip": true,
+      "content": true
+    },
+    "verdict": "overlap pixel % ≤ 10 AND |Δh| ≤ 5% of origin height AND clipped ≤ 0 (+ documented allowance) AND content MISSING + HIDDEN links/headings = 0",
+    "origin": "https://omyapersonalcare.us",
+    "eds": "https://main--12a63657--aemcoder.aem.page",
+    "edsHostOverride": "https://main--12a63657--aemcoder.aem.page",
+    "only": [
+      "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "blog-trend-spotlight-oil-pulling"
+    ]
+  },
+  "totals": {
+    "pages": 2,
+    "pass": 1,
+    "pixelOnlyPass": 1,
+    "overridePass": 0,
+    "fail": 1,
+    "error": 0,
+    "failPixel": 1,
+    "failHeight": 0,
+    "failClip": 0,
+    "failContent": 0,
+    "failUnits": 0,
+    "fontsNotLoaded": 0,
+    "fontChecksSkipped": 0,
+    "contentNA": 0,
+    "asymmetricOrigins": 0,
+    "degradedTier": 0,
+    "passWithOverrides": 1
+  },
+  "rows": [
+    {
+      "slug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "path": "/blog/omya-announces-new-partnership-with-actv-biotechnology",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 11.3,
+      "textPct": 11.9,
+      "heightDelta": 11,
+      "originH": 3952,
+      "edsH": 3941,
+      "pixelPass": false,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": false,
+      "pass": false,
+      "failing": [
+        "pixel"
+      ],
+      "unwaived": [
+        "pixel"
+      ],
+      "passWithOverride": false,
+      "fontsNotLoaded": [],
+      "fontChecksSkipped": [],
+      "reasons": [
+        "pixel 11.3% > 10%"
+      ],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 6,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "3000-3500:28.1%",
+        "3500-3941:24.3%"
+      ],
+      "error": null
+    },
+    {
+      "slug": "blog-trend-spotlight-oil-pulling",
+      "path": "/blog/trend-spotlight-oil-pulling",
+      "origin": "stitch-live",
+      "originAsymmetric": false,
+      "eds": "stitch-live",
+      "pct": 8.02,
+      "textPct": 12.54,
+      "heightDelta": -5,
+      "originH": 7306,
+      "edsH": 7311,
+      "pixelPass": true,
+      "heightPass": true,
+      "clipped": 0,
+      "clipPass": true,
+      "clipAllowance": 0,
+      "contentPass": true,
+      "contentNA": null,
+      "unitPass": null,
+      "pixelOnlyPass": true,
+      "pass": true,
+      "failing": [],
+      "unwaived": [],
+      "passWithOverride": true,
+      "fontsNotLoaded": [],
+      "fontChecksSkipped": [],
+      "reasons": [],
+      "clipGroups": [],
+      "clipAllowReason": null,
+      "content": {
+        "missing": 0,
+        "hidden": 0,
+        "controlState": 0,
+        "missingButtons": 0,
+        "hiddenButtons": 0,
+        "findings": 6,
+        "variable": []
+      },
+      "units": null,
+      "unitsRequired": false,
+      "unitsError": null,
+      "browser": "chrome",
+      "override": null,
+      "masked": false,
+      "maskedRows": 0,
+      "maskReason": null,
+      "hotBands": [
+        "6500-7000:23.7%",
+        "7000-7306:24.5%"
+      ],
+      "error": null
+    }
+  ]
+}

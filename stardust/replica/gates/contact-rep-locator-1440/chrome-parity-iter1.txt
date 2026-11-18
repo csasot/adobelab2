@@ -1,0 +1,10 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://omyapersonalcare.us/contact/rep-locator/
+  build: http://localhost:8791/contact-rep-locator-proposed.html
+
+■ header: 1 delta(s) — 13 paired of 13/13 texts, 1/1 icons
+  PAIR         "Contact"  color rgb(153, 199, 228) → rgb(255, 255, 255)
+
+■ footer: ✓ parity — 21 paired of 21/21 texts, 2/2 icons
+
+✗ 1 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

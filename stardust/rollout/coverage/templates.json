@@ -1,0 +1,1385 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-17T19:56:55.301Z",
+    "readArtifacts": [
+      "stardust/migrated"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-17T22:31:23.481Z",
+  "templates": [
+    {
+      "id": "about",
+      "representativeSlug": "about",
+      "pages": [
+        "about"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "alt-row",
+        "band-pair",
+        "cta-band",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "about-global-partners",
+      "representativeSlug": "about-global-partners",
+      "pages": [
+        "about-global-partners"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero",
+        "partners"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "about-our-difference",
+      "representativeSlug": "about-our-difference",
+      "pages": [
+        "about-our-difference"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "cta-band",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "about-our-team",
+      "representativeSlug": "about-our-team",
+      "pages": [
+        "about-our-team"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero",
+        "team"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-aak-partnership",
+      "representativeSlug": "blog-aak-partnership",
+      "pages": [
+        "blog-aak-partnership"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-announcing-our-latest-product-launches",
+      "representativeSlug": "blog-announcing-our-latest-product-launches",
+      "pages": [
+        "blog-announcing-our-latest-product-launches"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-asp-products-pay-your-invoice",
+      "representativeSlug": "blog-asp-products-pay-your-invoice",
+      "pages": [
+        "blog-asp-products-pay-your-invoice"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "form",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "representativeSlug": "blog-eco-friendly-high-performance-sun-care-solutions",
+      "pages": [
+        "blog-eco-friendly-high-performance-sun-care-solutions"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "columns",
+        "page-hero",
+        "video-grid"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-february-is-national-childrens-dental-health-month",
+      "representativeSlug": "blog-february-is-national-childrens-dental-health-month",
+      "pages": [
+        "blog-february-is-national-childrens-dental-health-month"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero",
+        "striped-table"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "representativeSlug": "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay",
+      "pages": [
+        "blog-fluoride-hydroxyapatite-and-the-fight-against-tooth-decay"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-how-2025-reshaped-oral-health",
+      "representativeSlug": "blog-how-2025-reshaped-oral-health",
+      "pages": [
+        "blog-how-2025-reshaped-oral-health"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-introducing-our-newest-supply-partner-quimivita",
+      "representativeSlug": "blog-introducing-our-newest-supply-partner-quimivita",
+      "pages": [
+        "blog-introducing-our-newest-supply-partner-quimivita"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-national-toothache-day-february-9th",
+      "representativeSlug": "blog-national-toothache-day-february-9th",
+      "pages": [
+        "blog-national-toothache-day-february-9th"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-nutrition-x-oral-health",
+      "representativeSlug": "blog-nutrition-x-oral-health",
+      "pages": [
+        "blog-nutrition-x-oral-health"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "representativeSlug": "blog-omya-announces-new-partnership-with-actv-biotechnology",
+      "pages": [
+        "blog-omya-announces-new-partnership-with-actv-biotechnology"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-omya-partners-with-lipoid-kosmetik",
+      "representativeSlug": "blog-omya-partners-with-lipoid-kosmetik",
+      "pages": [
+        "blog-omya-partners-with-lipoid-kosmetik"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "representativeSlug": "blog-pacific-blends-and-omya-specialty-materials-partnership",
+      "pages": [
+        "blog-pacific-blends-and-omya-specialty-materials-partnership"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-skinification-of-oral-care",
+      "representativeSlug": "blog-skinification-of-oral-care",
+      "pages": [
+        "blog-skinification-of-oral-care"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-the-healthy-bite",
+      "representativeSlug": "blog-the-healthy-bite",
+      "pages": [
+        "blog-the-healthy-bite"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-trend-spotlight-oil-pulling",
+      "representativeSlug": "blog-trend-spotlight-oil-pulling",
+      "pages": [
+        "blog-trend-spotlight-oil-pulling"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "figure",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-water-conscious-oral-care-solutions",
+      "representativeSlug": "blog-water-conscious-oral-care-solutions",
+      "pages": [
+        "blog-water-conscious-oral-care-solutions"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "blog-welcoming-monica-advani-to-the-omya-team",
+      "representativeSlug": "blog-welcoming-monica-advani-to-the-omya-team",
+      "pages": [
+        "blog-welcoming-monica-advani-to-the-omya-team"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "careers",
+      "representativeSlug": "careers",
+      "pages": [
+        "careers"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "form",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "contact",
+      "representativeSlug": "contact",
+      "pages": [
+        "contact"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "contact-offices",
+        "cta-band",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "contact-rep-locator",
+      "representativeSlug": "contact-rep-locator",
+      "pages": [
+        "contact-rep-locator"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "page-hero",
+        "rep-locator"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "customer-resources",
+      "representativeSlug": "customer-resources",
+      "pages": [
+        "customer-resources"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "customer-resources-credit-application",
+      "representativeSlug": "customer-resources-credit-application",
+      "pages": [
+        "customer-resources-credit-application"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "customer-resources-onboarding",
+      "representativeSlug": "customer-resources-onboarding",
+      "pages": [
+        "customer-resources-onboarding"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "form",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events",
+      "representativeSlug": "events",
+      "pages": [
+        "events"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-2019-sunscreen-symposium",
+      "representativeSlug": "events-2019-sunscreen-symposium",
+      "pages": [
+        "events-2019-sunscreen-symposium"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-3590",
+      "representativeSlug": "events-3590",
+      "pages": [
+        "events-3590"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "representativeSlug": "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month",
+      "pages": [
+        "events-catch-jason-nesta-speaking-at-swscc-sept-educational-month"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-cosmoprof-north-america",
+      "representativeSlug": "events-cosmoprof-north-america",
+      "pages": [
+        "events-cosmoprof-north-america"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-evercare-seminar-la",
+      "representativeSlug": "events-evercare-seminar-la",
+      "pages": [
+        "events-evercare-seminar-la"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "representativeSlug": "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity",
+      "pages": [
+        "events-icmad-kinetik-will-award-a-young-designer-for-their-creativity-and-ingenuity"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "representativeSlug": "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma",
+      "pages": [
+        "events-idea-2019-featuring-an-exhibit-by-kinetik-supplier-res-pharma"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global",
+      "representativeSlug": "events-in-cosmetics-global",
+      "pages": [
+        "events-in-cosmetics-global"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global-2022",
+      "representativeSlug": "events-in-cosmetics-global-2022",
+      "pages": [
+        "events-in-cosmetics-global-2022"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "representativeSlug": "events-in-cosmetics-global-attended-by-kinetik-and-suppliers",
+      "pages": [
+        "events-in-cosmetics-global-attended-by-kinetik-and-suppliers"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-indie-beauty-expo-la",
+      "representativeSlug": "events-indie-beauty-expo-la",
+      "pages": [
+        "events-indie-beauty-expo-la"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-indie-beauty-expo-ny",
+      "representativeSlug": "events-indie-beauty-expo-ny",
+      "pages": [
+        "events-indie-beauty-expo-ny"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "representativeSlug": "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium",
+      "pages": [
+        "events-join-omya-at-the-first-annual-the-healthy-bite-oral-care-symposium"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-join-us-at-a-kinetik-technology-seminar",
+      "representativeSlug": "events-join-us-at-a-kinetik-technology-seminar",
+      "pages": [
+        "events-join-us-at-a-kinetik-technology-seminar"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-kinetik-attends-ca-suppliers-day-2019",
+      "representativeSlug": "events-kinetik-attends-ca-suppliers-day-2019",
+      "pages": [
+        "events-kinetik-attends-ca-suppliers-day-2019"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "representativeSlug": "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable",
+      "pages": [
+        "events-kinetik-is-attending-the-mazur-group-beauty-biz-roundtable"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "representativeSlug": "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium",
+      "pages": [
+        "events-kinetik-joins-twin-cities-chapter-society-of-cosmetic-chemists-to-present-at-the-2019-holistic-cosmetic-symposium"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-makeup-los-angeles",
+      "representativeSlug": "events-makeup-los-angeles",
+      "pages": [
+        "events-makeup-los-angeles"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-midwest-scc-teamworks",
+      "representativeSlug": "events-midwest-scc-teamworks",
+      "pages": [
+        "events-midwest-scc-teamworks"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-naturally-kiawah-symposium",
+      "representativeSlug": "events-naturally-kiawah-symposium",
+      "pages": [
+        "events-naturally-kiawah-symposium"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-ny-suppliers-day-2023",
+      "representativeSlug": "events-ny-suppliers-day-2023",
+      "pages": [
+        "events-ny-suppliers-day-2023"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-nyscc-suppliers-day-2021",
+      "representativeSlug": "events-nyscc-suppliers-day-2021",
+      "pages": [
+        "events-nyscc-suppliers-day-2021"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "representativeSlug": "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance",
+      "pages": [
+        "events-society-of-cosmetic-chemists-ingredion-inc-s-business-scientist-ashraf-hossain-speaks-on-redefining-plant-based-ingredient-performance"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "representativeSlug": "events-suppliers-day-2019-visit-the-kinetik-booth",
+      "pages": [
+        "events-suppliers-day-2019-visit-the-kinetik-booth"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "events-swscc-suppliers-day",
+      "representativeSlug": "events-swscc-suppliers-day",
+      "pages": [
+        "events-swscc-suppliers-day"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "form",
+      "representativeSlug": "get-a-sample",
+      "pages": [
+        "get-a-sample"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "formulary-request",
+      "representativeSlug": "formulary-request",
+      "pages": [
+        "formulary-request"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "form",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "index",
+      "representativeSlug": "index",
+      "pages": [
+        "index"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "feature-row",
+        "hero",
+        "partners",
+        "process",
+        "promo"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "insights",
+      "representativeSlug": "insights",
+      "pages": [
+        "insights"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "alt-row",
+        "band-pair",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "insights-blog",
+      "representativeSlug": "insights-blog",
+      "pages": [
+        "insights-blog"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "insights-events",
+      "representativeSlug": "insights-events",
+      "pages": [
+        "insights-events"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "news",
+      "representativeSlug": "news",
+      "pages": [
+        "news"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "page-hero",
+        "post-list",
+        "video-band"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "news-news-item-1",
+      "representativeSlug": "news-news-item-1",
+      "pages": [
+        "news-news-item-1"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "news-news-item-2",
+      "representativeSlug": "news-news-item-2",
+      "pages": [
+        "news-news-item-2"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "news-news-item-3",
+      "representativeSlug": "news-news-item-3",
+      "pages": [
+        "news-news-item-3"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article",
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "our-approach",
+      "representativeSlug": "our-approach",
+      "pages": [
+        "our-approach"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "alt-row",
+        "band-pair",
+        "cta-band",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "our-formulations",
+      "representativeSlug": "our-formulations",
+      "pages": [
+        "our-formulations"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "cards",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "privacy-policy",
+      "representativeSlug": "privacy-policy",
+      "pages": [
+        "privacy-policy"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero",
+        "table"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "request-info",
+      "representativeSlug": "request-info",
+      "pages": [
+        "request-info"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "form",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "terms-of-use",
+      "representativeSlug": "terms-of-use",
+      "pages": [
+        "terms-of-use"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "intro",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "thank-you",
+      "representativeSlug": "thank-you",
+      "pages": [
+        "thank-you"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "unique",
+      "representativeSlug": "pay-thank-you",
+      "pages": [
+        "pay-thank-you"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "band-pair",
+        "page-hero"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

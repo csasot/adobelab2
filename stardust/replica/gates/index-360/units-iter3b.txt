@@ -1,0 +1,45 @@
+origin: cached index-360-units (2026-11-17T16:23:01.308Z)
+unit-geometry @ 360px, tol 4px — https://omyapersonalcare.us/ vs http://localhost:8791/index-proposed.html
+unit 1 of process-step (required) #process-section .each-step=.process__step: origin 15,1062 330×304 vs served 15,1062 330×304 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "1" | 115,25 100×100 | 115,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "discovery" | 127,152 77×17 | 127,152 77×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "during our initial consultation, we " | 30,183 270×91 | 30,183 270×91 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of process-step (required) #process-section .each-step=.process__step: origin 15,1366 330×304 vs served 15,1366 330×304 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "2" | 115,25 100×100 | 115,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "strategy" | 133,152 64×17 | 133,152 64×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "next, we’ll help you identify soluti" | 30,183 270×91 | 30,183 270×91 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of process-step (required) #process-section .each-step=.process__step: origin 15,1670 330×304 vs served 15,1670 330×304 → Δx 0 Δy 0 Δw 0 Δh 0; 3 elements: 3 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "3" | 115,25 100×100 | 115,25 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| text "support" | 134,152 61×17 | 134,152 61×17 | 0 | 0 | 0 | 0 | ✓ |
+| text "finally, our ongoing consultative su" | 30,183 270×91 | 30,183 270×91 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of feature-row (required) .alternating-rows-triangle=.feature-row: origin 15,2110 330×613 vs served 15,2110 330×613 → Δx 0 Δy 0 Δw 0 Δh 0; 6 elements: 6 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.main-img.img-responsive#1" | 32,22 266×181 | 32,22 266×181 | 0 | 0 | 0 | 0 | ✓ |
+| heading "about omya" | 32,213 266×29 | 32,213 266×29 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya is a dynamic, innovative, and c" | 32,256 266×114 | 32,256 266×114 | 0 | 0 | 0 | 0 | ✓ |
+| text "with decades of industry experience " | 32,381 266×160 | 32,381 266×160 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 28,551 153×40 | 28,551 153×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "meet our team" | 32,551 146×40 | 32,551 146×40 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of feature-row (required) .alternating-rows-triangle=.feature-row: origin 15,2742 330×623 vs served 15,2742 330×623 → Δx 0 Δy 0 Δw 0 Δh 0; 5 elements: 5 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.main-img.img-responsive#1" | 32,22 266×218 | 32,22 266×218 | 0 | 0 | 0 | 0 | ✓ |
+| heading "omya’s personal care portfolio" | 32,250 266×58 | 32,250 266×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "omya’s personal care portfolio showc" | 32,322 266×228 | 32,322 266×228 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:p.button.btn-orange#1" | 28,561 273×40 | 28,561 273×40 | 0 | 0 | 0 | 0 | ✓ |
+| link "download omya’s personal care portfo" | 32,561 266×40 | 32,561 266×40 | 0 | 0 | 0 | 0 | ✓ |
+.footer-menu > li=.footer-menu > li: no visible unit on the origin side (5 / 5 DOM matches)
+unit 1 of insights-post-tile (required) #insights-section .featured-post=.post-tile: origin 30,4220 300×270 vs served 30,4220 300×270 → Δx 0 Δy 0 Δw 0 Δh 0; 2 elements: 2 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "may 6, 2026" | 5,25 118×43 | 5,25 118×43 | 0 | 0 | 0 | 0 | ✓ |
+| text "how 2025 reshaped oral health: fluor" | 20,159 260×91 | 20,159 260×91 | 0 | 0 | 0 | 0 | ✓ |
+Units: 6 compared; elements within 22, off 0, hidden 0, missing 0; 1 selector error(s) → FAIL
+json → stardust/replica/gates/index-360/units-iter3b.json

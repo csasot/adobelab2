@@ -1,0 +1,327 @@
+{
+ "_provenance": {
+  "writtenBy": "replica handoff C-deliver",
+  "writtenAt": "2026-11-17T22:01:46.560Z"
+ },
+ "units": {
+  "foundation": {
+   "status": "done",
+   "kind": "foundation",
+   "templates": [
+    "all"
+   ],
+   "pages": 1,
+   "blocks": 7,
+   "startedAt": "2026-11-17T17:05:29.103Z",
+   "endedAt": "2026-11-17T18:01:22.527Z",
+   "gates": {
+    "360": {
+     "index": "1.54% Δh0"
+    },
+    "1440": {
+     "index": "0.69% Δh0"
+    },
+    "crop": "header 0.00%/footer 0.00% @1440; 0.12%/0.02% @360",
+    "chrome": "clip 0, content MISSING 0; fonts waived (source frutigerbold 404)"
+   },
+   "verdict": "foundation: nav/footer/index live, blocks 7, gate index 1440 0.69% Δh 0 / 360 1.54% Δh 0, crop header 0.00%/footer 0.00% (1440; 360 0.12%/0.02%), clip 0, content MISSING 0",
+   "residuals": [
+    "reCAPTCHA test key rejected by Google → widget loads on first form interaction (D2 open)",
+    "page-hero block left to cluster units (pad top var(--header-h))"
+   ]
+  },
+  "archetype-landing": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "landing"
+   ],
+   "archetype": "index",
+   "pages": 1,
+   "startedAt": "2026-11-17T17:05:29.103Z",
+   "endedAt": "2026-11-17T18:01:35.789Z",
+   "blocks": 6,
+   "gates": {
+    "360": {
+     "index": "1.54% Δh0"
+    },
+    "1440": {
+     "index": "0.69% Δh0"
+    }
+   },
+   "verdict": "landing: pages 1/1 live, blocks 6, gate 1440 0.69% / 360 1.54%, requests 0 (deployed and gated in C0; no siblings)"
+  },
+  "archetype-static": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "static"
+   ],
+   "archetype": "about",
+   "pages": 1,
+   "startedAt": "2026-11-17T18:01:59.171Z",
+   "endedAt": "2026-11-17T18:12:05.861Z",
+   "blocks": 4,
+   "gates": {
+    "360": {
+     "about": "1.48% Δh0"
+    },
+    "1440": {
+     "about": "0.45% Δh0"
+    }
+   },
+   "verdict": "static: pages 1/1 live, blocks 4 (3 new + band-pair reused), gate 1440 0.45% Δh 0 / 360 1.48% Δh 0, clip 0, content MISSING 0, requests 1",
+   "notes": [
+    "invented alts on /about (6) and /index (7) blanked to the source's empty alt and re-published (alt-audit.mjs)"
+   ]
+  },
+  "cluster-static": {
+   "status": "done",
+   "kind": "cluster",
+   "templates": [
+    "static"
+   ],
+   "archetype": "about",
+   "pages": 8,
+   "startedAt": "2026-11-17T18:30:24.801Z",
+   "endedAt": "2026-11-17T19:10:05.024Z",
+   "gates": {
+    "360": "max 6.41%",
+    "1440": "max 6.57%",
+    "fails": 0
+   },
+   "verdict": "8/8 live, blocks team+table+partners grid, 1 fix round, no overrides",
+   "commits": [
+    "64077c2",
+    "a967f56",
+    "59a9a67",
+    "7b20f41"
+   ]
+  },
+  "archetype-form": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "form"
+   ],
+   "archetype": "contact",
+   "pages": 1,
+   "startedAt": "2026-11-17T18:12:15.924Z",
+   "endedAt": "2026-11-17T18:29:09.591Z",
+   "blocks": 5,
+   "gates": {
+    "360": {
+     "contact": "0.41% Δh0"
+    },
+    "1440": {
+     "contact": "0.09% Δh0"
+    }
+   },
+   "verdict": "form: pages 1/1 live, blocks 2 new (form, contact-offices) + 3 reused, gate 1440 0.09% Δh 0 / 360 0.41% Δh 0, clip 0, content MISSING 0 / HIDDEN 0, requests 1"
+  },
+  "cluster-form": {
+   "status": "done",
+   "kind": "cluster",
+   "templates": [
+    "form"
+   ],
+   "archetype": "contact",
+   "pages": 7,
+   "startedAt": "2026-11-17T19:10:14.409Z",
+   "endedAt": "2026-11-17T19:45:02.681Z",
+   "gates": {
+    "360": "max 5.39%",
+    "1440": "max 4.70%",
+    "fails": 0
+   },
+   "verdict": "7/7 live (get-a-sample thin), form block extended with variants, no overrides",
+   "commits": [
+    "012e3a2",
+    "b39c203",
+    "d11d10f",
+    "78facd6",
+    "800e354"
+   ]
+  },
+  "archetype-listing": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "listing"
+   ],
+   "archetype": "insights-blog",
+   "pages": 1,
+   "startedAt": "2026-11-17T18:12:15.924Z",
+   "endedAt": "2026-11-17T18:23:18.123Z",
+   "blocks": 3,
+   "gates": {
+    "360": {
+     "insights-blog": "2.33% Δh0"
+    },
+    "1440": {
+     "insights-blog": "3.31% Δh0"
+    }
+   },
+   "verdict": "listing: pages 1/1 live, blocks 2 new (post-list, video-band) + page-hero reused, gate 1440 3.31% Δh 0 / 360 2.33% Δh 0, clip 0, content MISSING 0, requests 1",
+   "residuals": [
+    "video band: source YouTube frame renders Error 153, ours renders the player (known capture-state residual)"
+   ]
+  },
+  "cluster-listing": {
+   "status": "done",
+   "kind": "cluster",
+   "templates": [
+    "listing"
+   ],
+   "archetype": "insights-blog",
+   "pages": 4,
+   "startedAt": "2026-11-17T19:45:11.050Z",
+   "endedAt": "2026-11-17T20:19:33.636Z",
+   "gates": {
+    "360": "max 4.29%",
+    "1440": "max 5.32%",
+    "fails": 0
+   },
+   "verdict": "4/4 live, cards formulations variant, image-less post-list cards, 1 fix round on our-formulations",
+   "commits": [
+    "18524ca",
+    "d29000b",
+    "3f8acf6",
+    "5e76e3f",
+    "96f3fbd",
+    "4f208d3"
+   ]
+  },
+  "archetype-unique": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "unique"
+   ],
+   "archetype": "contact-rep-locator",
+   "pages": 1,
+   "startedAt": "2026-11-17T18:19:05.904Z",
+   "endedAt": "2026-11-17T18:28:58.000Z",
+   "blocks": 3,
+   "gates": {
+    "360": {
+     "contact-rep-locator": "2.72% Δh0"
+    },
+    "1440": {
+     "contact-rep-locator": "1.09% Δh0"
+    }
+   },
+   "verdict": "unique: pages 1/1 live, blocks 3 (rep-locator new; page-hero, band-pair reused), gate 1440 1.09% Δh 0 / 360 2.72% Δh 0, clip 0, content MISSING 0 / HIDDEN 0, requests 0"
+  },
+  "cluster-unique": {
+   "status": "done",
+   "kind": "cluster",
+   "templates": [
+    "unique"
+   ],
+   "archetype": "contact-rep-locator",
+   "pages": 2,
+   "startedAt": "2026-11-17T19:45:11.050Z",
+   "endedAt": "2026-11-17T19:52:41.952Z",
+   "gates": {
+    "360": "max 2.94%",
+    "1440": "max 0.98%",
+    "fails": 0
+   },
+   "verdict": "2/2 live (pay-thank-you thin), page-hero+band-pair reused, no fix rounds",
+   "commits": [
+    "1dde6d8",
+    "4d26ab8"
+   ]
+  },
+  "archetype-article": {
+   "status": "done",
+   "kind": "archetype",
+   "templates": [
+    "article"
+   ],
+   "archetype": "blog-aak-partnership",
+   "pages": 1,
+   "startedAt": "2026-11-17T18:12:15.924Z",
+   "endedAt": "2026-11-17T18:18:55.042Z",
+   "blocks": 3,
+   "gates": {
+    "360": {
+     "blog-aak-partnership": "3.24% Δh0"
+    },
+    "1440": {
+     "blog-aak-partnership": "0.76% Δh0"
+    }
+   },
+   "verdict": "article: pages 1/1 live, blocks 1 new (article) + 2 reused (page-hero tall, band-pair solo), gate 1440 0.76% Δh 0 / 360 3.24% Δh 0, clip 0, content MISSING 0, requests 0"
+  },
+  "cluster-article": {
+   "status": "done",
+   "kind": "cluster",
+   "templates": [
+    "article"
+   ],
+   "archetype": "blog-aak-partnership",
+   "pages": 44,
+   "startedAt": "2026-11-17T18:30:24.801Z",
+   "endedAt": "2026-11-17T20:32:41.709Z",
+   "gates": {
+    "360": "43/44 pass (1 waiver: blog-fluoride-hydroxyapatite source caption overflow), max passing 9.39%",
+    "1440": "43/44 pass, max passing 8.36%",
+    "fails": 1
+   },
+   "failing": [
+    "blog-eco-friendly-high-performance-sun-care-solutions: 1440 11.32% Δh42, 360 23.53% Δh173 — inline-styled source elements, fix cap reached"
+   ],
+   "followUp": [
+    "re-gate archetype blog-aak-partnership after additive article-block changes",
+    "eco-friendly sun-care page: re-prototype decision before gate-all"
+   ],
+   "verdict": "44/44 live, 43 gated pass; blocks figure, video-grid, striped-table new",
+   "commits": [
+    "df2a8a8",
+    "5a94a60",
+    "617ba72"
+   ],
+   "followUpResolved": [
+    "blog-aak-partnership re-gated on preview: 1440 0.76% Δh0 / 360 3.24% Δh0 PASS",
+    "eco-friendly sun-care re-prototyped as standalone (article-standalone): 1440 0.64% Δh-1 / 360 2.19% Δh0 PASS"
+   ]
+  },
+  "gate-all": {
+   "status": "done",
+   "kind": "final",
+   "templates": [
+    "all"
+   ],
+   "pages": 71,
+   "startedAt": "2026-11-17T20:55:33.275Z",
+   "endedAt": "2026-11-17T21:40:08.637Z",
+   "gates": {
+    "360": "71/71 delivered (69 PASS + 2 overrides: index fonts, fluoride-hydroxyapatite source caption overflow)",
+    "1440": "71/71 delivered (70 PASS + 1 override: index source-side dead frutigerbold face)"
+   },
+   "verdict": "71/71 delivered at both widths on the published origin"
+  },
+  "final": {
+   "status": "done",
+   "kind": "final",
+   "templates": [
+    "all"
+   ],
+   "startedAt": "2026-11-17T21:42:00.000Z",
+   "endedAt": "2026-11-17T22:01:46.560Z",
+   "gates": {
+    "360": "15/15 delivered (14 PASS + index fonts override)",
+    "1440": "15/15 delivered (14 PASS + index fonts override)",
+    "freeze": "check ok, re-frozen after apply (17 files)",
+    "pages": "6 archetypes + 9 pages using the moved section styles"
+   },
+   "verdict": "final: foundation requests applied 7, declined 1 (YouTube auto-embed); re-gate 15/15 at 1440 and 360",
+   "commits": [
+    "8344ebc",
+    "851f80a"
+   ]
+  }
+ }
+}
